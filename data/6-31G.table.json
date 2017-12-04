@@ -3,154 +3,94 @@
     "basisSetDescription": "6-31G",
     "basisSetElements": {
         "1": {
-            "elementComponents": [
-                "6-31G.json"
-            ]
+            "elementEntry": "6-31G.atom.json"
         },
         "2": {
-            "elementComponents": [
-                "6-31G.json"
-            ]
+            "elementEntry": "6-31G.atom.json"
         },
         "3": {
-            "elementComponents": [
-                "6-31G.json"
-            ]
+            "elementEntry": "6-31G.atom.json"
         },
         "4": {
-            "elementComponents": [
-                "6-31G.json"
-            ]
+            "elementEntry": "6-31G.atom.json"
         },
         "5": {
-            "elementComponents": [
-                "6-31G.json"
-            ]
+            "elementEntry": "6-31G.atom.json"
         },
         "6": {
-            "elementComponents": [
-                "6-31G.json"
-            ]
+            "elementEntry": "6-31G.atom.json"
         },
         "7": {
-            "elementComponents": [
-                "6-31G.json"
-            ]
+            "elementEntry": "6-31G.atom.json"
         },
         "8": {
-            "elementComponents": [
-                "6-31G.json"
-            ]
+            "elementEntry": "6-31G.atom.json"
         },
         "9": {
-            "elementComponents": [
-                "6-31G.json"
-            ]
+            "elementEntry": "6-31G.atom.json"
         },
         "10": {
-            "elementComponents": [
-                "6-31G.json"
-            ]
+            "elementEntry": "6-31G.atom.json"
         },
         "11": {
-            "elementComponents": [
-                "6-31G.json"
-            ]
+            "elementEntry": "6-31G.atom.json"
         },
         "12": {
-            "elementComponents": [
-                "6-31G.json"
-            ]
+            "elementEntry": "6-31G.atom.json"
         },
         "13": {
-            "elementComponents": [
-                "6-31G.json"
-            ]
+            "elementEntry": "6-31G.atom.json"
         },
         "14": {
-            "elementComponents": [
-                "6-31G.json"
-            ]
+            "elementEntry": "6-31G.atom.json"
         },
         "15": {
-            "elementComponents": [
-                "6-31G.json"
-            ]
+            "elementEntry": "6-31G.atom.json"
         },
         "16": {
-            "elementComponents": [
-                "6-31G.json"
-            ]
+            "elementEntry": "6-31G.atom.json"
         },
         "17": {
-            "elementComponents": [
-                "6-31G.json"
-            ]
+            "elementEntry": "6-31G.atom.json"
         },
         "18": {
-            "elementComponents": [
-                "6-31G.json"
-            ]
+            "elementEntry": "6-31G.atom.json"
         },
         "19": {
-            "elementComponents": [
-                "6-31G.json"
-            ]
+            "elementEntry": "6-31G.atom.json"
         },
         "20": {
-            "elementComponents": [
-                "6-31G.json"
-            ]
+            "elementEntry": "6-31G.atom.json"
         },
         "21": {
-            "elementComponents": [
-                "6-31G.json"
-            ]
+            "elementEntry": "6-31G.atom.json"
         },
         "22": {
-            "elementComponents": [
-                "6-31G.json"
-            ]
+            "elementEntry": "6-31G.atom.json"
         },
         "23": {
-            "elementComponents": [
-                "6-31G.json"
-            ]
+            "elementEntry": "6-31G.atom.json"
         },
         "24": {
-            "elementComponents": [
-                "6-31G.json"
-            ]
+            "elementEntry": "6-31G.atom.json"
         },
         "25": {
-            "elementComponents": [
-                "6-31G.json"
-            ]
+            "elementEntry": "6-31G.atom.json"
         },
         "26": {
-            "elementComponents": [
-                "6-31G.json"
-            ]
+            "elementEntry": "6-31G.atom.json"
         },
         "27": {
-            "elementComponents": [
-                "6-31G.json"
-            ]
+            "elementEntry": "6-31G.atom.json"
         },
         "28": {
-            "elementComponents": [
-                "6-31G.json"
-            ]
+            "elementEntry": "6-31G.atom.json"
         },
         "29": {
-            "elementComponents": [
-                "6-31G.json"
-            ]
+            "elementEntry": "6-31G.atom.json"
         },
         "30": {
-            "elementComponents": [
-                "6-31G.json"
-            ]
+            "elementEntry": "6-31G.atom.json"
         }
     }
 }

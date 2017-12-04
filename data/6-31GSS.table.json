@@ -1,0 +1,96 @@
+{
+    "basisSetName": "6-31G**",
+    "basisSetDescription": "VDZP    Valence Double Zeta + Polarization on All Atoms",
+    "basisSetElements": {
+        "1": {
+            "elementEntry": "6-31GSS.atom.json"
+        },
+        "2": {
+            "elementEntry": "6-31GSS.atom.json"
+        },
+        "3": {
+            "elementEntry": "6-31GSS.atom.json"
+        },
+        "4": {
+            "elementEntry": "6-31GSS.atom.json"
+        },
+        "5": {
+            "elementEntry": "6-31GSS.atom.json"
+        },
+        "6": {
+            "elementEntry": "6-31GSS.atom.json"
+        },
+        "7": {
+            "elementEntry": "6-31GSS.atom.json"
+        },
+        "8": {
+            "elementEntry": "6-31GSS.atom.json"
+        },
+        "9": {
+            "elementEntry": "6-31GSS.atom.json"
+        },
+        "10": {
+            "elementEntry": "6-31GSS.atom.json"
+        },
+        "11": {
+            "elementEntry": "6-31GSS.atom.json"
+        },
+        "12": {
+            "elementEntry": "6-31GSS.atom.json"
+        },
+        "13": {
+            "elementEntry": "6-31GSS.atom.json"
+        },
+        "14": {
+            "elementEntry": "6-31GSS.atom.json"
+        },
+        "15": {
+            "elementEntry": "6-31GSS.atom.json"
+        },
+        "16": {
+            "elementEntry": "6-31GSS.atom.json"
+        },
+        "17": {
+            "elementEntry": "6-31GSS.atom.json"
+        },
+        "18": {
+            "elementEntry": "6-31GSS.atom.json"
+        },
+        "19": {
+            "elementEntry": "6-31GSS.atom.json"
+        },
+        "20": {
+            "elementEntry": "6-31GSS.atom.json"
+        },
+        "21": {
+            "elementEntry": "6-31GSS.atom.json"
+        },
+        "22": {
+            "elementEntry": "6-31GSS.atom.json"
+        },
+        "23": {
+            "elementEntry": "6-31GSS.atom.json"
+        },
+        "24": {
+            "elementEntry": "6-31GSS.atom.json"
+        },
+        "25": {
+            "elementEntry": "6-31GSS.atom.json"
+        },
+        "26": {
+            "elementEntry": "6-31GSS.atom.json"
+        },
+        "27": {
+            "elementEntry": "6-31GSS.atom.json"
+        },
+        "28": {
+            "elementEntry": "6-31GSS.atom.json"
+        },
+        "29": {
+            "elementEntry": "6-31GSS.atom.json"
+        },
+        "30": {
+            "elementEntry": "6-31GSS.atom.json"
+        }
+    }
+}

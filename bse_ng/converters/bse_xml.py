@@ -11,9 +11,11 @@ ns = { 'default': 'http://purl.oclc.org/NET/EMSL/BSE',
 }
 
 
-def create_json_path(xmlpath, filetype=None):
+def create_json_filename(xmlpath, filetype=None):
     bsdir = os.path.dirname(xmlpath)
     filebase = os.path.basename(xmlpath)
+    # Remove "-AGG"
+    filebase = filebase.replace("-AGG.", ".")
     filename = os.path.splitext(filebase)[0]
 
     if filetype:
@@ -192,7 +194,7 @@ def read_basis_xml_agg(xmlfile):
 
     # Convert these paths to json files instead
     # and read in the basis set data
-    all_json_paths = [ create_json_path(p) for p in all_xml_paths ]
+    all_json_paths = [ create_json_filename(p) for p in all_xml_paths ]
     all_json_data = [ read_json_basis_file(p) for p in all_json_paths ]
 
     # Find the intersection for all the elements of the basis sets
@@ -213,9 +215,7 @@ def read_basis_xml_agg(xmlfile):
                  }
 
 
-
     # Periodic table basis dictionary
-    # For each element, include only the components where that atom is defined
     elements = { }
     for e in element_union:
         v = []
@@ -223,7 +223,14 @@ def read_basis_xml_agg(xmlfile):
             bs = all_json_data[i]
             if e in bs['basisSetElements'].keys():
                 v.append(p)
-        elements[e] = { 'elementComponents': v }
+
+        # If there is only one entry, use that
+        # otherwise, use the atom file with the same name
+        if len(v) == 1:
+            elements[e] = { 'elementEntry': v[0] }
+        else:
+            atom_basis_path = create_json_filename(xmlfile, 'atom')
+            elements[e] = { 'elementEntry': atom_basis_path }
     
     table_dict = { 'basisSetName': name,
                    'basisSetDescription' : desc,
@@ -236,7 +243,7 @@ def read_basis_xml_agg(xmlfile):
 
 def convert_xml(xmlfile):
     bsdict = read_basis_xml(xmlfile)
-    outfile = create_json_path(xmlfile)
+    outfile = create_json_filename(xmlfile)
     print("New basis file: ", outfile)
     write_json_basis_file(outfile, bsdict)
 
@@ -244,8 +251,8 @@ def convert_xml(xmlfile):
 def convert_xml_agg(xmlfile):
     atom_dict, table_dict = read_basis_xml_agg(xmlfile)
 
-    atom_basis_path = create_json_path(xmlfile, 'atom')
-    table_basis_path = create_json_path(xmlfile, 'table')
+    atom_basis_path = create_json_filename(xmlfile, 'atom')
+    table_basis_path = create_json_filename(xmlfile, 'table')
 
     print("Atom basis: ", atom_basis_path)
     print("Table basis: ", table_basis_path)
@@ -256,24 +263,25 @@ def convert_xml_agg(xmlfile):
 
 def create_xml_agg(xmlfile):
     # Create from a simple (non-composed) basis
-    atom_basis_path = create_json_path(xmlfile, 'atom')
-    table_basis_path = create_json_path(xmlfile, 'table')
-    json_file = os.path.basename(create_json_path(xmlfile))
+    atom_basis_path = create_json_filename(xmlfile, 'atom')
+    table_basis_path = create_json_filename(xmlfile, 'table')
+    json_file = os.path.basename(create_json_filename(xmlfile))
 
     bs = read_basis_xml(xmlfile)
 
     elementlist = list(bs['basisSetElements'].keys())
 
-    elements = { k: { 'elementComponents': [json_file] } for k in elementlist }
+    elements_atom = { k: { 'elementComponents': [json_file] } for k in elementlist }
+    elements_table = { k: { 'elementEntry': atom_basis_path } for k in elementlist }
 
     atom_dict = { 'basisSetName': bs['basisSetName'],
                   'basisSetDescription': bs['basisSetDescription'],
-                  'basisSetElements': elements
+                  'basisSetElements': elements_atom
                  }
 
     table_dict = { 'basisSetName': bs['basisSetName'],
                    'basisSetDescription': bs['basisSetDescription'],
-                   'basisSetElements': elements
+                   'basisSetElements': elements_table
                   }
 
     write_json_basis_file(atom_basis_path, atom_dict)
