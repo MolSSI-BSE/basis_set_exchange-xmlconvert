@@ -137,7 +137,7 @@ def read_basis_xml(xmlfile):
         el = cs.attrib['elementType']
         el = bse.lut.element_data_from_sym(el)[0]
 
-        elementData = { 'elementReferences': ['TODO: {}'.format(bsdict['basisSetName'])] }
+        elementData = { 'elementReferences': ['TODO'] }
         shells = []
 
         for c in cs.findall('default:contraction', ns):

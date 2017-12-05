@@ -5,53 +5,87 @@ import json
 import os
 import sys
 
-from bse_ng.basis_io import *
-from bse_ng.lut import *
+import bse
 
 
 parser = argparse.ArgumentParser()
-parser.add_argument('file1', help='First JSON file', type=str)
-parser.add_argument('file2', help='Second JSON file', type=str)
+parser.add_argument('source_file', help='File to use as the master', type=str)
 args = parser.parse_args()
 
-bs1 = read_json_basis_file(args.file1)
-bs2 = read_json_basis_file(args.file2)
+
+# All json files in the current directory
+all_json_files = [ x for x in os.listdir() if os.path.splitext(x)[1] == ".json" ]
+
+all_component_files = []
+all_atom_files = []
+
+for x in all_json_files:
+    if x == args.source_file:
+        continue
+    elif x.endswith('.atom.json'):
+        all_atom_files.append(x)
+    elif not x.endswith('.table.json'):
+        all_component_files.append(x)
 
 
-# Compare the elements
-bse1 = bs1['basisSetElements']
-bse2 = bs2['basisSetElements']
+# Read in the source file
+sdata = bse.read_json_by_path(args.source_file)
+sname = os.path.splitext(args.source_file)[0]
+selements = sdata['basisSetElements']
 
-elkeys1 = set(bse1.keys())
-elkeys2 = (bse2.keys())
+# Map of what we replaced
+replaced_map = {}
 
-common = elkeys1.intersection(elkeys2)
-bse1_only = elkeys1 - elkeys2
-bse2_only = elkeys2 - elkeys1
+for cfile in all_component_files:
+    print("Comparing with {}".format(cfile))
+    changed = False
 
-same_elements = set()
-different_elements = set()
+    cdata = bse.read_json_by_path(cfile)
+    cname = os.path.splitext(cfile)[0]
+    celements = cdata['basisSetElements']
 
-for z in common:
-    el1 = bse1[z]
-    el2 = bse2[z]
+    # Compare by element
+    for k in selements.keys():
+        if k not in celements:
+            continue
 
-    if el1 == el2:
-        same_elements.add(z)
-    else:
-        different_elements.add(z)
+        sel = selements[k]
+        cel = celements[k]
 
+        if sel == cel:
+            changed = True
 
-print("SUMMARY:")
-print("             First basis: {} : {}".format(args.file1, bs1['basisSetName']))
-print("            Second basis: {} : {}".format(args.file2, bs2['basisSetName']))
-print("           Same in both files: ", same_elements)
-print(" In both files, but different: ", different_elements)
-print("          Only in first basis: ", bse1_only)
-print("         Only in second basis: ", bse2_only)
+            # Add to the map
+            if not cname in replaced_map:
+                replaced_map[cname] = []
 
-# First basis set, minus the elements that exist in the second?
+            replaced_map[cname].append(k)
 
-
+            # Remove from the candidate
+            celements.pop(k)
 
 
+    # rewrite the candidate file        
+    if changed:
+        os.rename(cfile, cfile + ".old")
+        bse.write_basis_file(cfile, cdata)
+
+# print out the replacement map
+for k,v in replaced_map.items():
+    print("Replaced in {}: {}".format(k, v))
+
+# Now go through all the atom basis files, doing replacements
+for afile in all_atom_files:
+    adata = bse.read_json_by_path(afile)
+
+    changed = False
+
+    for k,v in adata['basisSetElements'].items():
+        for i,c in enumerate(v['elementComponents']):
+            if c in replaced_map and k in replaced_map[c]:
+                v['elementComponents'][i] = sname
+                changed = True
+
+    if changed:
+        os.rename(afile, afile + ".old")
+        bse.write_basis_file(afile, adata)
