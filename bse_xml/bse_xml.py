@@ -1,10 +1,10 @@
 import os
 import xml.etree.ElementTree as ET
 
-from bse_ng import lut, read_json_basis_file, write_json_basis_file
+import bse
 
 ns = { 'default': 'http://purl.oclc.org/NET/EMSL/BSE',
-       'cml': 'http://www.xml-cml.org/schema/cml2/core', 
+       'cml': 'http://www.xml-cml.org/schema/cml2/core',
        'dc': 'http://purl.org/dc/elements/1.1/',
        'dct': 'http://purl.org/dc/terms/',
        'xlink': 'http://www.w3.org/1999/xlink'
@@ -64,7 +64,7 @@ def get_links(node, tag):
 
 
 def get_single_link(node, tag):
-    return get_links(node, tag)[0] 
+    return get_links(node, tag)[0]
 
 
 def text_to_cont(txt):
@@ -86,7 +86,7 @@ def text_to_cont(txt):
 
     coefficients = list(map(list, zip(*coefficients)))
     return (exponents,coefficients)
-    
+
 
 def get_ref_file(reffile):
     root = ET.parse(reffile).getroot()
@@ -115,7 +115,6 @@ def read_basis_xml(xmlfile):
     bstype = get_single_text(root, 'default:basisSetType')
     role, region = determine_role_region(bstype)
     bsdict['basisSetRole'] = role
-    bsdict['basisSetRegion'] = region
 
     harmonicType = get_single_text(root, 'default:harmonicType')
     functionType = 'gto'
@@ -136,23 +135,24 @@ def read_basis_xml(xmlfile):
     for cs in all_contractions:
         # Read in element and convert to Z number
         el = cs.attrib['elementType']
-        el = lut.element_data_from_sym(el)[0]
+        el = bse.lut.element_data_from_sym(el)[0]
 
-        elementData = { 'elementReference': 'TODO' }
+        elementData = { 'elementReferences': ['TODO: {}'.format(bsdict['basisSetName'])] }
         shells = []
 
         for c in cs.findall('default:contraction', ns):
             # read in angular momentum, convert to integers
             am = c.attrib['shell']
-            am = lut.amchar_to_int(am)
+            am = bse.lut.amchar_to_int(am)
 
             mat = get_single_node(c, 'cml:matrix')
             nprim = int(mat.attrib['rows'])
             ngen = int(mat.attrib['columns']) - 1  # Columns includes exponents
-            exponents,coefficients = text_to_cont(mat.text) 
+            exponents,coefficients = text_to_cont(mat.text)
 
             shell = { 'shellFunctionType': functionType,
                       'shellHarmonicType': harmonicType,
+                      'shellRegion' : region,
                       'shellAngularMomentum': am,
                       'shellExponents' : exponents,
                       'shellCoefficients' : coefficients
@@ -185,29 +185,33 @@ def read_basis_xml_agg(xmlfile):
 
     # Read in the components
     # These are the paths to the xml files
-    all_paths = []
-    all_paths.append(get_single_link(root, 'default:primaryBasisSetLink'))
-    all_paths.extend(get_links(root, 'default:basisSetLink'))
+    xml_files = []
+    xml_files.append(get_single_link(root, 'default:primaryBasisSetLink'))
+    xml_files.extend(get_links(root, 'default:basisSetLink'))
 
     # Convert to full paths
-    all_xml_paths = [ os.path.join(bsdir, p) for p in all_paths ]
+    xml_paths = [ os.path.join(bsdir, p) for p in xml_files ]
 
     # Convert these paths to json files instead
     # and read in the basis set data
-    all_json_paths = [ create_json_filename(p) for p in all_xml_paths ]
-    all_json_data = [ read_json_basis_file(p) for p in all_json_paths ]
+    json_files = [ create_json_filename(p) for p in xml_files ]
+    json_paths = [ os.path.join(bsdir, p) for p in json_files ]
+    json_data = [ bse.read_json_by_path(p) for p in json_paths ]
+
+    # Also, just the names of the basis sets
+    # (use json_files rather than xml_files since we removed "-AGG")
+    basis_names = [ os.path.splitext(p)[0] for p in json_files ]
 
     # Find the intersection for all the elements of the basis sets
-    all_elements = []
-    for x in all_json_data:
-        all_elements.append(list(x['basisSetElements'].keys()))
+    elements = []
+    for x in json_data:
+        elements.append(list(x['basisSetElements'].keys()))
 
-    element_intersection = set(all_elements[0]).intersection(*all_elements[1:])
-    element_union = set(all_elements[0]).union(*all_elements[1:])
-    all_json_files = [ os.path.basename(p) for p in all_json_paths ]
+    element_intersection = set(elements[0]).intersection(*elements[1:])
+    element_union = set(elements[0]).union(*elements[1:])
 
     # "Atom" basis dictionary
-    elements = { k: { 'elementComponents': all_json_files } for k in element_intersection }
+    elements = { k: { 'elementComponents': basis_names } for k in element_intersection }
 
     atom_dict = { 'basisSetName': name,
                   'basisSetDescription' : desc,
@@ -219,24 +223,25 @@ def read_basis_xml_agg(xmlfile):
     elements = { }
     for e in element_union:
         v = []
-        for i,p in enumerate(all_json_files):
-            bs = all_json_data[i]
+        for i,p in enumerate(json_files):
+            bs = json_data[i]
             if e in bs['basisSetElements'].keys():
-                v.append(p)
+                v.append(basis_names[i])
 
         # If there is only one entry, use that
         # otherwise, use the atom file with the same name
         if len(v) == 1:
             elements[e] = { 'elementEntry': v[0] }
         else:
-            atom_basis_path = create_json_filename(xmlfile, 'atom')
-            elements[e] = { 'elementEntry': atom_basis_path }
-    
+            atom_basis_file = create_json_filename(xmlfile) # leave off .atom
+            atom_basis_name = os.path.splitext(atom_basis_file)[0]
+            elements[e] = { 'elementEntry': atom_basis_name }
+
     table_dict = { 'basisSetName': name,
                    'basisSetDescription' : desc,
                    'basisSetElements': elements
                  }
-        
+
     return (atom_dict, table_dict)
 
 
@@ -245,7 +250,7 @@ def convert_xml(xmlfile):
     bsdict = read_basis_xml(xmlfile)
     outfile = create_json_filename(xmlfile)
     print("New basis file: ", outfile)
-    write_json_basis_file(outfile, bsdict)
+    bse.write_basis_file(outfile, bsdict)
 
 
 def convert_xml_agg(xmlfile):
@@ -256,33 +261,39 @@ def convert_xml_agg(xmlfile):
 
     print("Atom basis: ", atom_basis_path)
     print("Table basis: ", table_basis_path)
-    
-    write_json_basis_file(atom_basis_path, atom_dict)
-    write_json_basis_file(table_basis_path, table_dict)
+
+    bse.write_basis_file(atom_basis_path, atom_dict)
+    bse.write_basis_file(table_basis_path, table_dict)
 
 
 def create_xml_agg(xmlfile):
     # Create from a simple (non-composed) basis
-    atom_basis_path = create_json_filename(xmlfile, 'atom')
-    table_basis_path = create_json_filename(xmlfile, 'table')
+    atom_basis_file = create_json_filename(xmlfile, 'atom')
+    table_basis_file = create_json_filename(xmlfile, 'table')
+
+    # Needed for the table entry
+    atom_basis_name = create_json_filename(xmlfile)
+    atom_basis_name = os.path.splitext(atom_basis_name)[0]
+
     json_file = os.path.basename(create_json_filename(xmlfile))
+    json_name = os.path.splitext(json_file)[0]
 
     bs = read_basis_xml(xmlfile)
 
     elementlist = list(bs['basisSetElements'].keys())
 
-    elements_atom = { k: { 'elementComponents': [json_file] } for k in elementlist }
-    elements_table = { k: { 'elementEntry': atom_basis_path } for k in elementlist }
+    atom_elements = { k: { 'elementComponents': [json_name] } for k in elementlist }
+    table_elements = { k: { 'elementEntry': atom_basis_name } for k in elementlist }
 
     atom_dict = { 'basisSetName': bs['basisSetName'],
                   'basisSetDescription': bs['basisSetDescription'],
-                  'basisSetElements': elements_atom
+                  'basisSetElements': atom_elements
                  }
 
     table_dict = { 'basisSetName': bs['basisSetName'],
                    'basisSetDescription': bs['basisSetDescription'],
-                   'basisSetElements': elements_table
+                   'basisSetElements': table_elements
                   }
 
-    write_json_basis_file(atom_basis_path, atom_dict)
-    write_json_basis_file(table_basis_path, table_dict)
+    bse.write_basis_file(atom_basis_file, atom_dict)
+    bse.write_basis_file(table_basis_file, table_dict)
