@@ -234,7 +234,7 @@ def read_basis_xml_agg(xmlfile):
         if len(v) == 1:
             elements[e] = { 'elementEntry': v[0] }
         else:
-            atom_basis_file = create_json_filename(xmlfile) # leave off .atom
+            atom_basis_file = create_json_filename(xmlfile) # leave off .element
             atom_basis_name = os.path.splitext(atom_basis_file)[0]
             elements[e] = { 'elementEntry': atom_basis_name }
 
@@ -257,7 +257,7 @@ def convert_xml(xmlfile):
 def convert_xml_agg(xmlfile):
     atom_dict, table_dict = read_basis_xml_agg(xmlfile)
 
-    atom_basis_path = create_json_filename(xmlfile, 'atom')
+    atom_basis_path = create_json_filename(xmlfile, 'element')
     table_basis_path = create_json_filename(xmlfile, 'table')
 
     print("Atom basis: ", atom_basis_path)
@@ -269,7 +269,7 @@ def convert_xml_agg(xmlfile):
 
 def create_xml_agg(xmlfile):
     # Create from a simple (non-composed) basis
-    atom_basis_file = create_json_filename(xmlfile, 'atom')
+    atom_basis_file = create_json_filename(xmlfile, 'element')
     table_basis_file = create_json_filename(xmlfile, 'table')
 
     # Needed for the table entry
