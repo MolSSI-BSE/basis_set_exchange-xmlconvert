@@ -1,25 +1,29 @@
-export PATH=${PATH}:../bse-xml
-set -eu
 
-convert_xml.py 6-31G.xml
-convert_xml.py 6-31GS.xml
-convert_xml.py 6-31GSS.xml
 
-convert_xml.py 6-311G.xml
-convert_xml.py 6-311GS.xml
-convert_xml.py 6-311GSS.xml
+# Convert all XML files
+# for now, skip ECP and REF
+for F in xml/*xml
+do
+    if [[ $F != *"-REF.xml" && $F != *"-ECP.xml" ]]
+    then
+        echo $F
+        ../convert_xml.py $F
+    fi
+done
 
-convert_xml.py POPLDIFF.xml
 
-convert_xml_agg.py 6-311GSS-AGG.xml
-
-convert_xml_agg.py 6-311PPGSS-AGG.xml
-convert_xml_agg.py 6-31PPGSS-AGG.xml
-convert_xml_agg.py 6-31GSS-AGG.xml
-convert_xml_agg.py 6-31PPG-AGG.xml
-convert_xml_agg.py 6-31PPGSS-AGG.xml
-
-create_simple_agg.py 6-311G.xml
-create_simple_agg.py 6-31G.xml
-
-#remove_duplicate.py 6-31GS.json
+# Create element,table entries for all that are listed
+# in a tmp file
+for F in `cat only-emsl-lib-names.txt`
+do
+    echo $F
+    if [[ $F != *"-ECP.xml" ]]
+    then
+        if [[ $F == *"-AGG.xml" ]]
+        then
+           ../convert_xml_agg.py xml/$F 
+        else
+           ../create_simple_agg.py xml/$F 
+        fi
+    fi
+done

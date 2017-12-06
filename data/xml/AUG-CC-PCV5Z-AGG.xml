@@ -40,7 +40,7 @@ H   2-S    -0.499995    -0.499995    -0.499995     -0.50000
 
 ]]></dc:description>
 
-  <primaryBasisSetLink xlink:type="simple" xlink:href="../contrib/kipeters_new_7/CC-PCV5Z.xml" />
+  <primaryBasisSetLink xlink:type="simple" xlink:href="kipeters_CC-PCV5Z.xml" />
   <basisSetLink xlink:type="simple" xlink:href="AUG-CC-PV5Z.xml" /> 
 
 </basisSet>

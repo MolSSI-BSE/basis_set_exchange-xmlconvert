@@ -120,13 +120,14 @@ def read_basis_xml(xmlfile):
     functionType = 'gto'
 
     # Path to the reference file
-    ref_file = get_single_link(root, 'default:referencesLink')
-    ref_file = os.path.join(bsdir, ref_file)
-    ref_data = get_ref_file(ref_file)
+    if root.findall('default:referencesLink', ns):
+        ref_file = get_single_link(root, 'default:referencesLink')
+        ref_file = os.path.join(bsdir, ref_file)
+        ref_data = get_ref_file(ref_file)
+        bs_ref = get_ref_file(ref_file)
 
     # These will be stored separately
     bs_desc = get_single_text(root, 'dc:description')
-    bs_ref = get_ref_file(ref_file)
 
     # Read in contraction data
     bsdict['basisSetElements'] = {}
