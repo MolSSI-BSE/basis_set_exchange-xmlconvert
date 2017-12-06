@@ -1,0 +1,17 @@
+
+Some files:
+    basis-file-map.txt  Map of *CURRENTLY PUBLISHED* basis set names to files
+
+    onsite.txt     Text of the mapping (taken directly from the JS of the BSE website)
+    published.txt  Similar to onsite.txt, but containing only those marked "published"
+
+    create_map.py Used to split apart the info from onsite.txt and published.txt
+                  and create basis-file-map.txt
+
+    copy_file_and_deps.py Copies an XML file and its dependencies (references, components, etc) to
+                          a destination directory
+
+
+Subdirectories:
+    The emsl-lib and contrib directories contain the raw xml data
+    (taken directly from the EMSL data package)
