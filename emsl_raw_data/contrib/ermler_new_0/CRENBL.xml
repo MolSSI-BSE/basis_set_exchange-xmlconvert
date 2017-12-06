@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<basisset xmlns="http://purl.oclc.org/NET/EMSL/BSE" xmlns:cmcs="http://purl.oclc.org/NET/cmcs/schema/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cml="http://www.xml-cml.org/schema/cml2/core" xmlns:xlink="http://www.w3.org/1999/xlink"><conversion>false</conversion><basisSetType>orbital</basisSetType><dc:format>chemical/x-emsl-gaussian-basisset</dc:format><dc:title>CRENBL</dc:title><harmonicType>spherical</harmonicType><contractionType>segmented</contractionType><referencesLink xlink:type="simple" xlink:href="CRENBL-BS-REF.xml" /><dc:description>Valence basis set and large-core averaged relativistic effective core potential (ECP) published in &amp;quot;Ab Initio Relativistic Effective Core Potentials and Spin-Orbit Operators. VII. Am through Element 118&amp;quot;, C. S. Nash, B. E. Bursten and W. C. Ermler, Journal of Chemical Physics, Vol. 106, pp. 5133-42, 1997.&#xD;
+</dc:description><contractions elementType="Uuo"><dc:description><![CDATA[(6p,6d)]]></dc:description><contraction shell="P"><cml:matrix rows="1" columns="2" dataType="xs:double">4.2348018 1.0000000
+</cml:matrix></contraction><contraction shell="P"><cml:matrix rows="1" columns="2" dataType="xs:double">1.9149393 1.0000000
+</cml:matrix></contraction><contraction shell="P"><cml:matrix rows="1" columns="2" dataType="xs:double">0.9745660 1.0000000
+</cml:matrix></contraction><contraction shell="P"><cml:matrix rows="1" columns="2" dataType="xs:double">0.3250890 1.0000000
+</cml:matrix></contraction><contraction shell="P"><cml:matrix rows="1" columns="2" dataType="xs:double">0.1514189 1.0000000
+</cml:matrix></contraction><contraction shell="P"><cml:matrix rows="1" columns="2" dataType="xs:double">0.0663907 1.0000000
+</cml:matrix></contraction><contraction shell="D"><cml:matrix rows="1" columns="2" dataType="xs:double">7.1866114 1.0000000
+</cml:matrix></contraction><contraction shell="D"><cml:matrix rows="1" columns="2" dataType="xs:double">3.0370662 1.0000000
+</cml:matrix></contraction><contraction shell="D"><cml:matrix rows="1" columns="2" dataType="xs:double">1.4183281 1.0000000
+</cml:matrix></contraction><contraction shell="D"><cml:matrix rows="1" columns="2" dataType="xs:double">0.5967078 1.0000000
+</cml:matrix></contraction><contraction shell="D"><cml:matrix rows="1" columns="2" dataType="xs:double">0.2597307 1.0000000
+</cml:matrix></contraction><contraction shell="D"><cml:matrix rows="1" columns="2" dataType="xs:double">0.1068344 1.0000000
+</cml:matrix></contraction></contractions><effectivePotentialsLink xlink:type="simple" xlink:href="CRENBL-ECP.xml" /></basisset>

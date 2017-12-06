@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<basisset xmlns="http://purl.oclc.org/NET/EMSL/BSE" xmlns:cmcs="http://purl.oclc.org/NET/cmcs/schema/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cml="http://www.xml-cml.org/schema/cml2/core" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <conversion>false</conversion>
+  <basisSetType>orbital</basisSetType>
+  <dc:format>chemical/x-emsl-gaussian-basisset</dc:format>
+  <dc:title>Kaufmann Rydberg</dc:title>
+  <harmonicType>spherical</harmonicType>
+  <contractionType>uncontracted</contractionType>
+  <referencesLink xlink:type="simple" xlink:href="KAUFMANNRYDBERG-BS-REF.xml" />
+  <dc:description>K Kaufmann et al 1989 J. Phys. B: At. Mol. Opt. Phys. 22 2223 doi:10.1088/0953-4075/22/14/007
+Not to be used as an atom-centered basis, but rather to be placed at the center of the molecule/center of charge of the corresponding cation.</dc:description>
+  <contractions elementType="X">
+    <dc:description><![CDATA[(8s,8p,8d)]]></dc:description>
+    <contraction shell="S">
+      <cml:matrix rows="8" columns="9" dataType="xs:double">0.02462393 1.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+0.01125334 0.0 1.0 0.0 0.0 0.0 0.0 0.0 0.0
+0.00585838 0.0 0.0 1.0 0.0 0.0 0.0 0.0 0.0
+0.00334597 0.0 0.0 0.0 1.0 0.0 0.0 0.0 0.0
+0.00204842 0.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0
+0.00132364 0.0 0.0 0.0 0.0 0.0 1.0 0.0 0.0
+0.00089310 0.0 0.0 0.0 0.0 0.0 0.0 1.0 0.0
+0.00062431 0.0 0.0 0.0 0.0 0.0 0.0 0.0 1.0</cml:matrix>
+    </contraction>
+    <contraction shell="P">
+      <cml:matrix rows="8" columns="9" dataType="xs:double">0.042335 1.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+0.019254 0.0 1.0 0.0 0.0 0.0 0.0 0.0 0.0
+0.009988 0.0 0.0 1.0 0.0 0.0 0.0 0.0 0.0
+0.005689 0.0 0.0 0.0 1.0 0.0 0.0 0.0 0.0
+0.003476 0.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0
+0.002242 0.0 0.0 0.0 0.0 0.0 1.0 0.0 0.0
+0.001511 0.0 0.0 0.0 0.0 0.0 0.0 1.0 0.0
+0.001055 0.0 0.0 0.0 0.0 0.0 0.0 0.0 1.0</cml:matrix>
+    </contraction>
+    <contraction shell="D">
+      <cml:matrix rows="8" columns="9" dataType="xs:double">0.060540 1.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+0.027446 0.0 1.0 0.0 0.0 0.0 0.0 0.0 0.0
+0.014204 0.0 0.0 1.0 0.0 0.0 0.0 0.0 0.0
+0.008077 0.0 0.0 0.0 1.0 0.0 0.0 0.0 0.0
+0.004927 0.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0
+0.003175 0.0 0.0 0.0 0.0 0.0 1.0 0.0 0.0
+0.002137 0.0 0.0 0.0 0.0 0.0 0.0 1.0 0.0
+0.001491 0.0 0.0 0.0 0.0 0.0 0.0 0.0 1.0</cml:matrix>
+    </contraction>
+  </contractions>
+</basisset>
+

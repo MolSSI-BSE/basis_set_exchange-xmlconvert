@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<basisset xmlns="http://purl.oclc.org/NET/EMSL/BSE" xmlns:cmcs="http://purl.oclc.org/NET/cmcs/schema/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cml="http://www.xml-cml.org/schema/cml2/core" xmlns:xlink="http://www.w3.org/1999/xlink"><conversion>false</conversion><basisSetType>orbital</basisSetType><dc:format>chemical/x-emsl-gaussian-basisset</dc:format><dc:title>s3-21G*</dc:title><harmonicType>spherical</harmonicType><contractionType>segmented</contractionType><referencesLink xlink:type="simple" xlink:href="S3-21GS-BS-REF.xml" /><dc:description>ROHF Energies (Hartree) obtained with NWChem 5.1.1&#xD;
+with spin-state corrected GTO basis sets&#xD;
+(J. Phys. Chem. A 2010, accepted)&#xD;
+TM  Mult.          s3-21G         s3-21G*          s6-31G         s6-31G*&#xD;
+-------------------------------------------------------------------------&#xD;
+Sc      2   -755.99884685   -755.99968438   -759.67445917   -759.67531786&#xD;
+Ti      3   -844.25255814   -844.25405117   -848.32959200   -848.33111274&#xD;
+V       4   -938.28181821   -938.28326723   -942.79104554   -942.79250157&#xD;
+Cr      7  -1038.25914696  -1038.25914696  -1043.24093913  -1043.24093913&#xD;
+Mn      6  -1144.27246876  -1144.27246876  -1149.73053993  -1149.73053993&#xD;
+Fe      5  -1256.31026813  -1256.31085480  -1262.28223237  -1262.28283076&#xD;
+Co      4  -1374.69726270  -1374.69826450  -1381.21938856  -1381.22037313&#xD;
+Ni      3  -1499.54240263  -1499.54329441  -1506.63920379  -1506.64007794&#xD;
+Cu      2  -1630.96103628  -1630.96103628  -1638.69058812  -1638.69058812&#xD;
+Zn      1  -1769.18181774  -1769.18181774  -1777.52928776  -1777.52928776&#xD;
+ROHF Energies (Hartree) obtained with NWChem 5.1.1&#xD;
+obtained with standard 3-21G and 6-31G basis sets,&#xD;
+and improved 6-31G (m6-31G, m6-31G*) basis sets&#xD;
+(J. Chem. Phys. 2003, 118, 7775-7782)&#xD;
+NB.1&#xD;
+----&#xD;
+Note that these energies are for Sc, Fe, Co, Ni&#xD;
+slightly different than those reported in the m6-31G&#xD;
+paper. This is most likely due to NWChem vs. ATOMSCF,&#xD;
+i.e. &amp;quot;molecular&amp;quot; states vs. atomic states.&#xD;
+NB.2&#xD;
+----&#xD;
+The m6-31G and m6-31G* basis for Zn are the same as&#xD;
+the 6-31G and 6-31G* basis sets.&#xD;
+TM  Mult.           3-21G           6-31G          m6-31G         m6-31G*&#xD;
+-------------------------------------------------------------------------&#xD;
+Sc      2   -755.99067090   -759.67267302   -759.67052728   -759.67139168&#xD;
+Ti      3   -844.23497995   -848.32587230   -848.32134476   -848.32288320&#xD;
+V       4   (scf-problem)   -942.78475873   -942.77672794   -942.77819993&#xD;
+Cr      7  -1038.10544122  -1043.18938211  -1043.19074961  -1043.19074961&#xD;
+Mn      6  -1144.20880757  -1149.71736143  -1149.69959310  -1149.69959310&#xD;
+Fe      5  -1255.98581258  -1262.26252079  -1262.23834427  -1262.23892387&#xD;
+Co      4  -1374.57809481  -1381.19427261  -1381.16141142  -1381.16240339&#xD;
+Ni      3  -1499.38964967  -1506.60691913  -1506.56417903  -1506.56505548&#xD;
+Cu      2  -1630.49122041  -1638.56369151  -1638.52621111  -1638.52621111&#xD;
+Zn      1  -1768.94847013  -1777.48109826               -               -&#xD;
+</dc:description><contractions elementType="Fe"><dc:description><![CDATA[(12s,9p,4d,1f) -> [5s,4p,3d,1f]]]></dc:description><contraction shell="S"><cml:matrix rows="3" columns="2" dataType="xs:double">3299.184000000 0.06358600
+499.088600000 0.37620200
+109.161400000 0.68178500
+</cml:matrix></contraction><contraction shell="SP"><cml:matrix rows="3" columns="3" dataType="xs:double">143.465200000 -0.11055200 0.14110100
+31.168580000 0.09684700 0.56038700
+9.483612000 0.95879700 0.46764400
+</cml:matrix></contraction><contraction shell="SP"><cml:matrix rows="3" columns="3" dataType="xs:double">9.464565000 -0.29205600 0.02376200
+3.100373000 0.33752400 0.46891100
+0.986493000 0.85194200 0.60831100
+</cml:matrix></contraction><contraction shell="SP"><cml:matrix rows="2" columns="3" dataType="xs:double">0.853412000 -0.22794400 -0.00042600
+0.098812000 1.08828700 1.00012400
+</cml:matrix></contraction><contraction shell="SP"><cml:matrix rows="1" columns="3" dataType="xs:double">0.036442000 1.00000000 1.00000000
+</cml:matrix></contraction><contraction shell="D"><cml:matrix rows="2" columns="2" dataType="xs:double">12.354490000 0.26861100
+3.055605000 0.84927200
+</cml:matrix></contraction><contraction shell="D"><cml:matrix rows="1" columns="2" dataType="xs:double">0.738591000 1.00000000
+</cml:matrix></contraction><contraction shell="D"><cml:matrix rows="1" columns="2" dataType="xs:double">0.180600000 1.00000000
+</cml:matrix></contraction><contraction shell="F"><cml:matrix rows="1" columns="2" dataType="xs:double">0.800000000 1.00000000
+</cml:matrix></contraction></contractions></basisset>

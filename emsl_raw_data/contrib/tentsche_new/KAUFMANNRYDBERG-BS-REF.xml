@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<references xmlns="http://purl.oclc.org/NET/EMSL/BSE">
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">chemical/x-bse-reference</dc:format>
+  <reference xmlns="">
+    <elements>X</elements>
+    <author>K Kaufmann, W Baumeister and M Jungen</author>
+    <title>Universal Gaussian basis sets for an optimum representation of Rydberg and continuum wavefunctions</title>
+    <journal>J. Phys. B: At. Mol. Opt. Phys.</journal>
+    <year>1989</year>
+    <volume>22</volume>
+    <pages>2223</pages>
+    <notes />
+  </reference>
+</references>
+

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<references xmlns="http://purl.oclc.org/NET/EMSL/BSE">
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">chemical/x-bse-reference</dc:format>
+  <reference xmlns="">
+    <elements>H He Li Be B C N O F Ne Na Mg Al Si P S Cl Ar</elements>
+    <author />
+    <title />
+    <journal />
+    <year />
+    <volume />
+    <pages />
+    <notes />
+  </reference>
+</references>
+

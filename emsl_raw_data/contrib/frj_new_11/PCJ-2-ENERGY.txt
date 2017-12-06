@@ -1,0 +1,14 @@
+ -0.499878191497     A.U. after    5 cycles                                                                                         
+  -2.86097069129     A.U. after    5 cycles                                                                                         
+  -24.5300998892     A.U. after    9 cycles                                                                                         
+  -37.6902151829     A.U. after    8 cycles                                                                                         
+  -54.4002688443     A.U. after    7 cycles                                                                                         
+  -74.8129266935     A.U. after   10 cycles                                                                                         
+  -99.4087561765     A.U. after    9 cycles                                                                                         
+  -128.537970741     A.U. after    7 cycles                                                                                         
+  -241.870265671     A.U. after   10 cycles                                                                                         
+  -288.849007484     A.U. after   10 cycles                                                                                         
+  -340.710201916     A.U. after    8 cycles                                                                                         
+  -397.502907073     A.U. after   10 cycles                                                                                         
+  -459.479579069     A.U. after   10 cycles                                                                                         
+  -526.807430592     A.U. after    7 cycles                                                                                         

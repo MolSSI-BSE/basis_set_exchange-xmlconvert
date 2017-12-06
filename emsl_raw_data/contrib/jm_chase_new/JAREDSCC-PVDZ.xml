@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<basisset xmlns="http://purl.oclc.org/NET/EMSL/BSE" xmlns:cmcs="http://purl.oclc.org/NET/cmcs/schema/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cml="http://www.xml-cml.org/schema/cml2/core" xmlns:xlink="http://www.w3.org/1999/xlink"><conversion>false</conversion><basisSetType>orbital</basisSetType><dc:format>chemical/x-emsl-gaussian-basisset</dc:format><dc:title>jareds cc-pVDZ</dc:title><harmonicType>spherical</harmonicType><contractionType>segmented</contractionType><referencesLink xlink:type="simple" xlink:href="JAREDSCC-PVDZ-BS-REF.xml" /><dc:description>jareds description&#xD;
+</dc:description><contractions elementType="C"><dc:description><![CDATA[(9s,4p,1d) -> [3s,2p,1d]]]></dc:description><contraction shell="S"><cml:matrix rows="9" columns="4" dataType="xs:double">6665.0000000 0.0006920 -0.0001460 0.0000000
+1000.0000000 0.0053290 -0.0011540 0.0000000
+228.0000000 0.0270770 -0.0057250 0.0000000
+64.7100000 0.1017180 -0.0233120 0.0000000
+21.0600000 0.2747400 -0.0639550 0.0000000
+7.4950000 0.4485640 -0.1499810 0.0000000
+2.7970000 0.2850740 -0.1272620 0.0000000
+0.5215000 0.0152040 0.5445290 0.0000000
+0.1596000 0.0000000 0.0000000 1.0000000
+</cml:matrix></contraction><contraction shell="P"><cml:matrix rows="4" columns="3" dataType="xs:double">9.4390000 0.0381090 0.0000000
+2.0020000 0.2094800 0.0000000
+0.5456000 0.5085570 0.0000000
+0.1517000 0.0000000 1.0000000
+</cml:matrix></contraction><contraction shell="D"><cml:matrix rows="1" columns="2" dataType="xs:double">0.5500000 1.0000000
+</cml:matrix></contraction></contractions></basisset>

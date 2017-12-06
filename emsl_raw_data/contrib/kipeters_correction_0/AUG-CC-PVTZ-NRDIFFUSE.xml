@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<basisset xmlns="http://purl.oclc.org/NET/EMSL/BSE" xmlns:cmcs="http://purl.oclc.org/NET/cmcs/schema/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cml="http://www.xml-cml.org/schema/cml2/core" xmlns:xlink="http://www.w3.org/1999/xlink"><conversion>false</conversion><basisSetType>orbital</basisSetType><dc:format>chemical/x-emsl-gaussian-basisset</dc:format><dc:title>aug-cc-pVTZ-NR Diffuse</dc:title><harmonicType>spherical</harmonicType><contractionType>segmented</contractionType><referencesLink xlink:type="simple" xlink:href="AUG-CC-PVTZ-NRDIFFUSE-BS-REF.xml" /><dc:description>The diffuse functions for Sc in the aug-cc-pVTZ basis set were incorrect.&#xD;
+</dc:description><contractions elementType="Sc"><dc:description><![CDATA[(1s,1p,1d,1f,1g)]]></dc:description><contraction shell="S"><cml:matrix rows="1" columns="2" dataType="xs:double">1.110000E-02 1.000000E+00
+</cml:matrix></contraction><contraction shell="P"><cml:matrix rows="1" columns="2" dataType="xs:double">1.066000E-02 1.000000E+00
+</cml:matrix></contraction><contraction shell="D"><cml:matrix rows="1" columns="2" dataType="xs:double">1.244000E-02 1.000000E+00
+</cml:matrix></contraction><contraction shell="F"><cml:matrix rows="1" columns="2" dataType="xs:double">4.063000E-02 1.000000E+00
+</cml:matrix></contraction><contraction shell="G"><cml:matrix rows="1" columns="2" dataType="xs:double">9.473000E-02 1.000000E+00
+</cml:matrix></contraction></contractions></basisset>

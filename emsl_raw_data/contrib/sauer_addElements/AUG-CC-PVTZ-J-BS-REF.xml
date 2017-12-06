@@ -1,0 +1,12 @@
+<reference xmlns="http://purl.oclc.org/NET/EMSL/BSE"><format xmlns="http://purl.org/dc/elements/1.1/">chemical/x-cmcs-reference</format><author /><title /><journal /><year /><volume /><pages /><notes>Elements                             References
+--------                             ----------
+B: T. H. Dunning, Jr., Gaussian basis sets for use in correlated molecular calculations. I. The atoms boron through neon and hydrogen, J. Chem. Phys. 90, 1007 (1989).
+B, Al: T. Enevoldsen, J. Oddershede and S. P. A. Sauer, Correlated calculations of indirect nuclear spin-spin coupling constants using second order polarization propagator approximations : SOPPA and SOPPA(CCSD), Theor. Chem. Acc. 100, 275-284 (1998).
+Al, Si, P, Cl: D. E. Woon and T. H. Dunning, Jr., Gaussian basis sets for use in correlated molecular calculations. III. The atoms aluminum through argon, J. Chem. Phys. 98, 1358 (1993).
+Si: S. P. A. Sauer and W. T. Raynes, Unexpected Differential Sensitivity of Nuclear Spin-Spin Coupling Constants to Bond Stretching in BH4-, NH4+ and SiH4, J. Chem. Phys. 113, 3121-3129 (2000).
+Si: S. P. A. Sauer, W. T. Raynes and R. A. Nicholls, Nuclear spin-spin coupling in silane and its isotopomers: ab initio calculation and experimental investigation, J. Chem. Phys. 115, 5994-6006 (2001).
+B, Al, Si, P, Cl: P. F. Provasi and S. P. A. Sauer, J. Chem. Theory Comput. submitted.
+Se: Y. Yu. Rusakov, L. B. Krivdin, S. P. A. Sauer, E. P. Levanova and G. G. Levkovskaya, Structural trends of 77Se-1H spin-spin coupling constants and conformational behavior of 2-substituted selenophenes, Magn. Res. Chem. submitted.
+
+
+</notes></reference>

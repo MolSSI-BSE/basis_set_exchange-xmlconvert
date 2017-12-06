@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<effectivePotentials xmlns="http://purl.oclc.org/NET/EMSL/BSE" xmlns:cmcs="http://purl.oclc.org/NET/cmcs/schema/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cml="http://www.xml-cml.org/schema/cml2/core" xmlns:xlink="http://www.w3.org/1999/xlink"><conversion>false</conversion><ecpType>scalar</ecpType><dc:format>chemical/x-emsl-ecp</dc:format><dc:title>Zn-ECP10MDF-ECP10MDF</dc:title><ecpType>type</ecpType><referencesLink xlink:type="simple" xlink:href="ZN-ECP10MDF-ECP10MDF-ECP-REF.xml" /><potentials elementType="Zn" numElectronsReplaced="10"><potential potentialType="g potential" shell="G"><cml:matrix rows="1" columns="3" dataType="xs:double">2 1.0000000 0.0000000
+</cml:matrix></potential><potential potentialType="s-g potential" shell="S"><cml:matrix rows="2" columns="3" dataType="xs:double">2 34.1740010 399.9863990
+2 14.4563710 85.4897500
+</cml:matrix></potential><potential potentialType="p-g potential" shell="P"><cml:matrix rows="4" columns="3" dataType="xs:double">2 39.8886830 92.3810770
+2 39.6550170 184.7711760
+2 15.2905460 23.0025410
+2 14.9035240 46.0574270
+</cml:matrix></potential><potential potentialType="d-g potential" shell="D"><cml:matrix rows="4" columns="3" dataType="xs:double">2 43.7082960 -13.6907340
+2 43.6985360 -20.5439800
+2 15.1507180 -1.3161540
+2 15.2824410 -1.8387150
+</cml:matrix></potential><potential potentialType="f-g potential" shell="F"><cml:matrix rows="2" columns="3" dataType="xs:double">2 8.1600140 -0.3703600
+2 12.2284220 -1.0629430
+</cml:matrix></potential></potentials></effectivePotentials>

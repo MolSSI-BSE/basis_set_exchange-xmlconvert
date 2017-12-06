@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<basisset xmlns="http://purl.oclc.org/NET/EMSL/BSE" xmlns:cmcs="http://purl.oclc.org/NET/cmcs/schema/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cml="http://www.xml-cml.org/schema/cml2/core" xmlns:xlink="http://www.w3.org/1999/xlink"><conversion>false</conversion><basisSetType>orbital</basisSetType><dc:format>chemical/x-emsl-gaussian-basisset</dc:format><dc:title>s6-31G*</dc:title><harmonicType>spherical</harmonicType><contractionType>segmented</contractionType><referencesLink xlink:type="simple" xlink:href="S6-31GS-BS-REF.xml" /><dc:description></dc:description><contractions elementType="Mn"><dc:description><![CDATA[(22s,16p,5d,1f) -> [5s,4p,3d,1f]]]></dc:description><contraction shell="S"><cml:matrix rows="6" columns="2" dataType="xs:double">56347.140000000 0.00177158
+8460.943000000 0.01357081
+1927.325000000 0.06690605
+543.234300000 0.23185410
+173.990500000 0.47990460
+59.360050000 0.34957370
+</cml:matrix></contraction><contraction shell="SP"><cml:matrix rows="6" columns="3" dataType="xs:double">1165.412000000 0.00238875 0.00397732
+277.327600000 0.03181708 0.03103112
+89.472780000 0.12546700 0.13518940
+33.482560000 -0.02955431 0.34573870
+13.540370000 -0.61751600 0.46292050
+5.557972000 -0.45444580 0.20905920
+</cml:matrix></contraction><contraction shell="SP"><cml:matrix rows="6" columns="3" dataType="xs:double">45.835320000 -0.00366586 -0.00688758
+15.187770000 0.07231971 -0.02846816
+6.500710000 0.25444860 0.06031832
+2.751583000 -0.29103800 0.39389610
+1.145404000 -0.73598600 0.50137690
+0.453687000 -0.19976170 0.17922640
+</cml:matrix></contraction><contraction shell="SP"><cml:matrix rows="3" columns="3" dataType="xs:double">1.757999000 0.05628572 -0.50350240
+0.667022000 0.28974910 0.23450110
+0.105129000 -1.14065300 0.91412570
+</cml:matrix></contraction><contraction shell="SP"><cml:matrix rows="1" columns="3" dataType="xs:double">0.038418000 1.00000000 1.00000000
+</cml:matrix></contraction><contraction shell="D"><cml:matrix rows="3" columns="2" dataType="xs:double">20.943550000 0.08672702
+5.510486000 0.38418830
+1.665038000 0.70690710
+</cml:matrix></contraction><contraction shell="D"><cml:matrix rows="1" columns="2" dataType="xs:double">0.461733000 1.00000000
+</cml:matrix></contraction><contraction shell="D"><cml:matrix rows="1" columns="2" dataType="xs:double">0.130500000 1.00000000
+</cml:matrix></contraction><contraction shell="F"><cml:matrix rows="1" columns="2" dataType="xs:double">0.80000000 1.00000000
+</cml:matrix></contraction></contractions></basisset>

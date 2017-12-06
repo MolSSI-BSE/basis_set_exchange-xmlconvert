@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<effectivePotentials xmlns="http://purl.oclc.org/NET/EMSL/BSE" xmlns:cmcs="http://purl.oclc.org/NET/cmcs/schema/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cml="http://www.xml-cml.org/schema/cml2/core" xmlns:xlink="http://www.w3.org/1999/xlink"><conversion>false</conversion><ecpType>scalar</ecpType><dc:format>chemical/x-emsl-ecp</dc:format><dc:title>DZQ-ecp</dc:title><ecpType>type</ecpType><referencesLink xlink:type="simple" xlink:href="DZQ-ECP-REF.xml" /><potentials elementType="Y" numElectronsReplaced="28"><potential potentialType="f-ul potential" shell="F"><cml:matrix rows="1" columns="3" dataType="xs:double">1.0000000 3.13323000 -3.70827000
+</cml:matrix></potential><potential potentialType="s-ul potential" shell="S"><cml:matrix rows="3" columns="3" dataType="xs:double">0.0000000 0.74734000 3.52458000
+2.0000000 2.11046000 -115.67795000
+2.0000000 2.37431000 141.66551000
+</cml:matrix></potential><potential potentialType="p-ul potential" shell="P"><cml:matrix rows="3" columns="3" dataType="xs:double">0.0000000 0.82924000 3.45319000
+2.0000000 1.92973000 -67.46192000
+2.0000000 2.20379000 85.09453000
+</cml:matrix></potential><potential potentialType="d-ul potential" shell="D"><cml:matrix rows="2" columns="3" dataType="xs:double">0.0000000 9.36770000 2.29590000
+2.0000000 2.83038000 20.62182000
+</cml:matrix></potential></potentials><potentials elementType="Zr" numElectronsReplaced="28"><potential potentialType="f-ul potential" shell="F"><cml:matrix rows="1" columns="3" dataType="xs:double">1.0000000 4.31441000 -6.11923000
+</cml:matrix></potential><potential potentialType="s-ul potential" shell="S"><cml:matrix rows="3" columns="3" dataType="xs:double">0.0000000 0.93035000 4.57031000
+2.0000000 2.33003000 -112.55854000
+2.0000000 2.66632000 139.02972000
+</cml:matrix></potential><potential potentialType="p-ul potential" shell="P"><cml:matrix rows="3" columns="3" dataType="xs:double">0.0000000 0.97753000 4.04524000
+2.0000000 2.14998000 -66.64768000
+2.0000000 2.50892000 86.37034000
+</cml:matrix></potential><potential potentialType="d-ul potential" shell="D"><cml:matrix rows="2" columns="3" dataType="xs:double">0.0000000 16.57598000 5.64085000
+2.0000000 3.32079000 26.66093000
+</cml:matrix></potential></potentials><potentials elementType="Nb" numElectronsReplaced="28"><potential potentialType="f-ul potential" shell="F"><cml:matrix rows="1" columns="3" dataType="xs:double">1.0000000 4.64198000 -5.81695000
+</cml:matrix></potential><potential potentialType="s-ul potential" shell="S"><cml:matrix rows="3" columns="3" dataType="xs:double">0.0000000 1.07339000 4.99937000
+2.0000000 2.51174000 -100.17856000
+2.0000000 2.93940000 127.21570000
+</cml:matrix></potential><potential potentialType="p-ul potential" shell="P"><cml:matrix rows="3" columns="3" dataType="xs:double">0.0000000 0.99626000 3.64794000
+2.0000000 2.28020000 -62.17437000
+2.0000000 2.73360000 85.80845000
+</cml:matrix></potential><potential potentialType="d-ul potential" shell="D"><cml:matrix rows="2" columns="3" dataType="xs:double">0.0000000 10.48803000 2.77206000
+2.0000000 3.64266000 29.05246000
+</cml:matrix></potential></potentials><potentials elementType="Mo" numElectronsReplaced="28"><potential potentialType="f-ul potential" shell="F"><cml:matrix rows="1" columns="3" dataType="xs:double">1.0000000 5.62507000 -7.23009000
+</cml:matrix></potential><potential potentialType="s-ul potential" shell="S"><cml:matrix rows="3" columns="3" dataType="xs:double">0.0000000 1.01907000 3.83695000
+2.0000000 2.68386000 -90.19151000
+2.0000000 3.27945000 129.35214000
+</cml:matrix></potential><potential potentialType="p-ul potential" shell="P"><cml:matrix rows="3" columns="3" dataType="xs:double">0.0000000 1.10957000 3.83295000
+2.0000000 2.49708000 -62.98231000
+2.0000000 3.04740000 89.77478000
+</cml:matrix></potential><potential potentialType="d-ul potential" shell="D"><cml:matrix rows="2" columns="3" dataType="xs:double">0.0000000 9.70400000 2.73486000
+2.0000000 4.03098000 32.53231000
+</cml:matrix></potential></potentials><potentials elementType="Tc" numElectronsReplaced="28"><potential potentialType="f-ul potential" shell="F"><cml:matrix rows="1" columns="3" dataType="xs:double">1.0000000 6.26067000 -7.54356000
+</cml:matrix></potential><potential potentialType="s-ul potential" shell="S"><cml:matrix rows="3" columns="3" dataType="xs:double">0.0000000 1.17731000 4.31377000
+2.0000000 2.86418000 -80.61847000
+2.0000000 3.61432000 120.82547000
+</cml:matrix></potential><potential potentialType="p-ul potential" shell="P"><cml:matrix rows="3" columns="3" dataType="xs:double">0.0000000 1.08449000 3.38952000
+2.0000000 2.59907000 -57.06568000
+2.0000000 3.30452000 89.03016000
+</cml:matrix></potential><potential potentialType="d-ul potential" shell="D"><cml:matrix rows="2" columns="3" dataType="xs:double">0.0000000 11.62092000 2.86365000
+2.0000000 4.45900000 37.18014000
+</cml:matrix></potential></potentials><potentials elementType="Ru" numElectronsReplaced="28"><potential potentialType="f-ul potential" shell="F"><cml:matrix rows="1" columns="3" dataType="xs:double">1.0000000 6.98304000 -7.98448000
+</cml:matrix></potential><potential potentialType="s-ul potential" shell="S"><cml:matrix rows="3" columns="3" dataType="xs:double">0.0000000 1.29393000 4.82384000
+2.0000000 3.04871000 -81.31936000
+2.0000000 3.87163000 124.36917000
+</cml:matrix></potential><potential potentialType="p-ul potential" shell="P"><cml:matrix rows="3" columns="3" dataType="xs:double">0.0000000 1.20273000 3.86590000
+2.0000000 2.82303000 -72.15048000
+2.0000000 3.48391000 103.67006000
+</cml:matrix></potential><potential potentialType="d-ul potential" shell="D"><cml:matrix rows="2" columns="3" dataType="xs:double">0.0000000 14.33743000 3.21083000
+2.0000000 4.90003000 42.07321000
+</cml:matrix></potential></potentials><potentials elementType="Rh" numElectronsReplaced="28"><potential potentialType="f-ul potential" shell="F"><cml:matrix rows="1" columns="3" dataType="xs:double">1.0000000 7.64968000 -8.13225000
+</cml:matrix></potential><potential potentialType="s-ul potential" shell="S"><cml:matrix rows="3" columns="3" dataType="xs:double">0.0000000 1.33777000 5.20773000
+2.0000000 2.95308000 -50.06846000
+2.0000000 4.39131000 90.36859000
+</cml:matrix></potential><potential potentialType="p-ul potential" shell="P"><cml:matrix rows="3" columns="3" dataType="xs:double">0.0000000 1.19468000 3.85874000
+2.0000000 2.92434000 -72.74348000
+2.0000000 3.67503000 106.11615000
+</cml:matrix></potential><potential potentialType="d-ul potential" shell="D"><cml:matrix rows="2" columns="3" dataType="xs:double">0.0000000 17.89248000 3.34825000
+2.0000000 5.34874000 47.13883000
+</cml:matrix></potential></potentials><potentials elementType="Pd" numElectronsReplaced="28"><potential potentialType="f-ul potential" shell="F"><cml:matrix rows="1" columns="3" dataType="xs:double">1.0000000 8.34327000 -8.33466000
+</cml:matrix></potential><potential potentialType="s-ul potential" shell="S"><cml:matrix rows="3" columns="3" dataType="xs:double">0.0000000 1.21315000 3.97809000
+2.0000000 4.03301000 218.99250000
+2.0000000 3.45772000 -168.44404000
+</cml:matrix></potential><potential potentialType="p-ul potential" shell="P"><cml:matrix rows="3" columns="3" dataType="xs:double">0.0000000 1.45607000 4.14021000
+2.0000000 4.05510000 108.32601000
+2.0000000 3.21616000 -72.83147000
+</cml:matrix></potential><potential potentialType="d-ul potential" shell="D"><cml:matrix rows="2" columns="3" dataType="xs:double">0.0000000 19.54477000 3.30611000
+2.0000000 5.84664000 52.78802000
+</cml:matrix></potential></potentials><potentials elementType="Ag" numElectronsReplaced="28"><potential potentialType="f potential" shell="F"><cml:matrix rows="1" columns="3" dataType="xs:double">1.0000000 9.01696000 -8.44669000
+</cml:matrix></potential><potential potentialType="s-f potential" shell="S"><cml:matrix rows="3" columns="3" dataType="xs:double">0.0000000 1.51740000 6.20634000
+2.0000000 3.23088000 -56.82624000
+2.0000000 4.82747000 92.40173000
+</cml:matrix></potential><potential potentialType="p-f potential" shell="P"><cml:matrix rows="3" columns="3" dataType="xs:double">0.0000000 1.21699000 3.75637000
+2.0000000 3.18615000 -80.95335000
+2.0000000 4.05349000 118.86801000
+</cml:matrix></potential><potential potentialType="d-f potential" shell="D"><cml:matrix rows="2" columns="3" dataType="xs:double">0.0000000 22.94020000 3.40895000
+2.0000000 6.26627000 57.10513000
+</cml:matrix></potential></potentials></effectivePotentials>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<basisset xmlns="http://purl.oclc.org/NET/EMSL/BSE" xmlns:cmcs="http://purl.oclc.org/NET/cmcs/schema/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cml="http://www.xml-cml.org/schema/cml2/core" xmlns:xlink="http://www.w3.org/1999/xlink"><conversion>false</conversion><basisSetType>orbital</basisSetType><dc:format>chemical/x-emsl-gaussian-basisset</dc:format><dc:title>aug-cc-pVQZ-PP MP2 Fitting</dc:title><harmonicType>spherical</harmonicType><contractionType>segmented</contractionType><referencesLink xlink:type="simple" xlink:href="AUG-CC-PVQZ-PPMP2FITTING-BS-REF.xml" /><dc:description>Auxiliary basis set for density fitting in MP2, matched to the aug-cc-pVQZ-PP basis set. Diffuse functions only.&#xD;
+</dc:description><contractions elementType="Hf"><dc:description><![CDATA[(1s,1p,1d,1f,1g,1h,1i,1k)]]></dc:description><contraction shell="S"><cml:matrix rows="1" columns="2" dataType="xs:double">0.0034720 1.0000000
+</cml:matrix></contraction><contraction shell="P"><cml:matrix rows="1" columns="2" dataType="xs:double">0.0023450 1.0000000
+</cml:matrix></contraction><contraction shell="D"><cml:matrix rows="1" columns="2" dataType="xs:double">0.0124720 1.0000000
+</cml:matrix></contraction><contraction shell="F"><cml:matrix rows="1" columns="2" dataType="xs:double">0.0296300 1.0000000
+</cml:matrix></contraction><contraction shell="G"><cml:matrix rows="1" columns="2" dataType="xs:double">0.0359890 1.0000000
+</cml:matrix></contraction><contraction shell="H"><cml:matrix rows="1" columns="2" dataType="xs:double">0.0900650 1.0000000
+</cml:matrix></contraction><contraction shell="I"><cml:matrix rows="1" columns="2" dataType="xs:double">0.1669450 1.0000000
+</cml:matrix></contraction><contraction shell="K"><cml:matrix rows="1" columns="2" dataType="xs:double">0.3204940 1.0000000
+</cml:matrix></contraction></contractions><contractions elementType="Ta"><dc:description><![CDATA[(1s,1p,1d,1f,1g,1h,1i,1k)]]></dc:description><contraction shell="S"><cml:matrix rows="1" columns="2" dataType="xs:double">0.0035940 1.0000000
+</cml:matrix></contraction><contraction shell="P"><cml:matrix rows="1" columns="2" dataType="xs:double">0.0023960 1.0000000
+</cml:matrix></contraction><contraction shell="D"><cml:matrix rows="1" columns="2" dataType="xs:double">0.0156940 1.0000000
+</cml:matrix></contraction><contraction shell="F"><cml:matrix rows="1" columns="2" dataType="xs:double">0.0333630 1.0000000
+</cml:matrix></contraction><contraction shell="G"><cml:matrix rows="1" columns="2" dataType="xs:double">0.0431380 1.0000000
+</cml:matrix></contraction><contraction shell="H"><cml:matrix rows="1" columns="2" dataType="xs:double">0.1226400 1.0000000
+</cml:matrix></contraction><contraction shell="I"><cml:matrix rows="1" columns="2" dataType="xs:double">0.2470310 1.0000000
+</cml:matrix></contraction><contraction shell="K"><cml:matrix rows="1" columns="2" dataType="xs:double">0.4299480 1.0000000
+</cml:matrix></contraction></contractions><contractions elementType="W"><dc:description><![CDATA[(1s,1p,1d,1f,1g,1h,1i,1k)]]></dc:description><contraction shell="S"><cml:matrix rows="1" columns="2" dataType="xs:double">0.0035330 1.0000000
+</cml:matrix></contraction><contraction shell="P"><cml:matrix rows="1" columns="2" dataType="xs:double">0.0025860 1.0000000
+</cml:matrix></contraction><contraction shell="D"><cml:matrix rows="1" columns="2" dataType="xs:double">0.0209550 1.0000000
+</cml:matrix></contraction><contraction shell="F"><cml:matrix rows="1" columns="2" dataType="xs:double">0.0470500 1.0000000
+</cml:matrix></contraction><contraction shell="G"><cml:matrix rows="1" columns="2" dataType="xs:double">0.0510290 1.0000000
+</cml:matrix></contraction><contraction shell="H"><cml:matrix rows="1" columns="2" dataType="xs:double">0.1517680 1.0000000
+</cml:matrix></contraction><contraction shell="I"><cml:matrix rows="1" columns="2" dataType="xs:double">0.3022350 1.0000000
+</cml:matrix></contraction><contraction shell="K"><cml:matrix rows="1" columns="2" dataType="xs:double">0.5491400 1.0000000
+</cml:matrix></contraction></contractions><contractions elementType="Re"><dc:description><![CDATA[(1s,1p,1d,1f,1g,1h,1i,1k)]]></dc:description><contraction shell="S"><cml:matrix rows="1" columns="2" dataType="xs:double">0.0041000 1.0000000
+</cml:matrix></contraction><contraction shell="P"><cml:matrix rows="1" columns="2" dataType="xs:double">0.0039910 1.0000000
+</cml:matrix></contraction><contraction shell="D"><cml:matrix rows="1" columns="2" dataType="xs:double">0.0234050 1.0000000
+</cml:matrix></contraction><contraction shell="F"><cml:matrix rows="1" columns="2" dataType="xs:double">0.0447960 1.0000000
+</cml:matrix></contraction><contraction shell="G"><cml:matrix rows="1" columns="2" dataType="xs:double">0.0679200 1.0000000
+</cml:matrix></contraction><contraction shell="H"><cml:matrix rows="1" columns="2" dataType="xs:double">0.1769080 1.0000000
+</cml:matrix></contraction><contraction shell="I"><cml:matrix rows="1" columns="2" dataType="xs:double">0.3862780 1.0000000
+</cml:matrix></contraction><contraction shell="K"><cml:matrix rows="1" columns="2" dataType="xs:double">0.6896560 1.0000000
+</cml:matrix></contraction></contractions><contractions elementType="Os"><dc:description><![CDATA[(1s,1p,1d,1f,1g,1h,1i,1k)]]></dc:description><contraction shell="S"><cml:matrix rows="1" columns="2" dataType="xs:double">0.0072550 1.0000000
+</cml:matrix></contraction><contraction shell="P"><cml:matrix rows="1" columns="2" dataType="xs:double">0.0066350 1.0000000
+</cml:matrix></contraction><contraction shell="D"><cml:matrix rows="1" columns="2" dataType="xs:double">0.0285150 1.0000000
+</cml:matrix></contraction><contraction shell="F"><cml:matrix rows="1" columns="2" dataType="xs:double">0.0378110 1.0000000
+</cml:matrix></contraction><contraction shell="G"><cml:matrix rows="1" columns="2" dataType="xs:double">0.0619070 1.0000000
+</cml:matrix></contraction><contraction shell="H"><cml:matrix rows="1" columns="2" dataType="xs:double">0.2058460 1.0000000
+</cml:matrix></contraction><contraction shell="I"><cml:matrix rows="1" columns="2" dataType="xs:double">0.4149470 1.0000000
+</cml:matrix></contraction><contraction shell="K"><cml:matrix rows="1" columns="2" dataType="xs:double">0.7691360 1.0000000
+</cml:matrix></contraction></contractions><contractions elementType="Ir"><dc:description><![CDATA[(1s,1p,1d,1f,1g,1h,1i,1k)]]></dc:description><contraction shell="S"><cml:matrix rows="1" columns="2" dataType="xs:double">0.0074870 1.0000000
+</cml:matrix></contraction><contraction shell="P"><cml:matrix rows="1" columns="2" dataType="xs:double">0.0097000 1.0000000
+</cml:matrix></contraction><contraction shell="D"><cml:matrix rows="1" columns="2" dataType="xs:double">0.0351150 1.0000000
+</cml:matrix></contraction><contraction shell="F"><cml:matrix rows="1" columns="2" dataType="xs:double">0.0339210 1.0000000
+</cml:matrix></contraction><contraction shell="G"><cml:matrix rows="1" columns="2" dataType="xs:double">0.0925770 1.0000000
+</cml:matrix></contraction><contraction shell="H"><cml:matrix rows="1" columns="2" dataType="xs:double">0.2325690 1.0000000
+</cml:matrix></contraction><contraction shell="I"><cml:matrix rows="1" columns="2" dataType="xs:double">0.5011440 1.0000000
+</cml:matrix></contraction><contraction shell="K"><cml:matrix rows="1" columns="2" dataType="xs:double">0.8871040 1.0000000
+</cml:matrix></contraction></contractions><contractions elementType="Pt"><dc:description><![CDATA[(1s,1p,1d,1f,1g,1h,1i,1k)]]></dc:description><contraction shell="S"><cml:matrix rows="1" columns="2" dataType="xs:double">0.0162890 1.0000000
+</cml:matrix></contraction><contraction shell="P"><cml:matrix rows="1" columns="2" dataType="xs:double">0.0150710 1.0000000
+</cml:matrix></contraction><contraction shell="D"><cml:matrix rows="1" columns="2" dataType="xs:double">0.0420860 1.0000000
+</cml:matrix></contraction><contraction shell="F"><cml:matrix rows="1" columns="2" dataType="xs:double">0.0498200 1.0000000
+</cml:matrix></contraction><contraction shell="G"><cml:matrix rows="1" columns="2" dataType="xs:double">0.0927080 1.0000000
+</cml:matrix></contraction><contraction shell="H"><cml:matrix rows="1" columns="2" dataType="xs:double">0.2578660 1.0000000
+</cml:matrix></contraction><contraction shell="I"><cml:matrix rows="1" columns="2" dataType="xs:double">0.5274060 1.0000000
+</cml:matrix></contraction><contraction shell="K"><cml:matrix rows="1" columns="2" dataType="xs:double">0.9800430 1.0000000
+</cml:matrix></contraction></contractions></basisset>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<effectivePotentials xmlns="http://purl.oclc.org/NET/EMSL/BSE" xmlns:cmcs="http://purl.oclc.org/NET/cmcs/schema/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cml="http://www.xml-cml.org/schema/cml2/core" xmlns:xlink="http://www.w3.org/1999/xlink"><conversion>false</conversion><ecpType>scalar</ecpType><dc:format>chemical/x-emsl-ecp</dc:format><dc:title>ECP60MDF</dc:title><ecpType>type</ecpType><referencesLink xlink:type="simple" xlink:href="ECP60MDF-ECP-REF.xml" /><potentials elementType="Hg" numElectronsReplaced="60"><potential potentialType="h potential" shell="H"><cml:matrix rows="1" columns="3" dataType="xs:double">2 1.0000000 0.0000000
+</cml:matrix></potential><potential potentialType="s-h potential" shell="S"><cml:matrix rows="2" columns="3" dataType="xs:double">2 12.4130710 275.7747970
+2 6.8979130 49.2678980
+</cml:matrix></potential><potential potentialType="p-h potential" shell="P"><cml:matrix rows="4" columns="3" dataType="xs:double">2 11.3103200 80.5069840
+2 10.2107730 161.0348240
+2 5.9398040 9.0834160
+2 5.0197550 18.3677730
+</cml:matrix></potential><potential potentialType="d-h potential" shell="D"><cml:matrix rows="4" columns="3" dataType="xs:double">2 8.4078950 51.1372560
+2 8.2140860 76.7074590
+2 4.0126120 6.5618210
+2 3.7953980 9.8180700
+</cml:matrix></potential><potential potentialType="f-h potential" shell="F"><cml:matrix rows="2" columns="3" dataType="xs:double">2 3.2731060 9.4290010
+2 3.2083210 12.4948560
+</cml:matrix></potential><potential potentialType="g-h potential" shell="G"><cml:matrix rows="2" columns="3" dataType="xs:double">2 4.4852960 -6.3384140
+2 4.5132000 -8.0998630
+</cml:matrix></potential></potentials></effectivePotentials>
