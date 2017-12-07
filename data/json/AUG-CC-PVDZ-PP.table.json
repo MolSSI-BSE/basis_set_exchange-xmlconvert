@@ -1,6 +1,6 @@
 {
-    "basisSetName": "aug-cc-pVDZ-PP",
-    "basisSetDescription": "VDZPD   Valence Double Zeta + Polarization on All Atoms",
+    "basisSetName": "aug-cc-pVDZ-PP Diffuse",
+    "basisSetDescription": "aug-cc-pVDZ-PP Diffuse",
     "basisSetElements": {
         "29": {
             "elementEntry": "AUG-CC-PVDZ-PP"

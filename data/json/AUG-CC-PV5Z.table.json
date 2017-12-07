@@ -1,18 +1,12 @@
 {
-    "basisSetName": "aug-cc-pV5Z",
-    "basisSetDescription": "V5Z4PD  Valence Quintuple Zeta + Polarization + Diffuse",
+    "basisSetName": "aug-cc-pV5Z Diffuse",
+    "basisSetDescription": "aug-cc-pV5Z Diffuse",
     "basisSetElements": {
         "1": {
             "elementEntry": "AUG-CC-PV5Z"
         },
         "2": {
             "elementEntry": "AUG-CC-PV5Z"
-        },
-        "3": {
-            "elementEntry": "CC-PV5Z"
-        },
-        "4": {
-            "elementEntry": "CC-PV5Z"
         },
         "5": {
             "elementEntry": "AUG-CC-PV5Z"
@@ -32,12 +26,6 @@
         "10": {
             "elementEntry": "AUG-CC-PV5Z"
         },
-        "11": {
-            "elementEntry": "CC-PV5Z"
-        },
-        "12": {
-            "elementEntry": "CC-PV5Z"
-        },
         "13": {
             "elementEntry": "AUG-CC-PV5Z"
         },
@@ -55,9 +43,6 @@
         },
         "18": {
             "elementEntry": "AUG-CC-PV5Z"
-        },
-        "20": {
-            "elementEntry": "CC-PV5Z"
         },
         "21": {
             "elementEntry": "AUG-CC-PV5Z"

@@ -1,0 +1,36 @@
+{
+    "basisSetName": "aug-cc-pwCV5Z-NR",
+    "basisSetDescription": "V5ZPD   All-electron non-relativistic Core-Valence Quintuple Zeta + Polarization",
+    "basisSetElements": {
+        "21": {
+            "elementEntry": "AUG-CC-PWCV5Z-NR-AGG"
+        },
+        "22": {
+            "elementEntry": "AUG-CC-PWCV5Z-NR-AGG"
+        },
+        "23": {
+            "elementEntry": "AUG-CC-PWCV5Z-NR-AGG"
+        },
+        "24": {
+            "elementEntry": "AUG-CC-PWCV5Z-NR-AGG"
+        },
+        "25": {
+            "elementEntry": "AUG-CC-PWCV5Z-NR-AGG"
+        },
+        "26": {
+            "elementEntry": "AUG-CC-PWCV5Z-NR-AGG"
+        },
+        "27": {
+            "elementEntry": "AUG-CC-PWCV5Z-NR-AGG"
+        },
+        "28": {
+            "elementEntry": "AUG-CC-PWCV5Z-NR-AGG"
+        },
+        "29": {
+            "elementEntry": "AUG-CC-PWCV5Z-NR-AGG"
+        },
+        "30": {
+            "elementEntry": "AUG-CC-PWCV5Z-NR-AGG"
+        }
+    }
+}

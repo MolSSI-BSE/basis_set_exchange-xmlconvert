@@ -1,0 +1,24 @@
+{
+    "basisSetName": "aug-cc-pV(5+d)Z",
+    "basisSetDescription": "V5Z4P   Valence Quintuple Zeta + Polarization on All Atoms",
+    "basisSetElements": {
+        "13": {
+            "elementEntry": "AUG-CC-PV5PDZ-AGG"
+        },
+        "14": {
+            "elementEntry": "AUG-CC-PV5PDZ-AGG"
+        },
+        "15": {
+            "elementEntry": "AUG-CC-PV5PDZ-AGG"
+        },
+        "16": {
+            "elementEntry": "AUG-CC-PV5PDZ-AGG"
+        },
+        "17": {
+            "elementEntry": "AUG-CC-PV5PDZ-AGG"
+        },
+        "18": {
+            "elementEntry": "AUG-CC-PV5PDZ-AGG"
+        }
+    }
+}

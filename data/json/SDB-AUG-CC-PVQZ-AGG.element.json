@@ -1,0 +1,66 @@
+{
+    "basisSetName": "SDB-aug-cc-pVQZ",
+    "basisSetDescription": "VQZ3P   Valence Quadruple Zeta + Polarization on All Atoms",
+    "basisSetElements": {
+        "31": {
+            "elementComponents": [
+                "SDB-CC-PVQZ",
+                "SDB-AUG-CC-PVQZ"
+            ]
+        },
+        "32": {
+            "elementComponents": [
+                "SDB-CC-PVQZ",
+                "SDB-AUG-CC-PVQZ"
+            ]
+        },
+        "33": {
+            "elementComponents": [
+                "SDB-CC-PVQZ",
+                "SDB-AUG-CC-PVQZ"
+            ]
+        },
+        "34": {
+            "elementComponents": [
+                "SDB-CC-PVQZ",
+                "SDB-AUG-CC-PVQZ"
+            ]
+        },
+        "35": {
+            "elementComponents": [
+                "SDB-CC-PVQZ",
+                "SDB-AUG-CC-PVQZ"
+            ]
+        },
+        "49": {
+            "elementComponents": [
+                "SDB-CC-PVQZ",
+                "SDB-AUG-CC-PVQZ"
+            ]
+        },
+        "50": {
+            "elementComponents": [
+                "SDB-CC-PVQZ",
+                "SDB-AUG-CC-PVQZ"
+            ]
+        },
+        "51": {
+            "elementComponents": [
+                "SDB-CC-PVQZ",
+                "SDB-AUG-CC-PVQZ"
+            ]
+        },
+        "52": {
+            "elementComponents": [
+                "SDB-CC-PVQZ",
+                "SDB-AUG-CC-PVQZ"
+            ]
+        },
+        "53": {
+            "elementComponents": [
+                "SDB-CC-PVQZ",
+                "SDB-AUG-CC-PVQZ"
+            ]
+        }
+    }
+}

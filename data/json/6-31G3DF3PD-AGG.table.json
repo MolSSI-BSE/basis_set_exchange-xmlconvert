@@ -1,0 +1,96 @@
+{
+    "basisSetName": "6-31G(3df,3pd)",
+    "basisSetDescription": "VDZ3P   Valence Double Zeta + Triple Polarization on All Atoms",
+    "basisSetElements": {
+        "1": {
+            "elementEntry": "6-31G3DF3PD-AGG"
+        },
+        "2": {
+            "elementEntry": "6-31G3DF3PD-AGG"
+        },
+        "3": {
+            "elementEntry": "6-31G3DF3PD-AGG"
+        },
+        "4": {
+            "elementEntry": "6-31G3DF3PD-AGG"
+        },
+        "5": {
+            "elementEntry": "6-31G3DF3PD-AGG"
+        },
+        "6": {
+            "elementEntry": "6-31G3DF3PD-AGG"
+        },
+        "7": {
+            "elementEntry": "6-31G3DF3PD-AGG"
+        },
+        "8": {
+            "elementEntry": "6-31G3DF3PD-AGG"
+        },
+        "9": {
+            "elementEntry": "6-31G3DF3PD-AGG"
+        },
+        "10": {
+            "elementEntry": "6-31G3DF3PD-AGG"
+        },
+        "11": {
+            "elementEntry": "6-31G3DF3PD-AGG"
+        },
+        "12": {
+            "elementEntry": "6-31G3DF3PD-AGG"
+        },
+        "13": {
+            "elementEntry": "6-31G3DF3PD-AGG"
+        },
+        "14": {
+            "elementEntry": "6-31G3DF3PD-AGG"
+        },
+        "15": {
+            "elementEntry": "6-31G3DF3PD-AGG"
+        },
+        "16": {
+            "elementEntry": "6-31G3DF3PD-AGG"
+        },
+        "17": {
+            "elementEntry": "6-31G3DF3PD-AGG"
+        },
+        "18": {
+            "elementEntry": "6-31G3DF3PD-AGG"
+        },
+        "19": {
+            "elementEntry": "6-31G"
+        },
+        "20": {
+            "elementEntry": "6-31G"
+        },
+        "21": {
+            "elementEntry": "6-31G"
+        },
+        "22": {
+            "elementEntry": "6-31G"
+        },
+        "23": {
+            "elementEntry": "6-31G"
+        },
+        "24": {
+            "elementEntry": "6-31G"
+        },
+        "25": {
+            "elementEntry": "6-31G"
+        },
+        "26": {
+            "elementEntry": "6-31G"
+        },
+        "27": {
+            "elementEntry": "6-31G"
+        },
+        "28": {
+            "elementEntry": "6-31G"
+        },
+        "29": {
+            "elementEntry": "6-31G"
+        },
+        "30": {
+            "elementEntry": "6-31G"
+        }
+    }
+}

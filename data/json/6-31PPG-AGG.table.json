@@ -1,0 +1,96 @@
+{
+    "basisSetName": "6-31++G",
+    "basisSetDescription": "VDZD    Valence Double Zeta + Diffuse Functions on All Atoms",
+    "basisSetElements": {
+        "1": {
+            "elementEntry": "6-31PPG-AGG"
+        },
+        "2": {
+            "elementEntry": "6-31G"
+        },
+        "3": {
+            "elementEntry": "6-31PPG-AGG"
+        },
+        "4": {
+            "elementEntry": "6-31PPG-AGG"
+        },
+        "5": {
+            "elementEntry": "6-31PPG-AGG"
+        },
+        "6": {
+            "elementEntry": "6-31PPG-AGG"
+        },
+        "7": {
+            "elementEntry": "6-31PPG-AGG"
+        },
+        "8": {
+            "elementEntry": "6-31PPG-AGG"
+        },
+        "9": {
+            "elementEntry": "6-31PPG-AGG"
+        },
+        "10": {
+            "elementEntry": "6-31PPG-AGG"
+        },
+        "11": {
+            "elementEntry": "6-31PPG-AGG"
+        },
+        "12": {
+            "elementEntry": "6-31PPG-AGG"
+        },
+        "13": {
+            "elementEntry": "6-31PPG-AGG"
+        },
+        "14": {
+            "elementEntry": "6-31PPG-AGG"
+        },
+        "15": {
+            "elementEntry": "6-31PPG-AGG"
+        },
+        "16": {
+            "elementEntry": "6-31PPG-AGG"
+        },
+        "17": {
+            "elementEntry": "6-31PPG-AGG"
+        },
+        "18": {
+            "elementEntry": "6-31PPG-AGG"
+        },
+        "19": {
+            "elementEntry": "6-31PPG-AGG"
+        },
+        "20": {
+            "elementEntry": "6-31PPG-AGG"
+        },
+        "21": {
+            "elementEntry": "6-31G"
+        },
+        "22": {
+            "elementEntry": "6-31G"
+        },
+        "23": {
+            "elementEntry": "6-31G"
+        },
+        "24": {
+            "elementEntry": "6-31G"
+        },
+        "25": {
+            "elementEntry": "6-31G"
+        },
+        "26": {
+            "elementEntry": "6-31G"
+        },
+        "27": {
+            "elementEntry": "6-31G"
+        },
+        "28": {
+            "elementEntry": "6-31G"
+        },
+        "29": {
+            "elementEntry": "6-31G"
+        },
+        "30": {
+            "elementEntry": "6-31G"
+        }
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "basisSetName": "STO-3G*",
+    "basisSetDescription": "MBP     Minimal Basis + Polarization on second row",
+    "basisSetElements": {
+        "11": {
+            "elementEntry": "STO-3GS-AGG"
+        },
+        "12": {
+            "elementEntry": "STO-3GS-AGG"
+        },
+        "13": {
+            "elementEntry": "STO-3GS-AGG"
+        },
+        "14": {
+            "elementEntry": "STO-3GS-AGG"
+        },
+        "15": {
+            "elementEntry": "STO-3GS-AGG"
+        },
+        "16": {
+            "elementEntry": "STO-3GS-AGG"
+        },
+        "17": {
+            "elementEntry": "STO-3GS-AGG"
+        },
+        "18": {
+            "elementEntry": "STO-3GS-AGG"
+        }
+    }
+}

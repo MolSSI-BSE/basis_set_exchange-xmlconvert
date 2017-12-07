@@ -1,82 +1,69 @@
 {
-    "basisSetName": "cc-pwCVQZ",
-    "basisSetDescription": "QZ3P    Quadruple Zeta + Polarization + Tight Core",
+    "basisSetName": "cc-pwCVQZ Tight",
+    "basisSetDescription": "3T      Tight Functions",
     "basisSetElements": {
         "5": {
             "elementComponents": [
-                "CC-PVQZ",
                 "CC-PWCVQZ"
             ]
         },
         "6": {
             "elementComponents": [
-                "CC-PVQZ",
                 "CC-PWCVQZ"
             ]
         },
         "7": {
             "elementComponents": [
-                "CC-PVQZ",
                 "CC-PWCVQZ"
             ]
         },
         "8": {
             "elementComponents": [
-                "CC-PVQZ",
                 "CC-PWCVQZ"
             ]
         },
         "9": {
             "elementComponents": [
-                "CC-PVQZ",
                 "CC-PWCVQZ"
             ]
         },
         "10": {
             "elementComponents": [
-                "CC-PVQZ",
                 "CC-PWCVQZ"
             ]
         },
         "13": {
             "elementComponents": [
-                "CC-PVQZ",
                 "CC-PWCVQZ"
             ]
         },
         "14": {
             "elementComponents": [
-                "CC-PVQZ",
                 "CC-PWCVQZ"
             ]
         },
         "15": {
             "elementComponents": [
-                "CC-PVQZ",
                 "CC-PWCVQZ"
             ]
         },
         "16": {
             "elementComponents": [
-                "CC-PVQZ",
                 "CC-PWCVQZ"
             ]
         },
         "17": {
             "elementComponents": [
-                "CC-PVQZ",
                 "CC-PWCVQZ"
             ]
         },
         "18": {
             "elementComponents": [
-                "CC-PVQZ",
                 "CC-PWCVQZ"
             ]
         },
         "35": {
             "elementComponents": [
-                "CC-PVQZ",
                 "CC-PWCVQZ"
             ]
         }

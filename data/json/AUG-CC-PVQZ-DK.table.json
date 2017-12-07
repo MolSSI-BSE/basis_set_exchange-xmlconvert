@@ -1,6 +1,6 @@
 {
-    "basisSetName": "aug-cc-pVQZ-DK",
-    "basisSetDescription": "VQZPD   All-electron Douglas-Kroll Valence Quadruple Zeta + Polarization",
+    "basisSetName": "aug-cc-pVQZ-DK Diffuse",
+    "basisSetDescription": "aug-cc-pVQZ-DK Diffuse",
     "basisSetElements": {
         "1": {
             "elementEntry": "AUG-CC-PVQZ-DK"

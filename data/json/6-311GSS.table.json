@@ -1,6 +1,6 @@
 {
-    "basisSetName": "6-311G**",
-    "basisSetDescription": "VTZP    Valence Triple Zeta + Polarization on All Atoms",
+    "basisSetName": "6-311G** Polarization",
+    "basisSetDescription": "1P      Polarization functions associated with 6-311G",
     "basisSetElements": {
         "1": {
             "elementEntry": "6-311GSS"

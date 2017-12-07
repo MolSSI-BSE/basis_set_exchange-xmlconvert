@@ -1,0 +1,54 @@
+{
+    "basisSetName": "aug-cc-pCVQZ",
+    "basisSetDescription": "QZ3PD   Quadruple Zeta + Polarization +Diffuse on All Atoms",
+    "basisSetElements": {
+        "3": {
+            "elementEntry": "AUG-CC-PCVQZ-AGG"
+        },
+        "4": {
+            "elementEntry": "AUG-CC-PCVQZ-AGG"
+        },
+        "5": {
+            "elementEntry": "AUG-CC-PCVQZ-AGG"
+        },
+        "6": {
+            "elementEntry": "AUG-CC-PCVQZ-AGG"
+        },
+        "7": {
+            "elementEntry": "AUG-CC-PCVQZ-AGG"
+        },
+        "8": {
+            "elementEntry": "AUG-CC-PCVQZ-AGG"
+        },
+        "9": {
+            "elementEntry": "AUG-CC-PCVQZ-AGG"
+        },
+        "10": {
+            "elementEntry": "AUG-CC-PCVQZ-AGG"
+        },
+        "11": {
+            "elementEntry": "AUG-CC-PCVQZ-AGG"
+        },
+        "12": {
+            "elementEntry": "AUG-CC-PCVQZ-AGG"
+        },
+        "13": {
+            "elementEntry": "AUG-CC-PCVQZ-AGG"
+        },
+        "14": {
+            "elementEntry": "AUG-CC-PCVQZ-AGG"
+        },
+        "15": {
+            "elementEntry": "AUG-CC-PCVQZ-AGG"
+        },
+        "16": {
+            "elementEntry": "AUG-CC-PCVQZ-AGG"
+        },
+        "17": {
+            "elementEntry": "AUG-CC-PCVQZ-AGG"
+        },
+        "18": {
+            "elementEntry": "AUG-CC-PCVQZ-AGG"
+        }
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "basisSetName": "SV + Rydberg (Dunning-Hay)",
+    "basisSetDescription": "VDZ1R   Valence Double Zeta + Diffuse Rydberg Functions",
+    "basisSetElements": {
+        "1": {
+            "elementEntry": "DUNHAYSV"
+        },
+        "3": {
+            "elementEntry": "DUNHAYSV"
+        },
+        "4": {
+            "elementEntry": "DUNHAYSV"
+        },
+        "5": {
+            "elementEntry": "SVPRYDBERGDUNNING-HAY-AGG"
+        },
+        "6": {
+            "elementEntry": "SVPRYDBERGDUNNING-HAY-AGG"
+        },
+        "7": {
+            "elementEntry": "SVPRYDBERGDUNNING-HAY-AGG"
+        },
+        "8": {
+            "elementEntry": "SVPRYDBERGDUNNING-HAY-AGG"
+        },
+        "9": {
+            "elementEntry": "SVPRYDBERGDUNNING-HAY-AGG"
+        },
+        "10": {
+            "elementEntry": "SVPRYDBERGDUNNING-HAY-AGG"
+        },
+        "13": {
+            "elementEntry": "RYD-DUNNING"
+        },
+        "14": {
+            "elementEntry": "RYD-DUNNING"
+        },
+        "15": {
+            "elementEntry": "RYD-DUNNING"
+        },
+        "16": {
+            "elementEntry": "RYD-DUNNING"
+        },
+        "17": {
+            "elementEntry": "RYD-DUNNING"
+        },
+        "18": {
+            "elementEntry": "RYD-DUNNING"
+        }
+    }
+}

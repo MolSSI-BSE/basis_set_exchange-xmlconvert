@@ -1,0 +1,63 @@
+{
+    "basisSetName": "6-311++G**",
+    "basisSetDescription": "VTZPD   Valence Triple Zeta + Polarization + Diffuse on All Atoms",
+    "basisSetElements": {
+        "1": {
+            "elementEntry": "6-311PPGSS-AGG"
+        },
+        "3": {
+            "elementEntry": "6-311PPGSS-AGG"
+        },
+        "4": {
+            "elementEntry": "6-311PPGSS-AGG"
+        },
+        "5": {
+            "elementEntry": "6-311PPGSS-AGG"
+        },
+        "6": {
+            "elementEntry": "6-311PPGSS-AGG"
+        },
+        "7": {
+            "elementEntry": "6-311PPGSS-AGG"
+        },
+        "8": {
+            "elementEntry": "6-311PPGSS-AGG"
+        },
+        "9": {
+            "elementEntry": "6-311PPGSS-AGG"
+        },
+        "10": {
+            "elementEntry": "6-311PPGSS-AGG"
+        },
+        "11": {
+            "elementEntry": "6-311PPGSS-AGG"
+        },
+        "12": {
+            "elementEntry": "6-311PPGSS-AGG"
+        },
+        "13": {
+            "elementEntry": "6-311PPGSS-AGG"
+        },
+        "14": {
+            "elementEntry": "6-311PPGSS-AGG"
+        },
+        "15": {
+            "elementEntry": "6-311PPGSS-AGG"
+        },
+        "16": {
+            "elementEntry": "6-311PPGSS-AGG"
+        },
+        "17": {
+            "elementEntry": "6-311PPGSS-AGG"
+        },
+        "18": {
+            "elementEntry": "6-311PPGSS-AGG"
+        },
+        "19": {
+            "elementEntry": "6-311PPGSS-AGG"
+        },
+        "20": {
+            "elementEntry": "6-311PPGSS-AGG"
+        }
+    }
+}

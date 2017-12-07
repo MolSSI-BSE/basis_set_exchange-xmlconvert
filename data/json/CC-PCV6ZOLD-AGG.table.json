@@ -1,0 +1,9 @@
+{
+    "basisSetName": "cc-pCV6Z(old)",
+    "basisSetDescription": "6Z5P    Sextuple Zeta + Polarization + Tight Core",
+    "basisSetElements": {
+        "8": {
+            "elementEntry": "CC-PCV6ZOLD-AGG"
+        }
+    }
+}

@@ -1,166 +1,139 @@
 {
-    "basisSetName": "6-311G**",
-    "basisSetDescription": "VTZP    Valence Triple Zeta + Polarization on All Atoms",
+    "basisSetName": "6-311G** Polarization",
+    "basisSetDescription": "1P      Polarization functions associated with 6-311G",
     "basisSetElements": {
         "1": {
             "elementComponents": [
-                "6-311G",
                 "6-311GSS"
             ]
         },
         "2": {
             "elementComponents": [
-                "6-311G",
                 "6-311GSS"
             ]
         },
         "3": {
             "elementComponents": [
-                "6-311G",
                 "6-311GSS"
             ]
         },
         "4": {
             "elementComponents": [
-                "6-311G",
                 "6-311GSS"
             ]
         },
         "5": {
             "elementComponents": [
-                "6-311G",
                 "6-311GSS"
             ]
         },
         "6": {
             "elementComponents": [
-                "6-311G",
                 "6-311GSS"
             ]
         },
         "7": {
             "elementComponents": [
-                "6-311G",
                 "6-311GSS"
             ]
         },
         "8": {
             "elementComponents": [
-                "6-311G",
                 "6-311GSS"
             ]
         },
         "9": {
             "elementComponents": [
-                "6-311G",
                 "6-311GSS"
             ]
         },
         "10": {
             "elementComponents": [
-                "6-311G",
                 "6-311GSS"
             ]
         },
         "11": {
             "elementComponents": [
-                "6-311G",
                 "6-311GSS"
             ]
         },
         "12": {
             "elementComponents": [
-                "6-311G",
                 "6-311GSS"
             ]
         },
         "13": {
             "elementComponents": [
-                "6-311G",
                 "6-311GSS"
             ]
         },
         "14": {
             "elementComponents": [
-                "6-311G",
                 "6-311GSS"
             ]
         },
         "15": {
             "elementComponents": [
-                "6-311G",
                 "6-311GSS"
             ]
         },
         "16": {
             "elementComponents": [
-                "6-311G",
                 "6-311GSS"
             ]
         },
         "17": {
             "elementComponents": [
-                "6-311G",
                 "6-311GSS"
             ]
         },
         "18": {
             "elementComponents": [
-                "6-311G",
                 "6-311GSS"
             ]
         },
         "19": {
             "elementComponents": [
-                "6-311G",
                 "6-311GSS"
             ]
         },
         "20": {
             "elementComponents": [
-                "6-311G",
                 "6-311GSS"
             ]
         },
         "31": {
             "elementComponents": [
-                "6-311G",
                 "6-311GSS"
             ]
         },
         "32": {
             "elementComponents": [
-                "6-311G",
                 "6-311GSS"
             ]
         },
         "33": {
             "elementComponents": [
-                "6-311G",
                 "6-311GSS"
             ]
         },
         "34": {
             "elementComponents": [
-                "6-311G",
                 "6-311GSS"
             ]
         },
         "35": {
             "elementComponents": [
-                "6-311G",
                 "6-311GSS"
             ]
         },
         "36": {
             "elementComponents": [
-                "6-311G",
                 "6-311GSS"
             ]
         },
         "53": {
             "elementComponents": [
-                "6-311G",
                 "6-311GSS"
             ]
         }

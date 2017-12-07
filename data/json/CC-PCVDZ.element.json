@@ -1,106 +1,89 @@
 {
-    "basisSetName": "cc-pCVDZ",
-    "basisSetDescription": "DZP     Double Zeta + Polarization + Tight Core",
+    "basisSetName": "Core/valence Functions (cc-pCVDZ)",
+    "basisSetDescription": "Core/valence Functions (cc-pCVDZ)",
     "basisSetElements": {
         "3": {
             "elementComponents": [
-                "CC-PVDZ",
                 "CC-PCVDZ"
             ]
         },
         "4": {
             "elementComponents": [
-                "CC-PVDZ",
                 "CC-PCVDZ"
             ]
         },
         "5": {
             "elementComponents": [
-                "CC-PVDZ",
                 "CC-PCVDZ"
             ]
         },
         "6": {
             "elementComponents": [
-                "CC-PVDZ",
                 "CC-PCVDZ"
             ]
         },
         "7": {
             "elementComponents": [
-                "CC-PVDZ",
                 "CC-PCVDZ"
             ]
         },
         "8": {
             "elementComponents": [
-                "CC-PVDZ",
                 "CC-PCVDZ"
             ]
         },
         "9": {
             "elementComponents": [
-                "CC-PVDZ",
                 "CC-PCVDZ"
             ]
         },
         "10": {
             "elementComponents": [
-                "CC-PVDZ",
                 "CC-PCVDZ"
             ]
         },
         "11": {
             "elementComponents": [
-                "CC-PVDZ",
                 "CC-PCVDZ"
             ]
         },
         "12": {
             "elementComponents": [
-                "CC-PVDZ",
                 "CC-PCVDZ"
             ]
         },
         "13": {
             "elementComponents": [
-                "CC-PVDZ",
                 "CC-PCVDZ"
             ]
         },
         "14": {
             "elementComponents": [
-                "CC-PVDZ",
                 "CC-PCVDZ"
             ]
         },
         "15": {
             "elementComponents": [
-                "CC-PVDZ",
                 "CC-PCVDZ"
             ]
         },
         "16": {
             "elementComponents": [
-                "CC-PVDZ",
                 "CC-PCVDZ"
             ]
         },
         "17": {
             "elementComponents": [
-                "CC-PVDZ",
                 "CC-PCVDZ"
             ]
         },
         "18": {
             "elementComponents": [
-                "CC-PVDZ",
                 "CC-PCVDZ"
             ]
         },
         "20": {
             "elementComponents": [
-                "CC-PVDZ",
                 "CC-PCVDZ"
             ]
         }

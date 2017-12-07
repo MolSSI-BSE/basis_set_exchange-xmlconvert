@@ -1,0 +1,12 @@
+{
+    "basisSetName": "6-31G*-Blaudeau",
+    "basisSetDescription": "VDZP    Valence Double Zeta + Polarization on All Atoms",
+    "basisSetElements": {
+        "19": {
+            "elementEntry": "6-31GS-BLAUDEAU-AGG"
+        },
+        "20": {
+            "elementEntry": "6-31GS-BLAUDEAU-AGG"
+        }
+    }
+}

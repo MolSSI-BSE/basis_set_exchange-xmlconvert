@@ -1,13 +1,7 @@
 {
-    "basisSetName": "cc-pCV6Z",
-    "basisSetDescription": "6Z5P    Sextuple Zeta + Polarization + Tight Core",
+    "basisSetName": "Core/valence Functions (cc-pCV6Z)",
+    "basisSetDescription": "Core/valence Functions (cc-pCV6Z)",
     "basisSetElements": {
-        "1": {
-            "elementEntry": "CC-PV6Z"
-        },
-        "2": {
-            "elementEntry": "CC-PV6Z"
-        },
         "5": {
             "elementEntry": "CC-PCV6Z"
         },

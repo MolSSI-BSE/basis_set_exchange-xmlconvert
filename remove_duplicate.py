@@ -3,6 +3,7 @@
 import json
 import os
 import sys
+import glob
 
 import bse
 import numpy as np
@@ -13,10 +14,17 @@ def compare_shell(shell1, shell2):
     if shell1['shellFunctionType'] != shell2['shellFunctionType']:
         return False
 
-    exponents1 = np.array(shell1['shellExponents']).astype(np.float)
-    exponents2 = np.array(shell2['shellExponents']).astype(np.float)
-    coefficients1 = np.array(shell1['shellCoefficients']).astype(np.float)
-    coefficients2 = np.array(shell2['shellCoefficients']).astype(np.float)
+
+    # Replace fortran-style 'D' with 'E'
+    exponents1 = [ x.replace('D', 'E') for x in shell1['shellExponents'] ]
+    exponents2 = [ x.replace('D', 'E') for x in shell2['shellExponents'] ]
+    coefficients1 = [ [ x.replace('D', 'E') for x in y ] for y in shell1['shellCoefficients'] ]
+    coefficients2 = [ [ x.replace('D', 'E') for x in y ] for y in shell2['shellCoefficients'] ]
+
+    exponents1 = np.array(exponents1).astype(np.float)
+    exponents2 = np.array(exponents2).astype(np.float)
+    coefficients1 = np.array(coefficients1).astype(np.float)
+    coefficients2 = np.array(coefficients2).astype(np.float)
 
     if exponents1.shape != exponents2.shape:
         return False
@@ -53,14 +61,12 @@ source_file = sys.argv[1]
 json_files = sys.argv[2:]
 
 component_files = []
-element_files = []
+element_files = glob.glob("*.element.json")
 
 for x in json_files:
     if x == source_file:
         continue
-    elif x.endswith('.element.json'):
-        element_files.append(x)
-    elif not x.endswith('.table.json'):
+    else:
         component_files.append(x)
 
 # Read in the source file

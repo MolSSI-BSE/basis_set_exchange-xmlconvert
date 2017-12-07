@@ -1,238 +1,199 @@
 {
-    "basisSetName": "aug-cc-pVDZ-PP",
-    "basisSetDescription": "VDZPD   Valence Double Zeta + Polarization on All Atoms",
+    "basisSetName": "aug-cc-pVDZ-PP Diffuse",
+    "basisSetDescription": "aug-cc-pVDZ-PP Diffuse",
     "basisSetElements": {
         "29": {
             "elementComponents": [
-                "CC-PVDZ-PP",
                 "AUG-CC-PVDZ-PP"
             ]
         },
         "30": {
             "elementComponents": [
-                "CC-PVDZ-PP",
                 "AUG-CC-PVDZ-PP"
             ]
         },
         "31": {
             "elementComponents": [
-                "CC-PVDZ-PP",
                 "AUG-CC-PVDZ-PP"
             ]
         },
         "32": {
             "elementComponents": [
-                "CC-PVDZ-PP",
                 "AUG-CC-PVDZ-PP"
             ]
         },
         "33": {
             "elementComponents": [
-                "CC-PVDZ-PP",
                 "AUG-CC-PVDZ-PP"
             ]
         },
         "34": {
             "elementComponents": [
-                "CC-PVDZ-PP",
                 "AUG-CC-PVDZ-PP"
             ]
         },
         "35": {
             "elementComponents": [
-                "CC-PVDZ-PP",
                 "AUG-CC-PVDZ-PP"
             ]
         },
         "36": {
             "elementComponents": [
-                "CC-PVDZ-PP",
                 "AUG-CC-PVDZ-PP"
             ]
         },
         "39": {
             "elementComponents": [
-                "CC-PVDZ-PP",
                 "AUG-CC-PVDZ-PP"
             ]
         },
         "40": {
             "elementComponents": [
-                "CC-PVDZ-PP",
                 "AUG-CC-PVDZ-PP"
             ]
         },
         "41": {
             "elementComponents": [
-                "CC-PVDZ-PP",
                 "AUG-CC-PVDZ-PP"
             ]
         },
         "42": {
             "elementComponents": [
-                "CC-PVDZ-PP",
                 "AUG-CC-PVDZ-PP"
             ]
         },
         "43": {
             "elementComponents": [
-                "CC-PVDZ-PP",
                 "AUG-CC-PVDZ-PP"
             ]
         },
         "44": {
             "elementComponents": [
-                "CC-PVDZ-PP",
                 "AUG-CC-PVDZ-PP"
             ]
         },
         "45": {
             "elementComponents": [
-                "CC-PVDZ-PP",
                 "AUG-CC-PVDZ-PP"
             ]
         },
         "46": {
             "elementComponents": [
-                "CC-PVDZ-PP",
                 "AUG-CC-PVDZ-PP"
             ]
         },
         "47": {
             "elementComponents": [
-                "CC-PVDZ-PP",
                 "AUG-CC-PVDZ-PP"
             ]
         },
         "48": {
             "elementComponents": [
-                "CC-PVDZ-PP",
                 "AUG-CC-PVDZ-PP"
             ]
         },
         "49": {
             "elementComponents": [
-                "CC-PVDZ-PP",
                 "AUG-CC-PVDZ-PP"
             ]
         },
         "50": {
             "elementComponents": [
-                "CC-PVDZ-PP",
                 "AUG-CC-PVDZ-PP"
             ]
         },
         "51": {
             "elementComponents": [
-                "CC-PVDZ-PP",
                 "AUG-CC-PVDZ-PP"
             ]
         },
         "52": {
             "elementComponents": [
-                "CC-PVDZ-PP",
                 "AUG-CC-PVDZ-PP"
             ]
         },
         "53": {
             "elementComponents": [
-                "CC-PVDZ-PP",
                 "AUG-CC-PVDZ-PP"
             ]
         },
         "54": {
             "elementComponents": [
-                "CC-PVDZ-PP",
                 "AUG-CC-PVDZ-PP"
             ]
         },
         "72": {
             "elementComponents": [
-                "CC-PVDZ-PP",
                 "AUG-CC-PVDZ-PP"
             ]
         },
         "73": {
             "elementComponents": [
-                "CC-PVDZ-PP",
                 "AUG-CC-PVDZ-PP"
             ]
         },
         "74": {
             "elementComponents": [
-                "CC-PVDZ-PP",
                 "AUG-CC-PVDZ-PP"
             ]
         },
         "75": {
             "elementComponents": [
-                "CC-PVDZ-PP",
                 "AUG-CC-PVDZ-PP"
             ]
         },
         "76": {
             "elementComponents": [
-                "CC-PVDZ-PP",
                 "AUG-CC-PVDZ-PP"
             ]
         },
         "77": {
             "elementComponents": [
-                "CC-PVDZ-PP",
                 "AUG-CC-PVDZ-PP"
             ]
         },
         "78": {
             "elementComponents": [
-                "CC-PVDZ-PP",
                 "AUG-CC-PVDZ-PP"
             ]
         },
         "79": {
             "elementComponents": [
-                "CC-PVDZ-PP",
                 "AUG-CC-PVDZ-PP"
             ]
         },
         "80": {
             "elementComponents": [
-                "CC-PVDZ-PP",
                 "AUG-CC-PVDZ-PP"
             ]
         },
         "81": {
             "elementComponents": [
-                "CC-PVDZ-PP",
                 "AUG-CC-PVDZ-PP"
             ]
         },
         "82": {
             "elementComponents": [
-                "CC-PVDZ-PP",
                 "AUG-CC-PVDZ-PP"
             ]
         },
         "83": {
             "elementComponents": [
-                "CC-PVDZ-PP",
                 "AUG-CC-PVDZ-PP"
             ]
         },
         "84": {
             "elementComponents": [
-                "CC-PVDZ-PP",
                 "AUG-CC-PVDZ-PP"
             ]
         },
         "85": {
             "elementComponents": [
-                "CC-PVDZ-PP",
                 "AUG-CC-PVDZ-PP"
             ]
         },
         "86": {
             "elementComponents": [
-                "CC-PVDZ-PP",
                 "AUG-CC-PVDZ-PP"
             ]
         }
