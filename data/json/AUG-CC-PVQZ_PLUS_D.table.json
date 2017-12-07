@@ -1,0 +1,24 @@
+{
+    "basisSetName": "aug-cc-pV(Q+d)Z Diffuse",
+    "basisSetDescription": "1D      Diffuse Functions",
+    "basisSetElements": {
+        "13": {
+            "elementEntry": "AUG-CC-PVQZ_PLUS_D"
+        },
+        "14": {
+            "elementEntry": "AUG-CC-PVQZ_PLUS_D"
+        },
+        "15": {
+            "elementEntry": "AUG-CC-PVQZ_PLUS_D"
+        },
+        "16": {
+            "elementEntry": "AUG-CC-PVQZ_PLUS_D"
+        },
+        "17": {
+            "elementEntry": "AUG-CC-PVQZ_PLUS_D"
+        },
+        "18": {
+            "elementEntry": "AUG-CC-PVQZ_PLUS_D"
+        }
+    }
+}

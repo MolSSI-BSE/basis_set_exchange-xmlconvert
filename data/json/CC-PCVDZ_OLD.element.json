@@ -1,0 +1,36 @@
+{
+    "basisSetName": "Core/valence Functions (cc-pCVDZ(old))",
+    "basisSetDescription": "Core/valence Functions (cc-pCVDZ(old))",
+    "basisSetElements": {
+        "13": {
+            "elementComponents": [
+                "CC-PCVDZ_OLD"
+            ]
+        },
+        "14": {
+            "elementComponents": [
+                "CC-PCVDZ_OLD"
+            ]
+        },
+        "15": {
+            "elementComponents": [
+                "CC-PCVDZ_OLD"
+            ]
+        },
+        "16": {
+            "elementComponents": [
+                "CC-PCVDZ_OLD"
+            ]
+        },
+        "17": {
+            "elementComponents": [
+                "CC-PCVDZ_OLD"
+            ]
+        },
+        "18": {
+            "elementComponents": [
+                "CC-PCVDZ_OLD"
+            ]
+        }
+    }
+}

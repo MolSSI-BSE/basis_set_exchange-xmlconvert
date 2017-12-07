@@ -1,0 +1,42 @@
+{
+    "basisSetName": "Dunning-Hay Double Rydberg",
+    "basisSetDescription": "2R      Double Rydberg Functions",
+    "basisSetElements": {
+        "5": {
+            "elementEntry": "RYD2-DUNNING"
+        },
+        "6": {
+            "elementEntry": "RYD2-DUNNING"
+        },
+        "7": {
+            "elementEntry": "RYD2-DUNNING"
+        },
+        "8": {
+            "elementEntry": "RYD2-DUNNING"
+        },
+        "9": {
+            "elementEntry": "RYD2-DUNNING"
+        },
+        "10": {
+            "elementEntry": "RYD2-DUNNING"
+        },
+        "13": {
+            "elementEntry": "RYD2-DUNNING"
+        },
+        "14": {
+            "elementEntry": "RYD2-DUNNING"
+        },
+        "15": {
+            "elementEntry": "RYD2-DUNNING"
+        },
+        "16": {
+            "elementEntry": "RYD2-DUNNING"
+        },
+        "17": {
+            "elementEntry": "RYD2-DUNNING"
+        },
+        "18": {
+            "elementEntry": "RYD2-DUNNING"
+        }
+    }
+}

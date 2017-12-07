@@ -1,0 +1,51 @@
+{
+    "basisSetName": "SVP (Dunning-Hay)",
+    "basisSetDescription": "VDZP    Valence Double Zeta + Polarization on All Atoms",
+    "basisSetElements": {
+        "1": {
+            "elementEntry": "SVPDUNNING-HAY"
+        },
+        "2": {
+            "elementEntry": "DUNHAYPOL"
+        },
+        "3": {
+            "elementEntry": "SVPDUNNING-HAY"
+        },
+        "4": {
+            "elementEntry": "SVPDUNNING-HAY"
+        },
+        "5": {
+            "elementEntry": "SVPDUNNING-HAY"
+        },
+        "6": {
+            "elementEntry": "SVPDUNNING-HAY"
+        },
+        "7": {
+            "elementEntry": "SVPDUNNING-HAY"
+        },
+        "8": {
+            "elementEntry": "SVPDUNNING-HAY"
+        },
+        "9": {
+            "elementEntry": "SVPDUNNING-HAY"
+        },
+        "10": {
+            "elementEntry": "SVPDUNNING-HAY"
+        },
+        "13": {
+            "elementEntry": "DUNHAYPOL"
+        },
+        "14": {
+            "elementEntry": "DUNHAYPOL"
+        },
+        "15": {
+            "elementEntry": "DUNHAYPOL"
+        },
+        "16": {
+            "elementEntry": "DUNHAYPOL"
+        },
+        "17": {
+            "elementEntry": "DUNHAYPOL"
+        }
+    }
+}

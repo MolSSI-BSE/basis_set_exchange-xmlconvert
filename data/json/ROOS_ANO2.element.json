@@ -1,0 +1,146 @@
+{
+    "basisSetName": "Roos Augmented Triple Zeta ANO",
+    "basisSetDescription": "Roos Augmented Triple Zeta ANO",
+    "basisSetElements": {
+        "1": {
+            "elementComponents": [
+                "ROOS_ANO2"
+            ]
+        },
+        "2": {
+            "elementComponents": [
+                "ROOS_ANO2"
+            ]
+        },
+        "3": {
+            "elementComponents": [
+                "ROOS_ANO2"
+            ]
+        },
+        "4": {
+            "elementComponents": [
+                "ROOS_ANO2"
+            ]
+        },
+        "5": {
+            "elementComponents": [
+                "ROOS_ANO2"
+            ]
+        },
+        "6": {
+            "elementComponents": [
+                "ROOS_ANO2"
+            ]
+        },
+        "7": {
+            "elementComponents": [
+                "ROOS_ANO2"
+            ]
+        },
+        "8": {
+            "elementComponents": [
+                "ROOS_ANO2"
+            ]
+        },
+        "9": {
+            "elementComponents": [
+                "ROOS_ANO2"
+            ]
+        },
+        "10": {
+            "elementComponents": [
+                "ROOS_ANO2"
+            ]
+        },
+        "11": {
+            "elementComponents": [
+                "ROOS_ANO2"
+            ]
+        },
+        "12": {
+            "elementComponents": [
+                "ROOS_ANO2"
+            ]
+        },
+        "13": {
+            "elementComponents": [
+                "ROOS_ANO2"
+            ]
+        },
+        "14": {
+            "elementComponents": [
+                "ROOS_ANO2"
+            ]
+        },
+        "15": {
+            "elementComponents": [
+                "ROOS_ANO2"
+            ]
+        },
+        "16": {
+            "elementComponents": [
+                "ROOS_ANO2"
+            ]
+        },
+        "17": {
+            "elementComponents": [
+                "ROOS_ANO2"
+            ]
+        },
+        "18": {
+            "elementComponents": [
+                "ROOS_ANO2"
+            ]
+        },
+        "21": {
+            "elementComponents": [
+                "ROOS_ANO2"
+            ]
+        },
+        "22": {
+            "elementComponents": [
+                "ROOS_ANO2"
+            ]
+        },
+        "23": {
+            "elementComponents": [
+                "ROOS_ANO2"
+            ]
+        },
+        "24": {
+            "elementComponents": [
+                "ROOS_ANO2"
+            ]
+        },
+        "25": {
+            "elementComponents": [
+                "ROOS_ANO2"
+            ]
+        },
+        "26": {
+            "elementComponents": [
+                "ROOS_ANO2"
+            ]
+        },
+        "27": {
+            "elementComponents": [
+                "ROOS_ANO2"
+            ]
+        },
+        "28": {
+            "elementComponents": [
+                "ROOS_ANO2"
+            ]
+        },
+        "29": {
+            "elementComponents": [
+                "ROOS_ANO2"
+            ]
+        },
+        "30": {
+            "elementComponents": [
+                "ROOS_ANO2"
+            ]
+        }
+    }
+}

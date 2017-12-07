@@ -1,0 +1,66 @@
+{
+    "basisSetName": "cc-pwCV5Z Core Set",
+    "basisSetDescription": "cc-pwCV5Z Core Set",
+    "basisSetElements": {
+        "5": {
+            "elementComponents": [
+                "CC-PWCV5Z0"
+            ]
+        },
+        "6": {
+            "elementComponents": [
+                "CC-PWCV5Z0"
+            ]
+        },
+        "7": {
+            "elementComponents": [
+                "CC-PWCV5Z0"
+            ]
+        },
+        "8": {
+            "elementComponents": [
+                "CC-PWCV5Z0"
+            ]
+        },
+        "9": {
+            "elementComponents": [
+                "CC-PWCV5Z0"
+            ]
+        },
+        "10": {
+            "elementComponents": [
+                "CC-PWCV5Z0"
+            ]
+        },
+        "13": {
+            "elementComponents": [
+                "CC-PWCV5Z0"
+            ]
+        },
+        "14": {
+            "elementComponents": [
+                "CC-PWCV5Z0"
+            ]
+        },
+        "15": {
+            "elementComponents": [
+                "CC-PWCV5Z0"
+            ]
+        },
+        "16": {
+            "elementComponents": [
+                "CC-PWCV5Z0"
+            ]
+        },
+        "17": {
+            "elementComponents": [
+                "CC-PWCV5Z0"
+            ]
+        },
+        "18": {
+            "elementComponents": [
+                "CC-PWCV5Z0"
+            ]
+        }
+    }
+}

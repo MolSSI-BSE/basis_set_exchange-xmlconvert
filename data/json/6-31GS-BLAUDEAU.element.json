@@ -1,0 +1,16 @@
+{
+    "basisSetName": "Blaudeau Polarization",
+    "basisSetDescription": "1P      Polarization functions",
+    "basisSetElements": {
+        "19": {
+            "elementComponents": [
+                "6-31GS-BLAUDEAU"
+            ]
+        },
+        "20": {
+            "elementComponents": [
+                "6-31GS-BLAUDEAU"
+            ]
+        }
+    }
+}

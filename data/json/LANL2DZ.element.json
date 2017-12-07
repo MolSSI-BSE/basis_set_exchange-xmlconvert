@@ -1,0 +1,361 @@
+{
+    "basisSetName": "LANL2DZ ECP",
+    "basisSetDescription": "LANL2DZ ECP",
+    "basisSetElements": {
+        "1": {
+            "elementComponents": [
+                "LANL2DZ"
+            ]
+        },
+        "3": {
+            "elementComponents": [
+                "LANL2DZ"
+            ]
+        },
+        "4": {
+            "elementComponents": [
+                "LANL2DZ"
+            ]
+        },
+        "5": {
+            "elementComponents": [
+                "LANL2DZ"
+            ]
+        },
+        "6": {
+            "elementComponents": [
+                "LANL2DZ"
+            ]
+        },
+        "7": {
+            "elementComponents": [
+                "LANL2DZ"
+            ]
+        },
+        "8": {
+            "elementComponents": [
+                "LANL2DZ"
+            ]
+        },
+        "9": {
+            "elementComponents": [
+                "LANL2DZ"
+            ]
+        },
+        "10": {
+            "elementComponents": [
+                "LANL2DZ"
+            ]
+        },
+        "11": {
+            "elementComponents": [
+                "LANL2DZ"
+            ]
+        },
+        "12": {
+            "elementComponents": [
+                "LANL2DZ"
+            ]
+        },
+        "13": {
+            "elementComponents": [
+                "LANL2DZ"
+            ]
+        },
+        "14": {
+            "elementComponents": [
+                "LANL2DZ"
+            ]
+        },
+        "15": {
+            "elementComponents": [
+                "LANL2DZ"
+            ]
+        },
+        "16": {
+            "elementComponents": [
+                "LANL2DZ"
+            ]
+        },
+        "17": {
+            "elementComponents": [
+                "LANL2DZ"
+            ]
+        },
+        "18": {
+            "elementComponents": [
+                "LANL2DZ"
+            ]
+        },
+        "19": {
+            "elementComponents": [
+                "LANL2DZ"
+            ]
+        },
+        "20": {
+            "elementComponents": [
+                "LANL2DZ"
+            ]
+        },
+        "21": {
+            "elementComponents": [
+                "LANL2DZ"
+            ]
+        },
+        "22": {
+            "elementComponents": [
+                "LANL2DZ"
+            ]
+        },
+        "23": {
+            "elementComponents": [
+                "LANL2DZ"
+            ]
+        },
+        "24": {
+            "elementComponents": [
+                "LANL2DZ"
+            ]
+        },
+        "25": {
+            "elementComponents": [
+                "LANL2DZ"
+            ]
+        },
+        "26": {
+            "elementComponents": [
+                "LANL2DZ"
+            ]
+        },
+        "27": {
+            "elementComponents": [
+                "LANL2DZ"
+            ]
+        },
+        "28": {
+            "elementComponents": [
+                "LANL2DZ"
+            ]
+        },
+        "29": {
+            "elementComponents": [
+                "LANL2DZ"
+            ]
+        },
+        "30": {
+            "elementComponents": [
+                "LANL2DZ"
+            ]
+        },
+        "31": {
+            "elementComponents": [
+                "LANL2DZ"
+            ]
+        },
+        "32": {
+            "elementComponents": [
+                "LANL2DZ"
+            ]
+        },
+        "33": {
+            "elementComponents": [
+                "LANL2DZ"
+            ]
+        },
+        "34": {
+            "elementComponents": [
+                "LANL2DZ"
+            ]
+        },
+        "35": {
+            "elementComponents": [
+                "LANL2DZ"
+            ]
+        },
+        "36": {
+            "elementComponents": [
+                "LANL2DZ"
+            ]
+        },
+        "37": {
+            "elementComponents": [
+                "LANL2DZ"
+            ]
+        },
+        "38": {
+            "elementComponents": [
+                "LANL2DZ"
+            ]
+        },
+        "39": {
+            "elementComponents": [
+                "LANL2DZ"
+            ]
+        },
+        "40": {
+            "elementComponents": [
+                "LANL2DZ"
+            ]
+        },
+        "41": {
+            "elementComponents": [
+                "LANL2DZ"
+            ]
+        },
+        "42": {
+            "elementComponents": [
+                "LANL2DZ"
+            ]
+        },
+        "43": {
+            "elementComponents": [
+                "LANL2DZ"
+            ]
+        },
+        "44": {
+            "elementComponents": [
+                "LANL2DZ"
+            ]
+        },
+        "45": {
+            "elementComponents": [
+                "LANL2DZ"
+            ]
+        },
+        "46": {
+            "elementComponents": [
+                "LANL2DZ"
+            ]
+        },
+        "47": {
+            "elementComponents": [
+                "LANL2DZ"
+            ]
+        },
+        "48": {
+            "elementComponents": [
+                "LANL2DZ"
+            ]
+        },
+        "49": {
+            "elementComponents": [
+                "LANL2DZ"
+            ]
+        },
+        "50": {
+            "elementComponents": [
+                "LANL2DZ"
+            ]
+        },
+        "51": {
+            "elementComponents": [
+                "LANL2DZ"
+            ]
+        },
+        "52": {
+            "elementComponents": [
+                "LANL2DZ"
+            ]
+        },
+        "53": {
+            "elementComponents": [
+                "LANL2DZ"
+            ]
+        },
+        "54": {
+            "elementComponents": [
+                "LANL2DZ"
+            ]
+        },
+        "55": {
+            "elementComponents": [
+                "LANL2DZ"
+            ]
+        },
+        "56": {
+            "elementComponents": [
+                "LANL2DZ"
+            ]
+        },
+        "57": {
+            "elementComponents": [
+                "LANL2DZ"
+            ]
+        },
+        "72": {
+            "elementComponents": [
+                "LANL2DZ"
+            ]
+        },
+        "73": {
+            "elementComponents": [
+                "LANL2DZ"
+            ]
+        },
+        "74": {
+            "elementComponents": [
+                "LANL2DZ"
+            ]
+        },
+        "75": {
+            "elementComponents": [
+                "LANL2DZ"
+            ]
+        },
+        "76": {
+            "elementComponents": [
+                "LANL2DZ"
+            ]
+        },
+        "77": {
+            "elementComponents": [
+                "LANL2DZ"
+            ]
+        },
+        "78": {
+            "elementComponents": [
+                "LANL2DZ"
+            ]
+        },
+        "79": {
+            "elementComponents": [
+                "LANL2DZ"
+            ]
+        },
+        "80": {
+            "elementComponents": [
+                "LANL2DZ"
+            ]
+        },
+        "81": {
+            "elementComponents": [
+                "LANL2DZ"
+            ]
+        },
+        "82": {
+            "elementComponents": [
+                "LANL2DZ"
+            ]
+        },
+        "83": {
+            "elementComponents": [
+                "LANL2DZ"
+            ]
+        },
+        "92": {
+            "elementComponents": [
+                "LANL2DZ"
+            ]
+        },
+        "93": {
+            "elementComponents": [
+                "LANL2DZ"
+            ]
+        },
+        "94": {
+            "elementComponents": [
+                "LANL2DZ"
+            ]
+        }
+    }
+}

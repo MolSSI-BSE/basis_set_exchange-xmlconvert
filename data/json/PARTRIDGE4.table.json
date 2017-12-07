@@ -1,0 +1,36 @@
+{
+    "basisSetName": "Partridge Uncontracted 4",
+    "basisSetDescription": "Partridge Uncontracted 4",
+    "basisSetElements": {
+        "21": {
+            "elementEntry": "PARTRIDGE4"
+        },
+        "22": {
+            "elementEntry": "PARTRIDGE4"
+        },
+        "23": {
+            "elementEntry": "PARTRIDGE4"
+        },
+        "24": {
+            "elementEntry": "PARTRIDGE4"
+        },
+        "25": {
+            "elementEntry": "PARTRIDGE4"
+        },
+        "26": {
+            "elementEntry": "PARTRIDGE4"
+        },
+        "27": {
+            "elementEntry": "PARTRIDGE4"
+        },
+        "28": {
+            "elementEntry": "PARTRIDGE4"
+        },
+        "29": {
+            "elementEntry": "PARTRIDGE4"
+        },
+        "30": {
+            "elementEntry": "PARTRIDGE4"
+        }
+    }
+}

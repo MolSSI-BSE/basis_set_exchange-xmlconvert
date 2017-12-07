@@ -1,0 +1,31 @@
+{
+    "basisSetName": "aug-pV7Z Diffuse",
+    "basisSetDescription": "1D      Diffuse Functions",
+    "basisSetElements": {
+        "6": {
+            "elementComponents": [
+                "AUG-PV7Z"
+            ]
+        },
+        "7": {
+            "elementComponents": [
+                "AUG-PV7Z"
+            ]
+        },
+        "8": {
+            "elementComponents": [
+                "AUG-PV7Z"
+            ]
+        },
+        "9": {
+            "elementComponents": [
+                "AUG-PV7Z"
+            ]
+        },
+        "16": {
+            "elementComponents": [
+                "AUG-PV7Z"
+            ]
+        }
+    }
+}

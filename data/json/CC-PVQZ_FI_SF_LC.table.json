@@ -1,0 +1,66 @@
+{
+    "basisSetName": "cc-pVQZ(fi/sf/lc)",
+    "basisSetDescription": "VQZ3P   Relativistic Valence Quadruple Zeta + Polarization",
+    "basisSetElements": {
+        "1": {
+            "elementEntry": "CC-PVQZ_FI_SF_LC"
+        },
+        "2": {
+            "elementEntry": "CC-PVQZ_FI_SF_LC"
+        },
+        "5": {
+            "elementEntry": "CC-PVQZ_FI_SF_LC"
+        },
+        "6": {
+            "elementEntry": "CC-PVQZ_FI_SF_LC"
+        },
+        "7": {
+            "elementEntry": "CC-PVQZ_FI_SF_LC"
+        },
+        "8": {
+            "elementEntry": "CC-PVQZ_FI_SF_LC"
+        },
+        "9": {
+            "elementEntry": "CC-PVQZ_FI_SF_LC"
+        },
+        "10": {
+            "elementEntry": "CC-PVQZ_FI_SF_LC"
+        },
+        "13": {
+            "elementEntry": "CC-PVQZ_FI_SF_LC"
+        },
+        "14": {
+            "elementEntry": "CC-PVQZ_FI_SF_LC"
+        },
+        "15": {
+            "elementEntry": "CC-PVQZ_FI_SF_LC"
+        },
+        "16": {
+            "elementEntry": "CC-PVQZ_FI_SF_LC"
+        },
+        "17": {
+            "elementEntry": "CC-PVQZ_FI_SF_LC"
+        },
+        "18": {
+            "elementEntry": "CC-PVQZ_FI_SF_LC"
+        },
+        "31": {
+            "elementEntry": "CC-PVQZ_FI_SF_LC"
+        },
+        "32": {
+            "elementEntry": "CC-PVQZ_FI_SF_LC"
+        },
+        "33": {
+            "elementEntry": "CC-PVQZ_FI_SF_LC"
+        },
+        "34": {
+            "elementEntry": "CC-PVQZ_FI_SF_LC"
+        },
+        "35": {
+            "elementEntry": "CC-PVQZ_FI_SF_LC"
+        },
+        "36": {
+            "elementEntry": "CC-PVQZ_FI_SF_LC"
+        }
+    }
+}

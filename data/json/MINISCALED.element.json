@@ -1,0 +1,106 @@
+{
+    "basisSetName": "MINI (Scaled)",
+    "basisSetDescription": "MB      Minimal Basis: 1 Function/AO",
+    "basisSetElements": {
+        "1": {
+            "elementComponents": [
+                "MINISCALED"
+            ]
+        },
+        "2": {
+            "elementComponents": [
+                "MINISCALED"
+            ]
+        },
+        "3": {
+            "elementComponents": [
+                "MINISCALED"
+            ]
+        },
+        "4": {
+            "elementComponents": [
+                "MINISCALED"
+            ]
+        },
+        "5": {
+            "elementComponents": [
+                "MINISCALED"
+            ]
+        },
+        "6": {
+            "elementComponents": [
+                "MINISCALED"
+            ]
+        },
+        "7": {
+            "elementComponents": [
+                "MINISCALED"
+            ]
+        },
+        "8": {
+            "elementComponents": [
+                "MINISCALED"
+            ]
+        },
+        "9": {
+            "elementComponents": [
+                "MINISCALED"
+            ]
+        },
+        "10": {
+            "elementComponents": [
+                "MINISCALED"
+            ]
+        },
+        "11": {
+            "elementComponents": [
+                "MINISCALED"
+            ]
+        },
+        "12": {
+            "elementComponents": [
+                "MINISCALED"
+            ]
+        },
+        "13": {
+            "elementComponents": [
+                "MINISCALED"
+            ]
+        },
+        "14": {
+            "elementComponents": [
+                "MINISCALED"
+            ]
+        },
+        "15": {
+            "elementComponents": [
+                "MINISCALED"
+            ]
+        },
+        "16": {
+            "elementComponents": [
+                "MINISCALED"
+            ]
+        },
+        "17": {
+            "elementComponents": [
+                "MINISCALED"
+            ]
+        },
+        "18": {
+            "elementComponents": [
+                "MINISCALED"
+            ]
+        },
+        "19": {
+            "elementComponents": [
+                "MINISCALED"
+            ]
+        },
+        "20": {
+            "elementComponents": [
+                "MINISCALED"
+            ]
+        }
+    }
+}

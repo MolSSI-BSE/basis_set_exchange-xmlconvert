@@ -1,0 +1,36 @@
+{
+    "basisSetName": "cc-pVTZ-fit2-1",
+    "basisSetDescription": "VTZP    RI-MP2 triple zeta fitting basis set",
+    "basisSetElements": {
+        "1": {
+            "elementEntry": "CC-PVTZ-FIT2-1"
+        },
+        "2": {
+            "elementEntry": "CC-PVTZ-FIT2-1"
+        },
+        "3": {
+            "elementEntry": "CC-PVTZ-FIT2-1"
+        },
+        "4": {
+            "elementEntry": "CC-PVTZ-FIT2-1"
+        },
+        "5": {
+            "elementEntry": "CC-PVTZ-FIT2-1"
+        },
+        "6": {
+            "elementEntry": "CC-PVTZ-FIT2-1"
+        },
+        "7": {
+            "elementEntry": "CC-PVTZ-FIT2-1"
+        },
+        "8": {
+            "elementEntry": "CC-PVTZ-FIT2-1"
+        },
+        "9": {
+            "elementEntry": "CC-PVTZ-FIT2-1"
+        },
+        "10": {
+            "elementEntry": "CC-PVTZ-FIT2-1"
+        }
+    }
+}

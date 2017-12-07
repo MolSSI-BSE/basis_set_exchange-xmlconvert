@@ -1,0 +1,42 @@
+{
+    "basisSetName": "SDB-cc-pVTZ",
+    "basisSetDescription": "VTZ2P   Valence Triple Zeta + Polarization on All Atoms",
+    "basisSetElements": {
+        "31": {
+            "elementEntry": "SDB-CC-PVTZ"
+        },
+        "32": {
+            "elementEntry": "SDB-CC-PVTZ"
+        },
+        "33": {
+            "elementEntry": "SDB-CC-PVTZ"
+        },
+        "34": {
+            "elementEntry": "SDB-CC-PVTZ"
+        },
+        "35": {
+            "elementEntry": "SDB-CC-PVTZ"
+        },
+        "36": {
+            "elementEntry": "SDB-CC-PVTZ"
+        },
+        "49": {
+            "elementEntry": "SDB-CC-PVTZ"
+        },
+        "50": {
+            "elementEntry": "SDB-CC-PVTZ"
+        },
+        "51": {
+            "elementEntry": "SDB-CC-PVTZ"
+        },
+        "52": {
+            "elementEntry": "SDB-CC-PVTZ"
+        },
+        "53": {
+            "elementEntry": "SDB-CC-PVTZ"
+        },
+        "54": {
+            "elementEntry": "SDB-CC-PVTZ"
+        }
+    }
+}

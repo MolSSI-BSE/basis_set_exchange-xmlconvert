@@ -1,0 +1,354 @@
+{
+    "basisSetName": "CRENBL ECP",
+    "basisSetDescription": "CRENBL ECP",
+    "basisSetElements": {
+        "1": {
+            "elementEntry": "CRENBL"
+        },
+        "3": {
+            "elementEntry": "CRENBL"
+        },
+        "4": {
+            "elementEntry": "CRENBL"
+        },
+        "5": {
+            "elementEntry": "CRENBL"
+        },
+        "6": {
+            "elementEntry": "CRENBL"
+        },
+        "7": {
+            "elementEntry": "CRENBL"
+        },
+        "8": {
+            "elementEntry": "CRENBL"
+        },
+        "9": {
+            "elementEntry": "CRENBL"
+        },
+        "10": {
+            "elementEntry": "CRENBL"
+        },
+        "11": {
+            "elementEntry": "CRENBL"
+        },
+        "12": {
+            "elementEntry": "CRENBL"
+        },
+        "13": {
+            "elementEntry": "CRENBL"
+        },
+        "14": {
+            "elementEntry": "CRENBL"
+        },
+        "15": {
+            "elementEntry": "CRENBL"
+        },
+        "16": {
+            "elementEntry": "CRENBL"
+        },
+        "17": {
+            "elementEntry": "CRENBL"
+        },
+        "18": {
+            "elementEntry": "CRENBL"
+        },
+        "19": {
+            "elementEntry": "CRENBL"
+        },
+        "20": {
+            "elementEntry": "CRENBL"
+        },
+        "21": {
+            "elementEntry": "CRENBL"
+        },
+        "22": {
+            "elementEntry": "CRENBL"
+        },
+        "23": {
+            "elementEntry": "CRENBL"
+        },
+        "24": {
+            "elementEntry": "CRENBL"
+        },
+        "25": {
+            "elementEntry": "CRENBL"
+        },
+        "26": {
+            "elementEntry": "CRENBL"
+        },
+        "27": {
+            "elementEntry": "CRENBL"
+        },
+        "28": {
+            "elementEntry": "CRENBL"
+        },
+        "29": {
+            "elementEntry": "CRENBL"
+        },
+        "30": {
+            "elementEntry": "CRENBL"
+        },
+        "31": {
+            "elementEntry": "CRENBL"
+        },
+        "32": {
+            "elementEntry": "CRENBL"
+        },
+        "33": {
+            "elementEntry": "CRENBL"
+        },
+        "34": {
+            "elementEntry": "CRENBL"
+        },
+        "35": {
+            "elementEntry": "CRENBL"
+        },
+        "36": {
+            "elementEntry": "CRENBL"
+        },
+        "37": {
+            "elementEntry": "CRENBL"
+        },
+        "38": {
+            "elementEntry": "CRENBL"
+        },
+        "39": {
+            "elementEntry": "CRENBL"
+        },
+        "40": {
+            "elementEntry": "CRENBL"
+        },
+        "41": {
+            "elementEntry": "CRENBL"
+        },
+        "42": {
+            "elementEntry": "CRENBL"
+        },
+        "43": {
+            "elementEntry": "CRENBL"
+        },
+        "44": {
+            "elementEntry": "CRENBL"
+        },
+        "45": {
+            "elementEntry": "CRENBL"
+        },
+        "46": {
+            "elementEntry": "CRENBL"
+        },
+        "47": {
+            "elementEntry": "CRENBL"
+        },
+        "48": {
+            "elementEntry": "CRENBL"
+        },
+        "49": {
+            "elementEntry": "CRENBL"
+        },
+        "50": {
+            "elementEntry": "CRENBL"
+        },
+        "51": {
+            "elementEntry": "CRENBL"
+        },
+        "52": {
+            "elementEntry": "CRENBL"
+        },
+        "53": {
+            "elementEntry": "CRENBL"
+        },
+        "54": {
+            "elementEntry": "CRENBL"
+        },
+        "55": {
+            "elementEntry": "CRENBL"
+        },
+        "56": {
+            "elementEntry": "CRENBL"
+        },
+        "57": {
+            "elementEntry": "CRENBL"
+        },
+        "58": {
+            "elementEntry": "CRENBL"
+        },
+        "59": {
+            "elementEntry": "CRENBL"
+        },
+        "60": {
+            "elementEntry": "CRENBL"
+        },
+        "61": {
+            "elementEntry": "CRENBL"
+        },
+        "62": {
+            "elementEntry": "CRENBL"
+        },
+        "63": {
+            "elementEntry": "CRENBL"
+        },
+        "64": {
+            "elementEntry": "CRENBL"
+        },
+        "65": {
+            "elementEntry": "CRENBL"
+        },
+        "66": {
+            "elementEntry": "CRENBL"
+        },
+        "67": {
+            "elementEntry": "CRENBL"
+        },
+        "68": {
+            "elementEntry": "CRENBL"
+        },
+        "69": {
+            "elementEntry": "CRENBL"
+        },
+        "70": {
+            "elementEntry": "CRENBL"
+        },
+        "71": {
+            "elementEntry": "CRENBL"
+        },
+        "72": {
+            "elementEntry": "CRENBL"
+        },
+        "73": {
+            "elementEntry": "CRENBL"
+        },
+        "74": {
+            "elementEntry": "CRENBL"
+        },
+        "75": {
+            "elementEntry": "CRENBL"
+        },
+        "76": {
+            "elementEntry": "CRENBL"
+        },
+        "77": {
+            "elementEntry": "CRENBL"
+        },
+        "78": {
+            "elementEntry": "CRENBL"
+        },
+        "79": {
+            "elementEntry": "CRENBL"
+        },
+        "80": {
+            "elementEntry": "CRENBL"
+        },
+        "81": {
+            "elementEntry": "CRENBL"
+        },
+        "82": {
+            "elementEntry": "CRENBL"
+        },
+        "83": {
+            "elementEntry": "CRENBL"
+        },
+        "84": {
+            "elementEntry": "CRENBL"
+        },
+        "85": {
+            "elementEntry": "CRENBL"
+        },
+        "86": {
+            "elementEntry": "CRENBL"
+        },
+        "87": {
+            "elementEntry": "CRENBL"
+        },
+        "88": {
+            "elementEntry": "CRENBL"
+        },
+        "89": {
+            "elementEntry": "CRENBL"
+        },
+        "90": {
+            "elementEntry": "CRENBL"
+        },
+        "91": {
+            "elementEntry": "CRENBL"
+        },
+        "92": {
+            "elementEntry": "CRENBL"
+        },
+        "93": {
+            "elementEntry": "CRENBL"
+        },
+        "94": {
+            "elementEntry": "CRENBL"
+        },
+        "95": {
+            "elementEntry": "CRENBL"
+        },
+        "96": {
+            "elementEntry": "CRENBL"
+        },
+        "97": {
+            "elementEntry": "CRENBL"
+        },
+        "98": {
+            "elementEntry": "CRENBL"
+        },
+        "99": {
+            "elementEntry": "CRENBL"
+        },
+        "100": {
+            "elementEntry": "CRENBL"
+        },
+        "101": {
+            "elementEntry": "CRENBL"
+        },
+        "102": {
+            "elementEntry": "CRENBL"
+        },
+        "103": {
+            "elementEntry": "CRENBL"
+        },
+        "104": {
+            "elementEntry": "CRENBL"
+        },
+        "105": {
+            "elementEntry": "CRENBL"
+        },
+        "106": {
+            "elementEntry": "CRENBL"
+        },
+        "107": {
+            "elementEntry": "CRENBL"
+        },
+        "108": {
+            "elementEntry": "CRENBL"
+        },
+        "109": {
+            "elementEntry": "CRENBL"
+        },
+        "110": {
+            "elementEntry": "CRENBL"
+        },
+        "111": {
+            "elementEntry": "CRENBL"
+        },
+        "112": {
+            "elementEntry": "CRENBL"
+        },
+        "113": {
+            "elementEntry": "CRENBL"
+        },
+        "115": {
+            "elementEntry": "CRENBL"
+        },
+        "116": {
+            "elementEntry": "CRENBL"
+        },
+        "117": {
+            "elementEntry": "CRENBL"
+        },
+        "118": {
+            "elementEntry": "CRENBL"
+        }
+    }
+}

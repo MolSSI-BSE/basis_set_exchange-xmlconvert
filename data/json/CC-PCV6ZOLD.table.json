@@ -1,0 +1,48 @@
+{
+    "basisSetName": "cc-pCV6Z(old)",
+    "basisSetDescription": "6Z5P    Sextuple Zeta + Polarization + Tight Core",
+    "basisSetElements": {
+        "1": {
+            "elementEntry": "CC-PV6Z"
+        },
+        "2": {
+            "elementEntry": "CC-PV6Z"
+        },
+        "5": {
+            "elementEntry": "CC-PV6Z"
+        },
+        "6": {
+            "elementEntry": "CC-PV6Z"
+        },
+        "7": {
+            "elementEntry": "CC-PV6Z"
+        },
+        "8": {
+            "elementEntry": "CC-PCV6ZOLD"
+        },
+        "9": {
+            "elementEntry": "CC-PV6Z"
+        },
+        "10": {
+            "elementEntry": "CC-PV6Z"
+        },
+        "13": {
+            "elementEntry": "CC-PV6Z"
+        },
+        "14": {
+            "elementEntry": "CC-PV6Z"
+        },
+        "15": {
+            "elementEntry": "CC-PV6Z"
+        },
+        "16": {
+            "elementEntry": "CC-PV6Z"
+        },
+        "17": {
+            "elementEntry": "CC-PV6Z"
+        },
+        "18": {
+            "elementEntry": "CC-PV6Z"
+        }
+    }
+}

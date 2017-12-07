@@ -1,0 +1,36 @@
+{
+    "basisSetName": "cc-pwCVTZ-NR",
+    "basisSetDescription": "TZ2P    All-electron non-relativistic Core-Valence Triple Zeta + Polarization",
+    "basisSetElements": {
+        "21": {
+            "elementEntry": "CC-PWCVTZ-NR"
+        },
+        "22": {
+            "elementEntry": "CC-PWCVTZ-NR"
+        },
+        "23": {
+            "elementEntry": "CC-PWCVTZ-NR"
+        },
+        "24": {
+            "elementEntry": "CC-PWCVTZ-NR"
+        },
+        "25": {
+            "elementEntry": "CC-PWCVTZ-NR"
+        },
+        "26": {
+            "elementEntry": "CC-PWCVTZ-NR"
+        },
+        "27": {
+            "elementEntry": "CC-PWCVTZ-NR"
+        },
+        "28": {
+            "elementEntry": "CC-PWCVTZ-NR"
+        },
+        "29": {
+            "elementEntry": "CC-PWCVTZ-NR"
+        },
+        "30": {
+            "elementEntry": "CC-PWCVTZ-NR"
+        }
+    }
+}

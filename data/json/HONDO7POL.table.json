@@ -1,0 +1,57 @@
+{
+    "basisSetName": "HONDO7 Polarization",
+    "basisSetDescription": "1P      Polarization functions from HONDO7",
+    "basisSetElements": {
+        "1": {
+            "elementEntry": "HONDO7POL"
+        },
+        "2": {
+            "elementEntry": "HONDO7POL"
+        },
+        "4": {
+            "elementEntry": "HONDO7POL"
+        },
+        "5": {
+            "elementEntry": "HONDO7POL"
+        },
+        "6": {
+            "elementEntry": "HONDO7POL"
+        },
+        "7": {
+            "elementEntry": "HONDO7POL"
+        },
+        "8": {
+            "elementEntry": "HONDO7POL"
+        },
+        "9": {
+            "elementEntry": "HONDO7POL"
+        },
+        "10": {
+            "elementEntry": "HONDO7POL"
+        },
+        "11": {
+            "elementEntry": "HONDO7POL"
+        },
+        "12": {
+            "elementEntry": "HONDO7POL"
+        },
+        "13": {
+            "elementEntry": "HONDO7POL"
+        },
+        "14": {
+            "elementEntry": "HONDO7POL"
+        },
+        "15": {
+            "elementEntry": "HONDO7POL"
+        },
+        "16": {
+            "elementEntry": "HONDO7POL"
+        },
+        "17": {
+            "elementEntry": "HONDO7POL"
+        },
+        "18": {
+            "elementEntry": "HONDO7POL"
+        }
+    }
+}

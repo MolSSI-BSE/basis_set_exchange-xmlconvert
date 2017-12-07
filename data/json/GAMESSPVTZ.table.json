@@ -1,0 +1,57 @@
+{
+    "basisSetName": "GAMESS PVTZ",
+    "basisSetDescription": "VTZP    Valence Triple Zeta + Polarization on All Atoms",
+    "basisSetElements": {
+        "1": {
+            "elementEntry": "GAMESSPVTZ"
+        },
+        "2": {
+            "elementEntry": "HONDO7POL"
+        },
+        "4": {
+            "elementEntry": "GAMESSPVTZ"
+        },
+        "5": {
+            "elementEntry": "GAMESSPVTZ"
+        },
+        "6": {
+            "elementEntry": "GAMESSPVTZ"
+        },
+        "7": {
+            "elementEntry": "GAMESSPVTZ"
+        },
+        "8": {
+            "elementEntry": "GAMESSPVTZ"
+        },
+        "9": {
+            "elementEntry": "GAMESSPVTZ"
+        },
+        "10": {
+            "elementEntry": "GAMESSPVTZ"
+        },
+        "11": {
+            "elementEntry": "GAMESSPVTZ"
+        },
+        "12": {
+            "elementEntry": "GAMESSPVTZ"
+        },
+        "13": {
+            "elementEntry": "GAMESSPVTZ"
+        },
+        "14": {
+            "elementEntry": "GAMESSPVTZ"
+        },
+        "15": {
+            "elementEntry": "GAMESSPVTZ"
+        },
+        "16": {
+            "elementEntry": "GAMESSPVTZ"
+        },
+        "17": {
+            "elementEntry": "GAMESSPVTZ"
+        },
+        "18": {
+            "elementEntry": "GAMESSPVTZ"
+        }
+    }
+}

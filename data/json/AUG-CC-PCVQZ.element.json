@@ -1,0 +1,118 @@
+{
+    "basisSetName": "aug-cc-pCVQZ",
+    "basisSetDescription": "QZ3PD   Quadruple Zeta + Polarization +Diffuse on All Atoms",
+    "basisSetElements": {
+        "3": {
+            "elementComponents": [
+                "CC-PVQZ",
+                "CC-PCVQZ",
+                "AUG-CC-PVQZ"
+            ]
+        },
+        "4": {
+            "elementComponents": [
+                "CC-PVQZ",
+                "CC-PCVQZ",
+                "AUG-CC-PVQZ"
+            ]
+        },
+        "5": {
+            "elementComponents": [
+                "CC-PVQZ",
+                "CC-PCVQZ",
+                "AUG-CC-PVQZ"
+            ]
+        },
+        "6": {
+            "elementComponents": [
+                "CC-PVQZ",
+                "CC-PCVQZ",
+                "AUG-CC-PVQZ"
+            ]
+        },
+        "7": {
+            "elementComponents": [
+                "CC-PVQZ",
+                "CC-PCVQZ",
+                "AUG-CC-PVQZ"
+            ]
+        },
+        "8": {
+            "elementComponents": [
+                "CC-PVQZ",
+                "CC-PCVQZ",
+                "AUG-CC-PVQZ"
+            ]
+        },
+        "9": {
+            "elementComponents": [
+                "CC-PVQZ",
+                "CC-PCVQZ",
+                "AUG-CC-PVQZ"
+            ]
+        },
+        "10": {
+            "elementComponents": [
+                "CC-PVQZ",
+                "CC-PCVQZ",
+                "AUG-CC-PVQZ"
+            ]
+        },
+        "11": {
+            "elementComponents": [
+                "CC-PVQZ",
+                "CC-PCVQZ",
+                "AUG-CC-PVQZ"
+            ]
+        },
+        "12": {
+            "elementComponents": [
+                "CC-PVQZ",
+                "CC-PCVQZ",
+                "AUG-CC-PVQZ"
+            ]
+        },
+        "13": {
+            "elementComponents": [
+                "CC-PVQZ",
+                "CC-PCVQZ",
+                "AUG-CC-PVQZ"
+            ]
+        },
+        "14": {
+            "elementComponents": [
+                "CC-PVQZ",
+                "CC-PCVQZ",
+                "AUG-CC-PVQZ"
+            ]
+        },
+        "15": {
+            "elementComponents": [
+                "CC-PVQZ",
+                "CC-PCVQZ",
+                "AUG-CC-PVQZ"
+            ]
+        },
+        "16": {
+            "elementComponents": [
+                "CC-PVQZ",
+                "CC-PCVQZ",
+                "AUG-CC-PVQZ"
+            ]
+        },
+        "17": {
+            "elementComponents": [
+                "CC-PVQZ",
+                "CC-PCVQZ",
+                "AUG-CC-PVQZ"
+            ]
+        },
+        "18": {
+            "elementComponents": [
+                "CC-PVQZ",
+                "CC-PCVQZ",
+                "AUG-CC-PVQZ"
+            ]
+        }
+    }
+}

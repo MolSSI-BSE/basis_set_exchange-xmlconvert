@@ -1,0 +1,81 @@
+{
+    "basisSetName": "6-311G* Polarization",
+    "basisSetDescription": "1P      Polarization functions associated with 6-311G",
+    "basisSetElements": {
+        "3": {
+            "elementEntry": "6-311GS"
+        },
+        "4": {
+            "elementEntry": "6-311GS"
+        },
+        "5": {
+            "elementEntry": "6-311GS"
+        },
+        "6": {
+            "elementEntry": "6-311GS"
+        },
+        "7": {
+            "elementEntry": "6-311GS"
+        },
+        "8": {
+            "elementEntry": "6-311GS"
+        },
+        "9": {
+            "elementEntry": "6-311GS"
+        },
+        "10": {
+            "elementEntry": "6-311GS"
+        },
+        "11": {
+            "elementEntry": "6-311GS"
+        },
+        "12": {
+            "elementEntry": "6-311GS"
+        },
+        "13": {
+            "elementEntry": "6-311GS"
+        },
+        "14": {
+            "elementEntry": "6-311GS"
+        },
+        "15": {
+            "elementEntry": "6-311GS"
+        },
+        "16": {
+            "elementEntry": "6-311GS"
+        },
+        "17": {
+            "elementEntry": "6-311GS"
+        },
+        "18": {
+            "elementEntry": "6-311GS"
+        },
+        "19": {
+            "elementEntry": "6-311GS"
+        },
+        "20": {
+            "elementEntry": "6-311GS"
+        },
+        "31": {
+            "elementEntry": "6-311GS"
+        },
+        "32": {
+            "elementEntry": "6-311GS"
+        },
+        "33": {
+            "elementEntry": "6-311GS"
+        },
+        "34": {
+            "elementEntry": "6-311GS"
+        },
+        "35": {
+            "elementEntry": "6-311GS"
+        },
+        "36": {
+            "elementEntry": "6-311GS"
+        },
+        "53": {
+            "elementEntry": "6-311GS"
+        }
+    }
+}

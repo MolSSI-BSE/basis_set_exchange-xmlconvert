@@ -1,0 +1,102 @@
+{
+    "basisSetName": "GAMESS PVTZ",
+    "basisSetDescription": "VTZP    Valence Triple Zeta + Polarization on All Atoms",
+    "basisSetElements": {
+        "1": {
+            "elementComponents": [
+                "GAMESSVTZ",
+                "HONDO7POL"
+            ]
+        },
+        "4": {
+            "elementComponents": [
+                "GAMESSVTZ",
+                "HONDO7POL"
+            ]
+        },
+        "5": {
+            "elementComponents": [
+                "GAMESSVTZ",
+                "HONDO7POL"
+            ]
+        },
+        "6": {
+            "elementComponents": [
+                "GAMESSVTZ",
+                "HONDO7POL"
+            ]
+        },
+        "7": {
+            "elementComponents": [
+                "GAMESSVTZ",
+                "HONDO7POL"
+            ]
+        },
+        "8": {
+            "elementComponents": [
+                "GAMESSVTZ",
+                "HONDO7POL"
+            ]
+        },
+        "9": {
+            "elementComponents": [
+                "GAMESSVTZ",
+                "HONDO7POL"
+            ]
+        },
+        "10": {
+            "elementComponents": [
+                "GAMESSVTZ",
+                "HONDO7POL"
+            ]
+        },
+        "11": {
+            "elementComponents": [
+                "GAMESSVTZ",
+                "HONDO7POL"
+            ]
+        },
+        "12": {
+            "elementComponents": [
+                "GAMESSVTZ",
+                "HONDO7POL"
+            ]
+        },
+        "13": {
+            "elementComponents": [
+                "GAMESSVTZ",
+                "HONDO7POL"
+            ]
+        },
+        "14": {
+            "elementComponents": [
+                "GAMESSVTZ",
+                "HONDO7POL"
+            ]
+        },
+        "15": {
+            "elementComponents": [
+                "GAMESSVTZ",
+                "HONDO7POL"
+            ]
+        },
+        "16": {
+            "elementComponents": [
+                "GAMESSVTZ",
+                "HONDO7POL"
+            ]
+        },
+        "17": {
+            "elementComponents": [
+                "GAMESSVTZ",
+                "HONDO7POL"
+            ]
+        },
+        "18": {
+            "elementComponents": [
+                "GAMESSVTZ",
+                "HONDO7POL"
+            ]
+        }
+    }
+}

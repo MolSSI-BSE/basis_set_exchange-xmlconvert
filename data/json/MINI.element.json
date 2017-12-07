@@ -1,0 +1,106 @@
+{
+    "basisSetName": "MINI (Huzinaga)",
+    "basisSetDescription": "MB      Minimal Basis: 1 Function/AO",
+    "basisSetElements": {
+        "1": {
+            "elementComponents": [
+                "MINI"
+            ]
+        },
+        "2": {
+            "elementComponents": [
+                "MINI"
+            ]
+        },
+        "3": {
+            "elementComponents": [
+                "MINI"
+            ]
+        },
+        "4": {
+            "elementComponents": [
+                "MINI"
+            ]
+        },
+        "5": {
+            "elementComponents": [
+                "MINI"
+            ]
+        },
+        "6": {
+            "elementComponents": [
+                "MINI"
+            ]
+        },
+        "7": {
+            "elementComponents": [
+                "MINI"
+            ]
+        },
+        "8": {
+            "elementComponents": [
+                "MINI"
+            ]
+        },
+        "9": {
+            "elementComponents": [
+                "MINI"
+            ]
+        },
+        "10": {
+            "elementComponents": [
+                "MINI"
+            ]
+        },
+        "11": {
+            "elementComponents": [
+                "MINI"
+            ]
+        },
+        "12": {
+            "elementComponents": [
+                "MINI"
+            ]
+        },
+        "13": {
+            "elementComponents": [
+                "MINI"
+            ]
+        },
+        "14": {
+            "elementComponents": [
+                "MINI"
+            ]
+        },
+        "15": {
+            "elementComponents": [
+                "MINI"
+            ]
+        },
+        "16": {
+            "elementComponents": [
+                "MINI"
+            ]
+        },
+        "17": {
+            "elementComponents": [
+                "MINI"
+            ]
+        },
+        "18": {
+            "elementComponents": [
+                "MINI"
+            ]
+        },
+        "19": {
+            "elementComponents": [
+                "MINI"
+            ]
+        },
+        "20": {
+            "elementComponents": [
+                "MINI"
+            ]
+        }
+    }
+}

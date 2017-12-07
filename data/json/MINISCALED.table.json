@@ -1,0 +1,66 @@
+{
+    "basisSetName": "MINI (Scaled)",
+    "basisSetDescription": "MB      Minimal Basis: 1 Function/AO",
+    "basisSetElements": {
+        "1": {
+            "elementEntry": "MINISCALED"
+        },
+        "2": {
+            "elementEntry": "MINISCALED"
+        },
+        "3": {
+            "elementEntry": "MINISCALED"
+        },
+        "4": {
+            "elementEntry": "MINISCALED"
+        },
+        "5": {
+            "elementEntry": "MINISCALED"
+        },
+        "6": {
+            "elementEntry": "MINISCALED"
+        },
+        "7": {
+            "elementEntry": "MINISCALED"
+        },
+        "8": {
+            "elementEntry": "MINISCALED"
+        },
+        "9": {
+            "elementEntry": "MINISCALED"
+        },
+        "10": {
+            "elementEntry": "MINISCALED"
+        },
+        "11": {
+            "elementEntry": "MINISCALED"
+        },
+        "12": {
+            "elementEntry": "MINISCALED"
+        },
+        "13": {
+            "elementEntry": "MINISCALED"
+        },
+        "14": {
+            "elementEntry": "MINISCALED"
+        },
+        "15": {
+            "elementEntry": "MINISCALED"
+        },
+        "16": {
+            "elementEntry": "MINISCALED"
+        },
+        "17": {
+            "elementEntry": "MINISCALED"
+        },
+        "18": {
+            "elementEntry": "MINISCALED"
+        },
+        "19": {
+            "elementEntry": "MINISCALED"
+        },
+        "20": {
+            "elementEntry": "MINISCALED"
+        }
+    }
+}

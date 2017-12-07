@@ -1,0 +1,66 @@
+{
+    "basisSetName": "Dunning-Hay Rydberg",
+    "basisSetDescription": "1R      Rydberg Functions",
+    "basisSetElements": {
+        "5": {
+            "elementComponents": [
+                "RYD-DUNNING"
+            ]
+        },
+        "6": {
+            "elementComponents": [
+                "RYD-DUNNING"
+            ]
+        },
+        "7": {
+            "elementComponents": [
+                "RYD-DUNNING"
+            ]
+        },
+        "8": {
+            "elementComponents": [
+                "RYD-DUNNING"
+            ]
+        },
+        "9": {
+            "elementComponents": [
+                "RYD-DUNNING"
+            ]
+        },
+        "10": {
+            "elementComponents": [
+                "RYD-DUNNING"
+            ]
+        },
+        "13": {
+            "elementComponents": [
+                "RYD-DUNNING"
+            ]
+        },
+        "14": {
+            "elementComponents": [
+                "RYD-DUNNING"
+            ]
+        },
+        "15": {
+            "elementComponents": [
+                "RYD-DUNNING"
+            ]
+        },
+        "16": {
+            "elementComponents": [
+                "RYD-DUNNING"
+            ]
+        },
+        "17": {
+            "elementComponents": [
+                "RYD-DUNNING"
+            ]
+        },
+        "18": {
+            "elementComponents": [
+                "RYD-DUNNING"
+            ]
+        }
+    }
+}

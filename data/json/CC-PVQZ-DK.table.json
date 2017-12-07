@@ -1,0 +1,108 @@
+{
+    "basisSetName": "cc-pVQZ-DK",
+    "basisSetDescription": "VQZ3P   Douglas-Kroll Valence Quadruple Zeta + Polarization",
+    "basisSetElements": {
+        "1": {
+            "elementEntry": "CC-PVQZ-DK"
+        },
+        "2": {
+            "elementEntry": "CC-PVQZ-DK"
+        },
+        "3": {
+            "elementEntry": "CC-PVQZ-DK"
+        },
+        "4": {
+            "elementEntry": "CC-PVQZ-DK"
+        },
+        "5": {
+            "elementEntry": "CC-PVQZ-DK"
+        },
+        "6": {
+            "elementEntry": "CC-PVQZ-DK"
+        },
+        "7": {
+            "elementEntry": "CC-PVQZ-DK"
+        },
+        "8": {
+            "elementEntry": "CC-PVQZ-DK"
+        },
+        "9": {
+            "elementEntry": "CC-PVQZ-DK"
+        },
+        "10": {
+            "elementEntry": "CC-PVQZ-DK"
+        },
+        "11": {
+            "elementEntry": "CC-PVQZ-DK"
+        },
+        "12": {
+            "elementEntry": "CC-PVQZ-DK"
+        },
+        "13": {
+            "elementEntry": "CC-PVQZ-DK"
+        },
+        "14": {
+            "elementEntry": "CC-PVQZ-DK"
+        },
+        "15": {
+            "elementEntry": "CC-PVQZ-DK"
+        },
+        "16": {
+            "elementEntry": "CC-PVQZ-DK"
+        },
+        "17": {
+            "elementEntry": "CC-PVQZ-DK"
+        },
+        "18": {
+            "elementEntry": "CC-PVQZ-DK"
+        },
+        "21": {
+            "elementEntry": "CC-PVQZ-DK"
+        },
+        "22": {
+            "elementEntry": "CC-PVQZ-DK"
+        },
+        "23": {
+            "elementEntry": "CC-PVQZ-DK"
+        },
+        "24": {
+            "elementEntry": "CC-PVQZ-DK"
+        },
+        "25": {
+            "elementEntry": "CC-PVQZ-DK"
+        },
+        "26": {
+            "elementEntry": "CC-PVQZ-DK"
+        },
+        "27": {
+            "elementEntry": "CC-PVQZ-DK"
+        },
+        "28": {
+            "elementEntry": "CC-PVQZ-DK"
+        },
+        "29": {
+            "elementEntry": "CC-PVQZ-DK"
+        },
+        "30": {
+            "elementEntry": "CC-PVQZ-DK"
+        },
+        "31": {
+            "elementEntry": "CC-PVQZ-DK"
+        },
+        "32": {
+            "elementEntry": "CC-PVQZ-DK"
+        },
+        "33": {
+            "elementEntry": "CC-PVQZ-DK"
+        },
+        "34": {
+            "elementEntry": "CC-PVQZ-DK"
+        },
+        "35": {
+            "elementEntry": "CC-PVQZ-DK"
+        },
+        "36": {
+            "elementEntry": "CC-PVQZ-DK"
+        }
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "basisSetName": "aug-mcc-pVTZ",
+    "basisSetDescription": "aug-mcc-pVTZ",
+    "basisSetElements": {
+        "1": {
+            "elementComponents": [
+                "AUG-MCC-PVTZ"
+            ]
+        }
+    }
+}

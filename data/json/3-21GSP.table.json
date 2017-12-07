@@ -1,0 +1,60 @@
+{
+    "basisSetName": "3-21GSP",
+    "basisSetDescription": "VDZD    Valence Double Zeta",
+    "basisSetElements": {
+        "1": {
+            "elementEntry": "3-21GSP"
+        },
+        "2": {
+            "elementEntry": "3-21GSP"
+        },
+        "3": {
+            "elementEntry": "3-21GSP"
+        },
+        "4": {
+            "elementEntry": "3-21GSP"
+        },
+        "5": {
+            "elementEntry": "3-21GSP"
+        },
+        "6": {
+            "elementEntry": "3-21GSP"
+        },
+        "7": {
+            "elementEntry": "3-21GSP"
+        },
+        "8": {
+            "elementEntry": "3-21GSP"
+        },
+        "9": {
+            "elementEntry": "3-21GSP"
+        },
+        "10": {
+            "elementEntry": "3-21GSP"
+        },
+        "11": {
+            "elementEntry": "3-21GSP"
+        },
+        "12": {
+            "elementEntry": "3-21GSP"
+        },
+        "13": {
+            "elementEntry": "3-21GSP"
+        },
+        "14": {
+            "elementEntry": "3-21GSP"
+        },
+        "15": {
+            "elementEntry": "3-21GSP"
+        },
+        "16": {
+            "elementEntry": "3-21GSP"
+        },
+        "17": {
+            "elementEntry": "3-21GSP"
+        },
+        "18": {
+            "elementEntry": "3-21GSP"
+        }
+    }
+}

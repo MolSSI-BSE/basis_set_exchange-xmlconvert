@@ -1,0 +1,51 @@
+{
+    "basisSetName": "Stuttgart RSC ANO/ECP",
+    "basisSetDescription": "QZ      Quadruple Zeta Basis Set designed for an ECP",
+    "basisSetElements": {
+        "57": {
+            "elementEntry": "STUTTGART_RSC_ANO"
+        },
+        "58": {
+            "elementEntry": "STUTTGART_RSC_ANO"
+        },
+        "59": {
+            "elementEntry": "STUTTGART_RSC_ANO"
+        },
+        "60": {
+            "elementEntry": "STUTTGART_RSC_ANO"
+        },
+        "61": {
+            "elementEntry": "STUTTGART_RSC_ANO"
+        },
+        "62": {
+            "elementEntry": "STUTTGART_RSC_ANO"
+        },
+        "63": {
+            "elementEntry": "STUTTGART_RSC_ANO"
+        },
+        "64": {
+            "elementEntry": "STUTTGART_RSC_ANO"
+        },
+        "65": {
+            "elementEntry": "STUTTGART_RSC_ANO"
+        },
+        "66": {
+            "elementEntry": "STUTTGART_RSC_ANO"
+        },
+        "67": {
+            "elementEntry": "STUTTGART_RSC_ANO"
+        },
+        "68": {
+            "elementEntry": "STUTTGART_RSC_ANO"
+        },
+        "69": {
+            "elementEntry": "STUTTGART_RSC_ANO"
+        },
+        "70": {
+            "elementEntry": "STUTTGART_RSC_ANO"
+        },
+        "71": {
+            "elementEntry": "STUTTGART_RSC_ANO"
+        }
+    }
+}

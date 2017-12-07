@@ -1,0 +1,291 @@
+{
+    "basisSetName": "Stuttgart RLC ECP",
+    "basisSetDescription": "DZ      Double Zeta Basis Set designed for an ECP",
+    "basisSetElements": {
+        "3": {
+            "elementComponents": [
+                "STUTTGART_RLC"
+            ]
+        },
+        "4": {
+            "elementComponents": [
+                "STUTTGART_RLC"
+            ]
+        },
+        "5": {
+            "elementComponents": [
+                "STUTTGART_RLC"
+            ]
+        },
+        "6": {
+            "elementComponents": [
+                "STUTTGART_RLC"
+            ]
+        },
+        "7": {
+            "elementComponents": [
+                "STUTTGART_RLC"
+            ]
+        },
+        "8": {
+            "elementComponents": [
+                "STUTTGART_RLC"
+            ]
+        },
+        "9": {
+            "elementComponents": [
+                "STUTTGART_RLC"
+            ]
+        },
+        "10": {
+            "elementComponents": [
+                "STUTTGART_RLC"
+            ]
+        },
+        "11": {
+            "elementComponents": [
+                "STUTTGART_RLC"
+            ]
+        },
+        "12": {
+            "elementComponents": [
+                "STUTTGART_RLC"
+            ]
+        },
+        "13": {
+            "elementComponents": [
+                "STUTTGART_RLC"
+            ]
+        },
+        "14": {
+            "elementComponents": [
+                "STUTTGART_RLC"
+            ]
+        },
+        "15": {
+            "elementComponents": [
+                "STUTTGART_RLC"
+            ]
+        },
+        "16": {
+            "elementComponents": [
+                "STUTTGART_RLC"
+            ]
+        },
+        "17": {
+            "elementComponents": [
+                "STUTTGART_RLC"
+            ]
+        },
+        "18": {
+            "elementComponents": [
+                "STUTTGART_RLC"
+            ]
+        },
+        "19": {
+            "elementComponents": [
+                "STUTTGART_RLC"
+            ]
+        },
+        "20": {
+            "elementComponents": [
+                "STUTTGART_RLC"
+            ]
+        },
+        "30": {
+            "elementComponents": [
+                "STUTTGART_RLC"
+            ]
+        },
+        "31": {
+            "elementComponents": [
+                "STUTTGART_RLC"
+            ]
+        },
+        "32": {
+            "elementComponents": [
+                "STUTTGART_RLC"
+            ]
+        },
+        "33": {
+            "elementComponents": [
+                "STUTTGART_RLC"
+            ]
+        },
+        "34": {
+            "elementComponents": [
+                "STUTTGART_RLC"
+            ]
+        },
+        "35": {
+            "elementComponents": [
+                "STUTTGART_RLC"
+            ]
+        },
+        "36": {
+            "elementComponents": [
+                "STUTTGART_RLC"
+            ]
+        },
+        "37": {
+            "elementComponents": [
+                "STUTTGART_RLC"
+            ]
+        },
+        "38": {
+            "elementComponents": [
+                "STUTTGART_RLC"
+            ]
+        },
+        "49": {
+            "elementComponents": [
+                "STUTTGART_RLC"
+            ]
+        },
+        "50": {
+            "elementComponents": [
+                "STUTTGART_RLC"
+            ]
+        },
+        "51": {
+            "elementComponents": [
+                "STUTTGART_RLC"
+            ]
+        },
+        "52": {
+            "elementComponents": [
+                "STUTTGART_RLC"
+            ]
+        },
+        "53": {
+            "elementComponents": [
+                "STUTTGART_RLC"
+            ]
+        },
+        "54": {
+            "elementComponents": [
+                "STUTTGART_RLC"
+            ]
+        },
+        "55": {
+            "elementComponents": [
+                "STUTTGART_RLC"
+            ]
+        },
+        "56": {
+            "elementComponents": [
+                "STUTTGART_RLC"
+            ]
+        },
+        "80": {
+            "elementComponents": [
+                "STUTTGART_RLC"
+            ]
+        },
+        "81": {
+            "elementComponents": [
+                "STUTTGART_RLC"
+            ]
+        },
+        "82": {
+            "elementComponents": [
+                "STUTTGART_RLC"
+            ]
+        },
+        "83": {
+            "elementComponents": [
+                "STUTTGART_RLC"
+            ]
+        },
+        "84": {
+            "elementComponents": [
+                "STUTTGART_RLC"
+            ]
+        },
+        "85": {
+            "elementComponents": [
+                "STUTTGART_RLC"
+            ]
+        },
+        "86": {
+            "elementComponents": [
+                "STUTTGART_RLC"
+            ]
+        },
+        "89": {
+            "elementComponents": [
+                "STUTTGART_RLC"
+            ]
+        },
+        "90": {
+            "elementComponents": [
+                "STUTTGART_RLC"
+            ]
+        },
+        "91": {
+            "elementComponents": [
+                "STUTTGART_RLC"
+            ]
+        },
+        "92": {
+            "elementComponents": [
+                "STUTTGART_RLC"
+            ]
+        },
+        "93": {
+            "elementComponents": [
+                "STUTTGART_RLC"
+            ]
+        },
+        "94": {
+            "elementComponents": [
+                "STUTTGART_RLC"
+            ]
+        },
+        "95": {
+            "elementComponents": [
+                "STUTTGART_RLC"
+            ]
+        },
+        "96": {
+            "elementComponents": [
+                "STUTTGART_RLC"
+            ]
+        },
+        "97": {
+            "elementComponents": [
+                "STUTTGART_RLC"
+            ]
+        },
+        "98": {
+            "elementComponents": [
+                "STUTTGART_RLC"
+            ]
+        },
+        "99": {
+            "elementComponents": [
+                "STUTTGART_RLC"
+            ]
+        },
+        "100": {
+            "elementComponents": [
+                "STUTTGART_RLC"
+            ]
+        },
+        "101": {
+            "elementComponents": [
+                "STUTTGART_RLC"
+            ]
+        },
+        "102": {
+            "elementComponents": [
+                "STUTTGART_RLC"
+            ]
+        },
+        "103": {
+            "elementComponents": [
+                "STUTTGART_RLC"
+            ]
+        }
+    }
+}

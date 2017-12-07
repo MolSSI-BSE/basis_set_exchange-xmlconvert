@@ -229,14 +229,16 @@ def read_basis_xml_agg(xmlfile):
             if e in bs['basisSetElements'].keys():
                 v.append(basis_names[i])
 
-        # If there is only one entry, use that
-        # otherwise, use the atom file with the same name
-        if len(v) == 1:
-            elements[e] = { 'elementEntry': v[0] }
-        else:
+        # Use the atom file with the same name
+        # (but only if in the intersection)
+        # Otherwise, if there is only one entry, and it exists as an
+        # element basis, use that
+        if e in element_intersection:
             atom_basis_file = create_json_filename(xmlfile) # leave off .element
             atom_basis_name = os.path.splitext(atom_basis_file)[0]
             elements[e] = { 'elementEntry': atom_basis_name }
+        elif len(v) == 1 and os.path.isfile(create_json_filename(v[0], 'element')):
+            elements[e] = { 'elementEntry': v[0] }
 
     table_dict = { 'basisSetName': name,
                    'basisSetDescription' : desc,

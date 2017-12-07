@@ -1,0 +1,54 @@
+{
+    "basisSetName": "SVP + Diffuse + Rydberg",
+    "basisSetDescription": "VDZPD1R Valence Double Zeta + Polar. + Diffuse + Rydberg",
+    "basisSetElements": {
+        "5": {
+            "elementComponents": [
+                "DUNHAYSV",
+                "DUNHAYPOL",
+                "DUNHAYDIF",
+                "RYD-DUNNING"
+            ]
+        },
+        "6": {
+            "elementComponents": [
+                "DUNHAYSV",
+                "DUNHAYPOL",
+                "DUNHAYDIF",
+                "RYD-DUNNING"
+            ]
+        },
+        "7": {
+            "elementComponents": [
+                "DUNHAYSV",
+                "DUNHAYPOL",
+                "DUNHAYDIF",
+                "RYD-DUNNING"
+            ]
+        },
+        "8": {
+            "elementComponents": [
+                "DUNHAYSV",
+                "DUNHAYPOL",
+                "DUNHAYDIF",
+                "RYD-DUNNING"
+            ]
+        },
+        "9": {
+            "elementComponents": [
+                "DUNHAYSV",
+                "DUNHAYPOL",
+                "DUNHAYDIF",
+                "RYD-DUNNING"
+            ]
+        },
+        "10": {
+            "elementComponents": [
+                "DUNHAYSV",
+                "DUNHAYPOL",
+                "DUNHAYDIF",
+                "RYD-DUNNING"
+            ]
+        }
+    }
+}

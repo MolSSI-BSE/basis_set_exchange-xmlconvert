@@ -1,0 +1,186 @@
+{
+    "basisSetName": "Ahlrichs VTZ",
+    "basisSetDescription": "VTZ     Valence Triple Zeta: 3 Funct.'s/Valence AO",
+    "basisSetElements": {
+        "1": {
+            "elementComponents": [
+                "AHLRICHS_VTZ"
+            ]
+        },
+        "2": {
+            "elementComponents": [
+                "AHLRICHS_VTZ"
+            ]
+        },
+        "3": {
+            "elementComponents": [
+                "AHLRICHS_VTZ"
+            ]
+        },
+        "4": {
+            "elementComponents": [
+                "AHLRICHS_VTZ"
+            ]
+        },
+        "5": {
+            "elementComponents": [
+                "AHLRICHS_VTZ"
+            ]
+        },
+        "6": {
+            "elementComponents": [
+                "AHLRICHS_VTZ"
+            ]
+        },
+        "7": {
+            "elementComponents": [
+                "AHLRICHS_VTZ"
+            ]
+        },
+        "8": {
+            "elementComponents": [
+                "AHLRICHS_VTZ"
+            ]
+        },
+        "9": {
+            "elementComponents": [
+                "AHLRICHS_VTZ"
+            ]
+        },
+        "10": {
+            "elementComponents": [
+                "AHLRICHS_VTZ"
+            ]
+        },
+        "11": {
+            "elementComponents": [
+                "AHLRICHS_VTZ"
+            ]
+        },
+        "12": {
+            "elementComponents": [
+                "AHLRICHS_VTZ"
+            ]
+        },
+        "13": {
+            "elementComponents": [
+                "AHLRICHS_VTZ"
+            ]
+        },
+        "14": {
+            "elementComponents": [
+                "AHLRICHS_VTZ"
+            ]
+        },
+        "15": {
+            "elementComponents": [
+                "AHLRICHS_VTZ"
+            ]
+        },
+        "16": {
+            "elementComponents": [
+                "AHLRICHS_VTZ"
+            ]
+        },
+        "17": {
+            "elementComponents": [
+                "AHLRICHS_VTZ"
+            ]
+        },
+        "18": {
+            "elementComponents": [
+                "AHLRICHS_VTZ"
+            ]
+        },
+        "19": {
+            "elementComponents": [
+                "AHLRICHS_VTZ"
+            ]
+        },
+        "20": {
+            "elementComponents": [
+                "AHLRICHS_VTZ"
+            ]
+        },
+        "21": {
+            "elementComponents": [
+                "AHLRICHS_VTZ"
+            ]
+        },
+        "22": {
+            "elementComponents": [
+                "AHLRICHS_VTZ"
+            ]
+        },
+        "23": {
+            "elementComponents": [
+                "AHLRICHS_VTZ"
+            ]
+        },
+        "24": {
+            "elementComponents": [
+                "AHLRICHS_VTZ"
+            ]
+        },
+        "25": {
+            "elementComponents": [
+                "AHLRICHS_VTZ"
+            ]
+        },
+        "26": {
+            "elementComponents": [
+                "AHLRICHS_VTZ"
+            ]
+        },
+        "27": {
+            "elementComponents": [
+                "AHLRICHS_VTZ"
+            ]
+        },
+        "28": {
+            "elementComponents": [
+                "AHLRICHS_VTZ"
+            ]
+        },
+        "29": {
+            "elementComponents": [
+                "AHLRICHS_VTZ"
+            ]
+        },
+        "30": {
+            "elementComponents": [
+                "AHLRICHS_VTZ"
+            ]
+        },
+        "31": {
+            "elementComponents": [
+                "AHLRICHS_VTZ"
+            ]
+        },
+        "32": {
+            "elementComponents": [
+                "AHLRICHS_VTZ"
+            ]
+        },
+        "33": {
+            "elementComponents": [
+                "AHLRICHS_VTZ"
+            ]
+        },
+        "34": {
+            "elementComponents": [
+                "AHLRICHS_VTZ"
+            ]
+        },
+        "35": {
+            "elementComponents": [
+                "AHLRICHS_VTZ"
+            ]
+        },
+        "36": {
+            "elementComponents": [
+                "AHLRICHS_VTZ"
+            ]
+        }
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "basisSetName": "IGLO-III",
+    "basisSetDescription": "VTZP    Valence Triple Zeta + Polarization on All Atoms",
+    "basisSetElements": {
+        "1": {
+            "elementComponents": [
+                "IGLOIII"
+            ]
+        },
+        "5": {
+            "elementComponents": [
+                "IGLOIII"
+            ]
+        },
+        "6": {
+            "elementComponents": [
+                "IGLOIII"
+            ]
+        },
+        "7": {
+            "elementComponents": [
+                "IGLOIII"
+            ]
+        },
+        "8": {
+            "elementComponents": [
+                "IGLOIII"
+            ]
+        },
+        "9": {
+            "elementComponents": [
+                "IGLOIII"
+            ]
+        },
+        "13": {
+            "elementComponents": [
+                "IGLOIII"
+            ]
+        },
+        "14": {
+            "elementComponents": [
+                "IGLOIII"
+            ]
+        },
+        "15": {
+            "elementComponents": [
+                "IGLOIII"
+            ]
+        },
+        "16": {
+            "elementComponents": [
+                "IGLOIII"
+            ]
+        },
+        "17": {
+            "elementComponents": [
+                "IGLOIII"
+            ]
+        }
+    }
+}

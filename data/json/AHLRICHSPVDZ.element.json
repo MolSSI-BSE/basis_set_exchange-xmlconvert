@@ -1,0 +1,222 @@
+{
+    "basisSetName": "Ahlrichs pVDZ",
+    "basisSetDescription": "VDZP    Valence Double Zeta + Polarization on All Atoms",
+    "basisSetElements": {
+        "1": {
+            "elementComponents": [
+                "AHLRICHS_VDZ",
+                "AHLRICHS_POL"
+            ]
+        },
+        "2": {
+            "elementComponents": [
+                "AHLRICHS_VDZ",
+                "AHLRICHS_POL"
+            ]
+        },
+        "3": {
+            "elementComponents": [
+                "AHLRICHS_VDZ",
+                "AHLRICHS_POL"
+            ]
+        },
+        "4": {
+            "elementComponents": [
+                "AHLRICHS_VDZ",
+                "AHLRICHS_POL"
+            ]
+        },
+        "5": {
+            "elementComponents": [
+                "AHLRICHS_VDZ",
+                "AHLRICHS_POL"
+            ]
+        },
+        "6": {
+            "elementComponents": [
+                "AHLRICHS_VDZ",
+                "AHLRICHS_POL"
+            ]
+        },
+        "7": {
+            "elementComponents": [
+                "AHLRICHS_VDZ",
+                "AHLRICHS_POL"
+            ]
+        },
+        "8": {
+            "elementComponents": [
+                "AHLRICHS_VDZ",
+                "AHLRICHS_POL"
+            ]
+        },
+        "9": {
+            "elementComponents": [
+                "AHLRICHS_VDZ",
+                "AHLRICHS_POL"
+            ]
+        },
+        "10": {
+            "elementComponents": [
+                "AHLRICHS_VDZ",
+                "AHLRICHS_POL"
+            ]
+        },
+        "11": {
+            "elementComponents": [
+                "AHLRICHS_VDZ",
+                "AHLRICHS_POL"
+            ]
+        },
+        "12": {
+            "elementComponents": [
+                "AHLRICHS_VDZ",
+                "AHLRICHS_POL"
+            ]
+        },
+        "13": {
+            "elementComponents": [
+                "AHLRICHS_VDZ",
+                "AHLRICHS_POL"
+            ]
+        },
+        "14": {
+            "elementComponents": [
+                "AHLRICHS_VDZ",
+                "AHLRICHS_POL"
+            ]
+        },
+        "15": {
+            "elementComponents": [
+                "AHLRICHS_VDZ",
+                "AHLRICHS_POL"
+            ]
+        },
+        "16": {
+            "elementComponents": [
+                "AHLRICHS_VDZ",
+                "AHLRICHS_POL"
+            ]
+        },
+        "17": {
+            "elementComponents": [
+                "AHLRICHS_VDZ",
+                "AHLRICHS_POL"
+            ]
+        },
+        "18": {
+            "elementComponents": [
+                "AHLRICHS_VDZ",
+                "AHLRICHS_POL"
+            ]
+        },
+        "19": {
+            "elementComponents": [
+                "AHLRICHS_VDZ",
+                "AHLRICHS_POL"
+            ]
+        },
+        "20": {
+            "elementComponents": [
+                "AHLRICHS_VDZ",
+                "AHLRICHS_POL"
+            ]
+        },
+        "21": {
+            "elementComponents": [
+                "AHLRICHS_VDZ",
+                "AHLRICHS_POL"
+            ]
+        },
+        "22": {
+            "elementComponents": [
+                "AHLRICHS_VDZ",
+                "AHLRICHS_POL"
+            ]
+        },
+        "23": {
+            "elementComponents": [
+                "AHLRICHS_VDZ",
+                "AHLRICHS_POL"
+            ]
+        },
+        "24": {
+            "elementComponents": [
+                "AHLRICHS_VDZ",
+                "AHLRICHS_POL"
+            ]
+        },
+        "25": {
+            "elementComponents": [
+                "AHLRICHS_VDZ",
+                "AHLRICHS_POL"
+            ]
+        },
+        "26": {
+            "elementComponents": [
+                "AHLRICHS_VDZ",
+                "AHLRICHS_POL"
+            ]
+        },
+        "27": {
+            "elementComponents": [
+                "AHLRICHS_VDZ",
+                "AHLRICHS_POL"
+            ]
+        },
+        "28": {
+            "elementComponents": [
+                "AHLRICHS_VDZ",
+                "AHLRICHS_POL"
+            ]
+        },
+        "29": {
+            "elementComponents": [
+                "AHLRICHS_VDZ",
+                "AHLRICHS_POL"
+            ]
+        },
+        "30": {
+            "elementComponents": [
+                "AHLRICHS_VDZ",
+                "AHLRICHS_POL"
+            ]
+        },
+        "31": {
+            "elementComponents": [
+                "AHLRICHS_VDZ",
+                "AHLRICHS_POL"
+            ]
+        },
+        "32": {
+            "elementComponents": [
+                "AHLRICHS_VDZ",
+                "AHLRICHS_POL"
+            ]
+        },
+        "33": {
+            "elementComponents": [
+                "AHLRICHS_VDZ",
+                "AHLRICHS_POL"
+            ]
+        },
+        "34": {
+            "elementComponents": [
+                "AHLRICHS_VDZ",
+                "AHLRICHS_POL"
+            ]
+        },
+        "35": {
+            "elementComponents": [
+                "AHLRICHS_VDZ",
+                "AHLRICHS_POL"
+            ]
+        },
+        "36": {
+            "elementComponents": [
+                "AHLRICHS_VDZ",
+                "AHLRICHS_POL"
+            ]
+        }
+    }
+}

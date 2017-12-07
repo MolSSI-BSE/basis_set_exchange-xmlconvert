@@ -1,0 +1,101 @@
+{
+    "basisSetName": "Pople-style Diffuse",
+    "basisSetDescription": "1D      Shared exponent, diffuse (s,p)",
+    "basisSetElements": {
+        "1": {
+            "elementComponents": [
+                "POPLDIFF"
+            ]
+        },
+        "3": {
+            "elementComponents": [
+                "POPLDIFF"
+            ]
+        },
+        "4": {
+            "elementComponents": [
+                "POPLDIFF"
+            ]
+        },
+        "5": {
+            "elementComponents": [
+                "POPLDIFF"
+            ]
+        },
+        "6": {
+            "elementComponents": [
+                "POPLDIFF"
+            ]
+        },
+        "7": {
+            "elementComponents": [
+                "POPLDIFF"
+            ]
+        },
+        "8": {
+            "elementComponents": [
+                "POPLDIFF"
+            ]
+        },
+        "9": {
+            "elementComponents": [
+                "POPLDIFF"
+            ]
+        },
+        "10": {
+            "elementComponents": [
+                "POPLDIFF"
+            ]
+        },
+        "11": {
+            "elementComponents": [
+                "POPLDIFF"
+            ]
+        },
+        "12": {
+            "elementComponents": [
+                "POPLDIFF"
+            ]
+        },
+        "13": {
+            "elementComponents": [
+                "POPLDIFF"
+            ]
+        },
+        "14": {
+            "elementComponents": [
+                "POPLDIFF"
+            ]
+        },
+        "15": {
+            "elementComponents": [
+                "POPLDIFF"
+            ]
+        },
+        "16": {
+            "elementComponents": [
+                "POPLDIFF"
+            ]
+        },
+        "17": {
+            "elementComponents": [
+                "POPLDIFF"
+            ]
+        },
+        "18": {
+            "elementComponents": [
+                "POPLDIFF"
+            ]
+        },
+        "19": {
+            "elementComponents": [
+                "POPLDIFF"
+            ]
+        },
+        "20": {
+            "elementComponents": [
+                "POPLDIFF"
+            ]
+        }
+    }
+}

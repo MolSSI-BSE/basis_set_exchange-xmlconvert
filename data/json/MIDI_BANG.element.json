@@ -1,0 +1,61 @@
+{
+    "basisSetName": "MIDI!",
+    "basisSetDescription": "VDZP    Valence Double Zeta + Polarization on some atoms",
+    "basisSetElements": {
+        "1": {
+            "elementComponents": [
+                "MIDI_BANG"
+            ]
+        },
+        "6": {
+            "elementComponents": [
+                "MIDI_BANG"
+            ]
+        },
+        "7": {
+            "elementComponents": [
+                "MIDI_BANG"
+            ]
+        },
+        "8": {
+            "elementComponents": [
+                "MIDI_BANG"
+            ]
+        },
+        "9": {
+            "elementComponents": [
+                "MIDI_BANG"
+            ]
+        },
+        "14": {
+            "elementComponents": [
+                "MIDI_BANG"
+            ]
+        },
+        "15": {
+            "elementComponents": [
+                "MIDI_BANG"
+            ]
+        },
+        "16": {
+            "elementComponents": [
+                "MIDI_BANG"
+            ]
+        },
+        "17": {
+            "elementComponents": [
+                "MIDI_BANG"
+            ]
+        },
+        "35": {
+            "elementComponents": [
+                "MIDI_BANG"
+            ]
+        },
+        "53": {
+            "elementComponents": [
+                "MIDI_BANG"
+            ]
+        }
+    }
+}

@@ -1,0 +1,118 @@
+{
+    "basisSetName": "aug-cc-pCVDZ",
+    "basisSetDescription": "DZ2PD   Double Zeta + Polarization + Diffuse on All Atoms",
+    "basisSetElements": {
+        "3": {
+            "elementComponents": [
+                "CC-PVDZ",
+                "CC-PCVDZ",
+                "AUG-CC-PVDZ"
+            ]
+        },
+        "4": {
+            "elementComponents": [
+                "CC-PVDZ",
+                "CC-PCVDZ",
+                "AUG-CC-PVDZ"
+            ]
+        },
+        "5": {
+            "elementComponents": [
+                "CC-PVDZ",
+                "CC-PCVDZ",
+                "AUG-CC-PVDZ"
+            ]
+        },
+        "6": {
+            "elementComponents": [
+                "CC-PVDZ",
+                "CC-PCVDZ",
+                "AUG-CC-PVDZ"
+            ]
+        },
+        "7": {
+            "elementComponents": [
+                "CC-PVDZ",
+                "CC-PCVDZ",
+                "AUG-CC-PVDZ"
+            ]
+        },
+        "8": {
+            "elementComponents": [
+                "CC-PVDZ",
+                "CC-PCVDZ",
+                "AUG-CC-PVDZ"
+            ]
+        },
+        "9": {
+            "elementComponents": [
+                "CC-PVDZ",
+                "CC-PCVDZ",
+                "AUG-CC-PVDZ"
+            ]
+        },
+        "10": {
+            "elementComponents": [
+                "CC-PVDZ",
+                "CC-PCVDZ",
+                "AUG-CC-PVDZ"
+            ]
+        },
+        "11": {
+            "elementComponents": [
+                "CC-PVDZ",
+                "CC-PCVDZ",
+                "AUG-CC-PVDZ"
+            ]
+        },
+        "12": {
+            "elementComponents": [
+                "CC-PVDZ",
+                "CC-PCVDZ",
+                "AUG-CC-PVDZ"
+            ]
+        },
+        "13": {
+            "elementComponents": [
+                "CC-PVDZ",
+                "CC-PCVDZ",
+                "AUG-CC-PVDZ"
+            ]
+        },
+        "14": {
+            "elementComponents": [
+                "CC-PVDZ",
+                "CC-PCVDZ",
+                "AUG-CC-PVDZ"
+            ]
+        },
+        "15": {
+            "elementComponents": [
+                "CC-PVDZ",
+                "CC-PCVDZ",
+                "AUG-CC-PVDZ"
+            ]
+        },
+        "16": {
+            "elementComponents": [
+                "CC-PVDZ",
+                "CC-PCVDZ",
+                "AUG-CC-PVDZ"
+            ]
+        },
+        "17": {
+            "elementComponents": [
+                "CC-PVDZ",
+                "CC-PCVDZ",
+                "AUG-CC-PVDZ"
+            ]
+        },
+        "18": {
+            "elementComponents": [
+                "CC-PVDZ",
+                "CC-PCVDZ",
+                "AUG-CC-PVDZ"
+            ]
+        }
+    }
+}

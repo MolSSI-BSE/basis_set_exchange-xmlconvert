@@ -1,0 +1,24 @@
+{
+    "basisSetName": "Binning/Curtiss SVP",
+    "basisSetDescription": "VDZP    Valence Double Zeta + Polarization",
+    "basisSetElements": {
+        "31": {
+            "elementEntry": "BINNINGCURTISSSVP"
+        },
+        "32": {
+            "elementEntry": "BINNINGCURTISSSVP"
+        },
+        "33": {
+            "elementEntry": "BINNINGCURTISSSVP"
+        },
+        "34": {
+            "elementEntry": "BINNINGCURTISSSVP"
+        },
+        "35": {
+            "elementEntry": "BINNINGCURTISSSVP"
+        },
+        "36": {
+            "elementEntry": "BINNINGCURTISSSVP"
+        }
+    }
+}

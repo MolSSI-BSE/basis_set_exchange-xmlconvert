@@ -1,0 +1,111 @@
+{
+    "basisSetName": "STO-2G",
+    "basisSetDescription": "MB      Minimal Basis: 1 Function/AO",
+    "basisSetElements": {
+        "1": {
+            "elementComponents": [
+                "STO-2G"
+            ]
+        },
+        "2": {
+            "elementComponents": [
+                "STO-2G"
+            ]
+        },
+        "3": {
+            "elementComponents": [
+                "STO-2G"
+            ]
+        },
+        "4": {
+            "elementComponents": [
+                "STO-2G"
+            ]
+        },
+        "5": {
+            "elementComponents": [
+                "STO-2G"
+            ]
+        },
+        "6": {
+            "elementComponents": [
+                "STO-2G"
+            ]
+        },
+        "7": {
+            "elementComponents": [
+                "STO-2G"
+            ]
+        },
+        "8": {
+            "elementComponents": [
+                "STO-2G"
+            ]
+        },
+        "9": {
+            "elementComponents": [
+                "STO-2G"
+            ]
+        },
+        "10": {
+            "elementComponents": [
+                "STO-2G"
+            ]
+        },
+        "11": {
+            "elementComponents": [
+                "STO-2G"
+            ]
+        },
+        "12": {
+            "elementComponents": [
+                "STO-2G"
+            ]
+        },
+        "13": {
+            "elementComponents": [
+                "STO-2G"
+            ]
+        },
+        "14": {
+            "elementComponents": [
+                "STO-2G"
+            ]
+        },
+        "15": {
+            "elementComponents": [
+                "STO-2G"
+            ]
+        },
+        "16": {
+            "elementComponents": [
+                "STO-2G"
+            ]
+        },
+        "17": {
+            "elementComponents": [
+                "STO-2G"
+            ]
+        },
+        "18": {
+            "elementComponents": [
+                "STO-2G"
+            ]
+        },
+        "19": {
+            "elementComponents": [
+                "STO-2G"
+            ]
+        },
+        "20": {
+            "elementComponents": [
+                "STO-2G"
+            ]
+        },
+        "38": {
+            "elementComponents": [
+                "STO-2G"
+            ]
+        }
+    }
+}

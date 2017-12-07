@@ -1,0 +1,12 @@
+{
+    "basisSetName": "cc-pV8Z",
+    "basisSetDescription": "cc-pV8Z",
+    "basisSetElements": {
+        "1": {
+            "elementEntry": "CC-PV8Z"
+        },
+        "10": {
+            "elementEntry": "CC-PV8Z"
+        }
+    }
+}

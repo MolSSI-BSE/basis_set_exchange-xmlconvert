@@ -1,0 +1,33 @@
+{
+    "basisSetName": "Dunning-Hay Diffuse",
+    "basisSetDescription": "1D      Diffuse Functions",
+    "basisSetElements": {
+        "1": {
+            "elementEntry": "DUNHAYDIF"
+        },
+        "3": {
+            "elementEntry": "DUNHAYDIF"
+        },
+        "4": {
+            "elementEntry": "DUNHAYDIF"
+        },
+        "5": {
+            "elementEntry": "DUNHAYDIF"
+        },
+        "6": {
+            "elementEntry": "DUNHAYDIF"
+        },
+        "7": {
+            "elementEntry": "DUNHAYDIF"
+        },
+        "8": {
+            "elementEntry": "DUNHAYDIF"
+        },
+        "9": {
+            "elementEntry": "DUNHAYDIF"
+        },
+        "10": {
+            "elementEntry": "DUNHAYDIF"
+        }
+    }
+}

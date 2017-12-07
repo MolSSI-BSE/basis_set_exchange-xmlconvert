@@ -1,0 +1,165 @@
+{
+    "basisSetName": "STO-3G",
+    "basisSetDescription": "MB      Minimal Basis: 1 Function/AO",
+    "basisSetElements": {
+        "1": {
+            "elementEntry": "STO-3G"
+        },
+        "2": {
+            "elementEntry": "STO-3G"
+        },
+        "3": {
+            "elementEntry": "STO-3G"
+        },
+        "4": {
+            "elementEntry": "STO-3G"
+        },
+        "5": {
+            "elementEntry": "STO-3G"
+        },
+        "6": {
+            "elementEntry": "STO-3G"
+        },
+        "7": {
+            "elementEntry": "STO-3G"
+        },
+        "8": {
+            "elementEntry": "STO-3G"
+        },
+        "9": {
+            "elementEntry": "STO-3G"
+        },
+        "10": {
+            "elementEntry": "STO-3G"
+        },
+        "11": {
+            "elementEntry": "STO-3G"
+        },
+        "12": {
+            "elementEntry": "STO-3G"
+        },
+        "13": {
+            "elementEntry": "STO-3G"
+        },
+        "14": {
+            "elementEntry": "STO-3G"
+        },
+        "15": {
+            "elementEntry": "STO-3G"
+        },
+        "16": {
+            "elementEntry": "STO-3G"
+        },
+        "17": {
+            "elementEntry": "STO-3G"
+        },
+        "18": {
+            "elementEntry": "STO-3G"
+        },
+        "19": {
+            "elementEntry": "STO-3G"
+        },
+        "20": {
+            "elementEntry": "STO-3G"
+        },
+        "21": {
+            "elementEntry": "STO-3G"
+        },
+        "22": {
+            "elementEntry": "STO-3G"
+        },
+        "23": {
+            "elementEntry": "STO-3G"
+        },
+        "24": {
+            "elementEntry": "STO-3G"
+        },
+        "25": {
+            "elementEntry": "STO-3G"
+        },
+        "26": {
+            "elementEntry": "STO-3G"
+        },
+        "27": {
+            "elementEntry": "STO-3G"
+        },
+        "28": {
+            "elementEntry": "STO-3G"
+        },
+        "29": {
+            "elementEntry": "STO-3G"
+        },
+        "30": {
+            "elementEntry": "STO-3G"
+        },
+        "31": {
+            "elementEntry": "STO-3G"
+        },
+        "32": {
+            "elementEntry": "STO-3G"
+        },
+        "33": {
+            "elementEntry": "STO-3G"
+        },
+        "34": {
+            "elementEntry": "STO-3G"
+        },
+        "35": {
+            "elementEntry": "STO-3G"
+        },
+        "36": {
+            "elementEntry": "STO-3G"
+        },
+        "37": {
+            "elementEntry": "STO-3G"
+        },
+        "38": {
+            "elementEntry": "STO-3G"
+        },
+        "39": {
+            "elementEntry": "STO-3G"
+        },
+        "40": {
+            "elementEntry": "STO-3G"
+        },
+        "41": {
+            "elementEntry": "STO-3G"
+        },
+        "42": {
+            "elementEntry": "STO-3G"
+        },
+        "43": {
+            "elementEntry": "STO-3G"
+        },
+        "44": {
+            "elementEntry": "STO-3G"
+        },
+        "45": {
+            "elementEntry": "STO-3G"
+        },
+        "46": {
+            "elementEntry": "STO-3G"
+        },
+        "47": {
+            "elementEntry": "STO-3G"
+        },
+        "48": {
+            "elementEntry": "STO-3G"
+        },
+        "49": {
+            "elementEntry": "STO-3G"
+        },
+        "50": {
+            "elementEntry": "STO-3G"
+        },
+        "51": {
+            "elementEntry": "STO-3G"
+        },
+        "52": {
+            "elementEntry": "STO-3G"
+        },
+        "53": {
+            "elementEntry": "STO-3G"
+        }
+    }
+}

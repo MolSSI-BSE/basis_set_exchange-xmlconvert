@@ -1,0 +1,138 @@
+{
+    "basisSetName": "3-21++G*",
+    "basisSetDescription": "VDZD    Valence Double Zeta + Diffuse Functions + Polarization",
+    "basisSetElements": {
+        "2": {
+            "elementEntry": "3-21G"
+        },
+        "11": {
+            "elementEntry": "3-21PPGS"
+        },
+        "12": {
+            "elementEntry": "3-21PPGS"
+        },
+        "13": {
+            "elementEntry": "3-21PPGS"
+        },
+        "14": {
+            "elementEntry": "3-21PPGS"
+        },
+        "15": {
+            "elementEntry": "3-21PPGS"
+        },
+        "16": {
+            "elementEntry": "3-21PPGS"
+        },
+        "17": {
+            "elementEntry": "3-21PPGS"
+        },
+        "18": {
+            "elementEntry": "3-21PPGS"
+        },
+        "21": {
+            "elementEntry": "3-21G"
+        },
+        "22": {
+            "elementEntry": "3-21G"
+        },
+        "23": {
+            "elementEntry": "3-21G"
+        },
+        "24": {
+            "elementEntry": "3-21G"
+        },
+        "25": {
+            "elementEntry": "3-21G"
+        },
+        "26": {
+            "elementEntry": "3-21G"
+        },
+        "27": {
+            "elementEntry": "3-21G"
+        },
+        "28": {
+            "elementEntry": "3-21G"
+        },
+        "29": {
+            "elementEntry": "3-21G"
+        },
+        "30": {
+            "elementEntry": "3-21G"
+        },
+        "31": {
+            "elementEntry": "3-21G"
+        },
+        "32": {
+            "elementEntry": "3-21G"
+        },
+        "33": {
+            "elementEntry": "3-21G"
+        },
+        "34": {
+            "elementEntry": "3-21G"
+        },
+        "35": {
+            "elementEntry": "3-21G"
+        },
+        "36": {
+            "elementEntry": "3-21G"
+        },
+        "37": {
+            "elementEntry": "3-21G"
+        },
+        "38": {
+            "elementEntry": "3-21G"
+        },
+        "39": {
+            "elementEntry": "3-21G"
+        },
+        "40": {
+            "elementEntry": "3-21G"
+        },
+        "41": {
+            "elementEntry": "3-21G"
+        },
+        "42": {
+            "elementEntry": "3-21G"
+        },
+        "43": {
+            "elementEntry": "3-21G"
+        },
+        "44": {
+            "elementEntry": "3-21G"
+        },
+        "45": {
+            "elementEntry": "3-21G"
+        },
+        "46": {
+            "elementEntry": "3-21G"
+        },
+        "47": {
+            "elementEntry": "3-21G"
+        },
+        "48": {
+            "elementEntry": "3-21G"
+        },
+        "49": {
+            "elementEntry": "3-21G"
+        },
+        "50": {
+            "elementEntry": "3-21G"
+        },
+        "51": {
+            "elementEntry": "3-21G"
+        },
+        "52": {
+            "elementEntry": "3-21G"
+        },
+        "53": {
+            "elementEntry": "3-21G"
+        },
+        "54": {
+            "elementEntry": "3-21G"
+        },
+        "55": {
+            "elementEntry": "3-21G"
+        }
+    }
+}

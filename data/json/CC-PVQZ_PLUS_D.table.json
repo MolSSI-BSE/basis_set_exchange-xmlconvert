@@ -1,0 +1,24 @@
+{
+    "basisSetName": "cc-pV(Q+d)Z",
+    "basisSetDescription": "VQZ3P   Valence Quadruple Zeta + Polarization on All Atoms",
+    "basisSetElements": {
+        "13": {
+            "elementEntry": "CC-PVQZ_PLUS_D"
+        },
+        "14": {
+            "elementEntry": "CC-PVQZ_PLUS_D"
+        },
+        "15": {
+            "elementEntry": "CC-PVQZ_PLUS_D"
+        },
+        "16": {
+            "elementEntry": "CC-PVQZ_PLUS_D"
+        },
+        "17": {
+            "elementEntry": "CC-PVQZ_PLUS_D"
+        },
+        "18": {
+            "elementEntry": "CC-PVQZ_PLUS_D"
+        }
+    }
+}

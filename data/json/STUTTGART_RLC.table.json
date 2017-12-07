@@ -1,0 +1,177 @@
+{
+    "basisSetName": "Stuttgart RLC ECP",
+    "basisSetDescription": "DZ      Double Zeta Basis Set designed for an ECP",
+    "basisSetElements": {
+        "3": {
+            "elementEntry": "STUTTGART_RLC"
+        },
+        "4": {
+            "elementEntry": "STUTTGART_RLC"
+        },
+        "5": {
+            "elementEntry": "STUTTGART_RLC"
+        },
+        "6": {
+            "elementEntry": "STUTTGART_RLC"
+        },
+        "7": {
+            "elementEntry": "STUTTGART_RLC"
+        },
+        "8": {
+            "elementEntry": "STUTTGART_RLC"
+        },
+        "9": {
+            "elementEntry": "STUTTGART_RLC"
+        },
+        "10": {
+            "elementEntry": "STUTTGART_RLC"
+        },
+        "11": {
+            "elementEntry": "STUTTGART_RLC"
+        },
+        "12": {
+            "elementEntry": "STUTTGART_RLC"
+        },
+        "13": {
+            "elementEntry": "STUTTGART_RLC"
+        },
+        "14": {
+            "elementEntry": "STUTTGART_RLC"
+        },
+        "15": {
+            "elementEntry": "STUTTGART_RLC"
+        },
+        "16": {
+            "elementEntry": "STUTTGART_RLC"
+        },
+        "17": {
+            "elementEntry": "STUTTGART_RLC"
+        },
+        "18": {
+            "elementEntry": "STUTTGART_RLC"
+        },
+        "19": {
+            "elementEntry": "STUTTGART_RLC"
+        },
+        "20": {
+            "elementEntry": "STUTTGART_RLC"
+        },
+        "30": {
+            "elementEntry": "STUTTGART_RLC"
+        },
+        "31": {
+            "elementEntry": "STUTTGART_RLC"
+        },
+        "32": {
+            "elementEntry": "STUTTGART_RLC"
+        },
+        "33": {
+            "elementEntry": "STUTTGART_RLC"
+        },
+        "34": {
+            "elementEntry": "STUTTGART_RLC"
+        },
+        "35": {
+            "elementEntry": "STUTTGART_RLC"
+        },
+        "36": {
+            "elementEntry": "STUTTGART_RLC"
+        },
+        "37": {
+            "elementEntry": "STUTTGART_RLC"
+        },
+        "38": {
+            "elementEntry": "STUTTGART_RLC"
+        },
+        "49": {
+            "elementEntry": "STUTTGART_RLC"
+        },
+        "50": {
+            "elementEntry": "STUTTGART_RLC"
+        },
+        "51": {
+            "elementEntry": "STUTTGART_RLC"
+        },
+        "52": {
+            "elementEntry": "STUTTGART_RLC"
+        },
+        "53": {
+            "elementEntry": "STUTTGART_RLC"
+        },
+        "54": {
+            "elementEntry": "STUTTGART_RLC"
+        },
+        "55": {
+            "elementEntry": "STUTTGART_RLC"
+        },
+        "56": {
+            "elementEntry": "STUTTGART_RLC"
+        },
+        "80": {
+            "elementEntry": "STUTTGART_RLC"
+        },
+        "81": {
+            "elementEntry": "STUTTGART_RLC"
+        },
+        "82": {
+            "elementEntry": "STUTTGART_RLC"
+        },
+        "83": {
+            "elementEntry": "STUTTGART_RLC"
+        },
+        "84": {
+            "elementEntry": "STUTTGART_RLC"
+        },
+        "85": {
+            "elementEntry": "STUTTGART_RLC"
+        },
+        "86": {
+            "elementEntry": "STUTTGART_RLC"
+        },
+        "89": {
+            "elementEntry": "STUTTGART_RLC"
+        },
+        "90": {
+            "elementEntry": "STUTTGART_RLC"
+        },
+        "91": {
+            "elementEntry": "STUTTGART_RLC"
+        },
+        "92": {
+            "elementEntry": "STUTTGART_RLC"
+        },
+        "93": {
+            "elementEntry": "STUTTGART_RLC"
+        },
+        "94": {
+            "elementEntry": "STUTTGART_RLC"
+        },
+        "95": {
+            "elementEntry": "STUTTGART_RLC"
+        },
+        "96": {
+            "elementEntry": "STUTTGART_RLC"
+        },
+        "97": {
+            "elementEntry": "STUTTGART_RLC"
+        },
+        "98": {
+            "elementEntry": "STUTTGART_RLC"
+        },
+        "99": {
+            "elementEntry": "STUTTGART_RLC"
+        },
+        "100": {
+            "elementEntry": "STUTTGART_RLC"
+        },
+        "101": {
+            "elementEntry": "STUTTGART_RLC"
+        },
+        "102": {
+            "elementEntry": "STUTTGART_RLC"
+        },
+        "103": {
+            "elementEntry": "STUTTGART_RLC"
+        }
+    }
+}

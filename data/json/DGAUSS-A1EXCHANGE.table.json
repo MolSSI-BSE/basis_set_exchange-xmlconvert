@@ -1,0 +1,168 @@
+{
+    "basisSetName": "DGauss A1 DFT Exchange Fitting",
+    "basisSetDescription": "DFT     Exchange Fitting",
+    "basisSetElements": {
+        "1": {
+            "elementEntry": "DGAUSS-A1EXCHANGE"
+        },
+        "2": {
+            "elementEntry": "DGAUSS-A1EXCHANGE"
+        },
+        "3": {
+            "elementEntry": "DGAUSS-A1EXCHANGE"
+        },
+        "4": {
+            "elementEntry": "DGAUSS-A1EXCHANGE"
+        },
+        "5": {
+            "elementEntry": "DGAUSS-A1EXCHANGE"
+        },
+        "6": {
+            "elementEntry": "DGAUSS-A1EXCHANGE"
+        },
+        "7": {
+            "elementEntry": "DGAUSS-A1EXCHANGE"
+        },
+        "8": {
+            "elementEntry": "DGAUSS-A1EXCHANGE"
+        },
+        "9": {
+            "elementEntry": "DGAUSS-A1EXCHANGE"
+        },
+        "10": {
+            "elementEntry": "DGAUSS-A1EXCHANGE"
+        },
+        "11": {
+            "elementEntry": "DGAUSS-A1EXCHANGE"
+        },
+        "12": {
+            "elementEntry": "DGAUSS-A1EXCHANGE"
+        },
+        "13": {
+            "elementEntry": "DGAUSS-A1EXCHANGE"
+        },
+        "14": {
+            "elementEntry": "DGAUSS-A1EXCHANGE"
+        },
+        "15": {
+            "elementEntry": "DGAUSS-A1EXCHANGE"
+        },
+        "16": {
+            "elementEntry": "DGAUSS-A1EXCHANGE"
+        },
+        "17": {
+            "elementEntry": "DGAUSS-A1EXCHANGE"
+        },
+        "18": {
+            "elementEntry": "DGAUSS-A1EXCHANGE"
+        },
+        "19": {
+            "elementEntry": "DGAUSS-A1EXCHANGE"
+        },
+        "20": {
+            "elementEntry": "DGAUSS-A1EXCHANGE"
+        },
+        "21": {
+            "elementEntry": "DGAUSS-A1EXCHANGE"
+        },
+        "22": {
+            "elementEntry": "DGAUSS-A1EXCHANGE"
+        },
+        "23": {
+            "elementEntry": "DGAUSS-A1EXCHANGE"
+        },
+        "24": {
+            "elementEntry": "DGAUSS-A1EXCHANGE"
+        },
+        "25": {
+            "elementEntry": "DGAUSS-A1EXCHANGE"
+        },
+        "26": {
+            "elementEntry": "DGAUSS-A1EXCHANGE"
+        },
+        "27": {
+            "elementEntry": "DGAUSS-A1EXCHANGE"
+        },
+        "28": {
+            "elementEntry": "DGAUSS-A1EXCHANGE"
+        },
+        "29": {
+            "elementEntry": "DGAUSS-A1EXCHANGE"
+        },
+        "30": {
+            "elementEntry": "DGAUSS-A1EXCHANGE"
+        },
+        "31": {
+            "elementEntry": "DGAUSS-A1EXCHANGE"
+        },
+        "32": {
+            "elementEntry": "DGAUSS-A1EXCHANGE"
+        },
+        "33": {
+            "elementEntry": "DGAUSS-A1EXCHANGE"
+        },
+        "34": {
+            "elementEntry": "DGAUSS-A1EXCHANGE"
+        },
+        "35": {
+            "elementEntry": "DGAUSS-A1EXCHANGE"
+        },
+        "36": {
+            "elementEntry": "DGAUSS-A1EXCHANGE"
+        },
+        "37": {
+            "elementEntry": "DGAUSS-A1EXCHANGE"
+        },
+        "38": {
+            "elementEntry": "DGAUSS-A1EXCHANGE"
+        },
+        "39": {
+            "elementEntry": "DGAUSS-A1EXCHANGE"
+        },
+        "40": {
+            "elementEntry": "DGAUSS-A1EXCHANGE"
+        },
+        "41": {
+            "elementEntry": "DGAUSS-A1EXCHANGE"
+        },
+        "42": {
+            "elementEntry": "DGAUSS-A1EXCHANGE"
+        },
+        "43": {
+            "elementEntry": "DGAUSS-A1EXCHANGE"
+        },
+        "44": {
+            "elementEntry": "DGAUSS-A1EXCHANGE"
+        },
+        "45": {
+            "elementEntry": "DGAUSS-A1EXCHANGE"
+        },
+        "46": {
+            "elementEntry": "DGAUSS-A1EXCHANGE"
+        },
+        "47": {
+            "elementEntry": "DGAUSS-A1EXCHANGE"
+        },
+        "48": {
+            "elementEntry": "DGAUSS-A1EXCHANGE"
+        },
+        "49": {
+            "elementEntry": "DGAUSS-A1EXCHANGE"
+        },
+        "50": {
+            "elementEntry": "DGAUSS-A1EXCHANGE"
+        },
+        "51": {
+            "elementEntry": "DGAUSS-A1EXCHANGE"
+        },
+        "52": {
+            "elementEntry": "DGAUSS-A1EXCHANGE"
+        },
+        "53": {
+            "elementEntry": "DGAUSS-A1EXCHANGE"
+        },
+        "54": {
+            "elementEntry": "DGAUSS-A1EXCHANGE"
+        }
+    }
+}

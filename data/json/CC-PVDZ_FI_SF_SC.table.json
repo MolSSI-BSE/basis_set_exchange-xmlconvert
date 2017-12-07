@@ -1,0 +1,66 @@
+{
+    "basisSetName": "cc-pVDZ(fi/sf/sc)",
+    "basisSetDescription": "VDZP    Relativistic Valence Double Zeta + Polarization",
+    "basisSetElements": {
+        "1": {
+            "elementEntry": "CC-PVDZ_FI_SF_SC"
+        },
+        "2": {
+            "elementEntry": "CC-PVDZ_FI_SF_SC"
+        },
+        "5": {
+            "elementEntry": "CC-PVDZ_FI_SF_SC"
+        },
+        "6": {
+            "elementEntry": "CC-PVDZ_FI_SF_SC"
+        },
+        "7": {
+            "elementEntry": "CC-PVDZ_FI_SF_SC"
+        },
+        "8": {
+            "elementEntry": "CC-PVDZ_FI_SF_SC"
+        },
+        "9": {
+            "elementEntry": "CC-PVDZ_FI_SF_SC"
+        },
+        "10": {
+            "elementEntry": "CC-PVDZ_FI_SF_SC"
+        },
+        "13": {
+            "elementEntry": "CC-PVDZ_FI_SF_SC"
+        },
+        "14": {
+            "elementEntry": "CC-PVDZ_FI_SF_SC"
+        },
+        "15": {
+            "elementEntry": "CC-PVDZ_FI_SF_SC"
+        },
+        "16": {
+            "elementEntry": "CC-PVDZ_FI_SF_SC"
+        },
+        "17": {
+            "elementEntry": "CC-PVDZ_FI_SF_SC"
+        },
+        "18": {
+            "elementEntry": "CC-PVDZ_FI_SF_SC"
+        },
+        "31": {
+            "elementEntry": "CC-PVDZ_FI_SF_SC"
+        },
+        "32": {
+            "elementEntry": "CC-PVDZ_FI_SF_SC"
+        },
+        "33": {
+            "elementEntry": "CC-PVDZ_FI_SF_SC"
+        },
+        "34": {
+            "elementEntry": "CC-PVDZ_FI_SF_SC"
+        },
+        "35": {
+            "elementEntry": "CC-PVDZ_FI_SF_SC"
+        },
+        "36": {
+            "elementEntry": "CC-PVDZ_FI_SF_SC"
+        }
+    }
+}

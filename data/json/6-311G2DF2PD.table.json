@@ -1,0 +1,42 @@
+{
+    "basisSetName": "Pople (2df,2pd) Polarization",
+    "basisSetDescription": "Pople (2df,2pd) Polarization",
+    "basisSetElements": {
+        "1": {
+            "elementEntry": "6-311G2DF2PD"
+        },
+        "2": {
+            "elementEntry": "6-311G2DF2PD"
+        },
+        "3": {
+            "elementEntry": "6-311G2DF2PD"
+        },
+        "4": {
+            "elementEntry": "6-311G2DF2PD"
+        },
+        "5": {
+            "elementEntry": "6-311G2DF2PD"
+        },
+        "6": {
+            "elementEntry": "6-311G2DF2PD"
+        },
+        "7": {
+            "elementEntry": "6-311G2DF2PD"
+        },
+        "8": {
+            "elementEntry": "6-311G2DF2PD"
+        },
+        "9": {
+            "elementEntry": "6-311G2DF2PD"
+        },
+        "10": {
+            "elementEntry": "6-311G2DF2PD"
+        },
+        "19": {
+            "elementEntry": "6-311G2DF2PD"
+        },
+        "20": {
+            "elementEntry": "6-311G2DF2PD"
+        }
+    }
+}

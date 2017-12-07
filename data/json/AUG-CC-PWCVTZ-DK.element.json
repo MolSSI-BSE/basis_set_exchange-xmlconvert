@@ -1,0 +1,114 @@
+{
+    "basisSetName": "aug-cc-pwCVTZ-DK",
+    "basisSetDescription": "VTZ2P   All-electron Douglas-Kroll Core-Valence Triple Zeta + Polarization",
+    "basisSetElements": {
+        "21": {
+            "elementComponents": [
+                "CC-PWCVTZ-DK",
+                "AUG-CC-PVTZ-DK"
+            ]
+        },
+        "22": {
+            "elementComponents": [
+                "CC-PWCVTZ-DK",
+                "AUG-CC-PVTZ-DK"
+            ]
+        },
+        "23": {
+            "elementComponents": [
+                "CC-PWCVTZ-DK",
+                "AUG-CC-PVTZ-DK"
+            ]
+        },
+        "24": {
+            "elementComponents": [
+                "CC-PWCVTZ-DK",
+                "AUG-CC-PVTZ-DK"
+            ]
+        },
+        "25": {
+            "elementComponents": [
+                "CC-PWCVTZ-DK",
+                "AUG-CC-PVTZ-DK"
+            ]
+        },
+        "26": {
+            "elementComponents": [
+                "CC-PWCVTZ-DK",
+                "AUG-CC-PVTZ-DK"
+            ]
+        },
+        "27": {
+            "elementComponents": [
+                "CC-PWCVTZ-DK",
+                "AUG-CC-PVTZ-DK"
+            ]
+        },
+        "28": {
+            "elementComponents": [
+                "CC-PWCVTZ-DK",
+                "AUG-CC-PVTZ-DK"
+            ]
+        },
+        "29": {
+            "elementComponents": [
+                "CC-PWCVTZ-DK",
+                "AUG-CC-PVTZ-DK"
+            ]
+        },
+        "30": {
+            "elementComponents": [
+                "CC-PWCVTZ-DK",
+                "AUG-CC-PVTZ-DK"
+            ]
+        },
+        "39": {
+            "elementComponents": [
+                "CC-PWCVTZ-DK",
+                "AUG-CC-PVTZ-DK"
+            ]
+        },
+        "40": {
+            "elementComponents": [
+                "CC-PWCVTZ-DK",
+                "AUG-CC-PVTZ-DK"
+            ]
+        },
+        "41": {
+            "elementComponents": [
+                "CC-PWCVTZ-DK",
+                "AUG-CC-PVTZ-DK"
+            ]
+        },
+        "42": {
+            "elementComponents": [
+                "CC-PWCVTZ-DK",
+                "AUG-CC-PVTZ-DK"
+            ]
+        },
+        "43": {
+            "elementComponents": [
+                "CC-PWCVTZ-DK",
+                "AUG-CC-PVTZ-DK"
+            ]
+        },
+        "44": {
+            "elementComponents": [
+                "CC-PWCVTZ-DK",
+                "AUG-CC-PVTZ-DK"
+            ]
+        },
+        "45": {
+            "elementComponents": [
+                "CC-PWCVTZ-DK",
+                "AUG-CC-PVTZ-DK"
+            ]
+        },
+        "46": {
+            "elementComponents": [
+                "CC-PWCVTZ-DK",
+                "AUG-CC-PVTZ-DK"
+            ]
+        }
+    }
+}

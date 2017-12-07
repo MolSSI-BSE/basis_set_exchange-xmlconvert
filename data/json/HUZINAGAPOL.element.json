@@ -1,0 +1,116 @@
+{
+    "basisSetName": "Huzinaga Polarization",
+    "basisSetDescription": "1P      Polarization functions",
+    "basisSetElements": {
+        "19": {
+            "elementComponents": [
+                "HUZINAGAPOL"
+            ]
+        },
+        "20": {
+            "elementComponents": [
+                "HUZINAGAPOL"
+            ]
+        },
+        "31": {
+            "elementComponents": [
+                "HUZINAGAPOL"
+            ]
+        },
+        "32": {
+            "elementComponents": [
+                "HUZINAGAPOL"
+            ]
+        },
+        "33": {
+            "elementComponents": [
+                "HUZINAGAPOL"
+            ]
+        },
+        "34": {
+            "elementComponents": [
+                "HUZINAGAPOL"
+            ]
+        },
+        "35": {
+            "elementComponents": [
+                "HUZINAGAPOL"
+            ]
+        },
+        "36": {
+            "elementComponents": [
+                "HUZINAGAPOL"
+            ]
+        },
+        "37": {
+            "elementComponents": [
+                "HUZINAGAPOL"
+            ]
+        },
+        "38": {
+            "elementComponents": [
+                "HUZINAGAPOL"
+            ]
+        },
+        "49": {
+            "elementComponents": [
+                "HUZINAGAPOL"
+            ]
+        },
+        "50": {
+            "elementComponents": [
+                "HUZINAGAPOL"
+            ]
+        },
+        "51": {
+            "elementComponents": [
+                "HUZINAGAPOL"
+            ]
+        },
+        "52": {
+            "elementComponents": [
+                "HUZINAGAPOL"
+            ]
+        },
+        "53": {
+            "elementComponents": [
+                "HUZINAGAPOL"
+            ]
+        },
+        "54": {
+            "elementComponents": [
+                "HUZINAGAPOL"
+            ]
+        },
+        "81": {
+            "elementComponents": [
+                "HUZINAGAPOL"
+            ]
+        },
+        "82": {
+            "elementComponents": [
+                "HUZINAGAPOL"
+            ]
+        },
+        "83": {
+            "elementComponents": [
+                "HUZINAGAPOL"
+            ]
+        },
+        "84": {
+            "elementComponents": [
+                "HUZINAGAPOL"
+            ]
+        },
+        "85": {
+            "elementComponents": [
+                "HUZINAGAPOL"
+            ]
+        },
+        "86": {
+            "elementComponents": [
+                "HUZINAGAPOL"
+            ]
+        }
+    }
+}

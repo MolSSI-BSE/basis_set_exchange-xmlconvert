@@ -1,0 +1,87 @@
+{
+    "basisSetName": "6-311G**",
+    "basisSetDescription": "VTZP    Valence Triple Zeta + Polarization on All Atoms",
+    "basisSetElements": {
+        "1": {
+            "elementEntry": "6-311GSS"
+        },
+        "2": {
+            "elementEntry": "6-311GSS"
+        },
+        "3": {
+            "elementEntry": "6-311GSS"
+        },
+        "4": {
+            "elementEntry": "6-311GSS"
+        },
+        "5": {
+            "elementEntry": "6-311GSS"
+        },
+        "6": {
+            "elementEntry": "6-311GSS"
+        },
+        "7": {
+            "elementEntry": "6-311GSS"
+        },
+        "8": {
+            "elementEntry": "6-311GSS"
+        },
+        "9": {
+            "elementEntry": "6-311GSS"
+        },
+        "10": {
+            "elementEntry": "6-311GSS"
+        },
+        "11": {
+            "elementEntry": "6-311GSS"
+        },
+        "12": {
+            "elementEntry": "6-311GSS"
+        },
+        "13": {
+            "elementEntry": "6-311GSS"
+        },
+        "14": {
+            "elementEntry": "6-311GSS"
+        },
+        "15": {
+            "elementEntry": "6-311GSS"
+        },
+        "16": {
+            "elementEntry": "6-311GSS"
+        },
+        "17": {
+            "elementEntry": "6-311GSS"
+        },
+        "18": {
+            "elementEntry": "6-311GSS"
+        },
+        "19": {
+            "elementEntry": "6-311GSS"
+        },
+        "20": {
+            "elementEntry": "6-311GSS"
+        },
+        "31": {
+            "elementEntry": "6-311GSS"
+        },
+        "32": {
+            "elementEntry": "6-311GSS"
+        },
+        "33": {
+            "elementEntry": "6-311GSS"
+        },
+        "34": {
+            "elementEntry": "6-311GSS"
+        },
+        "35": {
+            "elementEntry": "6-311GSS"
+        },
+        "36": {
+            "elementEntry": "6-311GSS"
+        },
+        "53": {
+            "elementEntry": "6-311GSS"
+        }
+    }
+}

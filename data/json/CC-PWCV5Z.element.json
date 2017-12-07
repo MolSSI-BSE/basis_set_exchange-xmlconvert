@@ -1,0 +1,66 @@
+{
+    "basisSetName": "cc-pwCV5Z Tight",
+    "basisSetDescription": "4T      Tight Functions",
+    "basisSetElements": {
+        "5": {
+            "elementComponents": [
+                "CC-PWCV5Z"
+            ]
+        },
+        "6": {
+            "elementComponents": [
+                "CC-PWCV5Z"
+            ]
+        },
+        "7": {
+            "elementComponents": [
+                "CC-PWCV5Z"
+            ]
+        },
+        "8": {
+            "elementComponents": [
+                "CC-PWCV5Z"
+            ]
+        },
+        "9": {
+            "elementComponents": [
+                "CC-PWCV5Z"
+            ]
+        },
+        "10": {
+            "elementComponents": [
+                "CC-PWCV5Z"
+            ]
+        },
+        "13": {
+            "elementComponents": [
+                "CC-PWCV5Z"
+            ]
+        },
+        "14": {
+            "elementComponents": [
+                "CC-PWCV5Z"
+            ]
+        },
+        "15": {
+            "elementComponents": [
+                "CC-PWCV5Z"
+            ]
+        },
+        "16": {
+            "elementComponents": [
+                "CC-PWCV5Z"
+            ]
+        },
+        "17": {
+            "elementComponents": [
+                "CC-PWCV5Z"
+            ]
+        },
+        "18": {
+            "elementComponents": [
+                "CC-PWCV5Z"
+            ]
+        }
+    }
+}

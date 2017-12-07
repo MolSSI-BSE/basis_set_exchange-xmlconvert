@@ -1,0 +1,39 @@
+{
+    "basisSetName": "IGLO-II",
+    "basisSetDescription": "VDZP    Valence Double Zeta + Polarization on All Atoms",
+    "basisSetElements": {
+        "1": {
+            "elementEntry": "IGLOII"
+        },
+        "5": {
+            "elementEntry": "IGLOII"
+        },
+        "6": {
+            "elementEntry": "IGLOII"
+        },
+        "7": {
+            "elementEntry": "IGLOII"
+        },
+        "8": {
+            "elementEntry": "IGLOII"
+        },
+        "9": {
+            "elementEntry": "IGLOII"
+        },
+        "13": {
+            "elementEntry": "IGLOII"
+        },
+        "14": {
+            "elementEntry": "IGLOII"
+        },
+        "15": {
+            "elementEntry": "IGLOII"
+        },
+        "16": {
+            "elementEntry": "IGLOII"
+        },
+        "17": {
+            "elementEntry": "IGLOII"
+        }
+    }
+}

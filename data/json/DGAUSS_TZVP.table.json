@@ -1,0 +1,39 @@
+{
+    "basisSetName": "TZVP (DFT Orbital)",
+    "basisSetDescription": "VTZP    Valence Triple Zeta + Polarization designed for DFT",
+    "basisSetElements": {
+        "1": {
+            "elementEntry": "DGAUSS_TZVP"
+        },
+        "6": {
+            "elementEntry": "DGAUSS_TZVP"
+        },
+        "7": {
+            "elementEntry": "DGAUSS_TZVP"
+        },
+        "8": {
+            "elementEntry": "DGAUSS_TZVP"
+        },
+        "9": {
+            "elementEntry": "DGAUSS_TZVP"
+        },
+        "13": {
+            "elementEntry": "DGAUSS_TZVP"
+        },
+        "14": {
+            "elementEntry": "DGAUSS_TZVP"
+        },
+        "15": {
+            "elementEntry": "DGAUSS_TZVP"
+        },
+        "16": {
+            "elementEntry": "DGAUSS_TZVP"
+        },
+        "17": {
+            "elementEntry": "DGAUSS_TZVP"
+        },
+        "18": {
+            "elementEntry": "DGAUSS_TZVP"
+        }
+    }
+}

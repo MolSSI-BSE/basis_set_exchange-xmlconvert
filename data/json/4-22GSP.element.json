@@ -1,0 +1,96 @@
+{
+    "basisSetName": "4-22GSP",
+    "basisSetDescription": "VDZD    Valence Double Zeta",
+    "basisSetElements": {
+        "1": {
+            "elementComponents": [
+                "4-22GSP"
+            ]
+        },
+        "2": {
+            "elementComponents": [
+                "4-22GSP"
+            ]
+        },
+        "3": {
+            "elementComponents": [
+                "4-22GSP"
+            ]
+        },
+        "4": {
+            "elementComponents": [
+                "4-22GSP"
+            ]
+        },
+        "5": {
+            "elementComponents": [
+                "4-22GSP"
+            ]
+        },
+        "6": {
+            "elementComponents": [
+                "4-22GSP"
+            ]
+        },
+        "7": {
+            "elementComponents": [
+                "4-22GSP"
+            ]
+        },
+        "8": {
+            "elementComponents": [
+                "4-22GSP"
+            ]
+        },
+        "9": {
+            "elementComponents": [
+                "4-22GSP"
+            ]
+        },
+        "10": {
+            "elementComponents": [
+                "4-22GSP"
+            ]
+        },
+        "11": {
+            "elementComponents": [
+                "4-22GSP"
+            ]
+        },
+        "12": {
+            "elementComponents": [
+                "4-22GSP"
+            ]
+        },
+        "13": {
+            "elementComponents": [
+                "4-22GSP"
+            ]
+        },
+        "14": {
+            "elementComponents": [
+                "4-22GSP"
+            ]
+        },
+        "15": {
+            "elementComponents": [
+                "4-22GSP"
+            ]
+        },
+        "16": {
+            "elementComponents": [
+                "4-22GSP"
+            ]
+        },
+        "17": {
+            "elementComponents": [
+                "4-22GSP"
+            ]
+        },
+        "18": {
+            "elementComponents": [
+                "4-22GSP"
+            ]
+        }
+    }
+}

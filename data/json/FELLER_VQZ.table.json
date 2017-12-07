@@ -1,0 +1,9 @@
+{
+    "basisSetName": "Feller Misc. CVQZ",
+    "basisSetDescription": "QZ3P    Quadruple Zeta + Polarization on All Atoms",
+    "basisSetElements": {
+        "19": {
+            "elementEntry": "FELLER_VQZ"
+        }
+    }
+}

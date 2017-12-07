@@ -1,54 +1,79 @@
 #!/usr/bin/env python3
 
-import argparse
 import json
 import os
 import sys
-import glob
 
 import bse
+import numpy as np
+
+def compare_shell(shell1, shell2):
+    if shell1['shellAngularMomentum'] != shell2['shellAngularMomentum']:
+        return False
+    if shell1['shellFunctionType'] != shell2['shellFunctionType']:
+        return False
+
+    exponents1 = np.array(shell1['shellExponents']).astype(np.float)
+    exponents2 = np.array(shell2['shellExponents']).astype(np.float)
+    coefficients1 = np.array(shell1['shellCoefficients']).astype(np.float)
+    coefficients2 = np.array(shell2['shellCoefficients']).astype(np.float)
+
+    if exponents1.shape != exponents2.shape:
+        return False
+    if coefficients1.shape != coefficients2.shape:
+        return False
+    if not np.allclose(exponents1, exponents2, rtol=1e-10):
+        return False
+    if not np.allclose(coefficients1, coefficients2, rtol=1e-10):
+        return False
+
+    return True
 
 
 # Is a dictionary a subset of another?
 # https://stackoverflow.com/questions/9323749/python-check-if-one-dictionary-is-a-subset-of-another-larger-dictionary
-def is_subset(subset, superset):
-    # For dicts
-    #return all(item in superset.items() for item in subset.items())
-
+def shells_are_subset(subset, superset):
     # For lists
-    return all(item in superset for item in subset)
+    for item1 in subset:
+        found = False
+        for item2 in superset:
+            if compare_shell(item1, item2):
+                found = True
+                break
+        if not found:
+            return False
+
+    return True
 
 
-parser = argparse.ArgumentParser()
-parser.add_argument('source_file', help='File to use as the master', type=str)
-args = parser.parse_args()
+# What to replace with
+source_file = sys.argv[1]
 
-# All json files in the current directory
-#all_json_files = [ x for x in os.listdir() if os.path.splitext(x)[1] == ".json" ]
-all_json_files = glob.glob("bse_xml/*.json")
+# All JSON file to search for replacements
+json_files = sys.argv[2:]
 
-all_component_files = []
-all_atom_files = []
+component_files = []
+element_files = []
 
-for x in all_json_files:
-    if x == args.source_file:
+for x in json_files:
+    if x == source_file:
         continue
     elif x.endswith('.element.json'):
-        all_atom_files.append(x)
+        element_files.append(x)
     elif not x.endswith('.table.json'):
-        all_component_files.append(x)
+        component_files.append(x)
 
 # Read in the source file
-sdata = bse.read_json_by_path(args.source_file)
-sname = os.path.splitext(args.source_file)[0]
+sdata = bse.read_json_by_path(source_file)
+sname = os.path.splitext(source_file)[0]
 selements = sdata['basisSetElements']
 
 # Map of what we replaced or added
 replaced_map = {}
 added_map = {}
 
-for cfile in all_component_files:
-    print("Comparing with {}".format(cfile))
+for cfile in component_files:
+    #print("Comparing with {}".format(cfile))
     changed = False
 
     cdata = bse.read_json_by_path(cfile)
@@ -75,7 +100,7 @@ for cfile in all_component_files:
             # Remove from the candidate
             celements.pop(k)
 
-        elif is_subset(sel['elementElectronShells'], cel['elementElectronShells']):
+        elif shells_are_subset(sel['elementElectronShells'], cel['elementElectronShells']):
             changed = True
 
             if not cname in added_map:
@@ -100,7 +125,7 @@ for k, v in added_map.items():
     print("Partially replaced in {}: {}".format(k, v))
 
 # Now go through all the atom basis files, doing replacements
-for afile in all_atom_files:
+for afile in element_files:
     adata = bse.read_json_by_path(afile)
 
     changed = False

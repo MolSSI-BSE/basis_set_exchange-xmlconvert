@@ -1,0 +1,16 @@
+{
+    "basisSetName": "6-31G-Blaudeau",
+    "basisSetDescription": "VDZ     Valence Double Zeta: 2 Funct.'s/Valence AO",
+    "basisSetElements": {
+        "19": {
+            "elementComponents": [
+                "6-31G-BLAUDEAU"
+            ]
+        },
+        "20": {
+            "elementComponents": [
+                "6-31G-BLAUDEAU"
+            ]
+        }
+    }
+}

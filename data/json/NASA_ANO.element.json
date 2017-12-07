@@ -1,0 +1,66 @@
+{
+    "basisSetName": "NASA Ames ANO",
+    "basisSetDescription": "VQZ3P   Valence Quadruple Zeta + Polarization on All Atoms",
+    "basisSetElements": {
+        "1": {
+            "elementComponents": [
+                "NASA_ANO"
+            ]
+        },
+        "5": {
+            "elementComponents": [
+                "NASA_ANO"
+            ]
+        },
+        "6": {
+            "elementComponents": [
+                "NASA_ANO"
+            ]
+        },
+        "7": {
+            "elementComponents": [
+                "NASA_ANO"
+            ]
+        },
+        "8": {
+            "elementComponents": [
+                "NASA_ANO"
+            ]
+        },
+        "9": {
+            "elementComponents": [
+                "NASA_ANO"
+            ]
+        },
+        "10": {
+            "elementComponents": [
+                "NASA_ANO"
+            ]
+        },
+        "13": {
+            "elementComponents": [
+                "NASA_ANO"
+            ]
+        },
+        "15": {
+            "elementComponents": [
+                "NASA_ANO"
+            ]
+        },
+        "22": {
+            "elementComponents": [
+                "NASA_ANO"
+            ]
+        },
+        "26": {
+            "elementComponents": [
+                "NASA_ANO"
+            ]
+        },
+        "28": {
+            "elementComponents": [
+                "NASA_ANO"
+            ]
+        }
+    }
+}

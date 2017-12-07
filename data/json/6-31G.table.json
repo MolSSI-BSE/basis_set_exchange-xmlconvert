@@ -1,0 +1,96 @@
+{
+    "basisSetName": "6-31G",
+    "basisSetDescription": "6-31G",
+    "basisSetElements": {
+        "1": {
+            "elementEntry": "6-31G"
+        },
+        "2": {
+            "elementEntry": "6-31G"
+        },
+        "3": {
+            "elementEntry": "6-31G"
+        },
+        "4": {
+            "elementEntry": "6-31G"
+        },
+        "5": {
+            "elementEntry": "6-31G"
+        },
+        "6": {
+            "elementEntry": "6-31G"
+        },
+        "7": {
+            "elementEntry": "6-31G"
+        },
+        "8": {
+            "elementEntry": "6-31G"
+        },
+        "9": {
+            "elementEntry": "6-31G"
+        },
+        "10": {
+            "elementEntry": "6-31G"
+        },
+        "11": {
+            "elementEntry": "6-31G"
+        },
+        "12": {
+            "elementEntry": "6-31G"
+        },
+        "13": {
+            "elementEntry": "6-31G"
+        },
+        "14": {
+            "elementEntry": "6-31G"
+        },
+        "15": {
+            "elementEntry": "6-31G"
+        },
+        "16": {
+            "elementEntry": "6-31G"
+        },
+        "17": {
+            "elementEntry": "6-31G"
+        },
+        "18": {
+            "elementEntry": "6-31G"
+        },
+        "19": {
+            "elementEntry": "6-31G"
+        },
+        "20": {
+            "elementEntry": "6-31G"
+        },
+        "21": {
+            "elementEntry": "6-31G"
+        },
+        "22": {
+            "elementEntry": "6-31G"
+        },
+        "23": {
+            "elementEntry": "6-31G"
+        },
+        "24": {
+            "elementEntry": "6-31G"
+        },
+        "25": {
+            "elementEntry": "6-31G"
+        },
+        "26": {
+            "elementEntry": "6-31G"
+        },
+        "27": {
+            "elementEntry": "6-31G"
+        },
+        "28": {
+            "elementEntry": "6-31G"
+        },
+        "29": {
+            "elementEntry": "6-31G"
+        },
+        "30": {
+            "elementEntry": "6-31G"
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "basisSetName": "d-aug-cc-pV6Z Diffuse",
+    "basisSetDescription": "2D      Diffuse Functions",
+    "basisSetElements": {
+        "1": {
+            "elementEntry": "DAUG-CC-PV6Z"
+        },
+        "5": {
+            "elementEntry": "DAUG-CC-PV6Z"
+        },
+        "6": {
+            "elementEntry": "DAUG-CC-PV6Z"
+        },
+        "7": {
+            "elementEntry": "DAUG-CC-PV6Z"
+        },
+        "8": {
+            "elementEntry": "DAUG-CC-PV6Z"
+        }
+    }
+}

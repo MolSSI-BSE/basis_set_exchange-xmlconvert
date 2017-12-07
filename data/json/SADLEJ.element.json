@@ -1,0 +1,101 @@
+{
+    "basisSetName": "Sadlej pVTZ",
+    "basisSetDescription": "Sadlej pVTZ",
+    "basisSetElements": {
+        "1": {
+            "elementComponents": [
+                "SADLEJ"
+            ]
+        },
+        "3": {
+            "elementComponents": [
+                "SADLEJ"
+            ]
+        },
+        "4": {
+            "elementComponents": [
+                "SADLEJ"
+            ]
+        },
+        "6": {
+            "elementComponents": [
+                "SADLEJ"
+            ]
+        },
+        "7": {
+            "elementComponents": [
+                "SADLEJ"
+            ]
+        },
+        "8": {
+            "elementComponents": [
+                "SADLEJ"
+            ]
+        },
+        "9": {
+            "elementComponents": [
+                "SADLEJ"
+            ]
+        },
+        "11": {
+            "elementComponents": [
+                "SADLEJ"
+            ]
+        },
+        "12": {
+            "elementComponents": [
+                "SADLEJ"
+            ]
+        },
+        "14": {
+            "elementComponents": [
+                "SADLEJ"
+            ]
+        },
+        "15": {
+            "elementComponents": [
+                "SADLEJ"
+            ]
+        },
+        "16": {
+            "elementComponents": [
+                "SADLEJ"
+            ]
+        },
+        "17": {
+            "elementComponents": [
+                "SADLEJ"
+            ]
+        },
+        "19": {
+            "elementComponents": [
+                "SADLEJ"
+            ]
+        },
+        "20": {
+            "elementComponents": [
+                "SADLEJ"
+            ]
+        },
+        "35": {
+            "elementComponents": [
+                "SADLEJ"
+            ]
+        },
+        "37": {
+            "elementComponents": [
+                "SADLEJ"
+            ]
+        },
+        "38": {
+            "elementComponents": [
+                "SADLEJ"
+            ]
+        },
+        "53": {
+            "elementComponents": [
+                "SADLEJ"
+            ]
+        }
+    }
+}

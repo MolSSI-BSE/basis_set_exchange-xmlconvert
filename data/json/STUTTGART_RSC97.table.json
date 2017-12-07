@@ -1,0 +1,198 @@
+{
+    "basisSetName": "Stuttgart RSC 1997 ECP",
+    "basisSetDescription": "Stuttgart RSC 1997 ECP",
+    "basisSetElements": {
+        "19": {
+            "elementEntry": "STUTTGART_RSC97"
+        },
+        "20": {
+            "elementEntry": "STUTTGART_RSC97"
+        },
+        "21": {
+            "elementEntry": "STUTTGART_RSC97"
+        },
+        "22": {
+            "elementEntry": "STUTTGART_RSC97"
+        },
+        "23": {
+            "elementEntry": "STUTTGART_RSC97"
+        },
+        "24": {
+            "elementEntry": "STUTTGART_RSC97"
+        },
+        "25": {
+            "elementEntry": "STUTTGART_RSC97"
+        },
+        "26": {
+            "elementEntry": "STUTTGART_RSC97"
+        },
+        "27": {
+            "elementEntry": "STUTTGART_RSC97"
+        },
+        "28": {
+            "elementEntry": "STUTTGART_RSC97"
+        },
+        "29": {
+            "elementEntry": "STUTTGART_RSC97"
+        },
+        "30": {
+            "elementEntry": "STUTTGART_RSC97"
+        },
+        "37": {
+            "elementEntry": "STUTTGART_RSC97"
+        },
+        "38": {
+            "elementEntry": "STUTTGART_RSC97"
+        },
+        "39": {
+            "elementEntry": "STUTTGART_RSC97"
+        },
+        "40": {
+            "elementEntry": "STUTTGART_RSC97"
+        },
+        "41": {
+            "elementEntry": "STUTTGART_RSC97"
+        },
+        "42": {
+            "elementEntry": "STUTTGART_RSC97"
+        },
+        "43": {
+            "elementEntry": "STUTTGART_RSC97"
+        },
+        "44": {
+            "elementEntry": "STUTTGART_RSC97"
+        },
+        "45": {
+            "elementEntry": "STUTTGART_RSC97"
+        },
+        "46": {
+            "elementEntry": "STUTTGART_RSC97"
+        },
+        "47": {
+            "elementEntry": "STUTTGART_RSC97"
+        },
+        "48": {
+            "elementEntry": "STUTTGART_RSC97"
+        },
+        "55": {
+            "elementEntry": "STUTTGART_RSC97"
+        },
+        "56": {
+            "elementEntry": "STUTTGART_RSC97"
+        },
+        "58": {
+            "elementEntry": "STUTTGART_RSC97"
+        },
+        "59": {
+            "elementEntry": "STUTTGART_RSC97"
+        },
+        "60": {
+            "elementEntry": "STUTTGART_RSC97"
+        },
+        "61": {
+            "elementEntry": "STUTTGART_RSC97"
+        },
+        "62": {
+            "elementEntry": "STUTTGART_RSC97"
+        },
+        "63": {
+            "elementEntry": "STUTTGART_RSC97"
+        },
+        "64": {
+            "elementEntry": "STUTTGART_RSC97"
+        },
+        "65": {
+            "elementEntry": "STUTTGART_RSC97"
+        },
+        "66": {
+            "elementEntry": "STUTTGART_RSC97"
+        },
+        "67": {
+            "elementEntry": "STUTTGART_RSC97"
+        },
+        "68": {
+            "elementEntry": "STUTTGART_RSC97"
+        },
+        "69": {
+            "elementEntry": "STUTTGART_RSC97"
+        },
+        "70": {
+            "elementEntry": "STUTTGART_RSC97"
+        },
+        "72": {
+            "elementEntry": "STUTTGART_RSC97"
+        },
+        "73": {
+            "elementEntry": "STUTTGART_RSC97"
+        },
+        "74": {
+            "elementEntry": "STUTTGART_RSC97"
+        },
+        "75": {
+            "elementEntry": "STUTTGART_RSC97"
+        },
+        "76": {
+            "elementEntry": "STUTTGART_RSC97"
+        },
+        "77": {
+            "elementEntry": "STUTTGART_RSC97"
+        },
+        "78": {
+            "elementEntry": "STUTTGART_RSC97"
+        },
+        "79": {
+            "elementEntry": "STUTTGART_RSC97"
+        },
+        "80": {
+            "elementEntry": "STUTTGART_RSC97"
+        },
+        "89": {
+            "elementEntry": "STUTTGART_RSC97"
+        },
+        "90": {
+            "elementEntry": "STUTTGART_RSC97"
+        },
+        "91": {
+            "elementEntry": "STUTTGART_RSC97"
+        },
+        "92": {
+            "elementEntry": "STUTTGART_RSC97"
+        },
+        "93": {
+            "elementEntry": "STUTTGART_RSC97"
+        },
+        "94": {
+            "elementEntry": "STUTTGART_RSC97"
+        },
+        "95": {
+            "elementEntry": "STUTTGART_RSC97"
+        },
+        "96": {
+            "elementEntry": "STUTTGART_RSC97"
+        },
+        "97": {
+            "elementEntry": "STUTTGART_RSC97"
+        },
+        "98": {
+            "elementEntry": "STUTTGART_RSC97"
+        },
+        "99": {
+            "elementEntry": "STUTTGART_RSC97"
+        },
+        "100": {
+            "elementEntry": "STUTTGART_RSC97"
+        },
+        "101": {
+            "elementEntry": "STUTTGART_RSC97"
+        },
+        "102": {
+            "elementEntry": "STUTTGART_RSC97"
+        },
+        "103": {
+            "elementEntry": "STUTTGART_RSC97"
+        },
+        "105": {
+            "elementEntry": "STUTTGART_RSC97"
+        }
+    }
+}

@@ -1,0 +1,166 @@
+{
+    "basisSetName": "Hay-Wadt VDZ (n+1) ECP",
+    "basisSetDescription": "VDZ     Valence Double Zeta designed for an ECP",
+    "basisSetElements": {
+        "19": {
+            "elementComponents": [
+                "HAY-WADT2_VDZ"
+            ]
+        },
+        "20": {
+            "elementComponents": [
+                "HAY-WADT2_VDZ"
+            ]
+        },
+        "21": {
+            "elementComponents": [
+                "HAY-WADT2_VDZ"
+            ]
+        },
+        "22": {
+            "elementComponents": [
+                "HAY-WADT2_VDZ"
+            ]
+        },
+        "23": {
+            "elementComponents": [
+                "HAY-WADT2_VDZ"
+            ]
+        },
+        "24": {
+            "elementComponents": [
+                "HAY-WADT2_VDZ"
+            ]
+        },
+        "25": {
+            "elementComponents": [
+                "HAY-WADT2_VDZ"
+            ]
+        },
+        "26": {
+            "elementComponents": [
+                "HAY-WADT2_VDZ"
+            ]
+        },
+        "27": {
+            "elementComponents": [
+                "HAY-WADT2_VDZ"
+            ]
+        },
+        "28": {
+            "elementComponents": [
+                "HAY-WADT2_VDZ"
+            ]
+        },
+        "29": {
+            "elementComponents": [
+                "HAY-WADT2_VDZ"
+            ]
+        },
+        "37": {
+            "elementComponents": [
+                "HAY-WADT2_VDZ"
+            ]
+        },
+        "38": {
+            "elementComponents": [
+                "HAY-WADT2_VDZ"
+            ]
+        },
+        "39": {
+            "elementComponents": [
+                "HAY-WADT2_VDZ"
+            ]
+        },
+        "40": {
+            "elementComponents": [
+                "HAY-WADT2_VDZ"
+            ]
+        },
+        "41": {
+            "elementComponents": [
+                "HAY-WADT2_VDZ"
+            ]
+        },
+        "42": {
+            "elementComponents": [
+                "HAY-WADT2_VDZ"
+            ]
+        },
+        "43": {
+            "elementComponents": [
+                "HAY-WADT2_VDZ"
+            ]
+        },
+        "44": {
+            "elementComponents": [
+                "HAY-WADT2_VDZ"
+            ]
+        },
+        "45": {
+            "elementComponents": [
+                "HAY-WADT2_VDZ"
+            ]
+        },
+        "46": {
+            "elementComponents": [
+                "HAY-WADT2_VDZ"
+            ]
+        },
+        "47": {
+            "elementComponents": [
+                "HAY-WADT2_VDZ"
+            ]
+        },
+        "55": {
+            "elementComponents": [
+                "HAY-WADT2_VDZ"
+            ]
+        },
+        "56": {
+            "elementComponents": [
+                "HAY-WADT2_VDZ"
+            ]
+        },
+        "57": {
+            "elementComponents": [
+                "HAY-WADT2_VDZ"
+            ]
+        },
+        "73": {
+            "elementComponents": [
+                "HAY-WADT2_VDZ"
+            ]
+        },
+        "74": {
+            "elementComponents": [
+                "HAY-WADT2_VDZ"
+            ]
+        },
+        "75": {
+            "elementComponents": [
+                "HAY-WADT2_VDZ"
+            ]
+        },
+        "76": {
+            "elementComponents": [
+                "HAY-WADT2_VDZ"
+            ]
+        },
+        "77": {
+            "elementComponents": [
+                "HAY-WADT2_VDZ"
+            ]
+        },
+        "78": {
+            "elementComponents": [
+                "HAY-WADT2_VDZ"
+            ]
+        },
+        "79": {
+            "elementComponents": [
+                "HAY-WADT2_VDZ"
+            ]
+        }
+    }
+}

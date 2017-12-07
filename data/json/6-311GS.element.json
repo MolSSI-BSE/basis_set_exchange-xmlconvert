@@ -1,0 +1,131 @@
+{
+    "basisSetName": "6-311G* Polarization",
+    "basisSetDescription": "1P      Polarization functions associated with 6-311G",
+    "basisSetElements": {
+        "3": {
+            "elementComponents": [
+                "6-311GS"
+            ]
+        },
+        "4": {
+            "elementComponents": [
+                "6-311GS"
+            ]
+        },
+        "5": {
+            "elementComponents": [
+                "6-311GS"
+            ]
+        },
+        "6": {
+            "elementComponents": [
+                "6-311GS"
+            ]
+        },
+        "7": {
+            "elementComponents": [
+                "6-311GS"
+            ]
+        },
+        "8": {
+            "elementComponents": [
+                "6-311GS"
+            ]
+        },
+        "9": {
+            "elementComponents": [
+                "6-311GS"
+            ]
+        },
+        "10": {
+            "elementComponents": [
+                "6-311GS"
+            ]
+        },
+        "11": {
+            "elementComponents": [
+                "6-311GS"
+            ]
+        },
+        "12": {
+            "elementComponents": [
+                "6-311GS"
+            ]
+        },
+        "13": {
+            "elementComponents": [
+                "6-311GS"
+            ]
+        },
+        "14": {
+            "elementComponents": [
+                "6-311GS"
+            ]
+        },
+        "15": {
+            "elementComponents": [
+                "6-311GS"
+            ]
+        },
+        "16": {
+            "elementComponents": [
+                "6-311GS"
+            ]
+        },
+        "17": {
+            "elementComponents": [
+                "6-311GS"
+            ]
+        },
+        "18": {
+            "elementComponents": [
+                "6-311GS"
+            ]
+        },
+        "19": {
+            "elementComponents": [
+                "6-311GS"
+            ]
+        },
+        "20": {
+            "elementComponents": [
+                "6-311GS"
+            ]
+        },
+        "31": {
+            "elementComponents": [
+                "6-311GS"
+            ]
+        },
+        "32": {
+            "elementComponents": [
+                "6-311GS"
+            ]
+        },
+        "33": {
+            "elementComponents": [
+                "6-311GS"
+            ]
+        },
+        "34": {
+            "elementComponents": [
+                "6-311GS"
+            ]
+        },
+        "35": {
+            "elementComponents": [
+                "6-311GS"
+            ]
+        },
+        "36": {
+            "elementComponents": [
+                "6-311GS"
+            ]
+        },
+        "53": {
+            "elementComponents": [
+                "6-311GS"
+            ]
+        }
+    }
+}

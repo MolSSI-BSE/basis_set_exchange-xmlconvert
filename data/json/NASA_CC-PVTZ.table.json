@@ -1,0 +1,12 @@
+{
+    "basisSetName": "NASA Ames cc-pVTZ",
+    "basisSetDescription": "VTZ2P   Valence Triple Zeta + Polarization on All Atoms",
+    "basisSetElements": {
+        "22": {
+            "elementEntry": "NASA_CC-PVTZ"
+        },
+        "26": {
+            "elementEntry": "NASA_CC-PVTZ"
+        }
+    }
+}

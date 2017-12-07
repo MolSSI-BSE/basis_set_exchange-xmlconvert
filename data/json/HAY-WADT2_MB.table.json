@@ -1,0 +1,105 @@
+{
+    "basisSetName": "Hay-Wadt MB (n+1) ECP",
+    "basisSetDescription": "MB      Minimal Basis Set designed for an ECP",
+    "basisSetElements": {
+        "19": {
+            "elementEntry": "HAY-WADT2_MB"
+        },
+        "20": {
+            "elementEntry": "HAY-WADT2_MB"
+        },
+        "21": {
+            "elementEntry": "HAY-WADT2_MB"
+        },
+        "22": {
+            "elementEntry": "HAY-WADT2_MB"
+        },
+        "23": {
+            "elementEntry": "HAY-WADT2_MB"
+        },
+        "24": {
+            "elementEntry": "HAY-WADT2_MB"
+        },
+        "25": {
+            "elementEntry": "HAY-WADT2_MB"
+        },
+        "26": {
+            "elementEntry": "HAY-WADT2_MB"
+        },
+        "27": {
+            "elementEntry": "HAY-WADT2_MB"
+        },
+        "28": {
+            "elementEntry": "HAY-WADT2_MB"
+        },
+        "29": {
+            "elementEntry": "HAY-WADT2_MB"
+        },
+        "37": {
+            "elementEntry": "HAY-WADT2_MB"
+        },
+        "38": {
+            "elementEntry": "HAY-WADT2_MB"
+        },
+        "39": {
+            "elementEntry": "HAY-WADT2_MB"
+        },
+        "40": {
+            "elementEntry": "HAY-WADT2_MB"
+        },
+        "41": {
+            "elementEntry": "HAY-WADT2_MB"
+        },
+        "42": {
+            "elementEntry": "HAY-WADT2_MB"
+        },
+        "43": {
+            "elementEntry": "HAY-WADT2_MB"
+        },
+        "44": {
+            "elementEntry": "HAY-WADT2_MB"
+        },
+        "45": {
+            "elementEntry": "HAY-WADT2_MB"
+        },
+        "46": {
+            "elementEntry": "HAY-WADT2_MB"
+        },
+        "47": {
+            "elementEntry": "HAY-WADT2_MB"
+        },
+        "55": {
+            "elementEntry": "HAY-WADT2_MB"
+        },
+        "56": {
+            "elementEntry": "HAY-WADT2_MB"
+        },
+        "57": {
+            "elementEntry": "HAY-WADT2_MB"
+        },
+        "72": {
+            "elementEntry": "HAY-WADT2_MB"
+        },
+        "73": {
+            "elementEntry": "HAY-WADT2_MB"
+        },
+        "74": {
+            "elementEntry": "HAY-WADT2_MB"
+        },
+        "75": {
+            "elementEntry": "HAY-WADT2_MB"
+        },
+        "76": {
+            "elementEntry": "HAY-WADT2_MB"
+        },
+        "77": {
+            "elementEntry": "HAY-WADT2_MB"
+        },
+        "78": {
+            "elementEntry": "HAY-WADT2_MB"
+        },
+        "79": {
+            "elementEntry": "HAY-WADT2_MB"
+        }
+    }
+}

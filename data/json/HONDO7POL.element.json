@@ -1,0 +1,91 @@
+{
+    "basisSetName": "HONDO7 Polarization",
+    "basisSetDescription": "1P      Polarization functions from HONDO7",
+    "basisSetElements": {
+        "1": {
+            "elementComponents": [
+                "HONDO7POL"
+            ]
+        },
+        "2": {
+            "elementComponents": [
+                "HONDO7POL"
+            ]
+        },
+        "4": {
+            "elementComponents": [
+                "HONDO7POL"
+            ]
+        },
+        "5": {
+            "elementComponents": [
+                "HONDO7POL"
+            ]
+        },
+        "6": {
+            "elementComponents": [
+                "HONDO7POL"
+            ]
+        },
+        "7": {
+            "elementComponents": [
+                "HONDO7POL"
+            ]
+        },
+        "8": {
+            "elementComponents": [
+                "HONDO7POL"
+            ]
+        },
+        "9": {
+            "elementComponents": [
+                "HONDO7POL"
+            ]
+        },
+        "10": {
+            "elementComponents": [
+                "HONDO7POL"
+            ]
+        },
+        "11": {
+            "elementComponents": [
+                "HONDO7POL"
+            ]
+        },
+        "12": {
+            "elementComponents": [
+                "HONDO7POL"
+            ]
+        },
+        "13": {
+            "elementComponents": [
+                "HONDO7POL"
+            ]
+        },
+        "14": {
+            "elementComponents": [
+                "HONDO7POL"
+            ]
+        },
+        "15": {
+            "elementComponents": [
+                "HONDO7POL"
+            ]
+        },
+        "16": {
+            "elementComponents": [
+                "HONDO7POL"
+            ]
+        },
+        "17": {
+            "elementComponents": [
+                "HONDO7POL"
+            ]
+        },
+        "18": {
+            "elementComponents": [
+                "HONDO7POL"
+            ]
+        }
+    }
+}

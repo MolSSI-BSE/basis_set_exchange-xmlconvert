@@ -1,0 +1,78 @@
+{
+    "basisSetName": "cc-pVTZ(seg-opt)",
+    "basisSetDescription": "VTZ2P   Valence Triple Zeta + Polarization on All Atoms",
+    "basisSetElements": {
+        "1": {
+            "elementEntry": "CC-PVTZ_OPT1"
+        },
+        "2": {
+            "elementEntry": "CC-PVTZ_OPT1"
+        },
+        "3": {
+            "elementEntry": "CC-PVTZ_OPT1"
+        },
+        "4": {
+            "elementEntry": "CC-PVTZ_OPT1"
+        },
+        "5": {
+            "elementEntry": "CC-PVTZ_OPT1"
+        },
+        "6": {
+            "elementEntry": "CC-PVTZ_OPT1"
+        },
+        "7": {
+            "elementEntry": "CC-PVTZ_OPT1"
+        },
+        "8": {
+            "elementEntry": "CC-PVTZ_OPT1"
+        },
+        "9": {
+            "elementEntry": "CC-PVTZ_OPT1"
+        },
+        "10": {
+            "elementEntry": "CC-PVTZ_OPT1"
+        },
+        "11": {
+            "elementEntry": "CC-PVTZ_OPT1"
+        },
+        "12": {
+            "elementEntry": "CC-PVTZ_OPT1"
+        },
+        "13": {
+            "elementEntry": "CC-PVTZ_OPT1"
+        },
+        "14": {
+            "elementEntry": "CC-PVTZ_OPT1"
+        },
+        "15": {
+            "elementEntry": "CC-PVTZ_OPT1"
+        },
+        "16": {
+            "elementEntry": "CC-PVTZ_OPT1"
+        },
+        "17": {
+            "elementEntry": "CC-PVTZ_OPT1"
+        },
+        "18": {
+            "elementEntry": "CC-PVTZ_OPT1"
+        },
+        "31": {
+            "elementEntry": "CC-PVTZ_OPT1"
+        },
+        "32": {
+            "elementEntry": "CC-PVTZ_OPT1"
+        },
+        "33": {
+            "elementEntry": "CC-PVTZ_OPT1"
+        },
+        "34": {
+            "elementEntry": "CC-PVTZ_OPT1"
+        },
+        "35": {
+            "elementEntry": "CC-PVTZ_OPT1"
+        },
+        "36": {
+            "elementEntry": "CC-PVTZ_OPT1"
+        }
+    }
+}

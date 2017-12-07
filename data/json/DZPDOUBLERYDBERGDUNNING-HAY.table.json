@@ -1,0 +1,48 @@
+{
+    "basisSetName": "DZ + Double Rydberg (Dunning-Hay)",
+    "basisSetDescription": "DZ2R    Double Zeta + Double Rydberg Functions",
+    "basisSetElements": {
+        "1": {
+            "elementEntry": "DUNNINGDZ"
+        },
+        "3": {
+            "elementEntry": "DUNNINGDZ"
+        },
+        "5": {
+            "elementEntry": "DZPDOUBLERYDBERGDUNNING-HAY"
+        },
+        "6": {
+            "elementEntry": "DZPDOUBLERYDBERGDUNNING-HAY"
+        },
+        "7": {
+            "elementEntry": "DZPDOUBLERYDBERGDUNNING-HAY"
+        },
+        "8": {
+            "elementEntry": "DZPDOUBLERYDBERGDUNNING-HAY"
+        },
+        "9": {
+            "elementEntry": "DZPDOUBLERYDBERGDUNNING-HAY"
+        },
+        "10": {
+            "elementEntry": "DZPDOUBLERYDBERGDUNNING-HAY"
+        },
+        "13": {
+            "elementEntry": "DZPDOUBLERYDBERGDUNNING-HAY"
+        },
+        "14": {
+            "elementEntry": "DZPDOUBLERYDBERGDUNNING-HAY"
+        },
+        "15": {
+            "elementEntry": "DZPDOUBLERYDBERGDUNNING-HAY"
+        },
+        "16": {
+            "elementEntry": "DZPDOUBLERYDBERGDUNNING-HAY"
+        },
+        "17": {
+            "elementEntry": "DZPDOUBLERYDBERGDUNNING-HAY"
+        },
+        "18": {
+            "elementEntry": "RYD2-DUNNING"
+        }
+    }
+}

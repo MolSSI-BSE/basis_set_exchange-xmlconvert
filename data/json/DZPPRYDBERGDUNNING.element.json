@@ -1,0 +1,83 @@
+{
+    "basisSetName": "DZP + Rydberg (Dunning)",
+    "basisSetDescription": "DZP1R   Double Zeta + Polarization on All Atoms",
+    "basisSetElements": {
+        "5": {
+            "elementComponents": [
+                "DUNNINGDZ",
+                "DUNHAYPOL",
+                "RYD-DUNNING"
+            ]
+        },
+        "6": {
+            "elementComponents": [
+                "DUNNINGDZ",
+                "DUNHAYPOL",
+                "RYD-DUNNING"
+            ]
+        },
+        "7": {
+            "elementComponents": [
+                "DUNNINGDZ",
+                "DUNHAYPOL",
+                "RYD-DUNNING"
+            ]
+        },
+        "8": {
+            "elementComponents": [
+                "DUNNINGDZ",
+                "DUNHAYPOL",
+                "RYD-DUNNING"
+            ]
+        },
+        "9": {
+            "elementComponents": [
+                "DUNNINGDZ",
+                "DUNHAYPOL",
+                "RYD-DUNNING"
+            ]
+        },
+        "10": {
+            "elementComponents": [
+                "DUNNINGDZ",
+                "DUNHAYPOL",
+                "RYD-DUNNING"
+            ]
+        },
+        "13": {
+            "elementComponents": [
+                "DUNNINGDZ",
+                "DUNHAYPOL",
+                "RYD-DUNNING"
+            ]
+        },
+        "14": {
+            "elementComponents": [
+                "DUNNINGDZ",
+                "DUNHAYPOL",
+                "RYD-DUNNING"
+            ]
+        },
+        "15": {
+            "elementComponents": [
+                "DUNNINGDZ",
+                "DUNHAYPOL",
+                "RYD-DUNNING"
+            ]
+        },
+        "16": {
+            "elementComponents": [
+                "DUNNINGDZ",
+                "DUNHAYPOL",
+                "RYD-DUNNING"
+            ]
+        },
+        "17": {
+            "elementComponents": [
+                "DUNNINGDZ",
+                "DUNHAYPOL",
+                "RYD-DUNNING"
+            ]
+        }
+    }
+}

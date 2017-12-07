@@ -1,0 +1,33 @@
+{
+    "basisSetName": "TZ (Dunning)",
+    "basisSetDescription": "TZ (Dunning)",
+    "basisSetElements": {
+        "1": {
+            "elementEntry": "DUNNINGTZ"
+        },
+        "3": {
+            "elementEntry": "DUNNINGTZ"
+        },
+        "4": {
+            "elementEntry": "DUNNINGTZ"
+        },
+        "5": {
+            "elementEntry": "DUNNINGTZ"
+        },
+        "6": {
+            "elementEntry": "DUNNINGTZ"
+        },
+        "7": {
+            "elementEntry": "DUNNINGTZ"
+        },
+        "8": {
+            "elementEntry": "DUNNINGTZ"
+        },
+        "9": {
+            "elementEntry": "DUNNINGTZ"
+        },
+        "10": {
+            "elementEntry": "DUNNINGTZ"
+        }
+    }
+}

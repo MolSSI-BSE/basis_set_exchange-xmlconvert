@@ -1,0 +1,108 @@
+{
+    "basisSetName": "aug-cc-pVTZ Diffuse",
+    "basisSetDescription": "aug-cc-pVTZ Diffuse",
+    "basisSetElements": {
+        "1": {
+            "elementEntry": "AUG-CC-PVTZ"
+        },
+        "2": {
+            "elementEntry": "AUG-CC-PVTZ"
+        },
+        "3": {
+            "elementEntry": "AUG-CC-PVTZ"
+        },
+        "4": {
+            "elementEntry": "AUG-CC-PVTZ"
+        },
+        "5": {
+            "elementEntry": "AUG-CC-PVTZ"
+        },
+        "6": {
+            "elementEntry": "AUG-CC-PVTZ"
+        },
+        "7": {
+            "elementEntry": "AUG-CC-PVTZ"
+        },
+        "8": {
+            "elementEntry": "AUG-CC-PVTZ"
+        },
+        "9": {
+            "elementEntry": "AUG-CC-PVTZ"
+        },
+        "10": {
+            "elementEntry": "AUG-CC-PVTZ"
+        },
+        "11": {
+            "elementEntry": "AUG-CC-PVTZ"
+        },
+        "12": {
+            "elementEntry": "AUG-CC-PVTZ"
+        },
+        "13": {
+            "elementEntry": "AUG-CC-PVTZ"
+        },
+        "14": {
+            "elementEntry": "AUG-CC-PVTZ"
+        },
+        "15": {
+            "elementEntry": "AUG-CC-PVTZ"
+        },
+        "16": {
+            "elementEntry": "AUG-CC-PVTZ"
+        },
+        "17": {
+            "elementEntry": "AUG-CC-PVTZ"
+        },
+        "18": {
+            "elementEntry": "AUG-CC-PVTZ"
+        },
+        "21": {
+            "elementEntry": "AUG-CC-PVTZ"
+        },
+        "22": {
+            "elementEntry": "AUG-CC-PVTZ"
+        },
+        "23": {
+            "elementEntry": "AUG-CC-PVTZ"
+        },
+        "24": {
+            "elementEntry": "AUG-CC-PVTZ"
+        },
+        "25": {
+            "elementEntry": "AUG-CC-PVTZ"
+        },
+        "26": {
+            "elementEntry": "AUG-CC-PVTZ"
+        },
+        "27": {
+            "elementEntry": "AUG-CC-PVTZ"
+        },
+        "28": {
+            "elementEntry": "AUG-CC-PVTZ"
+        },
+        "29": {
+            "elementEntry": "AUG-CC-PVTZ"
+        },
+        "30": {
+            "elementEntry": "AUG-CC-PVTZ"
+        },
+        "31": {
+            "elementEntry": "AUG-CC-PVTZ"
+        },
+        "32": {
+            "elementEntry": "AUG-CC-PVTZ"
+        },
+        "33": {
+            "elementEntry": "AUG-CC-PVTZ"
+        },
+        "34": {
+            "elementEntry": "AUG-CC-PVTZ"
+        },
+        "35": {
+            "elementEntry": "AUG-CC-PVTZ"
+        },
+        "36": {
+            "elementEntry": "AUG-CC-PVTZ"
+        }
+    }
+}

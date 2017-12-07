@@ -1,0 +1,78 @@
+{
+    "basisSetName": "aug-cc-pCV5Z",
+    "basisSetDescription": "5Z4P    Quintuple Zeta + Polarization on All Atoms",
+    "basisSetElements": {
+        "5": {
+            "elementComponents": [
+                "kipeters_CC-PCV5Z",
+                "AUG-CC-PV5Z"
+            ]
+        },
+        "6": {
+            "elementComponents": [
+                "kipeters_CC-PCV5Z",
+                "AUG-CC-PV5Z"
+            ]
+        },
+        "7": {
+            "elementComponents": [
+                "kipeters_CC-PCV5Z",
+                "AUG-CC-PV5Z"
+            ]
+        },
+        "8": {
+            "elementComponents": [
+                "kipeters_CC-PCV5Z",
+                "AUG-CC-PV5Z"
+            ]
+        },
+        "9": {
+            "elementComponents": [
+                "kipeters_CC-PCV5Z",
+                "AUG-CC-PV5Z"
+            ]
+        },
+        "10": {
+            "elementComponents": [
+                "kipeters_CC-PCV5Z",
+                "AUG-CC-PV5Z"
+            ]
+        },
+        "13": {
+            "elementComponents": [
+                "kipeters_CC-PCV5Z",
+                "AUG-CC-PV5Z"
+            ]
+        },
+        "14": {
+            "elementComponents": [
+                "kipeters_CC-PCV5Z",
+                "AUG-CC-PV5Z"
+            ]
+        },
+        "15": {
+            "elementComponents": [
+                "kipeters_CC-PCV5Z",
+                "AUG-CC-PV5Z"
+            ]
+        },
+        "16": {
+            "elementComponents": [
+                "kipeters_CC-PCV5Z",
+                "AUG-CC-PV5Z"
+            ]
+        },
+        "17": {
+            "elementComponents": [
+                "kipeters_CC-PCV5Z",
+                "AUG-CC-PV5Z"
+            ]
+        },
+        "18": {
+            "elementComponents": [
+                "kipeters_CC-PCV5Z",
+                "AUG-CC-PV5Z"
+            ]
+        }
+    }
+}

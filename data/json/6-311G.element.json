@@ -1,0 +1,141 @@
+{
+    "basisSetName": "6-311G",
+    "basisSetDescription": "VTZ     Valence Triple Zeta: 3 Funct.'s/Valence AO",
+    "basisSetElements": {
+        "1": {
+            "elementComponents": [
+                "6-311G"
+            ]
+        },
+        "2": {
+            "elementComponents": [
+                "6-311G"
+            ]
+        },
+        "3": {
+            "elementComponents": [
+                "6-311G"
+            ]
+        },
+        "4": {
+            "elementComponents": [
+                "6-311G"
+            ]
+        },
+        "5": {
+            "elementComponents": [
+                "6-311G"
+            ]
+        },
+        "6": {
+            "elementComponents": [
+                "6-311G"
+            ]
+        },
+        "7": {
+            "elementComponents": [
+                "6-311G"
+            ]
+        },
+        "8": {
+            "elementComponents": [
+                "6-311G"
+            ]
+        },
+        "9": {
+            "elementComponents": [
+                "6-311G"
+            ]
+        },
+        "10": {
+            "elementComponents": [
+                "6-311G"
+            ]
+        },
+        "11": {
+            "elementComponents": [
+                "6-311G"
+            ]
+        },
+        "12": {
+            "elementComponents": [
+                "6-311G"
+            ]
+        },
+        "13": {
+            "elementComponents": [
+                "6-311G"
+            ]
+        },
+        "14": {
+            "elementComponents": [
+                "6-311G"
+            ]
+        },
+        "15": {
+            "elementComponents": [
+                "6-311G"
+            ]
+        },
+        "16": {
+            "elementComponents": [
+                "6-311G"
+            ]
+        },
+        "17": {
+            "elementComponents": [
+                "6-311G"
+            ]
+        },
+        "18": {
+            "elementComponents": [
+                "6-311G"
+            ]
+        },
+        "19": {
+            "elementComponents": [
+                "6-311G"
+            ]
+        },
+        "20": {
+            "elementComponents": [
+                "6-311G"
+            ]
+        },
+        "31": {
+            "elementComponents": [
+                "6-311G"
+            ]
+        },
+        "32": {
+            "elementComponents": [
+                "6-311G"
+            ]
+        },
+        "33": {
+            "elementComponents": [
+                "6-311G"
+            ]
+        },
+        "34": {
+            "elementComponents": [
+                "6-311G"
+            ]
+        },
+        "35": {
+            "elementComponents": [
+                "6-311G"
+            ]
+        },
+        "36": {
+            "elementComponents": [
+                "6-311G"
+            ]
+        },
+        "53": {
+            "elementComponents": [
+                "6-311G"
+            ]
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "basisSetName": "DZP + Diffuse (Dunning)",
+    "basisSetDescription": "DZPD    Double Zeta + Polarization + Diffuse",
+    "basisSetElements": {
+        "1": {
+            "elementEntry": "DZPPDIFFUSEDUNNING"
+        },
+        "2": {
+            "elementEntry": "DUNHAYPOL"
+        },
+        "3": {
+            "elementEntry": "DZPPDIFFUSEDUNNING"
+        },
+        "5": {
+            "elementEntry": "DZPPDIFFUSEDUNNING"
+        },
+        "6": {
+            "elementEntry": "DZPPDIFFUSEDUNNING"
+        },
+        "7": {
+            "elementEntry": "DZPPDIFFUSEDUNNING"
+        },
+        "8": {
+            "elementEntry": "DZPPDIFFUSEDUNNING"
+        },
+        "9": {
+            "elementEntry": "DZPPDIFFUSEDUNNING"
+        },
+        "10": {
+            "elementEntry": "DZPPDIFFUSEDUNNING"
+        }
+    }
+}

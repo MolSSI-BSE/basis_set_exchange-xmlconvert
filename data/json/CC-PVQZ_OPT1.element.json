@@ -1,0 +1,26 @@
+{
+    "basisSetName": "cc-pVQZ(seg-opt)",
+    "basisSetDescription": "VQZ3P   Valence Quadruple Zeta + Polarization on All Atoms",
+    "basisSetElements": {
+        "1": {
+            "elementComponents": [
+                "CC-PVQZ_OPT1"
+            ]
+        },
+        "2": {
+            "elementComponents": [
+                "CC-PVQZ_OPT1"
+            ]
+        },
+        "6": {
+            "elementComponents": [
+                "CC-PVQZ_OPT1"
+            ]
+        },
+        "8": {
+            "elementComponents": [
+                "CC-PVQZ_OPT1"
+            ]
+        }
+    }
+}

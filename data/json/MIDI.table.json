@@ -1,0 +1,63 @@
+{
+    "basisSetName": "MIDI (Huzinaga)",
+    "basisSetDescription": "VDZ     Valence Double Zeta: 2 Funct.'s/Valence AO",
+    "basisSetElements": {
+        "1": {
+            "elementEntry": "MIDI"
+        },
+        "2": {
+            "elementEntry": "MIDI"
+        },
+        "3": {
+            "elementEntry": "MIDI"
+        },
+        "4": {
+            "elementEntry": "MIDI"
+        },
+        "5": {
+            "elementEntry": "MIDI"
+        },
+        "6": {
+            "elementEntry": "MIDI"
+        },
+        "7": {
+            "elementEntry": "MIDI"
+        },
+        "8": {
+            "elementEntry": "MIDI"
+        },
+        "9": {
+            "elementEntry": "MIDI"
+        },
+        "10": {
+            "elementEntry": "MIDI"
+        },
+        "11": {
+            "elementEntry": "MIDI"
+        },
+        "13": {
+            "elementEntry": "MIDI"
+        },
+        "14": {
+            "elementEntry": "MIDI"
+        },
+        "15": {
+            "elementEntry": "MIDI"
+        },
+        "16": {
+            "elementEntry": "MIDI"
+        },
+        "17": {
+            "elementEntry": "MIDI"
+        },
+        "18": {
+            "elementEntry": "MIDI"
+        },
+        "19": {
+            "elementEntry": "MIDI"
+        },
+        "55": {
+            "elementEntry": "MIDI"
+        }
+    }
+}

@@ -1,0 +1,176 @@
+{
+    "basisSetName": "Ahlrichs TZV",
+    "basisSetDescription": "VTZ     Valence Triple Zeta: 3 Funct.'s/Valence AO",
+    "basisSetElements": {
+        "3": {
+            "elementComponents": [
+                "AHLRICHS_TZV"
+            ]
+        },
+        "4": {
+            "elementComponents": [
+                "AHLRICHS_TZV"
+            ]
+        },
+        "5": {
+            "elementComponents": [
+                "AHLRICHS_TZV"
+            ]
+        },
+        "6": {
+            "elementComponents": [
+                "AHLRICHS_TZV"
+            ]
+        },
+        "7": {
+            "elementComponents": [
+                "AHLRICHS_TZV"
+            ]
+        },
+        "8": {
+            "elementComponents": [
+                "AHLRICHS_TZV"
+            ]
+        },
+        "9": {
+            "elementComponents": [
+                "AHLRICHS_TZV"
+            ]
+        },
+        "10": {
+            "elementComponents": [
+                "AHLRICHS_TZV"
+            ]
+        },
+        "11": {
+            "elementComponents": [
+                "AHLRICHS_TZV"
+            ]
+        },
+        "12": {
+            "elementComponents": [
+                "AHLRICHS_TZV"
+            ]
+        },
+        "13": {
+            "elementComponents": [
+                "AHLRICHS_TZV"
+            ]
+        },
+        "14": {
+            "elementComponents": [
+                "AHLRICHS_TZV"
+            ]
+        },
+        "15": {
+            "elementComponents": [
+                "AHLRICHS_TZV"
+            ]
+        },
+        "16": {
+            "elementComponents": [
+                "AHLRICHS_TZV"
+            ]
+        },
+        "17": {
+            "elementComponents": [
+                "AHLRICHS_TZV"
+            ]
+        },
+        "18": {
+            "elementComponents": [
+                "AHLRICHS_TZV"
+            ]
+        },
+        "19": {
+            "elementComponents": [
+                "AHLRICHS_TZV"
+            ]
+        },
+        "20": {
+            "elementComponents": [
+                "AHLRICHS_TZV"
+            ]
+        },
+        "21": {
+            "elementComponents": [
+                "AHLRICHS_TZV"
+            ]
+        },
+        "22": {
+            "elementComponents": [
+                "AHLRICHS_TZV"
+            ]
+        },
+        "23": {
+            "elementComponents": [
+                "AHLRICHS_TZV"
+            ]
+        },
+        "24": {
+            "elementComponents": [
+                "AHLRICHS_TZV"
+            ]
+        },
+        "25": {
+            "elementComponents": [
+                "AHLRICHS_TZV"
+            ]
+        },
+        "26": {
+            "elementComponents": [
+                "AHLRICHS_TZV"
+            ]
+        },
+        "27": {
+            "elementComponents": [
+                "AHLRICHS_TZV"
+            ]
+        },
+        "28": {
+            "elementComponents": [
+                "AHLRICHS_TZV"
+            ]
+        },
+        "29": {
+            "elementComponents": [
+                "AHLRICHS_TZV"
+            ]
+        },
+        "30": {
+            "elementComponents": [
+                "AHLRICHS_TZV"
+            ]
+        },
+        "31": {
+            "elementComponents": [
+                "AHLRICHS_TZV"
+            ]
+        },
+        "32": {
+            "elementComponents": [
+                "AHLRICHS_TZV"
+            ]
+        },
+        "33": {
+            "elementComponents": [
+                "AHLRICHS_TZV"
+            ]
+        },
+        "34": {
+            "elementComponents": [
+                "AHLRICHS_TZV"
+            ]
+        },
+        "35": {
+            "elementComponents": [
+                "AHLRICHS_TZV"
+            ]
+        },
+        "36": {
+            "elementComponents": [
+                "AHLRICHS_TZV"
+            ]
+        }
+    }
+}

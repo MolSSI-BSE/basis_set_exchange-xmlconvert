@@ -1,0 +1,96 @@
+{
+    "basisSetName": "DGauss A2 DFT Exchange Fitting",
+    "basisSetDescription": "DFT     Exchange Fitting",
+    "basisSetElements": {
+        "1": {
+            "elementEntry": "DGAUSS-A2EXCHANGE"
+        },
+        "2": {
+            "elementEntry": "DGAUSS-A2EXCHANGE"
+        },
+        "3": {
+            "elementEntry": "DGAUSS-A2EXCHANGE"
+        },
+        "4": {
+            "elementEntry": "DGAUSS-A2EXCHANGE"
+        },
+        "5": {
+            "elementEntry": "DGAUSS-A2EXCHANGE"
+        },
+        "6": {
+            "elementEntry": "DGAUSS-A2EXCHANGE"
+        },
+        "7": {
+            "elementEntry": "DGAUSS-A2EXCHANGE"
+        },
+        "8": {
+            "elementEntry": "DGAUSS-A2EXCHANGE"
+        },
+        "9": {
+            "elementEntry": "DGAUSS-A2EXCHANGE"
+        },
+        "10": {
+            "elementEntry": "DGAUSS-A2EXCHANGE"
+        },
+        "11": {
+            "elementEntry": "DGAUSS-A2EXCHANGE"
+        },
+        "12": {
+            "elementEntry": "DGAUSS-A2EXCHANGE"
+        },
+        "13": {
+            "elementEntry": "DGAUSS-A2EXCHANGE"
+        },
+        "14": {
+            "elementEntry": "DGAUSS-A2EXCHANGE"
+        },
+        "15": {
+            "elementEntry": "DGAUSS-A2EXCHANGE"
+        },
+        "16": {
+            "elementEntry": "DGAUSS-A2EXCHANGE"
+        },
+        "17": {
+            "elementEntry": "DGAUSS-A2EXCHANGE"
+        },
+        "18": {
+            "elementEntry": "DGAUSS-A2EXCHANGE"
+        },
+        "19": {
+            "elementEntry": "DGAUSS-A2EXCHANGE"
+        },
+        "20": {
+            "elementEntry": "DGAUSS-A2EXCHANGE"
+        },
+        "21": {
+            "elementEntry": "DGAUSS-A2EXCHANGE"
+        },
+        "22": {
+            "elementEntry": "DGAUSS-A2EXCHANGE"
+        },
+        "23": {
+            "elementEntry": "DGAUSS-A2EXCHANGE"
+        },
+        "24": {
+            "elementEntry": "DGAUSS-A2EXCHANGE"
+        },
+        "25": {
+            "elementEntry": "DGAUSS-A2EXCHANGE"
+        },
+        "26": {
+            "elementEntry": "DGAUSS-A2EXCHANGE"
+        },
+        "27": {
+            "elementEntry": "DGAUSS-A2EXCHANGE"
+        },
+        "28": {
+            "elementEntry": "DGAUSS-A2EXCHANGE"
+        },
+        "29": {
+            "elementEntry": "DGAUSS-A2EXCHANGE"
+        },
+        "30": {
+            "elementEntry": "DGAUSS-A2EXCHANGE"
+        }
+    }
+}

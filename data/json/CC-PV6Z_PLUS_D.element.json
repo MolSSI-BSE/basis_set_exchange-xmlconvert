@@ -1,0 +1,36 @@
+{
+    "basisSetName": "cc-pV(6+d)Z",
+    "basisSetDescription": "cc-pV(6+d)Z",
+    "basisSetElements": {
+        "13": {
+            "elementComponents": [
+                "CC-PV6Z_PLUS_D"
+            ]
+        },
+        "14": {
+            "elementComponents": [
+                "CC-PV6Z_PLUS_D"
+            ]
+        },
+        "15": {
+            "elementComponents": [
+                "CC-PV6Z_PLUS_D"
+            ]
+        },
+        "16": {
+            "elementComponents": [
+                "CC-PV6Z_PLUS_D"
+            ]
+        },
+        "17": {
+            "elementComponents": [
+                "CC-PV6Z_PLUS_D"
+            ]
+        },
+        "18": {
+            "elementComponents": [
+                "CC-PV6Z_PLUS_D"
+            ]
+        }
+    }
+}

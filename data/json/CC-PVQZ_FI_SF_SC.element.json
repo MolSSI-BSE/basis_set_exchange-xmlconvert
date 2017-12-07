@@ -1,0 +1,106 @@
+{
+    "basisSetName": "cc-pVQZ(fi/sf/sc)",
+    "basisSetDescription": "VQZ3P   Relativistic Valence Quadruple Zeta + Polarization",
+    "basisSetElements": {
+        "1": {
+            "elementComponents": [
+                "CC-PVQZ_FI_SF_SC"
+            ]
+        },
+        "2": {
+            "elementComponents": [
+                "CC-PVQZ_FI_SF_SC"
+            ]
+        },
+        "5": {
+            "elementComponents": [
+                "CC-PVQZ_FI_SF_SC"
+            ]
+        },
+        "6": {
+            "elementComponents": [
+                "CC-PVQZ_FI_SF_SC"
+            ]
+        },
+        "7": {
+            "elementComponents": [
+                "CC-PVQZ_FI_SF_SC"
+            ]
+        },
+        "8": {
+            "elementComponents": [
+                "CC-PVQZ_FI_SF_SC"
+            ]
+        },
+        "9": {
+            "elementComponents": [
+                "CC-PVQZ_FI_SF_SC"
+            ]
+        },
+        "10": {
+            "elementComponents": [
+                "CC-PVQZ_FI_SF_SC"
+            ]
+        },
+        "13": {
+            "elementComponents": [
+                "CC-PVQZ_FI_SF_SC"
+            ]
+        },
+        "14": {
+            "elementComponents": [
+                "CC-PVQZ_FI_SF_SC"
+            ]
+        },
+        "15": {
+            "elementComponents": [
+                "CC-PVQZ_FI_SF_SC"
+            ]
+        },
+        "16": {
+            "elementComponents": [
+                "CC-PVQZ_FI_SF_SC"
+            ]
+        },
+        "17": {
+            "elementComponents": [
+                "CC-PVQZ_FI_SF_SC"
+            ]
+        },
+        "18": {
+            "elementComponents": [
+                "CC-PVQZ_FI_SF_SC"
+            ]
+        },
+        "31": {
+            "elementComponents": [
+                "CC-PVQZ_FI_SF_SC"
+            ]
+        },
+        "32": {
+            "elementComponents": [
+                "CC-PVQZ_FI_SF_SC"
+            ]
+        },
+        "33": {
+            "elementComponents": [
+                "CC-PVQZ_FI_SF_SC"
+            ]
+        },
+        "34": {
+            "elementComponents": [
+                "CC-PVQZ_FI_SF_SC"
+            ]
+        },
+        "35": {
+            "elementComponents": [
+                "CC-PVQZ_FI_SF_SC"
+            ]
+        },
+        "36": {
+            "elementComponents": [
+                "CC-PVQZ_FI_SF_SC"
+            ]
+        }
+    }
+}

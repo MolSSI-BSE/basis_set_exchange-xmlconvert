@@ -1,0 +1,42 @@
+{
+    "basisSetName": "cc-pCVDZ(old)",
+    "basisSetDescription": "DZP     Double Zeta + Polarization + Tight Core",
+    "basisSetElements": {
+        "13": {
+            "elementComponents": [
+                "CC-PVDZ",
+                "CC-PCVDZ_OLD"
+            ]
+        },
+        "14": {
+            "elementComponents": [
+                "CC-PVDZ",
+                "CC-PCVDZ_OLD"
+            ]
+        },
+        "15": {
+            "elementComponents": [
+                "CC-PVDZ",
+                "CC-PCVDZ_OLD"
+            ]
+        },
+        "16": {
+            "elementComponents": [
+                "CC-PVDZ",
+                "CC-PCVDZ_OLD"
+            ]
+        },
+        "17": {
+            "elementComponents": [
+                "CC-PVDZ",
+                "CC-PCVDZ_OLD"
+            ]
+        },
+        "18": {
+            "elementComponents": [
+                "CC-PVDZ",
+                "CC-PCVDZ_OLD"
+            ]
+        }
+    }
+}

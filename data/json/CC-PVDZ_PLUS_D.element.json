@@ -1,0 +1,36 @@
+{
+    "basisSetName": "cc-pV(D+d)Z",
+    "basisSetDescription": "VDZP    Valence Double Zeta + Polarization on All Atoms",
+    "basisSetElements": {
+        "13": {
+            "elementComponents": [
+                "CC-PVDZ_PLUS_D"
+            ]
+        },
+        "14": {
+            "elementComponents": [
+                "CC-PVDZ_PLUS_D"
+            ]
+        },
+        "15": {
+            "elementComponents": [
+                "CC-PVDZ_PLUS_D"
+            ]
+        },
+        "16": {
+            "elementComponents": [
+                "CC-PVDZ_PLUS_D"
+            ]
+        },
+        "17": {
+            "elementComponents": [
+                "CC-PVDZ_PLUS_D"
+            ]
+        },
+        "18": {
+            "elementComponents": [
+                "CC-PVDZ_PLUS_D"
+            ]
+        }
+    }
+}

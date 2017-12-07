@@ -1,0 +1,108 @@
+{
+    "basisSetName": "cc-pVDZ-DK",
+    "basisSetDescription": "cc-pVDZ-DK",
+    "basisSetElements": {
+        "1": {
+            "elementEntry": "CC-PVDZ-DK"
+        },
+        "2": {
+            "elementEntry": "CC-PVDZ-DK"
+        },
+        "3": {
+            "elementEntry": "CC-PVDZ-DK"
+        },
+        "4": {
+            "elementEntry": "CC-PVDZ-DK"
+        },
+        "5": {
+            "elementEntry": "CC-PVDZ-DK"
+        },
+        "6": {
+            "elementEntry": "CC-PVDZ-DK"
+        },
+        "7": {
+            "elementEntry": "CC-PVDZ-DK"
+        },
+        "8": {
+            "elementEntry": "CC-PVDZ-DK"
+        },
+        "9": {
+            "elementEntry": "CC-PVDZ-DK"
+        },
+        "10": {
+            "elementEntry": "CC-PVDZ-DK"
+        },
+        "11": {
+            "elementEntry": "CC-PVDZ-DK"
+        },
+        "12": {
+            "elementEntry": "CC-PVDZ-DK"
+        },
+        "13": {
+            "elementEntry": "CC-PVDZ-DK"
+        },
+        "14": {
+            "elementEntry": "CC-PVDZ-DK"
+        },
+        "15": {
+            "elementEntry": "CC-PVDZ-DK"
+        },
+        "16": {
+            "elementEntry": "CC-PVDZ-DK"
+        },
+        "17": {
+            "elementEntry": "CC-PVDZ-DK"
+        },
+        "18": {
+            "elementEntry": "CC-PVDZ-DK"
+        },
+        "21": {
+            "elementEntry": "CC-PVDZ-DK"
+        },
+        "22": {
+            "elementEntry": "CC-PVDZ-DK"
+        },
+        "23": {
+            "elementEntry": "CC-PVDZ-DK"
+        },
+        "24": {
+            "elementEntry": "CC-PVDZ-DK"
+        },
+        "25": {
+            "elementEntry": "CC-PVDZ-DK"
+        },
+        "26": {
+            "elementEntry": "CC-PVDZ-DK"
+        },
+        "27": {
+            "elementEntry": "CC-PVDZ-DK"
+        },
+        "28": {
+            "elementEntry": "CC-PVDZ-DK"
+        },
+        "29": {
+            "elementEntry": "CC-PVDZ-DK"
+        },
+        "30": {
+            "elementEntry": "CC-PVDZ-DK"
+        },
+        "31": {
+            "elementEntry": "CC-PVDZ-DK"
+        },
+        "32": {
+            "elementEntry": "CC-PVDZ-DK"
+        },
+        "33": {
+            "elementEntry": "CC-PVDZ-DK"
+        },
+        "34": {
+            "elementEntry": "CC-PVDZ-DK"
+        },
+        "35": {
+            "elementEntry": "CC-PVDZ-DK"
+        },
+        "36": {
+            "elementEntry": "CC-PVDZ-DK"
+        }
+    }
+}

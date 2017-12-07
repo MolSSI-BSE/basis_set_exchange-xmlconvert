@@ -1,0 +1,123 @@
+{
+    "basisSetName": "aug-cc-pVQZ-PP",
+    "basisSetDescription": "VQZPD   Valence Quadruple Zeta + Polarization on All Atoms",
+    "basisSetElements": {
+        "29": {
+            "elementEntry": "AUG-CC-PVQZ-PP"
+        },
+        "30": {
+            "elementEntry": "AUG-CC-PVQZ-PP"
+        },
+        "31": {
+            "elementEntry": "AUG-CC-PVQZ-PP"
+        },
+        "32": {
+            "elementEntry": "AUG-CC-PVQZ-PP"
+        },
+        "33": {
+            "elementEntry": "AUG-CC-PVQZ-PP"
+        },
+        "34": {
+            "elementEntry": "AUG-CC-PVQZ-PP"
+        },
+        "35": {
+            "elementEntry": "AUG-CC-PVQZ-PP"
+        },
+        "36": {
+            "elementEntry": "AUG-CC-PVQZ-PP"
+        },
+        "39": {
+            "elementEntry": "AUG-CC-PVQZ-PP"
+        },
+        "40": {
+            "elementEntry": "AUG-CC-PVQZ-PP"
+        },
+        "41": {
+            "elementEntry": "AUG-CC-PVQZ-PP"
+        },
+        "42": {
+            "elementEntry": "AUG-CC-PVQZ-PP"
+        },
+        "43": {
+            "elementEntry": "AUG-CC-PVQZ-PP"
+        },
+        "44": {
+            "elementEntry": "AUG-CC-PVQZ-PP"
+        },
+        "45": {
+            "elementEntry": "AUG-CC-PVQZ-PP"
+        },
+        "46": {
+            "elementEntry": "AUG-CC-PVQZ-PP"
+        },
+        "47": {
+            "elementEntry": "AUG-CC-PVQZ-PP"
+        },
+        "48": {
+            "elementEntry": "AUG-CC-PVQZ-PP"
+        },
+        "49": {
+            "elementEntry": "AUG-CC-PVQZ-PP"
+        },
+        "50": {
+            "elementEntry": "AUG-CC-PVQZ-PP"
+        },
+        "51": {
+            "elementEntry": "AUG-CC-PVQZ-PP"
+        },
+        "52": {
+            "elementEntry": "AUG-CC-PVQZ-PP"
+        },
+        "53": {
+            "elementEntry": "AUG-CC-PVQZ-PP"
+        },
+        "54": {
+            "elementEntry": "AUG-CC-PVQZ-PP"
+        },
+        "72": {
+            "elementEntry": "AUG-CC-PVQZ-PP"
+        },
+        "73": {
+            "elementEntry": "AUG-CC-PVQZ-PP"
+        },
+        "74": {
+            "elementEntry": "AUG-CC-PVQZ-PP"
+        },
+        "75": {
+            "elementEntry": "AUG-CC-PVQZ-PP"
+        },
+        "76": {
+            "elementEntry": "AUG-CC-PVQZ-PP"
+        },
+        "77": {
+            "elementEntry": "AUG-CC-PVQZ-PP"
+        },
+        "78": {
+            "elementEntry": "AUG-CC-PVQZ-PP"
+        },
+        "79": {
+            "elementEntry": "AUG-CC-PVQZ-PP"
+        },
+        "80": {
+            "elementEntry": "AUG-CC-PVQZ-PP"
+        },
+        "81": {
+            "elementEntry": "AUG-CC-PVQZ-PP"
+        },
+        "82": {
+            "elementEntry": "AUG-CC-PVQZ-PP"
+        },
+        "83": {
+            "elementEntry": "AUG-CC-PVQZ-PP"
+        },
+        "84": {
+            "elementEntry": "AUG-CC-PVQZ-PP"
+        },
+        "85": {
+            "elementEntry": "AUG-CC-PVQZ-PP"
+        },
+        "86": {
+            "elementEntry": "AUG-CC-PVQZ-PP"
+        }
+    }
+}

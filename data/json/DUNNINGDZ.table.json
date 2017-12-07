@@ -1,0 +1,45 @@
+{
+    "basisSetName": "DZ (Dunning)",
+    "basisSetDescription": "DZ      Double Zeta: 2 Functions/AO",
+    "basisSetElements": {
+        "1": {
+            "elementEntry": "DUNNINGDZ"
+        },
+        "3": {
+            "elementEntry": "DUNNINGDZ"
+        },
+        "5": {
+            "elementEntry": "DUNNINGDZ"
+        },
+        "6": {
+            "elementEntry": "DUNNINGDZ"
+        },
+        "7": {
+            "elementEntry": "DUNNINGDZ"
+        },
+        "8": {
+            "elementEntry": "DUNNINGDZ"
+        },
+        "9": {
+            "elementEntry": "DUNNINGDZ"
+        },
+        "10": {
+            "elementEntry": "DUNNINGDZ"
+        },
+        "13": {
+            "elementEntry": "DUNNINGDZ"
+        },
+        "14": {
+            "elementEntry": "DUNNINGDZ"
+        },
+        "15": {
+            "elementEntry": "DUNNINGDZ"
+        },
+        "16": {
+            "elementEntry": "DUNNINGDZ"
+        },
+        "17": {
+            "elementEntry": "DUNNINGDZ"
+        }
+    }
+}

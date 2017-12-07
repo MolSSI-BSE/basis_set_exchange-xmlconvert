@@ -1,0 +1,66 @@
+{
+    "basisSetName": "cc-pVTZ(pt/sf/lc)",
+    "basisSetDescription": "VTZ2P   Relativistic Valence Triple Zeta + Polarization",
+    "basisSetElements": {
+        "1": {
+            "elementEntry": "CC-PVTZ_PT_SF_LC"
+        },
+        "2": {
+            "elementEntry": "CC-PVTZ_PT_SF_LC"
+        },
+        "5": {
+            "elementEntry": "CC-PVTZ_PT_SF_LC"
+        },
+        "6": {
+            "elementEntry": "CC-PVTZ_PT_SF_LC"
+        },
+        "7": {
+            "elementEntry": "CC-PVTZ_PT_SF_LC"
+        },
+        "8": {
+            "elementEntry": "CC-PVTZ_PT_SF_LC"
+        },
+        "9": {
+            "elementEntry": "CC-PVTZ_PT_SF_LC"
+        },
+        "10": {
+            "elementEntry": "CC-PVTZ_PT_SF_LC"
+        },
+        "13": {
+            "elementEntry": "CC-PVTZ_PT_SF_LC"
+        },
+        "14": {
+            "elementEntry": "CC-PVTZ_PT_SF_LC"
+        },
+        "15": {
+            "elementEntry": "CC-PVTZ_PT_SF_LC"
+        },
+        "16": {
+            "elementEntry": "CC-PVTZ_PT_SF_LC"
+        },
+        "17": {
+            "elementEntry": "CC-PVTZ_PT_SF_LC"
+        },
+        "18": {
+            "elementEntry": "CC-PVTZ_PT_SF_LC"
+        },
+        "31": {
+            "elementEntry": "CC-PVTZ_PT_SF_LC"
+        },
+        "32": {
+            "elementEntry": "CC-PVTZ_PT_SF_LC"
+        },
+        "33": {
+            "elementEntry": "CC-PVTZ_PT_SF_LC"
+        },
+        "34": {
+            "elementEntry": "CC-PVTZ_PT_SF_LC"
+        },
+        "35": {
+            "elementEntry": "CC-PVTZ_PT_SF_LC"
+        },
+        "36": {
+            "elementEntry": "CC-PVTZ_PT_SF_LC"
+        }
+    }
+}

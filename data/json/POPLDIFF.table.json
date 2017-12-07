@@ -1,0 +1,63 @@
+{
+    "basisSetName": "Pople-style Diffuse",
+    "basisSetDescription": "1D      Shared exponent, diffuse (s,p)",
+    "basisSetElements": {
+        "1": {
+            "elementEntry": "POPLDIFF"
+        },
+        "3": {
+            "elementEntry": "POPLDIFF"
+        },
+        "4": {
+            "elementEntry": "POPLDIFF"
+        },
+        "5": {
+            "elementEntry": "POPLDIFF"
+        },
+        "6": {
+            "elementEntry": "POPLDIFF"
+        },
+        "7": {
+            "elementEntry": "POPLDIFF"
+        },
+        "8": {
+            "elementEntry": "POPLDIFF"
+        },
+        "9": {
+            "elementEntry": "POPLDIFF"
+        },
+        "10": {
+            "elementEntry": "POPLDIFF"
+        },
+        "11": {
+            "elementEntry": "POPLDIFF"
+        },
+        "12": {
+            "elementEntry": "POPLDIFF"
+        },
+        "13": {
+            "elementEntry": "POPLDIFF"
+        },
+        "14": {
+            "elementEntry": "POPLDIFF"
+        },
+        "15": {
+            "elementEntry": "POPLDIFF"
+        },
+        "16": {
+            "elementEntry": "POPLDIFF"
+        },
+        "17": {
+            "elementEntry": "POPLDIFF"
+        },
+        "18": {
+            "elementEntry": "POPLDIFF"
+        },
+        "19": {
+            "elementEntry": "POPLDIFF"
+        },
+        "20": {
+            "elementEntry": "POPLDIFF"
+        }
+    }
+}

@@ -1,0 +1,225 @@
+{
+    "basisSetName": "SBKJC VDZ ECP",
+    "basisSetDescription": "VDZ     Valence Double Zeta designed for an ECP",
+    "basisSetElements": {
+        "1": {
+            "elementEntry": "SBKJC_VDZ"
+        },
+        "2": {
+            "elementEntry": "SBKJC_VDZ"
+        },
+        "3": {
+            "elementEntry": "SBKJC_VDZ"
+        },
+        "4": {
+            "elementEntry": "SBKJC_VDZ"
+        },
+        "5": {
+            "elementEntry": "SBKJC_VDZ"
+        },
+        "6": {
+            "elementEntry": "SBKJC_VDZ"
+        },
+        "7": {
+            "elementEntry": "SBKJC_VDZ"
+        },
+        "8": {
+            "elementEntry": "SBKJC_VDZ"
+        },
+        "9": {
+            "elementEntry": "SBKJC_VDZ"
+        },
+        "10": {
+            "elementEntry": "SBKJC_VDZ"
+        },
+        "11": {
+            "elementEntry": "SBKJC_VDZ"
+        },
+        "12": {
+            "elementEntry": "SBKJC_VDZ"
+        },
+        "13": {
+            "elementEntry": "SBKJC_VDZ"
+        },
+        "14": {
+            "elementEntry": "SBKJC_VDZ"
+        },
+        "15": {
+            "elementEntry": "SBKJC_VDZ"
+        },
+        "16": {
+            "elementEntry": "SBKJC_VDZ"
+        },
+        "17": {
+            "elementEntry": "SBKJC_VDZ"
+        },
+        "18": {
+            "elementEntry": "SBKJC_VDZ"
+        },
+        "19": {
+            "elementEntry": "SBKJC_VDZ"
+        },
+        "20": {
+            "elementEntry": "SBKJC_VDZ"
+        },
+        "21": {
+            "elementEntry": "SBKJC_VDZ"
+        },
+        "22": {
+            "elementEntry": "SBKJC_VDZ"
+        },
+        "23": {
+            "elementEntry": "SBKJC_VDZ"
+        },
+        "24": {
+            "elementEntry": "SBKJC_VDZ"
+        },
+        "25": {
+            "elementEntry": "SBKJC_VDZ"
+        },
+        "26": {
+            "elementEntry": "SBKJC_VDZ"
+        },
+        "27": {
+            "elementEntry": "SBKJC_VDZ"
+        },
+        "28": {
+            "elementEntry": "SBKJC_VDZ"
+        },
+        "29": {
+            "elementEntry": "SBKJC_VDZ"
+        },
+        "30": {
+            "elementEntry": "SBKJC_VDZ"
+        },
+        "31": {
+            "elementEntry": "SBKJC_VDZ"
+        },
+        "32": {
+            "elementEntry": "SBKJC_VDZ"
+        },
+        "33": {
+            "elementEntry": "SBKJC_VDZ"
+        },
+        "34": {
+            "elementEntry": "SBKJC_VDZ"
+        },
+        "35": {
+            "elementEntry": "SBKJC_VDZ"
+        },
+        "36": {
+            "elementEntry": "SBKJC_VDZ"
+        },
+        "37": {
+            "elementEntry": "SBKJC_VDZ"
+        },
+        "38": {
+            "elementEntry": "SBKJC_VDZ"
+        },
+        "39": {
+            "elementEntry": "SBKJC_VDZ"
+        },
+        "40": {
+            "elementEntry": "SBKJC_VDZ"
+        },
+        "41": {
+            "elementEntry": "SBKJC_VDZ"
+        },
+        "42": {
+            "elementEntry": "SBKJC_VDZ"
+        },
+        "43": {
+            "elementEntry": "SBKJC_VDZ"
+        },
+        "44": {
+            "elementEntry": "SBKJC_VDZ"
+        },
+        "45": {
+            "elementEntry": "SBKJC_VDZ"
+        },
+        "46": {
+            "elementEntry": "SBKJC_VDZ"
+        },
+        "47": {
+            "elementEntry": "SBKJC_VDZ"
+        },
+        "48": {
+            "elementEntry": "SBKJC_VDZ"
+        },
+        "49": {
+            "elementEntry": "SBKJC_VDZ"
+        },
+        "50": {
+            "elementEntry": "SBKJC_VDZ"
+        },
+        "51": {
+            "elementEntry": "SBKJC_VDZ"
+        },
+        "52": {
+            "elementEntry": "SBKJC_VDZ"
+        },
+        "53": {
+            "elementEntry": "SBKJC_VDZ"
+        },
+        "54": {
+            "elementEntry": "SBKJC_VDZ"
+        },
+        "55": {
+            "elementEntry": "SBKJC_VDZ"
+        },
+        "56": {
+            "elementEntry": "SBKJC_VDZ"
+        },
+        "57": {
+            "elementEntry": "SBKJC_VDZ"
+        },
+        "58": {
+            "elementEntry": "SBKJC_VDZ"
+        },
+        "72": {
+            "elementEntry": "SBKJC_VDZ"
+        },
+        "73": {
+            "elementEntry": "SBKJC_VDZ"
+        },
+        "74": {
+            "elementEntry": "SBKJC_VDZ"
+        },
+        "75": {
+            "elementEntry": "SBKJC_VDZ"
+        },
+        "76": {
+            "elementEntry": "SBKJC_VDZ"
+        },
+        "77": {
+            "elementEntry": "SBKJC_VDZ"
+        },
+        "78": {
+            "elementEntry": "SBKJC_VDZ"
+        },
+        "79": {
+            "elementEntry": "SBKJC_VDZ"
+        },
+        "80": {
+            "elementEntry": "SBKJC_VDZ"
+        },
+        "81": {
+            "elementEntry": "SBKJC_VDZ"
+        },
+        "82": {
+            "elementEntry": "SBKJC_VDZ"
+        },
+        "83": {
+            "elementEntry": "SBKJC_VDZ"
+        },
+        "84": {
+            "elementEntry": "SBKJC_VDZ"
+        },
+        "85": {
+            "elementEntry": "SBKJC_VDZ"
+        },
+        "86": {
+            "elementEntry": "SBKJC_VDZ"
+        }
+    }
+}

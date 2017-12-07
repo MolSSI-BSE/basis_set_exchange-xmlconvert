@@ -1,0 +1,48 @@
+{
+    "basisSetName": "SVP + Rydberg (Dunning-Hay)",
+    "basisSetDescription": "VDZP1R  Valence Double Zeta + Polarization + Rydberg",
+    "basisSetElements": {
+        "5": {
+            "elementComponents": [
+                "DUNHAYSV",
+                "DUNHAYPOL",
+                "RYD-DUNNING"
+            ]
+        },
+        "6": {
+            "elementComponents": [
+                "DUNHAYSV",
+                "DUNHAYPOL",
+                "RYD-DUNNING"
+            ]
+        },
+        "7": {
+            "elementComponents": [
+                "DUNHAYSV",
+                "DUNHAYPOL",
+                "RYD-DUNNING"
+            ]
+        },
+        "8": {
+            "elementComponents": [
+                "DUNHAYSV",
+                "DUNHAYPOL",
+                "RYD-DUNNING"
+            ]
+        },
+        "9": {
+            "elementComponents": [
+                "DUNHAYSV",
+                "DUNHAYPOL",
+                "RYD-DUNNING"
+            ]
+        },
+        "10": {
+            "elementComponents": [
+                "DUNHAYSV",
+                "DUNHAYPOL",
+                "RYD-DUNNING"
+            ]
+        }
+    }
+}

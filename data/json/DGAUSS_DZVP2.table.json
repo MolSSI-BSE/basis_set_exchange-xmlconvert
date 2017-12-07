@@ -1,0 +1,81 @@
+{
+    "basisSetName": "DZVP2 (DFT Orbital)",
+    "basisSetDescription": "VDZP    Valence Double Zeta + Polarization designed for DFT",
+    "basisSetElements": {
+        "1": {
+            "elementEntry": "DGAUSS_DZVP2"
+        },
+        "2": {
+            "elementEntry": "DGAUSS_DZVP2"
+        },
+        "3": {
+            "elementEntry": "DGAUSS_DZVP2"
+        },
+        "4": {
+            "elementEntry": "DGAUSS_DZVP2"
+        },
+        "5": {
+            "elementEntry": "DGAUSS_DZVP2"
+        },
+        "6": {
+            "elementEntry": "DGAUSS_DZVP2"
+        },
+        "7": {
+            "elementEntry": "DGAUSS_DZVP2"
+        },
+        "8": {
+            "elementEntry": "DGAUSS_DZVP2"
+        },
+        "9": {
+            "elementEntry": "DGAUSS_DZVP2"
+        },
+        "13": {
+            "elementEntry": "DGAUSS_DZVP2"
+        },
+        "14": {
+            "elementEntry": "DGAUSS_DZVP2"
+        },
+        "15": {
+            "elementEntry": "DGAUSS_DZVP2"
+        },
+        "16": {
+            "elementEntry": "DGAUSS_DZVP2"
+        },
+        "17": {
+            "elementEntry": "DGAUSS_DZVP2"
+        },
+        "18": {
+            "elementEntry": "DGAUSS_DZVP2"
+        },
+        "21": {
+            "elementEntry": "DGAUSS_DZVP2"
+        },
+        "22": {
+            "elementEntry": "DGAUSS_DZVP2"
+        },
+        "23": {
+            "elementEntry": "DGAUSS_DZVP2"
+        },
+        "24": {
+            "elementEntry": "DGAUSS_DZVP2"
+        },
+        "25": {
+            "elementEntry": "DGAUSS_DZVP2"
+        },
+        "26": {
+            "elementEntry": "DGAUSS_DZVP2"
+        },
+        "27": {
+            "elementEntry": "DGAUSS_DZVP2"
+        },
+        "28": {
+            "elementEntry": "DGAUSS_DZVP2"
+        },
+        "29": {
+            "elementEntry": "DGAUSS_DZVP2"
+        },
+        "30": {
+            "elementEntry": "DGAUSS_DZVP2"
+        }
+    }
+}

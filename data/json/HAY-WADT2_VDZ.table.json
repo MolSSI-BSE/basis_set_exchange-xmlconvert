@@ -1,0 +1,102 @@
+{
+    "basisSetName": "Hay-Wadt VDZ (n+1) ECP",
+    "basisSetDescription": "VDZ     Valence Double Zeta designed for an ECP",
+    "basisSetElements": {
+        "19": {
+            "elementEntry": "HAY-WADT2_VDZ"
+        },
+        "20": {
+            "elementEntry": "HAY-WADT2_VDZ"
+        },
+        "21": {
+            "elementEntry": "HAY-WADT2_VDZ"
+        },
+        "22": {
+            "elementEntry": "HAY-WADT2_VDZ"
+        },
+        "23": {
+            "elementEntry": "HAY-WADT2_VDZ"
+        },
+        "24": {
+            "elementEntry": "HAY-WADT2_VDZ"
+        },
+        "25": {
+            "elementEntry": "HAY-WADT2_VDZ"
+        },
+        "26": {
+            "elementEntry": "HAY-WADT2_VDZ"
+        },
+        "27": {
+            "elementEntry": "HAY-WADT2_VDZ"
+        },
+        "28": {
+            "elementEntry": "HAY-WADT2_VDZ"
+        },
+        "29": {
+            "elementEntry": "HAY-WADT2_VDZ"
+        },
+        "37": {
+            "elementEntry": "HAY-WADT2_VDZ"
+        },
+        "38": {
+            "elementEntry": "HAY-WADT2_VDZ"
+        },
+        "39": {
+            "elementEntry": "HAY-WADT2_VDZ"
+        },
+        "40": {
+            "elementEntry": "HAY-WADT2_VDZ"
+        },
+        "41": {
+            "elementEntry": "HAY-WADT2_VDZ"
+        },
+        "42": {
+            "elementEntry": "HAY-WADT2_VDZ"
+        },
+        "43": {
+            "elementEntry": "HAY-WADT2_VDZ"
+        },
+        "44": {
+            "elementEntry": "HAY-WADT2_VDZ"
+        },
+        "45": {
+            "elementEntry": "HAY-WADT2_VDZ"
+        },
+        "46": {
+            "elementEntry": "HAY-WADT2_VDZ"
+        },
+        "47": {
+            "elementEntry": "HAY-WADT2_VDZ"
+        },
+        "55": {
+            "elementEntry": "HAY-WADT2_VDZ"
+        },
+        "56": {
+            "elementEntry": "HAY-WADT2_VDZ"
+        },
+        "57": {
+            "elementEntry": "HAY-WADT2_VDZ"
+        },
+        "73": {
+            "elementEntry": "HAY-WADT2_VDZ"
+        },
+        "74": {
+            "elementEntry": "HAY-WADT2_VDZ"
+        },
+        "75": {
+            "elementEntry": "HAY-WADT2_VDZ"
+        },
+        "76": {
+            "elementEntry": "HAY-WADT2_VDZ"
+        },
+        "77": {
+            "elementEntry": "HAY-WADT2_VDZ"
+        },
+        "78": {
+            "elementEntry": "HAY-WADT2_VDZ"
+        },
+        "79": {
+            "elementEntry": "HAY-WADT2_VDZ"
+        }
+    }
+}

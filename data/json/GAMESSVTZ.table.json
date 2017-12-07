@@ -1,0 +1,54 @@
+{
+    "basisSetName": "GAMESS VTZ",
+    "basisSetDescription": "VTZ     Valence Triple Zeta: 3 Funct.'s/Valence AO",
+    "basisSetElements": {
+        "1": {
+            "elementEntry": "GAMESSVTZ"
+        },
+        "4": {
+            "elementEntry": "GAMESSVTZ"
+        },
+        "5": {
+            "elementEntry": "GAMESSVTZ"
+        },
+        "6": {
+            "elementEntry": "GAMESSVTZ"
+        },
+        "7": {
+            "elementEntry": "GAMESSVTZ"
+        },
+        "8": {
+            "elementEntry": "GAMESSVTZ"
+        },
+        "9": {
+            "elementEntry": "GAMESSVTZ"
+        },
+        "10": {
+            "elementEntry": "GAMESSVTZ"
+        },
+        "11": {
+            "elementEntry": "GAMESSVTZ"
+        },
+        "12": {
+            "elementEntry": "GAMESSVTZ"
+        },
+        "13": {
+            "elementEntry": "GAMESSVTZ"
+        },
+        "14": {
+            "elementEntry": "GAMESSVTZ"
+        },
+        "15": {
+            "elementEntry": "GAMESSVTZ"
+        },
+        "16": {
+            "elementEntry": "GAMESSVTZ"
+        },
+        "17": {
+            "elementEntry": "GAMESSVTZ"
+        },
+        "18": {
+            "elementEntry": "GAMESSVTZ"
+        }
+    }
+}

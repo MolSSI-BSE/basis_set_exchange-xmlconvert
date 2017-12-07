@@ -1,0 +1,51 @@
+{
+    "basisSetName": "Bauschlicher ANO",
+    "basisSetDescription": "Bauschlicher ANO",
+    "basisSetElements": {
+        "21": {
+            "elementComponents": [
+                "BAUSCLICHER_ANO"
+            ]
+        },
+        "22": {
+            "elementComponents": [
+                "BAUSCLICHER_ANO"
+            ]
+        },
+        "23": {
+            "elementComponents": [
+                "BAUSCLICHER_ANO"
+            ]
+        },
+        "24": {
+            "elementComponents": [
+                "BAUSCLICHER_ANO"
+            ]
+        },
+        "25": {
+            "elementComponents": [
+                "BAUSCLICHER_ANO"
+            ]
+        },
+        "26": {
+            "elementComponents": [
+                "BAUSCLICHER_ANO"
+            ]
+        },
+        "27": {
+            "elementComponents": [
+                "BAUSCLICHER_ANO"
+            ]
+        },
+        "28": {
+            "elementComponents": [
+                "BAUSCLICHER_ANO"
+            ]
+        },
+        "29": {
+            "elementComponents": [
+                "BAUSCLICHER_ANO"
+            ]
+        }
+    }
+}

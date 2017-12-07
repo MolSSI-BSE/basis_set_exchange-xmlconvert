@@ -1,0 +1,36 @@
+{
+    "basisSetName": "Binning/Curtiss VTZ",
+    "basisSetDescription": "VTZ     Valence Triple Zeta: 3 Functions/valence AO",
+    "basisSetElements": {
+        "31": {
+            "elementComponents": [
+                "BINCURT-VTZ"
+            ]
+        },
+        "32": {
+            "elementComponents": [
+                "BINCURT-VTZ"
+            ]
+        },
+        "33": {
+            "elementComponents": [
+                "BINCURT-VTZ"
+            ]
+        },
+        "34": {
+            "elementComponents": [
+                "BINCURT-VTZ"
+            ]
+        },
+        "35": {
+            "elementComponents": [
+                "BINCURT-VTZ"
+            ]
+        },
+        "36": {
+            "elementComponents": [
+                "BINCURT-VTZ"
+            ]
+        }
+    }
+}

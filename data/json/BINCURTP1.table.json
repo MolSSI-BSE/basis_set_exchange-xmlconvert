@@ -1,0 +1,24 @@
+{
+    "basisSetName": "Binning-Curtiss (1d) Polarization",
+    "basisSetDescription": "1P      Polarization functions",
+    "basisSetElements": {
+        "31": {
+            "elementEntry": "BINCURTP1"
+        },
+        "32": {
+            "elementEntry": "BINCURTP1"
+        },
+        "33": {
+            "elementEntry": "BINCURTP1"
+        },
+        "34": {
+            "elementEntry": "BINCURTP1"
+        },
+        "35": {
+            "elementEntry": "BINCURTP1"
+        },
+        "36": {
+            "elementEntry": "BINCURTP1"
+        }
+    }
+}

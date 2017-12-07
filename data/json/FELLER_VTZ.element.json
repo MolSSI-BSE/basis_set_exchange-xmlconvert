@@ -1,0 +1,11 @@
+{
+    "basisSetName": "Feller Misc. CVTZ",
+    "basisSetDescription": "TZ2P    Triple Zeta + Polarization on All Atoms",
+    "basisSetElements": {
+        "19": {
+            "elementComponents": [
+                "FELLER_VTZ"
+            ]
+        }
+    }
+}

@@ -1,0 +1,126 @@
+{
+    "basisSetName": "cc-pVTZ(seg-opt)",
+    "basisSetDescription": "VTZ2P   Valence Triple Zeta + Polarization on All Atoms",
+    "basisSetElements": {
+        "1": {
+            "elementComponents": [
+                "CC-PVTZ_OPT1"
+            ]
+        },
+        "2": {
+            "elementComponents": [
+                "CC-PVTZ_OPT1"
+            ]
+        },
+        "3": {
+            "elementComponents": [
+                "CC-PVTZ_OPT1"
+            ]
+        },
+        "4": {
+            "elementComponents": [
+                "CC-PVTZ_OPT1"
+            ]
+        },
+        "5": {
+            "elementComponents": [
+                "CC-PVTZ_OPT1"
+            ]
+        },
+        "6": {
+            "elementComponents": [
+                "CC-PVTZ_OPT1"
+            ]
+        },
+        "7": {
+            "elementComponents": [
+                "CC-PVTZ_OPT1"
+            ]
+        },
+        "8": {
+            "elementComponents": [
+                "CC-PVTZ_OPT1"
+            ]
+        },
+        "9": {
+            "elementComponents": [
+                "CC-PVTZ_OPT1"
+            ]
+        },
+        "10": {
+            "elementComponents": [
+                "CC-PVTZ_OPT1"
+            ]
+        },
+        "11": {
+            "elementComponents": [
+                "CC-PVTZ_OPT1"
+            ]
+        },
+        "12": {
+            "elementComponents": [
+                "CC-PVTZ_OPT1"
+            ]
+        },
+        "13": {
+            "elementComponents": [
+                "CC-PVTZ_OPT1"
+            ]
+        },
+        "14": {
+            "elementComponents": [
+                "CC-PVTZ_OPT1"
+            ]
+        },
+        "15": {
+            "elementComponents": [
+                "CC-PVTZ_OPT1"
+            ]
+        },
+        "16": {
+            "elementComponents": [
+                "CC-PVTZ_OPT1"
+            ]
+        },
+        "17": {
+            "elementComponents": [
+                "CC-PVTZ_OPT1"
+            ]
+        },
+        "18": {
+            "elementComponents": [
+                "CC-PVTZ_OPT1"
+            ]
+        },
+        "31": {
+            "elementComponents": [
+                "CC-PVTZ_OPT1"
+            ]
+        },
+        "32": {
+            "elementComponents": [
+                "CC-PVTZ_OPT1"
+            ]
+        },
+        "33": {
+            "elementComponents": [
+                "CC-PVTZ_OPT1"
+            ]
+        },
+        "34": {
+            "elementComponents": [
+                "CC-PVTZ_OPT1"
+            ]
+        },
+        "35": {
+            "elementComponents": [
+                "CC-PVTZ_OPT1"
+            ]
+        },
+        "36": {
+            "elementComponents": [
+                "CC-PVTZ_OPT1"
+            ]
+        }
+    }
+}

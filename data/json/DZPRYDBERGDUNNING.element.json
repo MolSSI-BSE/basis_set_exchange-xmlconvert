@@ -1,0 +1,72 @@
+{
+    "basisSetName": "DZ + Rydberg (Dunning)",
+    "basisSetDescription": "DZ1R    Double Zeta: 2 Functions/AO",
+    "basisSetElements": {
+        "5": {
+            "elementComponents": [
+                "DUNNINGDZ",
+                "RYD-DUNNING"
+            ]
+        },
+        "6": {
+            "elementComponents": [
+                "DUNNINGDZ",
+                "RYD-DUNNING"
+            ]
+        },
+        "7": {
+            "elementComponents": [
+                "DUNNINGDZ",
+                "RYD-DUNNING"
+            ]
+        },
+        "8": {
+            "elementComponents": [
+                "DUNNINGDZ",
+                "RYD-DUNNING"
+            ]
+        },
+        "9": {
+            "elementComponents": [
+                "DUNNINGDZ",
+                "RYD-DUNNING"
+            ]
+        },
+        "10": {
+            "elementComponents": [
+                "DUNNINGDZ",
+                "RYD-DUNNING"
+            ]
+        },
+        "13": {
+            "elementComponents": [
+                "DUNNINGDZ",
+                "RYD-DUNNING"
+            ]
+        },
+        "14": {
+            "elementComponents": [
+                "DUNNINGDZ",
+                "RYD-DUNNING"
+            ]
+        },
+        "15": {
+            "elementComponents": [
+                "DUNNINGDZ",
+                "RYD-DUNNING"
+            ]
+        },
+        "16": {
+            "elementComponents": [
+                "DUNNINGDZ",
+                "RYD-DUNNING"
+            ]
+        },
+        "17": {
+            "elementComponents": [
+                "DUNNINGDZ",
+                "RYD-DUNNING"
+            ]
+        }
+    }
+}

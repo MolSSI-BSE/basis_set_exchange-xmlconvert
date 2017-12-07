@@ -1,0 +1,125 @@
+{
+    "basisSetName": "6-311++G(3df,3pd)",
+    "basisSetDescription": "VTZ3PD  Valence Triple Zeta + Triple Polar. + Diffuse on All Atoms",
+    "basisSetElements": {
+        "1": {
+            "elementComponents": [
+                "6-311G",
+                "6-311G3DF3PD",
+                "POPLDIFF"
+            ]
+        },
+        "3": {
+            "elementComponents": [
+                "6-311G",
+                "6-311G3DF3PD",
+                "POPLDIFF"
+            ]
+        },
+        "4": {
+            "elementComponents": [
+                "6-311G",
+                "6-311G3DF3PD",
+                "POPLDIFF"
+            ]
+        },
+        "5": {
+            "elementComponents": [
+                "6-311G",
+                "6-311G3DF3PD",
+                "POPLDIFF"
+            ]
+        },
+        "6": {
+            "elementComponents": [
+                "6-311G",
+                "6-311G3DF3PD",
+                "POPLDIFF"
+            ]
+        },
+        "7": {
+            "elementComponents": [
+                "6-311G",
+                "6-311G3DF3PD",
+                "POPLDIFF"
+            ]
+        },
+        "8": {
+            "elementComponents": [
+                "6-311G",
+                "6-311G3DF3PD",
+                "POPLDIFF"
+            ]
+        },
+        "9": {
+            "elementComponents": [
+                "6-311G",
+                "6-311G3DF3PD",
+                "POPLDIFF"
+            ]
+        },
+        "10": {
+            "elementComponents": [
+                "6-311G",
+                "6-311G3DF3PD",
+                "POPLDIFF"
+            ]
+        },
+        "11": {
+            "elementComponents": [
+                "6-311G",
+                "6-311G3DF3PD",
+                "POPLDIFF"
+            ]
+        },
+        "12": {
+            "elementComponents": [
+                "6-311G",
+                "6-311G3DF3PD",
+                "POPLDIFF"
+            ]
+        },
+        "13": {
+            "elementComponents": [
+                "6-311G",
+                "6-311G3DF3PD",
+                "POPLDIFF"
+            ]
+        },
+        "14": {
+            "elementComponents": [
+                "6-311G",
+                "6-311G3DF3PD",
+                "POPLDIFF"
+            ]
+        },
+        "15": {
+            "elementComponents": [
+                "6-311G",
+                "6-311G3DF3PD",
+                "POPLDIFF"
+            ]
+        },
+        "16": {
+            "elementComponents": [
+                "6-311G",
+                "6-311G3DF3PD",
+                "POPLDIFF"
+            ]
+        },
+        "17": {
+            "elementComponents": [
+                "6-311G",
+                "6-311G3DF3PD",
+                "POPLDIFF"
+            ]
+        },
+        "18": {
+            "elementComponents": [
+                "6-311G",
+                "6-311G3DF3PD",
+                "POPLDIFF"
+            ]
+        }
+    }
+}

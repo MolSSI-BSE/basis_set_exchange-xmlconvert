@@ -1,0 +1,46 @@
+{
+    "basisSetName": "d-aug-cc-pVTZ Diffuse",
+    "basisSetDescription": "2D      Diffuse Functions",
+    "basisSetElements": {
+        "1": {
+            "elementComponents": [
+                "DAUG-CC-PVTZ"
+            ]
+        },
+        "2": {
+            "elementComponents": [
+                "DAUG-CC-PVTZ"
+            ]
+        },
+        "5": {
+            "elementComponents": [
+                "DAUG-CC-PVTZ"
+            ]
+        },
+        "6": {
+            "elementComponents": [
+                "DAUG-CC-PVTZ"
+            ]
+        },
+        "7": {
+            "elementComponents": [
+                "DAUG-CC-PVTZ"
+            ]
+        },
+        "8": {
+            "elementComponents": [
+                "DAUG-CC-PVTZ"
+            ]
+        },
+        "9": {
+            "elementComponents": [
+                "DAUG-CC-PVTZ"
+            ]
+        },
+        "10": {
+            "elementComponents": [
+                "DAUG-CC-PVTZ"
+            ]
+        }
+    }
+}

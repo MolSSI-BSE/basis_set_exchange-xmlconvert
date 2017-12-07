@@ -1,0 +1,56 @@
+{
+    "basisSetName": "cc-pVDZ-fit2-1",
+    "basisSetDescription": "VDZP    RI-MP2 double zeta fitting basis set",
+    "basisSetElements": {
+        "1": {
+            "elementComponents": [
+                "CC-PVDZ-FIT2-1"
+            ]
+        },
+        "2": {
+            "elementComponents": [
+                "CC-PVDZ-FIT2-1"
+            ]
+        },
+        "3": {
+            "elementComponents": [
+                "CC-PVDZ-FIT2-1"
+            ]
+        },
+        "4": {
+            "elementComponents": [
+                "CC-PVDZ-FIT2-1"
+            ]
+        },
+        "5": {
+            "elementComponents": [
+                "CC-PVDZ-FIT2-1"
+            ]
+        },
+        "6": {
+            "elementComponents": [
+                "CC-PVDZ-FIT2-1"
+            ]
+        },
+        "7": {
+            "elementComponents": [
+                "CC-PVDZ-FIT2-1"
+            ]
+        },
+        "8": {
+            "elementComponents": [
+                "CC-PVDZ-FIT2-1"
+            ]
+        },
+        "9": {
+            "elementComponents": [
+                "CC-PVDZ-FIT2-1"
+            ]
+        },
+        "10": {
+            "elementComponents": [
+                "CC-PVDZ-FIT2-1"
+            ]
+        }
+    }
+}

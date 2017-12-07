@@ -1,0 +1,586 @@
+{
+    "basisSetName": "CRENBL ECP",
+    "basisSetDescription": "CRENBL ECP",
+    "basisSetElements": {
+        "1": {
+            "elementComponents": [
+                "CRENBL"
+            ]
+        },
+        "3": {
+            "elementComponents": [
+                "CRENBL"
+            ]
+        },
+        "4": {
+            "elementComponents": [
+                "CRENBL"
+            ]
+        },
+        "5": {
+            "elementComponents": [
+                "CRENBL"
+            ]
+        },
+        "6": {
+            "elementComponents": [
+                "CRENBL"
+            ]
+        },
+        "7": {
+            "elementComponents": [
+                "CRENBL"
+            ]
+        },
+        "8": {
+            "elementComponents": [
+                "CRENBL"
+            ]
+        },
+        "9": {
+            "elementComponents": [
+                "CRENBL"
+            ]
+        },
+        "10": {
+            "elementComponents": [
+                "CRENBL"
+            ]
+        },
+        "11": {
+            "elementComponents": [
+                "CRENBL"
+            ]
+        },
+        "12": {
+            "elementComponents": [
+                "CRENBL"
+            ]
+        },
+        "13": {
+            "elementComponents": [
+                "CRENBL"
+            ]
+        },
+        "14": {
+            "elementComponents": [
+                "CRENBL"
+            ]
+        },
+        "15": {
+            "elementComponents": [
+                "CRENBL"
+            ]
+        },
+        "16": {
+            "elementComponents": [
+                "CRENBL"
+            ]
+        },
+        "17": {
+            "elementComponents": [
+                "CRENBL"
+            ]
+        },
+        "18": {
+            "elementComponents": [
+                "CRENBL"
+            ]
+        },
+        "19": {
+            "elementComponents": [
+                "CRENBL"
+            ]
+        },
+        "20": {
+            "elementComponents": [
+                "CRENBL"
+            ]
+        },
+        "21": {
+            "elementComponents": [
+                "CRENBL"
+            ]
+        },
+        "22": {
+            "elementComponents": [
+                "CRENBL"
+            ]
+        },
+        "23": {
+            "elementComponents": [
+                "CRENBL"
+            ]
+        },
+        "24": {
+            "elementComponents": [
+                "CRENBL"
+            ]
+        },
+        "25": {
+            "elementComponents": [
+                "CRENBL"
+            ]
+        },
+        "26": {
+            "elementComponents": [
+                "CRENBL"
+            ]
+        },
+        "27": {
+            "elementComponents": [
+                "CRENBL"
+            ]
+        },
+        "28": {
+            "elementComponents": [
+                "CRENBL"
+            ]
+        },
+        "29": {
+            "elementComponents": [
+                "CRENBL"
+            ]
+        },
+        "30": {
+            "elementComponents": [
+                "CRENBL"
+            ]
+        },
+        "31": {
+            "elementComponents": [
+                "CRENBL"
+            ]
+        },
+        "32": {
+            "elementComponents": [
+                "CRENBL"
+            ]
+        },
+        "33": {
+            "elementComponents": [
+                "CRENBL"
+            ]
+        },
+        "34": {
+            "elementComponents": [
+                "CRENBL"
+            ]
+        },
+        "35": {
+            "elementComponents": [
+                "CRENBL"
+            ]
+        },
+        "36": {
+            "elementComponents": [
+                "CRENBL"
+            ]
+        },
+        "37": {
+            "elementComponents": [
+                "CRENBL"
+            ]
+        },
+        "38": {
+            "elementComponents": [
+                "CRENBL"
+            ]
+        },
+        "39": {
+            "elementComponents": [
+                "CRENBL"
+            ]
+        },
+        "40": {
+            "elementComponents": [
+                "CRENBL"
+            ]
+        },
+        "41": {
+            "elementComponents": [
+                "CRENBL"
+            ]
+        },
+        "42": {
+            "elementComponents": [
+                "CRENBL"
+            ]
+        },
+        "43": {
+            "elementComponents": [
+                "CRENBL"
+            ]
+        },
+        "44": {
+            "elementComponents": [
+                "CRENBL"
+            ]
+        },
+        "45": {
+            "elementComponents": [
+                "CRENBL"
+            ]
+        },
+        "46": {
+            "elementComponents": [
+                "CRENBL"
+            ]
+        },
+        "47": {
+            "elementComponents": [
+                "CRENBL"
+            ]
+        },
+        "48": {
+            "elementComponents": [
+                "CRENBL"
+            ]
+        },
+        "49": {
+            "elementComponents": [
+                "CRENBL"
+            ]
+        },
+        "50": {
+            "elementComponents": [
+                "CRENBL"
+            ]
+        },
+        "51": {
+            "elementComponents": [
+                "CRENBL"
+            ]
+        },
+        "52": {
+            "elementComponents": [
+                "CRENBL"
+            ]
+        },
+        "53": {
+            "elementComponents": [
+                "CRENBL"
+            ]
+        },
+        "54": {
+            "elementComponents": [
+                "CRENBL"
+            ]
+        },
+        "55": {
+            "elementComponents": [
+                "CRENBL"
+            ]
+        },
+        "56": {
+            "elementComponents": [
+                "CRENBL"
+            ]
+        },
+        "57": {
+            "elementComponents": [
+                "CRENBL"
+            ]
+        },
+        "58": {
+            "elementComponents": [
+                "CRENBL"
+            ]
+        },
+        "59": {
+            "elementComponents": [
+                "CRENBL"
+            ]
+        },
+        "60": {
+            "elementComponents": [
+                "CRENBL"
+            ]
+        },
+        "61": {
+            "elementComponents": [
+                "CRENBL"
+            ]
+        },
+        "62": {
+            "elementComponents": [
+                "CRENBL"
+            ]
+        },
+        "63": {
+            "elementComponents": [
+                "CRENBL"
+            ]
+        },
+        "64": {
+            "elementComponents": [
+                "CRENBL"
+            ]
+        },
+        "65": {
+            "elementComponents": [
+                "CRENBL"
+            ]
+        },
+        "66": {
+            "elementComponents": [
+                "CRENBL"
+            ]
+        },
+        "67": {
+            "elementComponents": [
+                "CRENBL"
+            ]
+        },
+        "68": {
+            "elementComponents": [
+                "CRENBL"
+            ]
+        },
+        "69": {
+            "elementComponents": [
+                "CRENBL"
+            ]
+        },
+        "70": {
+            "elementComponents": [
+                "CRENBL"
+            ]
+        },
+        "71": {
+            "elementComponents": [
+                "CRENBL"
+            ]
+        },
+        "72": {
+            "elementComponents": [
+                "CRENBL"
+            ]
+        },
+        "73": {
+            "elementComponents": [
+                "CRENBL"
+            ]
+        },
+        "74": {
+            "elementComponents": [
+                "CRENBL"
+            ]
+        },
+        "75": {
+            "elementComponents": [
+                "CRENBL"
+            ]
+        },
+        "76": {
+            "elementComponents": [
+                "CRENBL"
+            ]
+        },
+        "77": {
+            "elementComponents": [
+                "CRENBL"
+            ]
+        },
+        "78": {
+            "elementComponents": [
+                "CRENBL"
+            ]
+        },
+        "79": {
+            "elementComponents": [
+                "CRENBL"
+            ]
+        },
+        "80": {
+            "elementComponents": [
+                "CRENBL"
+            ]
+        },
+        "81": {
+            "elementComponents": [
+                "CRENBL"
+            ]
+        },
+        "82": {
+            "elementComponents": [
+                "CRENBL"
+            ]
+        },
+        "83": {
+            "elementComponents": [
+                "CRENBL"
+            ]
+        },
+        "84": {
+            "elementComponents": [
+                "CRENBL"
+            ]
+        },
+        "85": {
+            "elementComponents": [
+                "CRENBL"
+            ]
+        },
+        "86": {
+            "elementComponents": [
+                "CRENBL"
+            ]
+        },
+        "87": {
+            "elementComponents": [
+                "CRENBL"
+            ]
+        },
+        "88": {
+            "elementComponents": [
+                "CRENBL"
+            ]
+        },
+        "89": {
+            "elementComponents": [
+                "CRENBL"
+            ]
+        },
+        "90": {
+            "elementComponents": [
+                "CRENBL"
+            ]
+        },
+        "91": {
+            "elementComponents": [
+                "CRENBL"
+            ]
+        },
+        "92": {
+            "elementComponents": [
+                "CRENBL"
+            ]
+        },
+        "93": {
+            "elementComponents": [
+                "CRENBL"
+            ]
+        },
+        "94": {
+            "elementComponents": [
+                "CRENBL"
+            ]
+        },
+        "95": {
+            "elementComponents": [
+                "CRENBL"
+            ]
+        },
+        "96": {
+            "elementComponents": [
+                "CRENBL"
+            ]
+        },
+        "97": {
+            "elementComponents": [
+                "CRENBL"
+            ]
+        },
+        "98": {
+            "elementComponents": [
+                "CRENBL"
+            ]
+        },
+        "99": {
+            "elementComponents": [
+                "CRENBL"
+            ]
+        },
+        "100": {
+            "elementComponents": [
+                "CRENBL"
+            ]
+        },
+        "101": {
+            "elementComponents": [
+                "CRENBL"
+            ]
+        },
+        "102": {
+            "elementComponents": [
+                "CRENBL"
+            ]
+        },
+        "103": {
+            "elementComponents": [
+                "CRENBL"
+            ]
+        },
+        "104": {
+            "elementComponents": [
+                "CRENBL"
+            ]
+        },
+        "105": {
+            "elementComponents": [
+                "CRENBL"
+            ]
+        },
+        "106": {
+            "elementComponents": [
+                "CRENBL"
+            ]
+        },
+        "107": {
+            "elementComponents": [
+                "CRENBL"
+            ]
+        },
+        "108": {
+            "elementComponents": [
+                "CRENBL"
+            ]
+        },
+        "109": {
+            "elementComponents": [
+                "CRENBL"
+            ]
+        },
+        "110": {
+            "elementComponents": [
+                "CRENBL"
+            ]
+        },
+        "111": {
+            "elementComponents": [
+                "CRENBL"
+            ]
+        },
+        "112": {
+            "elementComponents": [
+                "CRENBL"
+            ]
+        },
+        "113": {
+            "elementComponents": [
+                "CRENBL"
+            ]
+        },
+        "115": {
+            "elementComponents": [
+                "CRENBL"
+            ]
+        },
+        "116": {
+            "elementComponents": [
+                "CRENBL"
+            ]
+        },
+        "117": {
+            "elementComponents": [
+                "CRENBL"
+            ]
+        },
+        "118": {
+            "elementComponents": [
+                "CRENBL"
+            ]
+        }
+    }
+}

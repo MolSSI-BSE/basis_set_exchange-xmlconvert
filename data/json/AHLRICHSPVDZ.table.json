@@ -1,0 +1,114 @@
+{
+    "basisSetName": "Ahlrichs pVDZ",
+    "basisSetDescription": "VDZP    Valence Double Zeta + Polarization on All Atoms",
+    "basisSetElements": {
+        "1": {
+            "elementEntry": "AHLRICHSPVDZ"
+        },
+        "2": {
+            "elementEntry": "AHLRICHSPVDZ"
+        },
+        "3": {
+            "elementEntry": "AHLRICHSPVDZ"
+        },
+        "4": {
+            "elementEntry": "AHLRICHSPVDZ"
+        },
+        "5": {
+            "elementEntry": "AHLRICHSPVDZ"
+        },
+        "6": {
+            "elementEntry": "AHLRICHSPVDZ"
+        },
+        "7": {
+            "elementEntry": "AHLRICHSPVDZ"
+        },
+        "8": {
+            "elementEntry": "AHLRICHSPVDZ"
+        },
+        "9": {
+            "elementEntry": "AHLRICHSPVDZ"
+        },
+        "10": {
+            "elementEntry": "AHLRICHSPVDZ"
+        },
+        "11": {
+            "elementEntry": "AHLRICHSPVDZ"
+        },
+        "12": {
+            "elementEntry": "AHLRICHSPVDZ"
+        },
+        "13": {
+            "elementEntry": "AHLRICHSPVDZ"
+        },
+        "14": {
+            "elementEntry": "AHLRICHSPVDZ"
+        },
+        "15": {
+            "elementEntry": "AHLRICHSPVDZ"
+        },
+        "16": {
+            "elementEntry": "AHLRICHSPVDZ"
+        },
+        "17": {
+            "elementEntry": "AHLRICHSPVDZ"
+        },
+        "18": {
+            "elementEntry": "AHLRICHSPVDZ"
+        },
+        "19": {
+            "elementEntry": "AHLRICHSPVDZ"
+        },
+        "20": {
+            "elementEntry": "AHLRICHSPVDZ"
+        },
+        "21": {
+            "elementEntry": "AHLRICHSPVDZ"
+        },
+        "22": {
+            "elementEntry": "AHLRICHSPVDZ"
+        },
+        "23": {
+            "elementEntry": "AHLRICHSPVDZ"
+        },
+        "24": {
+            "elementEntry": "AHLRICHSPVDZ"
+        },
+        "25": {
+            "elementEntry": "AHLRICHSPVDZ"
+        },
+        "26": {
+            "elementEntry": "AHLRICHSPVDZ"
+        },
+        "27": {
+            "elementEntry": "AHLRICHSPVDZ"
+        },
+        "28": {
+            "elementEntry": "AHLRICHSPVDZ"
+        },
+        "29": {
+            "elementEntry": "AHLRICHSPVDZ"
+        },
+        "30": {
+            "elementEntry": "AHLRICHSPVDZ"
+        },
+        "31": {
+            "elementEntry": "AHLRICHSPVDZ"
+        },
+        "32": {
+            "elementEntry": "AHLRICHSPVDZ"
+        },
+        "33": {
+            "elementEntry": "AHLRICHSPVDZ"
+        },
+        "34": {
+            "elementEntry": "AHLRICHSPVDZ"
+        },
+        "35": {
+            "elementEntry": "AHLRICHSPVDZ"
+        },
+        "36": {
+            "elementEntry": "AHLRICHSPVDZ"
+        }
+    }
+}

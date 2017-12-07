@@ -1,0 +1,114 @@
+{
+    "basisSetName": "Ahlrichs VTZ",
+    "basisSetDescription": "VTZ     Valence Triple Zeta: 3 Funct.'s/Valence AO",
+    "basisSetElements": {
+        "1": {
+            "elementEntry": "AHLRICHS_VTZ"
+        },
+        "2": {
+            "elementEntry": "AHLRICHS_VTZ"
+        },
+        "3": {
+            "elementEntry": "AHLRICHS_VTZ"
+        },
+        "4": {
+            "elementEntry": "AHLRICHS_VTZ"
+        },
+        "5": {
+            "elementEntry": "AHLRICHS_VTZ"
+        },
+        "6": {
+            "elementEntry": "AHLRICHS_VTZ"
+        },
+        "7": {
+            "elementEntry": "AHLRICHS_VTZ"
+        },
+        "8": {
+            "elementEntry": "AHLRICHS_VTZ"
+        },
+        "9": {
+            "elementEntry": "AHLRICHS_VTZ"
+        },
+        "10": {
+            "elementEntry": "AHLRICHS_VTZ"
+        },
+        "11": {
+            "elementEntry": "AHLRICHS_VTZ"
+        },
+        "12": {
+            "elementEntry": "AHLRICHS_VTZ"
+        },
+        "13": {
+            "elementEntry": "AHLRICHS_VTZ"
+        },
+        "14": {
+            "elementEntry": "AHLRICHS_VTZ"
+        },
+        "15": {
+            "elementEntry": "AHLRICHS_VTZ"
+        },
+        "16": {
+            "elementEntry": "AHLRICHS_VTZ"
+        },
+        "17": {
+            "elementEntry": "AHLRICHS_VTZ"
+        },
+        "18": {
+            "elementEntry": "AHLRICHS_VTZ"
+        },
+        "19": {
+            "elementEntry": "AHLRICHS_VTZ"
+        },
+        "20": {
+            "elementEntry": "AHLRICHS_VTZ"
+        },
+        "21": {
+            "elementEntry": "AHLRICHS_VTZ"
+        },
+        "22": {
+            "elementEntry": "AHLRICHS_VTZ"
+        },
+        "23": {
+            "elementEntry": "AHLRICHS_VTZ"
+        },
+        "24": {
+            "elementEntry": "AHLRICHS_VTZ"
+        },
+        "25": {
+            "elementEntry": "AHLRICHS_VTZ"
+        },
+        "26": {
+            "elementEntry": "AHLRICHS_VTZ"
+        },
+        "27": {
+            "elementEntry": "AHLRICHS_VTZ"
+        },
+        "28": {
+            "elementEntry": "AHLRICHS_VTZ"
+        },
+        "29": {
+            "elementEntry": "AHLRICHS_VTZ"
+        },
+        "30": {
+            "elementEntry": "AHLRICHS_VTZ"
+        },
+        "31": {
+            "elementEntry": "AHLRICHS_VTZ"
+        },
+        "32": {
+            "elementEntry": "AHLRICHS_VTZ"
+        },
+        "33": {
+            "elementEntry": "AHLRICHS_VTZ"
+        },
+        "34": {
+            "elementEntry": "AHLRICHS_VTZ"
+        },
+        "35": {
+            "elementEntry": "AHLRICHS_VTZ"
+        },
+        "36": {
+            "elementEntry": "AHLRICHS_VTZ"
+        }
+    }
+}

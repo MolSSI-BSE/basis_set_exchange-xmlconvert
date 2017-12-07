@@ -1,0 +1,431 @@
+{
+    "basisSetName": "WTBS",
+    "basisSetDescription": "MB      Minimal Basis: 1 Function/AO",
+    "basisSetElements": {
+        "2": {
+            "elementComponents": [
+                "WTBS"
+            ]
+        },
+        "3": {
+            "elementComponents": [
+                "WTBS"
+            ]
+        },
+        "4": {
+            "elementComponents": [
+                "WTBS"
+            ]
+        },
+        "5": {
+            "elementComponents": [
+                "WTBS"
+            ]
+        },
+        "6": {
+            "elementComponents": [
+                "WTBS"
+            ]
+        },
+        "7": {
+            "elementComponents": [
+                "WTBS"
+            ]
+        },
+        "8": {
+            "elementComponents": [
+                "WTBS"
+            ]
+        },
+        "9": {
+            "elementComponents": [
+                "WTBS"
+            ]
+        },
+        "10": {
+            "elementComponents": [
+                "WTBS"
+            ]
+        },
+        "11": {
+            "elementComponents": [
+                "WTBS"
+            ]
+        },
+        "12": {
+            "elementComponents": [
+                "WTBS"
+            ]
+        },
+        "13": {
+            "elementComponents": [
+                "WTBS"
+            ]
+        },
+        "14": {
+            "elementComponents": [
+                "WTBS"
+            ]
+        },
+        "15": {
+            "elementComponents": [
+                "WTBS"
+            ]
+        },
+        "16": {
+            "elementComponents": [
+                "WTBS"
+            ]
+        },
+        "17": {
+            "elementComponents": [
+                "WTBS"
+            ]
+        },
+        "18": {
+            "elementComponents": [
+                "WTBS"
+            ]
+        },
+        "19": {
+            "elementComponents": [
+                "WTBS"
+            ]
+        },
+        "20": {
+            "elementComponents": [
+                "WTBS"
+            ]
+        },
+        "21": {
+            "elementComponents": [
+                "WTBS"
+            ]
+        },
+        "22": {
+            "elementComponents": [
+                "WTBS"
+            ]
+        },
+        "23": {
+            "elementComponents": [
+                "WTBS"
+            ]
+        },
+        "24": {
+            "elementComponents": [
+                "WTBS"
+            ]
+        },
+        "25": {
+            "elementComponents": [
+                "WTBS"
+            ]
+        },
+        "26": {
+            "elementComponents": [
+                "WTBS"
+            ]
+        },
+        "27": {
+            "elementComponents": [
+                "WTBS"
+            ]
+        },
+        "28": {
+            "elementComponents": [
+                "WTBS"
+            ]
+        },
+        "29": {
+            "elementComponents": [
+                "WTBS"
+            ]
+        },
+        "30": {
+            "elementComponents": [
+                "WTBS"
+            ]
+        },
+        "31": {
+            "elementComponents": [
+                "WTBS"
+            ]
+        },
+        "32": {
+            "elementComponents": [
+                "WTBS"
+            ]
+        },
+        "33": {
+            "elementComponents": [
+                "WTBS"
+            ]
+        },
+        "34": {
+            "elementComponents": [
+                "WTBS"
+            ]
+        },
+        "35": {
+            "elementComponents": [
+                "WTBS"
+            ]
+        },
+        "36": {
+            "elementComponents": [
+                "WTBS"
+            ]
+        },
+        "37": {
+            "elementComponents": [
+                "WTBS"
+            ]
+        },
+        "38": {
+            "elementComponents": [
+                "WTBS"
+            ]
+        },
+        "39": {
+            "elementComponents": [
+                "WTBS"
+            ]
+        },
+        "40": {
+            "elementComponents": [
+                "WTBS"
+            ]
+        },
+        "41": {
+            "elementComponents": [
+                "WTBS"
+            ]
+        },
+        "42": {
+            "elementComponents": [
+                "WTBS"
+            ]
+        },
+        "43": {
+            "elementComponents": [
+                "WTBS"
+            ]
+        },
+        "44": {
+            "elementComponents": [
+                "WTBS"
+            ]
+        },
+        "45": {
+            "elementComponents": [
+                "WTBS"
+            ]
+        },
+        "46": {
+            "elementComponents": [
+                "WTBS"
+            ]
+        },
+        "47": {
+            "elementComponents": [
+                "WTBS"
+            ]
+        },
+        "48": {
+            "elementComponents": [
+                "WTBS"
+            ]
+        },
+        "49": {
+            "elementComponents": [
+                "WTBS"
+            ]
+        },
+        "50": {
+            "elementComponents": [
+                "WTBS"
+            ]
+        },
+        "51": {
+            "elementComponents": [
+                "WTBS"
+            ]
+        },
+        "52": {
+            "elementComponents": [
+                "WTBS"
+            ]
+        },
+        "53": {
+            "elementComponents": [
+                "WTBS"
+            ]
+        },
+        "54": {
+            "elementComponents": [
+                "WTBS"
+            ]
+        },
+        "55": {
+            "elementComponents": [
+                "WTBS"
+            ]
+        },
+        "56": {
+            "elementComponents": [
+                "WTBS"
+            ]
+        },
+        "57": {
+            "elementComponents": [
+                "WTBS"
+            ]
+        },
+        "58": {
+            "elementComponents": [
+                "WTBS"
+            ]
+        },
+        "59": {
+            "elementComponents": [
+                "WTBS"
+            ]
+        },
+        "60": {
+            "elementComponents": [
+                "WTBS"
+            ]
+        },
+        "61": {
+            "elementComponents": [
+                "WTBS"
+            ]
+        },
+        "62": {
+            "elementComponents": [
+                "WTBS"
+            ]
+        },
+        "63": {
+            "elementComponents": [
+                "WTBS"
+            ]
+        },
+        "64": {
+            "elementComponents": [
+                "WTBS"
+            ]
+        },
+        "65": {
+            "elementComponents": [
+                "WTBS"
+            ]
+        },
+        "66": {
+            "elementComponents": [
+                "WTBS"
+            ]
+        },
+        "67": {
+            "elementComponents": [
+                "WTBS"
+            ]
+        },
+        "68": {
+            "elementComponents": [
+                "WTBS"
+            ]
+        },
+        "69": {
+            "elementComponents": [
+                "WTBS"
+            ]
+        },
+        "70": {
+            "elementComponents": [
+                "WTBS"
+            ]
+        },
+        "71": {
+            "elementComponents": [
+                "WTBS"
+            ]
+        },
+        "72": {
+            "elementComponents": [
+                "WTBS"
+            ]
+        },
+        "73": {
+            "elementComponents": [
+                "WTBS"
+            ]
+        },
+        "74": {
+            "elementComponents": [
+                "WTBS"
+            ]
+        },
+        "75": {
+            "elementComponents": [
+                "WTBS"
+            ]
+        },
+        "76": {
+            "elementComponents": [
+                "WTBS"
+            ]
+        },
+        "77": {
+            "elementComponents": [
+                "WTBS"
+            ]
+        },
+        "78": {
+            "elementComponents": [
+                "WTBS"
+            ]
+        },
+        "79": {
+            "elementComponents": [
+                "WTBS"
+            ]
+        },
+        "80": {
+            "elementComponents": [
+                "WTBS"
+            ]
+        },
+        "81": {
+            "elementComponents": [
+                "WTBS"
+            ]
+        },
+        "82": {
+            "elementComponents": [
+                "WTBS"
+            ]
+        },
+        "83": {
+            "elementComponents": [
+                "WTBS"
+            ]
+        },
+        "84": {
+            "elementComponents": [
+                "WTBS"
+            ]
+        },
+        "85": {
+            "elementComponents": [
+                "WTBS"
+            ]
+        },
+        "86": {
+            "elementComponents": [
+                "WTBS"
+            ]
+        }
+    }
+}

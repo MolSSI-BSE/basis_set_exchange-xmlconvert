@@ -1,0 +1,16 @@
+{
+    "basisSetName": "NASA Ames cc-pVQZ",
+    "basisSetDescription": "VQZ3P   Valence Quadruple Zeta + Polarization on All Atoms",
+    "basisSetElements": {
+        "22": {
+            "elementComponents": [
+                "NASA_CC-PVQZ"
+            ]
+        },
+        "26": {
+            "elementComponents": [
+                "NASA_CC-PVQZ"
+            ]
+        }
+    }
+}

@@ -1,0 +1,81 @@
+{
+    "basisSetName": "DHMS Polarization",
+    "basisSetDescription": "1P      Polarization Functions",
+    "basisSetElements": {
+        "1": {
+            "elementComponents": [
+                "DUNHAYPOL"
+            ]
+        },
+        "2": {
+            "elementComponents": [
+                "DUNHAYPOL"
+            ]
+        },
+        "3": {
+            "elementComponents": [
+                "DUNHAYPOL"
+            ]
+        },
+        "4": {
+            "elementComponents": [
+                "DUNHAYPOL"
+            ]
+        },
+        "5": {
+            "elementComponents": [
+                "DUNHAYPOL"
+            ]
+        },
+        "6": {
+            "elementComponents": [
+                "DUNHAYPOL"
+            ]
+        },
+        "7": {
+            "elementComponents": [
+                "DUNHAYPOL"
+            ]
+        },
+        "8": {
+            "elementComponents": [
+                "DUNHAYPOL"
+            ]
+        },
+        "9": {
+            "elementComponents": [
+                "DUNHAYPOL"
+            ]
+        },
+        "10": {
+            "elementComponents": [
+                "DUNHAYPOL"
+            ]
+        },
+        "13": {
+            "elementComponents": [
+                "DUNHAYPOL"
+            ]
+        },
+        "14": {
+            "elementComponents": [
+                "DUNHAYPOL"
+            ]
+        },
+        "15": {
+            "elementComponents": [
+                "DUNHAYPOL"
+            ]
+        },
+        "16": {
+            "elementComponents": [
+                "DUNHAYPOL"
+            ]
+        },
+        "17": {
+            "elementComponents": [
+                "DUNHAYPOL"
+            ]
+        }
+    }
+}

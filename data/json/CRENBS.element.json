@@ -1,0 +1,251 @@
+{
+    "basisSetName": "CRENBS ECP",
+    "basisSetDescription": "CRENBS ECP",
+    "basisSetElements": {
+        "21": {
+            "elementComponents": [
+                "CRENBS"
+            ]
+        },
+        "22": {
+            "elementComponents": [
+                "CRENBS"
+            ]
+        },
+        "23": {
+            "elementComponents": [
+                "CRENBS"
+            ]
+        },
+        "24": {
+            "elementComponents": [
+                "CRENBS"
+            ]
+        },
+        "25": {
+            "elementComponents": [
+                "CRENBS"
+            ]
+        },
+        "26": {
+            "elementComponents": [
+                "CRENBS"
+            ]
+        },
+        "27": {
+            "elementComponents": [
+                "CRENBS"
+            ]
+        },
+        "28": {
+            "elementComponents": [
+                "CRENBS"
+            ]
+        },
+        "29": {
+            "elementComponents": [
+                "CRENBS"
+            ]
+        },
+        "30": {
+            "elementComponents": [
+                "CRENBS"
+            ]
+        },
+        "39": {
+            "elementComponents": [
+                "CRENBS"
+            ]
+        },
+        "40": {
+            "elementComponents": [
+                "CRENBS"
+            ]
+        },
+        "41": {
+            "elementComponents": [
+                "CRENBS"
+            ]
+        },
+        "42": {
+            "elementComponents": [
+                "CRENBS"
+            ]
+        },
+        "43": {
+            "elementComponents": [
+                "CRENBS"
+            ]
+        },
+        "44": {
+            "elementComponents": [
+                "CRENBS"
+            ]
+        },
+        "45": {
+            "elementComponents": [
+                "CRENBS"
+            ]
+        },
+        "46": {
+            "elementComponents": [
+                "CRENBS"
+            ]
+        },
+        "47": {
+            "elementComponents": [
+                "CRENBS"
+            ]
+        },
+        "48": {
+            "elementComponents": [
+                "CRENBS"
+            ]
+        },
+        "57": {
+            "elementComponents": [
+                "CRENBS"
+            ]
+        },
+        "72": {
+            "elementComponents": [
+                "CRENBS"
+            ]
+        },
+        "73": {
+            "elementComponents": [
+                "CRENBS"
+            ]
+        },
+        "74": {
+            "elementComponents": [
+                "CRENBS"
+            ]
+        },
+        "75": {
+            "elementComponents": [
+                "CRENBS"
+            ]
+        },
+        "76": {
+            "elementComponents": [
+                "CRENBS"
+            ]
+        },
+        "77": {
+            "elementComponents": [
+                "CRENBS"
+            ]
+        },
+        "78": {
+            "elementComponents": [
+                "CRENBS"
+            ]
+        },
+        "79": {
+            "elementComponents": [
+                "CRENBS"
+            ]
+        },
+        "80": {
+            "elementComponents": [
+                "CRENBS"
+            ]
+        },
+        "81": {
+            "elementComponents": [
+                "CRENBS"
+            ]
+        },
+        "82": {
+            "elementComponents": [
+                "CRENBS"
+            ]
+        },
+        "83": {
+            "elementComponents": [
+                "CRENBS"
+            ]
+        },
+        "84": {
+            "elementComponents": [
+                "CRENBS"
+            ]
+        },
+        "85": {
+            "elementComponents": [
+                "CRENBS"
+            ]
+        },
+        "86": {
+            "elementComponents": [
+                "CRENBS"
+            ]
+        },
+        "104": {
+            "elementComponents": [
+                "CRENBS"
+            ]
+        },
+        "105": {
+            "elementComponents": [
+                "CRENBS"
+            ]
+        },
+        "106": {
+            "elementComponents": [
+                "CRENBS"
+            ]
+        },
+        "107": {
+            "elementComponents": [
+                "CRENBS"
+            ]
+        },
+        "108": {
+            "elementComponents": [
+                "CRENBS"
+            ]
+        },
+        "109": {
+            "elementComponents": [
+                "CRENBS"
+            ]
+        },
+        "110": {
+            "elementComponents": [
+                "CRENBS"
+            ]
+        },
+        "111": {
+            "elementComponents": [
+                "CRENBS"
+            ]
+        },
+        "112": {
+            "elementComponents": [
+                "CRENBS"
+            ]
+        },
+        "113": {
+            "elementComponents": [
+                "CRENBS"
+            ]
+        },
+        "115": {
+            "elementComponents": [
+                "CRENBS"
+            ]
+        },
+        "116": {
+            "elementComponents": [
+                "CRENBS"
+            ]
+        },
+        "117": {
+            "elementComponents": [
+                "CRENBS"
+            ]
+        }
+    }
+}

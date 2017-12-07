@@ -1,0 +1,60 @@
+{
+    "basisSetName": "Pople (3df,3pd) Polarization",
+    "basisSetDescription": "3P      Polarization functions associated with 6-31G and 6-311G",
+    "basisSetElements": {
+        "1": {
+            "elementEntry": "6-311G3DF3PD"
+        },
+        "2": {
+            "elementEntry": "6-311G3DF3PD"
+        },
+        "3": {
+            "elementEntry": "6-311G3DF3PD"
+        },
+        "4": {
+            "elementEntry": "6-311G3DF3PD"
+        },
+        "5": {
+            "elementEntry": "6-311G3DF3PD"
+        },
+        "6": {
+            "elementEntry": "6-311G3DF3PD"
+        },
+        "7": {
+            "elementEntry": "6-311G3DF3PD"
+        },
+        "8": {
+            "elementEntry": "6-311G3DF3PD"
+        },
+        "9": {
+            "elementEntry": "6-311G3DF3PD"
+        },
+        "10": {
+            "elementEntry": "6-311G3DF3PD"
+        },
+        "11": {
+            "elementEntry": "6-311G3DF3PD"
+        },
+        "12": {
+            "elementEntry": "6-311G3DF3PD"
+        },
+        "13": {
+            "elementEntry": "6-311G3DF3PD"
+        },
+        "14": {
+            "elementEntry": "6-311G3DF3PD"
+        },
+        "15": {
+            "elementEntry": "6-311G3DF3PD"
+        },
+        "16": {
+            "elementEntry": "6-311G3DF3PD"
+        },
+        "17": {
+            "elementEntry": "6-311G3DF3PD"
+        },
+        "18": {
+            "elementEntry": "6-311G3DF3PD"
+        }
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "basisSetName": "aug-cc-pwCVQZ-DK",
+    "basisSetDescription": "VQZPD   All-electron Douglas-Kroll Core-Valence Quadruple Zeta + Polarization",
+    "basisSetElements": {
+        "21": {
+            "elementComponents": [
+                "CC-PWCVQZ-DK",
+                "AUG-CC-PVQZ-DK"
+            ]
+        },
+        "22": {
+            "elementComponents": [
+                "CC-PWCVQZ-DK",
+                "AUG-CC-PVQZ-DK"
+            ]
+        },
+        "23": {
+            "elementComponents": [
+                "CC-PWCVQZ-DK",
+                "AUG-CC-PVQZ-DK"
+            ]
+        },
+        "24": {
+            "elementComponents": [
+                "CC-PWCVQZ-DK",
+                "AUG-CC-PVQZ-DK"
+            ]
+        },
+        "25": {
+            "elementComponents": [
+                "CC-PWCVQZ-DK",
+                "AUG-CC-PVQZ-DK"
+            ]
+        },
+        "26": {
+            "elementComponents": [
+                "CC-PWCVQZ-DK",
+                "AUG-CC-PVQZ-DK"
+            ]
+        },
+        "27": {
+            "elementComponents": [
+                "CC-PWCVQZ-DK",
+                "AUG-CC-PVQZ-DK"
+            ]
+        },
+        "28": {
+            "elementComponents": [
+                "CC-PWCVQZ-DK",
+                "AUG-CC-PVQZ-DK"
+            ]
+        },
+        "29": {
+            "elementComponents": [
+                "CC-PWCVQZ-DK",
+                "AUG-CC-PVQZ-DK"
+            ]
+        },
+        "30": {
+            "elementComponents": [
+                "CC-PWCVQZ-DK",
+                "AUG-CC-PVQZ-DK"
+            ]
+        }
+    }
+}

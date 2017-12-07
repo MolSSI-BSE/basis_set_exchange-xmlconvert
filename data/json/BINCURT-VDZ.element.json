@@ -1,0 +1,36 @@
+{
+    "basisSetName": "Binning/Curtiss SV",
+    "basisSetDescription": "VDZ     Valence Double Zeta: 2 Funct.'s/Valence AO",
+    "basisSetElements": {
+        "31": {
+            "elementComponents": [
+                "BINCURT-VDZ"
+            ]
+        },
+        "32": {
+            "elementComponents": [
+                "BINCURT-VDZ"
+            ]
+        },
+        "33": {
+            "elementComponents": [
+                "BINCURT-VDZ"
+            ]
+        },
+        "34": {
+            "elementComponents": [
+                "BINCURT-VDZ"
+            ]
+        },
+        "35": {
+            "elementComponents": [
+                "BINCURT-VDZ"
+            ]
+        },
+        "36": {
+            "elementComponents": [
+                "BINCURT-VDZ"
+            ]
+        }
+    }
+}

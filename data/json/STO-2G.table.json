@@ -1,0 +1,69 @@
+{
+    "basisSetName": "STO-2G",
+    "basisSetDescription": "MB      Minimal Basis: 1 Function/AO",
+    "basisSetElements": {
+        "1": {
+            "elementEntry": "STO-2G"
+        },
+        "2": {
+            "elementEntry": "STO-2G"
+        },
+        "3": {
+            "elementEntry": "STO-2G"
+        },
+        "4": {
+            "elementEntry": "STO-2G"
+        },
+        "5": {
+            "elementEntry": "STO-2G"
+        },
+        "6": {
+            "elementEntry": "STO-2G"
+        },
+        "7": {
+            "elementEntry": "STO-2G"
+        },
+        "8": {
+            "elementEntry": "STO-2G"
+        },
+        "9": {
+            "elementEntry": "STO-2G"
+        },
+        "10": {
+            "elementEntry": "STO-2G"
+        },
+        "11": {
+            "elementEntry": "STO-2G"
+        },
+        "12": {
+            "elementEntry": "STO-2G"
+        },
+        "13": {
+            "elementEntry": "STO-2G"
+        },
+        "14": {
+            "elementEntry": "STO-2G"
+        },
+        "15": {
+            "elementEntry": "STO-2G"
+        },
+        "16": {
+            "elementEntry": "STO-2G"
+        },
+        "17": {
+            "elementEntry": "STO-2G"
+        },
+        "18": {
+            "elementEntry": "STO-2G"
+        },
+        "19": {
+            "elementEntry": "STO-2G"
+        },
+        "20": {
+            "elementEntry": "STO-2G"
+        },
+        "38": {
+            "elementEntry": "STO-2G"
+        }
+    }
+}

@@ -1,0 +1,96 @@
+{
+    "basisSetName": "Roos Augmented Double Zeta ANO",
+    "basisSetDescription": "VDZPD   Valence Double Zeta + Polarization + Diffuse",
+    "basisSetElements": {
+        "1": {
+            "elementEntry": "ROOS_ANO1"
+        },
+        "2": {
+            "elementEntry": "ROOS_ANO1"
+        },
+        "3": {
+            "elementEntry": "ROOS_ANO1"
+        },
+        "4": {
+            "elementEntry": "ROOS_ANO1"
+        },
+        "5": {
+            "elementEntry": "ROOS_ANO1"
+        },
+        "6": {
+            "elementEntry": "ROOS_ANO1"
+        },
+        "7": {
+            "elementEntry": "ROOS_ANO1"
+        },
+        "8": {
+            "elementEntry": "ROOS_ANO1"
+        },
+        "9": {
+            "elementEntry": "ROOS_ANO1"
+        },
+        "10": {
+            "elementEntry": "ROOS_ANO1"
+        },
+        "11": {
+            "elementEntry": "ROOS_ANO1"
+        },
+        "12": {
+            "elementEntry": "ROOS_ANO1"
+        },
+        "13": {
+            "elementEntry": "ROOS_ANO1"
+        },
+        "14": {
+            "elementEntry": "ROOS_ANO1"
+        },
+        "15": {
+            "elementEntry": "ROOS_ANO1"
+        },
+        "16": {
+            "elementEntry": "ROOS_ANO1"
+        },
+        "17": {
+            "elementEntry": "ROOS_ANO1"
+        },
+        "18": {
+            "elementEntry": "ROOS_ANO1"
+        },
+        "19": {
+            "elementEntry": "ROOS_ANO1"
+        },
+        "20": {
+            "elementEntry": "ROOS_ANO1"
+        },
+        "21": {
+            "elementEntry": "ROOS_ANO1"
+        },
+        "22": {
+            "elementEntry": "ROOS_ANO1"
+        },
+        "23": {
+            "elementEntry": "ROOS_ANO1"
+        },
+        "24": {
+            "elementEntry": "ROOS_ANO1"
+        },
+        "25": {
+            "elementEntry": "ROOS_ANO1"
+        },
+        "26": {
+            "elementEntry": "ROOS_ANO1"
+        },
+        "27": {
+            "elementEntry": "ROOS_ANO1"
+        },
+        "28": {
+            "elementEntry": "ROOS_ANO1"
+        },
+        "29": {
+            "elementEntry": "ROOS_ANO1"
+        },
+        "30": {
+            "elementEntry": "ROOS_ANO1"
+        }
+    }
+}

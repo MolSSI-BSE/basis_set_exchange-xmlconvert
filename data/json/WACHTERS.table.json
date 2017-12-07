@@ -1,0 +1,33 @@
+{
+    "basisSetName": "Wachters+f",
+    "basisSetDescription": "VDZP    Valence Double Zeta + Polarization on All Atoms",
+    "basisSetElements": {
+        "21": {
+            "elementEntry": "WACHTERS"
+        },
+        "22": {
+            "elementEntry": "WACHTERS"
+        },
+        "23": {
+            "elementEntry": "WACHTERS"
+        },
+        "24": {
+            "elementEntry": "WACHTERS"
+        },
+        "25": {
+            "elementEntry": "WACHTERS"
+        },
+        "26": {
+            "elementEntry": "WACHTERS"
+        },
+        "27": {
+            "elementEntry": "WACHTERS"
+        },
+        "28": {
+            "elementEntry": "WACHTERS"
+        },
+        "29": {
+            "elementEntry": "WACHTERS"
+        }
+    }
+}

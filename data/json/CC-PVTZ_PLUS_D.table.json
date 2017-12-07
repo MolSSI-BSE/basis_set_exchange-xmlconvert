@@ -1,0 +1,24 @@
+{
+    "basisSetName": "cc-pV(T+d)Z",
+    "basisSetDescription": "cc-pV(T+d)Z",
+    "basisSetElements": {
+        "13": {
+            "elementEntry": "CC-PVTZ_PLUS_D"
+        },
+        "14": {
+            "elementEntry": "CC-PVTZ_PLUS_D"
+        },
+        "15": {
+            "elementEntry": "CC-PVTZ_PLUS_D"
+        },
+        "16": {
+            "elementEntry": "CC-PVTZ_PLUS_D"
+        },
+        "17": {
+            "elementEntry": "CC-PVTZ_PLUS_D"
+        },
+        "18": {
+            "elementEntry": "CC-PVTZ_PLUS_D"
+        }
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "basisSetName": "Chipman DZP + Diffuse",
+    "basisSetDescription": "DZPD    Double Zeta + Polarization + Diffuse",
+    "basisSetElements": {
+        "1": {
+            "elementComponents": [
+                "CHIPMAN"
+            ]
+        },
+        "5": {
+            "elementComponents": [
+                "CHIPMAN"
+            ]
+        },
+        "6": {
+            "elementComponents": [
+                "CHIPMAN"
+            ]
+        },
+        "7": {
+            "elementComponents": [
+                "CHIPMAN"
+            ]
+        },
+        "8": {
+            "elementComponents": [
+                "CHIPMAN"
+            ]
+        },
+        "9": {
+            "elementComponents": [
+                "CHIPMAN"
+            ]
+        }
+    }
+}
