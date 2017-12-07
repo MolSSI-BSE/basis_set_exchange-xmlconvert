@@ -1,0 +1,42 @@
+{
+    "basisSetName": "6-311G(2df,2pd)",
+    "basisSetDescription": "VTZ2P   Valence Triple Zeta + Double Polarization",
+    "basisSetElements": {
+        "1": {
+            "elementEntry": "6-311G2DF2PD-AGG"
+        },
+        "2": {
+            "elementEntry": "6-311G2DF2PD-AGG"
+        },
+        "3": {
+            "elementEntry": "6-311G2DF2PD-AGG"
+        },
+        "4": {
+            "elementEntry": "6-311G2DF2PD-AGG"
+        },
+        "5": {
+            "elementEntry": "6-311G2DF2PD-AGG"
+        },
+        "6": {
+            "elementEntry": "6-311G2DF2PD-AGG"
+        },
+        "7": {
+            "elementEntry": "6-311G2DF2PD-AGG"
+        },
+        "8": {
+            "elementEntry": "6-311G2DF2PD-AGG"
+        },
+        "9": {
+            "elementEntry": "6-311G2DF2PD-AGG"
+        },
+        "10": {
+            "elementEntry": "6-311G2DF2PD-AGG"
+        },
+        "19": {
+            "elementEntry": "6-311G2DF2PD-AGG"
+        },
+        "20": {
+            "elementEntry": "6-311G2DF2PD-AGG"
+        }
+    }
+}

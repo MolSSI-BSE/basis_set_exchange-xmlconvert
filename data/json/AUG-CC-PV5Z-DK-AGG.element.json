@@ -1,0 +1,186 @@
+{
+    "basisSetName": "aug-cc-pV5Z-DK",
+    "basisSetDescription": "V5ZPD   All-electron Douglas-Kroll Valence Quintuple Zeta + Polarization",
+    "basisSetElements": {
+        "1": {
+            "elementComponents": [
+                "CC-PV5Z-DK",
+                "AUG-CC-PV5Z-DK"
+            ]
+        },
+        "2": {
+            "elementComponents": [
+                "CC-PV5Z-DK",
+                "AUG-CC-PV5Z-DK"
+            ]
+        },
+        "5": {
+            "elementComponents": [
+                "CC-PV5Z-DK",
+                "AUG-CC-PV5Z-DK"
+            ]
+        },
+        "6": {
+            "elementComponents": [
+                "CC-PV5Z-DK",
+                "AUG-CC-PV5Z-DK"
+            ]
+        },
+        "7": {
+            "elementComponents": [
+                "CC-PV5Z-DK",
+                "AUG-CC-PV5Z-DK"
+            ]
+        },
+        "8": {
+            "elementComponents": [
+                "CC-PV5Z-DK",
+                "AUG-CC-PV5Z-DK"
+            ]
+        },
+        "9": {
+            "elementComponents": [
+                "CC-PV5Z-DK",
+                "AUG-CC-PV5Z-DK"
+            ]
+        },
+        "10": {
+            "elementComponents": [
+                "CC-PV5Z-DK",
+                "AUG-CC-PV5Z-DK"
+            ]
+        },
+        "13": {
+            "elementComponents": [
+                "CC-PV5Z-DK",
+                "AUG-CC-PV5Z-DK"
+            ]
+        },
+        "14": {
+            "elementComponents": [
+                "CC-PV5Z-DK",
+                "AUG-CC-PV5Z-DK"
+            ]
+        },
+        "15": {
+            "elementComponents": [
+                "CC-PV5Z-DK",
+                "AUG-CC-PV5Z-DK"
+            ]
+        },
+        "16": {
+            "elementComponents": [
+                "CC-PV5Z-DK",
+                "AUG-CC-PV5Z-DK"
+            ]
+        },
+        "17": {
+            "elementComponents": [
+                "CC-PV5Z-DK",
+                "AUG-CC-PV5Z-DK"
+            ]
+        },
+        "18": {
+            "elementComponents": [
+                "CC-PV5Z-DK",
+                "AUG-CC-PV5Z-DK"
+            ]
+        },
+        "21": {
+            "elementComponents": [
+                "CC-PV5Z-DK",
+                "AUG-CC-PV5Z-DK"
+            ]
+        },
+        "22": {
+            "elementComponents": [
+                "CC-PV5Z-DK",
+                "AUG-CC-PV5Z-DK"
+            ]
+        },
+        "23": {
+            "elementComponents": [
+                "CC-PV5Z-DK",
+                "AUG-CC-PV5Z-DK"
+            ]
+        },
+        "24": {
+            "elementComponents": [
+                "CC-PV5Z-DK",
+                "AUG-CC-PV5Z-DK"
+            ]
+        },
+        "25": {
+            "elementComponents": [
+                "CC-PV5Z-DK",
+                "AUG-CC-PV5Z-DK"
+            ]
+        },
+        "26": {
+            "elementComponents": [
+                "CC-PV5Z-DK",
+                "AUG-CC-PV5Z-DK"
+            ]
+        },
+        "27": {
+            "elementComponents": [
+                "CC-PV5Z-DK",
+                "AUG-CC-PV5Z-DK"
+            ]
+        },
+        "28": {
+            "elementComponents": [
+                "CC-PV5Z-DK",
+                "AUG-CC-PV5Z-DK"
+            ]
+        },
+        "29": {
+            "elementComponents": [
+                "CC-PV5Z-DK",
+                "AUG-CC-PV5Z-DK"
+            ]
+        },
+        "30": {
+            "elementComponents": [
+                "CC-PV5Z-DK",
+                "AUG-CC-PV5Z-DK"
+            ]
+        },
+        "31": {
+            "elementComponents": [
+                "CC-PV5Z-DK",
+                "AUG-CC-PV5Z-DK"
+            ]
+        },
+        "32": {
+            "elementComponents": [
+                "CC-PV5Z-DK",
+                "AUG-CC-PV5Z-DK"
+            ]
+        },
+        "33": {
+            "elementComponents": [
+                "CC-PV5Z-DK",
+                "AUG-CC-PV5Z-DK"
+            ]
+        },
+        "34": {
+            "elementComponents": [
+                "CC-PV5Z-DK",
+                "AUG-CC-PV5Z-DK"
+            ]
+        },
+        "35": {
+            "elementComponents": [
+                "CC-PV5Z-DK",
+                "AUG-CC-PV5Z-DK"
+            ]
+        },
+        "36": {
+            "elementComponents": [
+                "CC-PV5Z-DK",
+                "AUG-CC-PV5Z-DK"
+            ]
+        }
+    }
+}

@@ -1,6 +1,6 @@
 {
-    "basisSetName": "aug-cc-pVTZ-DK",
-    "basisSetDescription": "VTZ2P   All-electron Douglas-Kroll Valence Triple Zeta + Polarization",
+    "basisSetName": "aug-cc-pVTZ-DK Diffuse",
+    "basisSetDescription": "aug-cc-pVTZ-DK Diffuse",
     "basisSetElements": {
         "1": {
             "elementEntry": "AUG-CC-PVTZ-DK"

@@ -1,0 +1,63 @@
+{
+    "basisSetName": "LANL2DZdp ECP",
+    "basisSetDescription": "DZP     Double Zeta + Polarization + Diffuse ECP",
+    "basisSetElements": {
+        "1": {
+            "elementEntry": "LANL2DZDPECP-AGG"
+        },
+        "6": {
+            "elementEntry": "LANL2DZDPECP-AGG"
+        },
+        "7": {
+            "elementEntry": "LANL2DZDPECP-AGG"
+        },
+        "8": {
+            "elementEntry": "LANL2DZDPECP-AGG"
+        },
+        "9": {
+            "elementEntry": "LANL2DZDPECP-AGG"
+        },
+        "14": {
+            "elementEntry": "LANL2DZDPECP-AGG"
+        },
+        "15": {
+            "elementEntry": "LANL2DZDPECP-AGG"
+        },
+        "16": {
+            "elementEntry": "LANL2DZDPECP-AGG"
+        },
+        "17": {
+            "elementEntry": "LANL2DZDPECP-AGG"
+        },
+        "32": {
+            "elementEntry": "LANL2DZDPECP-AGG"
+        },
+        "33": {
+            "elementEntry": "LANL2DZDPECP-AGG"
+        },
+        "34": {
+            "elementEntry": "LANL2DZDPECP-AGG"
+        },
+        "35": {
+            "elementEntry": "LANL2DZDPECP-AGG"
+        },
+        "50": {
+            "elementEntry": "LANL2DZDPECP-AGG"
+        },
+        "51": {
+            "elementEntry": "LANL2DZDPECP-AGG"
+        },
+        "52": {
+            "elementEntry": "LANL2DZDPECP-AGG"
+        },
+        "53": {
+            "elementEntry": "LANL2DZDPECP-AGG"
+        },
+        "82": {
+            "elementEntry": "LANL2DZDPECP-AGG"
+        },
+        "83": {
+            "elementEntry": "LANL2DZDPECP-AGG"
+        }
+    }
+}

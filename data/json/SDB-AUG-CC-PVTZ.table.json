@@ -1,6 +1,6 @@
 {
-    "basisSetName": "SDB-aug-cc-pVTZ",
-    "basisSetDescription": "VTZ2P   Valence Triple Zeta + Polarization on All Atoms",
+    "basisSetName": "SDB-aug-cc-pVTZ Diffuse",
+    "basisSetDescription": "1D      Diffuse Functions",
     "basisSetElements": {
         "31": {
             "elementEntry": "SDB-AUG-CC-PVTZ"
@@ -17,9 +17,6 @@
         "35": {
             "elementEntry": "SDB-AUG-CC-PVTZ"
         },
-        "36": {
-            "elementEntry": "SDB-CC-PVTZ"
-        },
         "49": {
             "elementEntry": "SDB-AUG-CC-PVTZ"
         },
@@ -34,9 +31,6 @@
         },
         "53": {
             "elementEntry": "SDB-AUG-CC-PVTZ"
-        },
-        "54": {
-            "elementEntry": "SDB-CC-PVTZ"
         }
     }
 }

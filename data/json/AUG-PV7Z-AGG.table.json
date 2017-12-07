@@ -1,0 +1,27 @@
+{
+    "basisSetName": "aug-pV7Z",
+    "basisSetDescription": "V7Z6P   Valence Septuple Zeta + Polarization on All Atoms",
+    "basisSetElements": {
+        "1": {
+            "elementEntry": "PV7Z"
+        },
+        "6": {
+            "elementEntry": "AUG-PV7Z-AGG"
+        },
+        "7": {
+            "elementEntry": "AUG-PV7Z-AGG"
+        },
+        "8": {
+            "elementEntry": "AUG-PV7Z-AGG"
+        },
+        "9": {
+            "elementEntry": "AUG-PV7Z-AGG"
+        },
+        "10": {
+            "elementEntry": "PV7Z"
+        },
+        "16": {
+            "elementEntry": "AUG-PV7Z-AGG"
+        }
+    }
+}

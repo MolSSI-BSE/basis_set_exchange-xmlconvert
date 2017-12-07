@@ -15,7 +15,7 @@ def create_json_filename(xmlpath, filetype=None):
     bsdir = os.path.dirname(xmlpath)
     filebase = os.path.basename(xmlpath)
     # Remove "-AGG"
-    filebase = filebase.replace("-AGG.", ".")
+    #filebase = filebase.replace("-AGG.", ".")
     filename = os.path.splitext(filebase)[0]
 
     if filetype:

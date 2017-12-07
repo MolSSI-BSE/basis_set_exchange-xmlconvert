@@ -1,0 +1,78 @@
+{
+    "basisSetName": "cc-pwCVTZ",
+    "basisSetDescription": "TZ2P    Triple Zeta + Polarization + Tight Core",
+    "basisSetElements": {
+        "5": {
+            "elementComponents": [
+                "CC-PVTZ",
+                "CC-PWCVTZ"
+            ]
+        },
+        "6": {
+            "elementComponents": [
+                "CC-PVTZ",
+                "CC-PWCVTZ"
+            ]
+        },
+        "7": {
+            "elementComponents": [
+                "CC-PVTZ",
+                "CC-PWCVTZ"
+            ]
+        },
+        "8": {
+            "elementComponents": [
+                "CC-PVTZ",
+                "CC-PWCVTZ"
+            ]
+        },
+        "9": {
+            "elementComponents": [
+                "CC-PVTZ",
+                "CC-PWCVTZ"
+            ]
+        },
+        "10": {
+            "elementComponents": [
+                "CC-PVTZ",
+                "CC-PWCVTZ"
+            ]
+        },
+        "13": {
+            "elementComponents": [
+                "CC-PVTZ",
+                "CC-PWCVTZ"
+            ]
+        },
+        "14": {
+            "elementComponents": [
+                "CC-PVTZ",
+                "CC-PWCVTZ"
+            ]
+        },
+        "15": {
+            "elementComponents": [
+                "CC-PVTZ",
+                "CC-PWCVTZ"
+            ]
+        },
+        "16": {
+            "elementComponents": [
+                "CC-PVTZ",
+                "CC-PWCVTZ"
+            ]
+        },
+        "17": {
+            "elementComponents": [
+                "CC-PVTZ",
+                "CC-PWCVTZ"
+            ]
+        },
+        "18": {
+            "elementComponents": [
+                "CC-PVTZ",
+                "CC-PWCVTZ"
+            ]
+        }
+    }
+}

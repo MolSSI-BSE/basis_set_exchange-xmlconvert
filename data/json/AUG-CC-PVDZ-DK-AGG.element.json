@@ -1,0 +1,210 @@
+{
+    "basisSetName": "aug-cc-pVDZ-DK",
+    "basisSetDescription": "V5ZPD   All-electron Douglas-Kroll Valence Quintuple Zeta + Polarization",
+    "basisSetElements": {
+        "1": {
+            "elementComponents": [
+                "CC-PVDZ-DK",
+                "AUG-CC-PVDZ-DK"
+            ]
+        },
+        "2": {
+            "elementComponents": [
+                "CC-PVDZ-DK",
+                "AUG-CC-PVDZ-DK"
+            ]
+        },
+        "3": {
+            "elementComponents": [
+                "CC-PVDZ-DK",
+                "AUG-CC-PVDZ-DK"
+            ]
+        },
+        "4": {
+            "elementComponents": [
+                "CC-PVDZ-DK",
+                "AUG-CC-PVDZ-DK"
+            ]
+        },
+        "5": {
+            "elementComponents": [
+                "CC-PVDZ-DK",
+                "AUG-CC-PVDZ-DK"
+            ]
+        },
+        "6": {
+            "elementComponents": [
+                "CC-PVDZ-DK",
+                "AUG-CC-PVDZ-DK"
+            ]
+        },
+        "7": {
+            "elementComponents": [
+                "CC-PVDZ-DK",
+                "AUG-CC-PVDZ-DK"
+            ]
+        },
+        "8": {
+            "elementComponents": [
+                "CC-PVDZ-DK",
+                "AUG-CC-PVDZ-DK"
+            ]
+        },
+        "9": {
+            "elementComponents": [
+                "CC-PVDZ-DK",
+                "AUG-CC-PVDZ-DK"
+            ]
+        },
+        "10": {
+            "elementComponents": [
+                "CC-PVDZ-DK",
+                "AUG-CC-PVDZ-DK"
+            ]
+        },
+        "11": {
+            "elementComponents": [
+                "CC-PVDZ-DK",
+                "AUG-CC-PVDZ-DK"
+            ]
+        },
+        "12": {
+            "elementComponents": [
+                "CC-PVDZ-DK",
+                "AUG-CC-PVDZ-DK"
+            ]
+        },
+        "13": {
+            "elementComponents": [
+                "CC-PVDZ-DK",
+                "AUG-CC-PVDZ-DK"
+            ]
+        },
+        "14": {
+            "elementComponents": [
+                "CC-PVDZ-DK",
+                "AUG-CC-PVDZ-DK"
+            ]
+        },
+        "15": {
+            "elementComponents": [
+                "CC-PVDZ-DK",
+                "AUG-CC-PVDZ-DK"
+            ]
+        },
+        "16": {
+            "elementComponents": [
+                "CC-PVDZ-DK",
+                "AUG-CC-PVDZ-DK"
+            ]
+        },
+        "17": {
+            "elementComponents": [
+                "CC-PVDZ-DK",
+                "AUG-CC-PVDZ-DK"
+            ]
+        },
+        "18": {
+            "elementComponents": [
+                "CC-PVDZ-DK",
+                "AUG-CC-PVDZ-DK"
+            ]
+        },
+        "21": {
+            "elementComponents": [
+                "CC-PVDZ-DK",
+                "AUG-CC-PVDZ-DK"
+            ]
+        },
+        "22": {
+            "elementComponents": [
+                "CC-PVDZ-DK",
+                "AUG-CC-PVDZ-DK"
+            ]
+        },
+        "23": {
+            "elementComponents": [
+                "CC-PVDZ-DK",
+                "AUG-CC-PVDZ-DK"
+            ]
+        },
+        "24": {
+            "elementComponents": [
+                "CC-PVDZ-DK",
+                "AUG-CC-PVDZ-DK"
+            ]
+        },
+        "25": {
+            "elementComponents": [
+                "CC-PVDZ-DK",
+                "AUG-CC-PVDZ-DK"
+            ]
+        },
+        "26": {
+            "elementComponents": [
+                "CC-PVDZ-DK",
+                "AUG-CC-PVDZ-DK"
+            ]
+        },
+        "27": {
+            "elementComponents": [
+                "CC-PVDZ-DK",
+                "AUG-CC-PVDZ-DK"
+            ]
+        },
+        "28": {
+            "elementComponents": [
+                "CC-PVDZ-DK",
+                "AUG-CC-PVDZ-DK"
+            ]
+        },
+        "29": {
+            "elementComponents": [
+                "CC-PVDZ-DK",
+                "AUG-CC-PVDZ-DK"
+            ]
+        },
+        "30": {
+            "elementComponents": [
+                "CC-PVDZ-DK",
+                "AUG-CC-PVDZ-DK"
+            ]
+        },
+        "31": {
+            "elementComponents": [
+                "CC-PVDZ-DK",
+                "AUG-CC-PVDZ-DK"
+            ]
+        },
+        "32": {
+            "elementComponents": [
+                "CC-PVDZ-DK",
+                "AUG-CC-PVDZ-DK"
+            ]
+        },
+        "33": {
+            "elementComponents": [
+                "CC-PVDZ-DK",
+                "AUG-CC-PVDZ-DK"
+            ]
+        },
+        "34": {
+            "elementComponents": [
+                "CC-PVDZ-DK",
+                "AUG-CC-PVDZ-DK"
+            ]
+        },
+        "35": {
+            "elementComponents": [
+                "CC-PVDZ-DK",
+                "AUG-CC-PVDZ-DK"
+            ]
+        },
+        "36": {
+            "elementComponents": [
+                "CC-PVDZ-DK",
+                "AUG-CC-PVDZ-DK"
+            ]
+        }
+    }
+}

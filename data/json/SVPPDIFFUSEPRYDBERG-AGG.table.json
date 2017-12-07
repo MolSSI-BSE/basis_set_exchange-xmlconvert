@@ -1,0 +1,30 @@
+{
+    "basisSetName": "SVP + Diffuse + Rydberg",
+    "basisSetDescription": "VDZPD1R Valence Double Zeta + Polar. + Diffuse + Rydberg",
+    "basisSetElements": {
+        "2": {
+            "elementEntry": "DUNHAYPOL"
+        },
+        "5": {
+            "elementEntry": "SVPPDIFFUSEPRYDBERG-AGG"
+        },
+        "6": {
+            "elementEntry": "SVPPDIFFUSEPRYDBERG-AGG"
+        },
+        "7": {
+            "elementEntry": "SVPPDIFFUSEPRYDBERG-AGG"
+        },
+        "8": {
+            "elementEntry": "SVPPDIFFUSEPRYDBERG-AGG"
+        },
+        "9": {
+            "elementEntry": "SVPPDIFFUSEPRYDBERG-AGG"
+        },
+        "10": {
+            "elementEntry": "SVPPDIFFUSEPRYDBERG-AGG"
+        },
+        "18": {
+            "elementEntry": "RYD-DUNNING"
+        }
+    }
+}

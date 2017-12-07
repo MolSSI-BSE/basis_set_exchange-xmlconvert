@@ -1,0 +1,132 @@
+{
+    "basisSetName": "aug-cc-pwCVTZ-DK",
+    "basisSetDescription": "VTZ2P   All-electron Douglas-Kroll Core-Valence Triple Zeta + Polarization",
+    "basisSetElements": {
+        "1": {
+            "elementEntry": "AUG-CC-PVTZ-DK"
+        },
+        "2": {
+            "elementEntry": "AUG-CC-PVTZ-DK"
+        },
+        "3": {
+            "elementEntry": "AUG-CC-PVTZ-DK"
+        },
+        "4": {
+            "elementEntry": "AUG-CC-PVTZ-DK"
+        },
+        "5": {
+            "elementEntry": "AUG-CC-PVTZ-DK"
+        },
+        "6": {
+            "elementEntry": "AUG-CC-PVTZ-DK"
+        },
+        "7": {
+            "elementEntry": "AUG-CC-PVTZ-DK"
+        },
+        "8": {
+            "elementEntry": "AUG-CC-PVTZ-DK"
+        },
+        "9": {
+            "elementEntry": "AUG-CC-PVTZ-DK"
+        },
+        "10": {
+            "elementEntry": "AUG-CC-PVTZ-DK"
+        },
+        "11": {
+            "elementEntry": "AUG-CC-PVTZ-DK"
+        },
+        "12": {
+            "elementEntry": "AUG-CC-PVTZ-DK"
+        },
+        "13": {
+            "elementEntry": "AUG-CC-PVTZ-DK"
+        },
+        "14": {
+            "elementEntry": "AUG-CC-PVTZ-DK"
+        },
+        "15": {
+            "elementEntry": "AUG-CC-PVTZ-DK"
+        },
+        "16": {
+            "elementEntry": "AUG-CC-PVTZ-DK"
+        },
+        "17": {
+            "elementEntry": "AUG-CC-PVTZ-DK"
+        },
+        "18": {
+            "elementEntry": "AUG-CC-PVTZ-DK"
+        },
+        "21": {
+            "elementEntry": "AUG-CC-PWCVTZ-DK-AGG"
+        },
+        "22": {
+            "elementEntry": "AUG-CC-PWCVTZ-DK-AGG"
+        },
+        "23": {
+            "elementEntry": "AUG-CC-PWCVTZ-DK-AGG"
+        },
+        "24": {
+            "elementEntry": "AUG-CC-PWCVTZ-DK-AGG"
+        },
+        "25": {
+            "elementEntry": "AUG-CC-PWCVTZ-DK-AGG"
+        },
+        "26": {
+            "elementEntry": "AUG-CC-PWCVTZ-DK-AGG"
+        },
+        "27": {
+            "elementEntry": "AUG-CC-PWCVTZ-DK-AGG"
+        },
+        "28": {
+            "elementEntry": "AUG-CC-PWCVTZ-DK-AGG"
+        },
+        "29": {
+            "elementEntry": "AUG-CC-PWCVTZ-DK-AGG"
+        },
+        "30": {
+            "elementEntry": "AUG-CC-PWCVTZ-DK-AGG"
+        },
+        "31": {
+            "elementEntry": "AUG-CC-PVTZ-DK"
+        },
+        "32": {
+            "elementEntry": "AUG-CC-PVTZ-DK"
+        },
+        "33": {
+            "elementEntry": "AUG-CC-PVTZ-DK"
+        },
+        "34": {
+            "elementEntry": "AUG-CC-PVTZ-DK"
+        },
+        "35": {
+            "elementEntry": "AUG-CC-PVTZ-DK"
+        },
+        "36": {
+            "elementEntry": "AUG-CC-PVTZ-DK"
+        },
+        "39": {
+            "elementEntry": "AUG-CC-PWCVTZ-DK-AGG"
+        },
+        "40": {
+            "elementEntry": "AUG-CC-PWCVTZ-DK-AGG"
+        },
+        "41": {
+            "elementEntry": "AUG-CC-PWCVTZ-DK-AGG"
+        },
+        "42": {
+            "elementEntry": "AUG-CC-PWCVTZ-DK-AGG"
+        },
+        "43": {
+            "elementEntry": "AUG-CC-PWCVTZ-DK-AGG"
+        },
+        "44": {
+            "elementEntry": "AUG-CC-PWCVTZ-DK-AGG"
+        },
+        "45": {
+            "elementEntry": "AUG-CC-PWCVTZ-DK-AGG"
+        },
+        "46": {
+            "elementEntry": "AUG-CC-PWCVTZ-DK-AGG"
+        }
+    }
+}

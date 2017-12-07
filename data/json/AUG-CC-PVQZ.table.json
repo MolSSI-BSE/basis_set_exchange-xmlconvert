@@ -1,6 +1,6 @@
 {
-    "basisSetName": "aug-cc-pVQZ",
-    "basisSetDescription": "VQZ3PD  Valence Quadruple Zeta + Polarization + Diffuse",
+    "basisSetName": "aug-cc-pVQZ Diffuse",
+    "basisSetDescription": "aug-cc-pVQZ Diffuse",
     "basisSetElements": {
         "1": {
             "elementEntry": "AUG-CC-PVQZ"
@@ -55,9 +55,6 @@
         },
         "18": {
             "elementEntry": "AUG-CC-PVQZ"
-        },
-        "20": {
-            "elementEntry": "CC-PVQZ"
         },
         "21": {
             "elementEntry": "AUG-CC-PVQZ"

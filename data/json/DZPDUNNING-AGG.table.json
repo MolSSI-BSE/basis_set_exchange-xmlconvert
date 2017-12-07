@@ -1,0 +1,45 @@
+{
+    "basisSetName": "DZP (Dunning)",
+    "basisSetDescription": "DZP     Double Zeta + Polarization on All Atoms",
+    "basisSetElements": {
+        "1": {
+            "elementEntry": "DZPDUNNING-AGG"
+        },
+        "3": {
+            "elementEntry": "DZPDUNNING-AGG"
+        },
+        "5": {
+            "elementEntry": "DZPDUNNING-AGG"
+        },
+        "6": {
+            "elementEntry": "DZPDUNNING-AGG"
+        },
+        "7": {
+            "elementEntry": "DZPDUNNING-AGG"
+        },
+        "8": {
+            "elementEntry": "DZPDUNNING-AGG"
+        },
+        "9": {
+            "elementEntry": "DZPDUNNING-AGG"
+        },
+        "10": {
+            "elementEntry": "DZPDUNNING-AGG"
+        },
+        "13": {
+            "elementEntry": "DZPDUNNING-AGG"
+        },
+        "14": {
+            "elementEntry": "DZPDUNNING-AGG"
+        },
+        "15": {
+            "elementEntry": "DZPDUNNING-AGG"
+        },
+        "16": {
+            "elementEntry": "DZPDUNNING-AGG"
+        },
+        "17": {
+            "elementEntry": "DZPDUNNING-AGG"
+        }
+    }
+}

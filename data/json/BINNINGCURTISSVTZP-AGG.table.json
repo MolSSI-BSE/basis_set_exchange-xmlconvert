@@ -1,0 +1,24 @@
+{
+    "basisSetName": "Binning/Curtiss VTZP",
+    "basisSetDescription": "VTZP    Valence Triple Zeta + Polarization",
+    "basisSetElements": {
+        "31": {
+            "elementEntry": "BINNINGCURTISSVTZP-AGG"
+        },
+        "32": {
+            "elementEntry": "BINNINGCURTISSVTZP-AGG"
+        },
+        "33": {
+            "elementEntry": "BINNINGCURTISSVTZP-AGG"
+        },
+        "34": {
+            "elementEntry": "BINNINGCURTISSVTZP-AGG"
+        },
+        "35": {
+            "elementEntry": "BINNINGCURTISSVTZP-AGG"
+        },
+        "36": {
+            "elementEntry": "BINNINGCURTISSVTZP-AGG"
+        }
+    }
+}
