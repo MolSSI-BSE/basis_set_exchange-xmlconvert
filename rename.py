@@ -26,6 +26,12 @@ if os.path.isfile(dest):
 
 os.rename(src, dest)
 
+# Rename description file
+if os.path.isfile(src_base + '-DESC.txt'):
+    src_desc_file = src_base + '-DESC.txt'
+    dest_desc_file = dest_base + '-DESC.txt'
+    os.rename(src_desc_file, dest_desc_file)
+
 if src.endswith('.table.json'):
     pass
 elif src_base.endswith('.element'):
