@@ -10,7 +10,7 @@ from xmljson import badgerfish as bf
 import json
 from xml.etree import ElementTree as ET
 
-SID = "7FW3HuHVdTR2GPl5uAd"
+DO_PRINT = False
 
 # Lookup dictionaries
 _temp_symbol = [
@@ -25,6 +25,9 @@ _temp_symbol = [
 
 atom_number_to_symbol = {k: v for k, v in zip(range(108), _temp_symbol)}
 atom_symbol_to_number = {k: v for v, k in atom_number_to_symbol.items()}
+
+with open("parse_data/journal_abbv.txt", "r") as infile:
+    journal_abbv = infile.read().splitlines()
 
 
 def string_remove_chars(chars, string):
@@ -46,8 +49,9 @@ def _read_file(infile):
     """
     root = ET.parse(infile).getroot()
     data = root.findall("default:notes", {"default": "http://purl.oclc.org/NET/EMSL/BSE"})[0].text
-    print(data)
-    print("----------\n")
+    if DO_PRINT:
+        print(data.strip())
+        print("----------\n")
     data = data.splitlines()
 
     ret = []
@@ -55,6 +59,8 @@ def _read_file(infile):
     inside_refs = False
 
     for line in data:
+        if "Original" in line: continue
+        if "Recontraction" in line: continue
         if ":" in line:
             inside_refs = True
             tmp = line.split(":", 1)
@@ -99,58 +105,100 @@ def _handle_cit(citation):
     """
     Decomposes a citation string into a series of fields
     """
+    DO_PRINT = False
 
-    ret = {}
+    ret = {"orginal": citation, "valid": False}
 
-    # First split out author names
+    # Filter out incomplete
+    if "to be published" in citation.lower():
+        return ret
+
+    if "submitted" in citation.lower():
+        return ret
+
+    if len(citation.strip()) < 5:
+        return ret
+
+    #print("CIT, %s" %citation)
+    if DO_PRINT:
+        print(citation)
+    
+    ### Try to find Y/P/V
+    ypv_citation = citation.split()
+    if len(ypv_citation) > 3:
+        ret["year"] = is_number(string_remove_chars("().,", ypv_citation[-1]))
+        ret["page"] = is_number(string_remove_chars("().,", ypv_citation[-2]))
+        ret["volume"] = is_number(string_remove_chars("().,", ypv_citation[-3]))
+
+    ypv_data = [ret[x] for x in ["year", "page", "volume"]]
+    if False in ypv_data:
+        raise KeyError("Could not find year/page/volume")
+    
+    citation = " ".join(ypv_citation[:-3])
+    if DO_PRINT:
+        print(1, citation)
+
+    ### Yank out authors 
+
     # Hack our Jr's
     citation = citation.replace(" Jr.", "")
-    and_line = citation.find("and")
+    authors = []
+    break_next = False
+    author_enumerate = citation.replace("and", ",  ").split(",")
+    chars_used = 0
+    for num, sp in enumerate(author_enumerate):
+        sp_chars = len(sp) + 1 
 
-    # Single author
-    if (and_line == -1):
-        # Find first comma to delineate author/article
-        fc = citation.find(",")
-        authors = [citation[:fc]]
-        citation = citation[fc:].strip()
+        # Are we nothing?
+        sp = sp.strip()
+        if len(sp) == 0:
+            chars_used += sp_chars
+            continue
 
-    # Multi author
-    else:
-        # Find first comma after and to delineate author/article
-        fc = and_line + citation[and_line:].find(",")
+        # Watch cases
+        isjournal = difflib.get_close_matches(sp, journal_abbv)
+        if isjournal:
+            break
+    
+        # If we hit a `and` we will be done next iteration
+        if break_next:
+            break
 
-        # Parse authors
-        authors = citation[:fc].replace(",and", ",").replace("and", ",").split(",")
-        authors = [x.strip().replace(",", "") for x in authors if (len(x.strip()) and len(x) < 40)]
+        if "and" in sp:
+            break_next = True
 
-        citation = citation[fc:].strip()
-        citation = citation.replace(",and", " ")
-        citation = citation.replace("and", " ")
+        # Authors should have a "." in their name
+        if ("." in sp) and (len(sp) < 80):
+            chars_used += sp_chars
+            authors.append(sp) 
+        else:
+            break
+
+    # Cleanup authors
+    authors = [string_remove_chars([")", "(", "and", ","], x).strip() for x in authors]
+
+    ret["authors"] = authors
+
+    citation = citation[chars_used:].strip()
+    if DO_PRINT:
+        print(citation)
 
     if citation.startswith(","):
         citation = citation[1:]
     citation = citation.replace("  ", " ")
     citation = citation.replace("  ", " ")
     citation = citation.strip()
+    if DO_PRINT:
+        print(2, citation)
 
     # Set authors
     ret["authors"] = authors
 
-    # Try to geuss Y/P/V
-    ypv_citation = citation.split()
-    if len(ypv_citation) > 3:
-        ret["year"] = is_number(string_remove_chars("().,", ypv_citation[-1]))
-        ret["page"] = is_number(string_remove_chars("().,", ypv_citation[-2]))
-        ret["volume"] = is_number(string_remove_chars("().,", ypv_citation[-3]))
-    else:
-        ret["year"] = False
-        ret["page"] = False
-        ret["volume"] = False
-
-    ypv_left = len(" ".join(ypv_citation[-3:]))
-    remain = citation[:-ypv_left][::-1].split(",", 1)
-    remain = [x[::-1] for x in remain][::-1]
-    print(remain)
+    # Split from the left by 1, then unpack, ugh
+    remain = citation[::-1].split(",", 1)
+    remain = [x[::-1].strip() for x in remain][::-1]
+    if DO_PRINT:
+        print(remain)
 
     # Journal/Title
     ret["journal"] = False
@@ -161,21 +209,23 @@ def _handle_cit(citation):
     elif len(remain) >= 2:
         ret["journal"] = remain[-1].strip()
         ret["title"] = remain[0].strip()
+    ret["valid"] = True
     return ret
 
 
-def _parse_citation(client, atoms, cit):
+def _parse_citation(atoms, cit):
 
     ret = _handle_cit(cit)
     ret["Z"] = _handle_atoms(atoms)
-    print('---------')
-    print(cit)
-    for k, v in ret.items():
-        print("%10s : %s" % (k, v))
-    print('---------')
+    if DO_PRINT:
+        print('---------')
+        print(cit)
+        for k, v in ret.items():
+            print("%10s : %s" % (k, v))
+        print('---------')
     return ret
-    raise Exception()
 
+def wos_query_BAD(val):
     wos_query = "TO=%s" % string_remove_chars(["(", ")", "and", "or"], cit)
     data = wos.utils.query(client, wos_query)
 
@@ -186,12 +236,11 @@ def _parse_citation(client, atoms, cit):
     return ret
 
 
-def parse_ref_file(client, infile):
-
+def parse_ref_file(infile):
     # Parse
     citations = []
     for atoms, cit in _read_file(infile):
-        json_cit = _parse_citation(client, atoms, cit)
+        json_cit = _parse_citation(atoms, cit)
         citations.append(json_cit)
 
     return citations
@@ -199,15 +248,25 @@ def parse_ref_file(client, infile):
 
 # Quick tests
 
-#with WosClient() as client:
-for client in range(1):
-    for infile in glob.glob("data/xml/CC*REF.xml")[:1]:
+failures = 0
+success = 0
+for infile in glob.glob("data/xml/CC*REF.xml"):
 
-        # Grab data
-        print("\n============")
-        print("Basis: %s" % infile)
-        jsons = parse_ref_file(client, infile)
-        for j in jsons:
-            j["host"] = infile.split("/")[-1].replace("-REF", "")
+    # Grab data
+    #print("\n============")
+    #print("Basis: %s" % infile)
+    #jsons = parse_ref_file(infile)
+    #for j in jsons:
+    #    j["host"] = infile.split("/")[-1].replace("-REF", "")
+    try:
+        jsons = parse_ref_file(infile)
+        success += 1
+    except:
+        print("Failed: %s" % infile)
 
-    raise Exception()
+        failures += 1
+
+print("Success %d, Failures %d,  Ratio %3.2f" % (success, failures, success/(failures + success)))
+        
+
+raise Exception()

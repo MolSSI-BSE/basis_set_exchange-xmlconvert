@@ -132,7 +132,55 @@ def _parse_citation(atoms, citation):
         print('------') 
         print(atoms)
         print(citation)
-        for k, v in ret.items():
+    # First split out author names
+    # Hack our Jr's
+    citation = citation.replace(" Jr.", "")
+    and_line = citation.find("and")
+
+    # Single author
+    if (and_line == -1):
+        # Find first comma to delineate author/article
+        fc = citation.find(",")
+        authors = [citation[:fc]]
+        citation = citation[fc:].strip()
+
+    # Multi author
+    else:
+        # Find first comma after and to delineate author/article
+        fc = and_line + citation[and_line:].find(",")
+        citation = citation.replace(",and", ",")
+        citation = citation.replace("and", ",")
+
+        # Parse authors
+        authors = citation[:fc].split(",")
+        authors = [x.strip().replace(",", "") for x in authors if (len(x.strip()) and len(x) < 40)]
+
+        citation = citation[fc:].strip()
+
+    if citation.startswith(", "):
+        citation = citation[2:]
+
+    # Set authors
+    ret["authors"] = authors
+
+    # Try to geuss Y/P/V
+    ypv_citation = citation.split()
+    if len(ypv_citation):
+        ret["year"] = is_number(string_remove_chars("().,", ypv_citation[-1]))
+        ret["page"] = is_number(string_remove_chars("().,", ypv_citation[-2]))
+        ret["volume"] = is_number(string_remove_chars("().,", ypv_citation[-3]))
+    else:
+        ret["year"] = False
+        ret["page"] = False
+        ret["volume"] = False
+
+    ypv_left = len(" ".join(ypv_citation[-3:]))
+
+    # Journal/Title
+    try:
+        ret["journal"] = [x for x in citation[:-ypv_left].split(",") if len(x.strip())][-1].strip()
+    except:
+        ret["journal"] = False        for k, v in ret.items():
             print("%10s : %s" % (k, v))
         print('------') 
     return ret
