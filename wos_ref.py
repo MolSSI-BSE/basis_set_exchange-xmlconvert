@@ -1,7 +1,12 @@
 import glob
-import xml
 import difflib
-import xml.etree.ElementTree as ET
+from wos import WosClient
+import wos.utils
+from xmljson import badgerfish as bf
+import json
+from xml.etree import ElementTree as ET
+
+SID = "7FW3HuHVdTR2GPl5uAd"
 
 # Lookup dictionaries
 _temp_symbol = [
@@ -29,6 +34,9 @@ def is_number(val):
         return False
 
 def _read_file(infile):
+    """
+    Pulls in the 'notes' line from the REF files and strips the citations into a single line
+    """
     root = ET.parse(infile).getroot()
     data = root.findall("default:notes", {"default": "http://purl.oclc.org/NET/EMSL/BSE"})[0].text
     print(data)
@@ -52,10 +60,12 @@ def _read_file(infile):
             ret[-1] = (ret[-1][0], ret[-1][1] + " " + line)
     return ret
 
-def _parse_citation(atoms, citation):
-    ret = {}        
-    
-    ### Parse atoms
+def _handle_atoms(atoms):
+    """
+    Provides a Z list for the atom string
+    >>> _handle_atom("He-Li")
+    [2, 3]
+    """
     if "," in atoms:
         atoms = [x.strip() for x in atoms.split(",")]
     elif " " in atoms and ("-" not in atoms):
@@ -63,19 +73,25 @@ def _parse_citation(atoms, citation):
     else:
         atoms = [atoms.strip()]
 
-    ret["Z"] = []
+    ret = []
     for at in atoms:
         if "-" in at:
             start, stop = at.split("-")
             start = atom_symbol_to_number[start.strip().upper()]
             stop = atom_symbol_to_number[stop.strip().upper()]
 
-            ret["Z"].extend(list(range(start, stop + 1)))
+            ret.extend(list(range(start, stop + 1)))
         else:
-            ret["Z"].append(atom_symbol_to_number[at.strip().upper()])
-    ret["Z"].sort()
-        
-    ### Parse citation
+            ret.append(atom_symbol_to_number[at.strip().upper()])
+    ret.sort()
+    return ret
+
+def _handle_cit(citation):
+    """
+    Decomposes a citation string into a series of fields
+    """
+
+    ret = {}
 
     # First split out author names
     # Hack our Jr's
@@ -126,48 +142,52 @@ def _parse_citation(atoms, citation):
         ret["journal"] = [x for x in citation[:-ypv_left].split(",") if len(x.strip())][-1].strip()
     except:
         ret["journal"] = False
- 
-   
-    if sum([ret[x] is False for x in ["year", "page", "volume"]]):
-        print('------') 
-        print(atoms)
-        print(citation)
-        for k, v in ret.items():
-            print("%10s : %s" % (k, v))
-        print('------') 
     return ret
 
-def parse_ref_file(infile):
+def _parse_citation(client, atoms, cit):
+
+    print('---------')
+    print(cit)
+    print('---------')
+    ret = _handle_cit(cit)
+    ret["Z"] = _handle_atoms(atoms) 
+    print(ret)
+    raise Exception()
+
+
+    wos_query = "TO=%s" % string_remove_chars(["(", ")", "and", "or"], cit)
+    data = wos.utils.query(client, wos_query)
+
+    print(data)
+    data = bf.data(data)
+    print(data)
+    raise Exception()
+    return ret
+
+
+def parse_ref_file(client, infile):
 
     # Parse
     citations = []
-    for atoms, cit in _read_file(infile):
-        json_cit = _parse_citation(atoms, cit)
+    for atoms, cit in [_read_file(infile)[-1]]:
+        json_cit = _parse_citation(client, atoms, cit)
         citations.append(json_cit)
 
     return citations
 
 
 # Quick tests
-#bfile = "data/xml/CC-PVDZ-BS-REF.xml"
-bfile = "data/xml/CC-PVQZ-PP-BS-REF.xml"
-blob = _read_file(bfile)
-#assert len(blob) == 6
-_parse_citation(*blob[0])
-_parse_citation(*blob[1])
-_parse_citation(*blob[2])
-_parse_citation(*blob[3])
 
-
-#http://purl.oclc.org/NET/EMSL/BSE'
-for infile in glob.glob("data/xml/CC*REF.xml"):
-
-    # Grab data
-    print("Basis: %s" % infile)
-    print("\n==========")
-    jsons = parse_ref_file(infile)
-    for j in jsons:
-        j["host"] = infile.split("/")[-1].replace("-REF", "")
+#with WosClient() as client:
+for client in range(1):
+    for infile in glob.glob("data/xml/CC*REF.xml"):
+    
+        # Grab data
+        print("\n============")
+        print("Basis: %s" % infile)
+        jsons = parse_ref_file(client, infile)
+        for j in jsons:
+            j["host"] = infile.split("/")[-1].replace("-REF", "")
     
 
-#    raise Exception()
+    raise Exception()
