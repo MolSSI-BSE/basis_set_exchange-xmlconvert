@@ -1,0 +1,102 @@
+Astron. Astrophys.
+Anal. Bioanal. Chem.
+Acc. Chem. Res.
+Angew. Chem., Int. Ed. Engl.
+Angew. Chem. Int. Ed.
+Austral. J. Chem.
+Analyst
+Astron. J. Suppl. Ser.
+Astrophys. J.
+Bull. Acad. Sci. USSR, Div. Chem. Sci.
+Bull. Chem. Soc. Jpn.
+Chem. Eur. J.
+Chem. Ber.
+Chem. Phys. Lett.
+Can. J. Chem.
+Chem. Comm.
+Chem. Rev.
+Chem. Soc. Rev.
+Collect. Czech. Chem. Commun.
+Chem. Phys.
+Comput. Theor. Chem.
+ChemPhysChem
+Comput. Phys. Commun.
+Coord. Chem. Rev.
+Int. J. Biol. Macromol.
+Int. J. Mass Spectrom. Ion Processes
+Int. J. Quantum Chem.
+Int. J. Quantum Chem. Symp.
+Inorg. Chem.
+Int. Rev. Phys. Chem.
+J. Am. Chem. Soc.
+J. Chem. Soc., Chem. Commun.
+J. Comput. Chem.
+J. Chem. Theory Comput.
+J. Chem. Soc., Daldon Trans.
+J. Chem. Soc., Faraday Trans. II
+J. Chem. Soc., Faraday Trans.
+J. Chem. Phys.
+J. Electr. Spectrosc. Rel. Phenomena
+J. Math. Chem.
+J. Med. Chem.
+J. Mol. Biol.
+J. Mol. Spectrosc.
+J. Mol. Structure
+J. Org. Chem.
+J. Phys. B
+J. Phys. B
+J. Phys. Chem. A
+J. Phys. Chem. B
+J. Phys. Chem. C
+J. Phys. Chem.
+J. Phys. Chem. Lett.
+J. Phys. Org. Chem.
+J. Struct. Chem.
+J. Theor. Comp. Chem.
+Mol. Phys.
+Org. Biomol. Chem.
+Organometallics
+J. Phys. Org. Chem.
+J. Struct. Chem.
+J. Theor. Comp. Chem.
+Mol. Phys.
+Organometallics
+Org. Lett.
+Phys. Chem. Chem. Phys.
+Phys. Rev. Lett.
+Phys. Rev.
+Phys. Rev. A
+Phys. Rev. B
+PLoS ONE
+Proc. Natl. Acad. Sci. USA
+Protein Sci.
+Russ. J. Inorg. Chem.
+Russ. J. Phys. Chem.
+Spectrochim. Acta, Part A
+Science
+Sov. J. Coord. Chem.
+Solid State Commun.
+Surface Science
+Theor. Chem. Acc.
+Theor. Chim. Acta
+Theor. Exper. Chem.
+J. Mol. Struct. THEOCHEM
+Zh. Strukt. Khim.
+WIREs Comput. Mol. Sci.
+J. Comp. Phys.
+J. Comp. Chem.
+Int. J. Quantum Chem.
+Theoret. Chim. Acta
+J. Chem. Phys.
+J. Am. Chem. Soc.
+J. Phys. Chem.
+Mol. Phys.
+Rev. Mod. Phys.
+Ann. Rev. Phys. Chem.
+J. Med. Chem.
+J. Mol. Biol.
+Chem. Phys. Lett.
+Adv. Quantum Chem.
+J. Phys. Chem.
+Adv. Chem. Phys.
+Phys. Chem. Chem. Phys.
