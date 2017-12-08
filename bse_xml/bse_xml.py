@@ -139,7 +139,7 @@ def read_basis_xml(xmlfile):
     # Read description and store in a separate file
     bs_desc = get_single_text(root, 'dc:description')
     if bs_desc:
-        with open(file_base + '-DESC.txt', 'w') as f:
+        with open(file_base + '.txt', 'w') as f:
             f.write(bs_desc)
 
     # Read in contraction data
@@ -151,7 +151,7 @@ def read_basis_xml(xmlfile):
         el = cs.attrib['elementType']
         el = bse.lut.element_data_from_sym(el)[0]
 
-        elementData = { 'elementReferences': ['TODO'] }
+        elementData = { 'elementReferences': [ref_base] }
         shells = []
 
         for c in cs.findall('default:contraction', ns):
@@ -204,7 +204,7 @@ def read_ecp_xml(xmlfile):
     # Read description and store in a separate file
     bs_desc = get_single_text(root, 'dc:description')
     if bs_desc:
-        with open(file_base + '-DESC.txt', 'w') as f:
+        with open(file_base + '.txt', 'w') as f:
             f.write(bs_desc)
 
 
@@ -218,7 +218,7 @@ def read_ecp_xml(xmlfile):
 
         nelectrons = int(cs.attrib['numElectronsReplaced'])
 
-        elementData = { 'elementReferences': ['TODO-ECP'],
+        elementData = { 'elementReferences': [ref_base],
                         'elementECPElectrons' : nelectrons
                          }
         potentials = []
@@ -254,6 +254,9 @@ def read_xml(xmlfile):
 
 
 def read_basis_xml_agg(xmlfile):
+    # File without the extension
+    file_base = os.path.splitext(xmlfile)[0]
+
     # Parse the XML
     root = ET.parse(xmlfile).getroot()
 
@@ -266,8 +269,18 @@ def read_basis_xml_agg(xmlfile):
     bstype = get_single_text(root, 'default:basisSetType')
     role, region = determine_role_region(bstype)
 
-    # These will be stored separately
+
+    # Path to the reference file
+    ref_file = get_single_link(root, 'default:referencesLink')
+    if ref_file:
+        ref_base = os.path.splitext(ref_file)[0]
+
+    # Read description and store in a separate file
     bs_desc = get_single_text(root, 'dc:description')
+    if bs_desc:
+        with open(file_base + '.txt', 'w') as f:
+            f.write(bs_desc)
+
 
     # Read in the components
     # These are the paths to the xml files
@@ -339,6 +352,8 @@ def convert_xml(xmlfile):
     bsdict = read_xml(xmlfile)
     outfile = create_json_filename(xmlfile)
     print("New basis file: ", outfile)
+
+    bsdict['molssi_bse_magic'] = 1
     bse.write_basis_file(outfile, bsdict)
 
 
@@ -350,6 +365,9 @@ def convert_xml_agg(xmlfile):
 
     print("Atom basis: ", atom_basis_path)
     print("Table basis: ", table_basis_path)
+
+    atom_dict['molssi_bse_magic'] = 1
+    table_dict['molssi_bse_magic'] = 1
 
     bse.write_basis_file(atom_basis_path, atom_dict)
     bse.write_basis_file(table_basis_path, table_dict)
@@ -406,5 +424,7 @@ def create_xml_agg(xmlfile):
                    'basisSetElements': table_elements
                   }
 
+    atom_dict['molssi_bse_magic'] = 1
+    table_dict['molssi_bse_magic'] = 1
     bse.write_basis_file(atom_basis_file, atom_dict)
     bse.write_basis_file(table_basis_file, table_dict)

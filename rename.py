@@ -15,25 +15,29 @@ dest = sys.argv[2]
 src_base = os.path.splitext(src)[0]
 dest_base = os.path.splitext(dest)[0]
 
-src_base2 = os.path.splitext(src_base)[0]
-dest_base2 = os.path.splitext(dest_base)[0]
 
-element_files = glob.glob("*.element.json")
-table_files = glob.glob("*.table.json")
+
 
 if os.path.isfile(dest):
     raise RuntimeError("Destination file exists")
 
 os.rename(src, dest)
 
+src_base2 = os.path.splitext(src_base)[0]
+dest_base2 = os.path.splitext(dest_base)[0]
+
+element_files = glob.glob("*.element.json")
+table_files = glob.glob("*.table.json")
+
 # Rename description file
-if os.path.isfile(src_base + '-DESC.txt'):
-    src_desc_file = src_base + '-DESC.txt'
-    dest_desc_file = dest_base + '-DESC.txt'
+if os.path.isfile(src_base + '.txt'):
+    src_desc_file = src_base + '.txt'
+    dest_desc_file = dest_base + '.txt'
     os.rename(src_desc_file, dest_desc_file)
 
 if src.endswith('.table.json'):
     pass
+
 elif src_base.endswith('.element'):
     for f in table_files:
         changed = False
@@ -45,7 +49,7 @@ elif src_base.endswith('.element'):
                 v['elementEntry'] = dest_base2
         if changed:
             os.rename(f, f + ".old")
-            bse.write_json_by_path(f, data)
+            bse.write_basis_file(f, data)
 else:
     for f in element_files:
         changed = False
