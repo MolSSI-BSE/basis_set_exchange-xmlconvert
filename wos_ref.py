@@ -1,3 +1,7 @@
+"""
+Garbage and convoluted code attempting to parse the formless REF data using web of science.
+"""
+
 import glob
 import difflib
 from wos import WosClient
@@ -22,16 +26,19 @@ _temp_symbol = [
 atom_number_to_symbol = {k: v for k, v in zip(range(108), _temp_symbol)}
 atom_symbol_to_number = {k: v for v, k in atom_number_to_symbol.items()}
 
+
 def string_remove_chars(chars, string):
     for x in chars:
         string = string.replace(x, "")
     return string
+
 
 def is_number(val):
     try:
         return int(val)
     except ValueError:
         return False
+
 
 def _read_file(infile):
     """
@@ -50,15 +57,16 @@ def _read_file(infile):
     for line in data:
         if ":" in line:
             inside_refs = True
-            tmp = line.split(":")
-            if len(tmp) != 2:
-                raise ValueError("Citation list must have only two elements on each side of ':'\n"
-                                 "    Found: %s" % line) 
+            tmp = line.split(":", 1)
+            #if len(tmp) != 2:
+            #    raise ValueError("Citation list must have only two elements on each side of ':'\n"
+            #                     "    Found: %s" % line)
             ret.append((tmp[0].strip(), tmp[1].strip()))
         # Multiline ref
         elif inside_refs:
             ret[-1] = (ret[-1][0], ret[-1][1] + " " + line)
     return ret
+
 
 def _handle_atoms(atoms):
     """
@@ -86,6 +94,7 @@ def _handle_atoms(atoms):
     ret.sort()
     return ret
 
+
 def _handle_cit(citation):
     """
     Decomposes a citation string into a series of fields
@@ -109,24 +118,27 @@ def _handle_cit(citation):
     else:
         # Find first comma after and to delineate author/article
         fc = and_line + citation[and_line:].find(",")
-        citation = citation.replace(",and", ",")
-        citation = citation.replace("and", ",")
 
         # Parse authors
-        authors = citation[:fc].split(",")
+        authors = citation[:fc].replace(",and", ",").replace("and", ",").split(",")
         authors = [x.strip().replace(",", "") for x in authors if (len(x.strip()) and len(x) < 40)]
 
         citation = citation[fc:].strip()
+        citation = citation.replace(",and", " ")
+        citation = citation.replace("and", " ")
 
-    if citation.startswith(", "):
-        citation = citation[2:]
+    if citation.startswith(","):
+        citation = citation[1:]
+    citation = citation.replace("  ", " ")
+    citation = citation.replace("  ", " ")
+    citation = citation.strip()
 
     # Set authors
     ret["authors"] = authors
 
     # Try to geuss Y/P/V
     ypv_citation = citation.split()
-    if len(ypv_citation):
+    if len(ypv_citation) > 3:
         ret["year"] = is_number(string_remove_chars("().,", ypv_citation[-1]))
         ret["page"] = is_number(string_remove_chars("().,", ypv_citation[-2]))
         ret["volume"] = is_number(string_remove_chars("().,", ypv_citation[-3]))
@@ -136,24 +148,33 @@ def _handle_cit(citation):
         ret["volume"] = False
 
     ypv_left = len(" ".join(ypv_citation[-3:]))
+    remain = citation[:-ypv_left][::-1].split(",", 1)
+    remain = [x[::-1] for x in remain][::-1]
+    print(remain)
 
     # Journal/Title
-    try:
-        ret["journal"] = [x for x in citation[:-ypv_left].split(",") if len(x.strip())][-1].strip()
-    except:
-        ret["journal"] = False
+    ret["journal"] = False
+    ret["title"] = False
+    if (len(remain) == 1) and ("J." in remain[0]):
+        ret["journal"] = remain[0].strip()
+        ret
+    elif len(remain) >= 2:
+        ret["journal"] = remain[-1].strip()
+        ret["title"] = remain[0].strip()
     return ret
+
 
 def _parse_citation(client, atoms, cit):
 
+    ret = _handle_cit(cit)
+    ret["Z"] = _handle_atoms(atoms)
     print('---------')
     print(cit)
+    for k, v in ret.items():
+        print("%10s : %s" % (k, v))
     print('---------')
-    ret = _handle_cit(cit)
-    ret["Z"] = _handle_atoms(atoms) 
-    print(ret)
+    return ret
     raise Exception()
-
 
     wos_query = "TO=%s" % string_remove_chars(["(", ")", "and", "or"], cit)
     data = wos.utils.query(client, wos_query)
@@ -169,7 +190,7 @@ def parse_ref_file(client, infile):
 
     # Parse
     citations = []
-    for atoms, cit in [_read_file(infile)[-1]]:
+    for atoms, cit in _read_file(infile):
         json_cit = _parse_citation(client, atoms, cit)
         citations.append(json_cit)
 
@@ -180,14 +201,13 @@ def parse_ref_file(client, infile):
 
 #with WosClient() as client:
 for client in range(1):
-    for infile in glob.glob("data/xml/CC*REF.xml"):
-    
+    for infile in glob.glob("data/xml/CC*REF.xml")[:1]:
+
         # Grab data
         print("\n============")
         print("Basis: %s" % infile)
         jsons = parse_ref_file(client, infile)
         for j in jsons:
             j["host"] = infile.split("/")[-1].replace("-REF", "")
-    
 
     raise Exception()
