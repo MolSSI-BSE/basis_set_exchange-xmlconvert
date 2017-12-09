@@ -365,4 +365,4 @@ Other notes:  The H and He -31 valence description is from the Binkley et. al. 3
 0.344111900 0.65817900
 </cml:matrix></contraction><contraction shell="D"><cml:matrix rows="2" columns="2" dataType="xs:double">0.119848800 1.00000000
 0.047685800 0.74112900
-</cml:matrix></contraction></contractions><effectivePotentialsLink xlink:type="simple" xlink:href="../../emsl-lib/SBKJC-ECP.xml" /></basisset>
+</cml:matrix></contraction></contractions><effectivePotentialsLink xlink:type="simple" xlink:href="SBKJC-ECP.xml" /></basisset>

@@ -165,4 +165,4 @@ This combination of relativistic ECP (called an RECP) and basis set is typically
 0.1478500000D+01 0.8407804121D+00
 </cml:matrix></contraction><contraction shell="F"><cml:matrix rows="1" columns="2" dataType="xs:double">0.6331000000D+00 0.1000000000D+01
 </cml:matrix></contraction><contraction shell="F"><cml:matrix rows="1" columns="2" dataType="xs:double">0.2711000000D+00 0.1000000000D+01
-</cml:matrix></contraction></contractions><effectivePotentialsLink xlink:type="simple" xlink:href="../../emsl-lib/SBKJC-ECP.xml" /></basisset>
+</cml:matrix></contraction></contractions><effectivePotentialsLink xlink:type="simple" xlink:href="SBKJC-ECP.xml" /></basisset>

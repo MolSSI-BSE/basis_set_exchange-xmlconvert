@@ -1241,4 +1241,4 @@
 1.5556400000 0.0000000 0.0000000 1.0000000000 0.0000000
 3.2498641894 0.0000000 0.0000000 0.0000000 1.0000000000
 </cml:matrix></contraction><contraction shell="G"><cml:matrix rows="1" columns="2" dataType="xs:double">0.476300000 1.00000000
-</cml:matrix></contraction></contractions><effectivePotentialsLink xlink:type="simple" xlink:href="../../contrib/cyborg0001_new_2/DHF-TZVPP-ECP.xml" /></basisset>
+</cml:matrix></contraction></contractions><effectivePotentialsLink xlink:type="simple" xlink:href="DHF-TZVPP-ECP.xml" /></basisset>

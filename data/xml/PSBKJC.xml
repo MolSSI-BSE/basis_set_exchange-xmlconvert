@@ -276,4 +276,4 @@ For more detail, please see: Vidal, L.N. and Vazquez, P.A.M.; Theoretical Chemis
 0.2023000 0.93252210 0.0000000
 0.0780000 0.0000000 0.93733150
 0.0300741 0.0000000 0.34843880
-</cml:matrix></contraction></contractions><effectivePotentialsLink xlink:type="simple" xlink:href="../../emsl-lib/SBKJC-ECP.xml" /></basisset>
+</cml:matrix></contraction></contractions><effectivePotentialsLink xlink:type="simple" xlink:href="SBKJC-ECP.xml" /></basisset>
