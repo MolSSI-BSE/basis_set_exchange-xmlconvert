@@ -17,7 +17,7 @@ done
 
 # Create element,table entries for all that are listed
 # in a tmp file
-cat ../../emsl_raw_data/tocopy.txt | while read I
+cat ../../emsl_raw_data/all_basis_sets.txt | while read I
 do
     F=`basename "$I"`
     echo $F
