@@ -1,3 +1,0 @@
-contrib/rrenslow_addElements_1/6-31GS.xml
-contrib/kipeters_new_7/CC-PCV5Z.xml
-contrib/rrenslow_addElements_2/6-311GS.xml

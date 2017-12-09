@@ -54,7 +54,7 @@ def copy_xml_file(filepath, destdir):
         print("      SAME? ", same)
         if not same:
             raise RuntimeError("Destination file exists")
-    #shutil.copy(filepath, destdir)
+    shutil.copy(filepath, destdir)
 
     # Copy the dependencies
     other_xml = []
