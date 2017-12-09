@@ -444,4 +444,4 @@
 0.2888000 0.0000000 1.0000000 0.0000000
 0.8272000 0.0000000 0.0000000 1.0000000
 </cml:matrix></contraction><contraction shell="F"><cml:matrix rows="1" columns="2" dataType="xs:double">1.3957000 1.0000000
-</cml:matrix></contraction></contractions><effectivePotentialsLink xlink:type="simple" xlink:href="/sam/files/projects/Basis_Set_Curators/Gaussian/emsl-lib/STUTTGART-MCDHF-RSC-ECP.xml" /></basisset>
+</cml:matrix></contraction></contractions><effectivePotentialsLink xlink:type="simple" xlink:href="../../emsl-lib/STUTTGART-MCDHF-RSC-ECP.xml" /></basisset>

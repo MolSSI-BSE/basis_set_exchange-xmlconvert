@@ -79,4 +79,4 @@ J. Chem. Theory Comput. 2008, 4, 1029.&#xD;
 0.0600000 0.0000000 0.0000000 1.0000000
 </cml:matrix></contraction><contraction shell="G"><cml:matrix rows="2" columns="3" dataType="xs:double">0.5000000 1.0000000 0.0000000
 0.0800000 0.0000000 1.0000000
-</cml:matrix></contraction></contractions><effectivePotentialsLink xlink:type="simple" xlink:href="/sam/files/projects/Basis_Set_Curators/Gaussian/emsl-lib/LANL2DZ-ECP.xml" /></basisset>
+</cml:matrix></contraction></contractions><effectivePotentialsLink xlink:type="simple" xlink:href="../../emsl-lib/LANL2DZ-ECP.xml" /></basisset>

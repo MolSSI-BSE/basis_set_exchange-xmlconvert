@@ -608,4 +608,4 @@
 </cml:matrix></contraction><contraction shell="P"><cml:matrix rows="1" columns="2" dataType="xs:double">0.9105000 1.0000000
 </cml:matrix></contraction><contraction shell="P"><cml:matrix rows="1" columns="2" dataType="xs:double">0.2194000 1.0000000
 </cml:matrix></contraction><contraction shell="P"><cml:matrix rows="1" columns="2" dataType="xs:double">0.0745000 1.0000000
-</cml:matrix></contraction></contractions><effectivePotentialsLink xlink:type="simple" xlink:href="/sam/files/projects/Basis_Set_Curators/Gaussian/emsl-lib/LANL2DZ-ECP.xml" /></basisset>
+</cml:matrix></contraction></contractions><effectivePotentialsLink xlink:type="simple" xlink:href="../../emsl-lib/LANL2DZ-ECP.xml" /></basisset>

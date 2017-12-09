@@ -25,13 +25,6 @@ def get_links(node, tag):
     return ret
 
 
-def get_single_link(node, tag):
-    l = get_links(node, tag)
-    if l:
-        return l[0]
-    else:
-        return None
-
 def copy_xml_file(filepath, destdir):
     srcdir = os.path.dirname(filepath)
     basename = os.path.splitext(filepath)[0]
@@ -40,23 +33,26 @@ def copy_xml_file(filepath, destdir):
     root = ET.parse(filepath).getroot()
 
     print("Copying {} to {}".format(filepath, destdir))
-    shutil.copy(filepath, destdir)
+    if os.path.isfile(os.path.join(destdir, os.path.basename(filepath))):
+        raise RuntimeError("Destination file exists")
+    #shutil.copy(filepath, destdir)
 
-    # Copy the reference
-    reffile = get_single_link(root, 'default:referencesLink')
-    if reffile:
-        reffile = os.path.join(srcdir, reffile)
-        print("Copying {} to {}".format(reffile, destdir))
-        shutil.copy(reffile, destdir)
-
-    # Is this an AGG file? If so, copy the dependencies
+    # Copy the dependencies
     other_xml = []
 
-    links = get_single_link(root, 'default:primaryBasisSetLink')
+    links = get_links(root, 'default:primaryBasisSetLink')
     if links:
-        other_xml.append(links)
-
+        other_xml.extend(links)
+    
     links = get_links(root, 'default:basisSetLink')
+    if links:
+        other_xml.extend(links)
+
+    links = get_links(root, 'default:effectivePotentialsLink')
+    if links:
+        other_xml.extend(links)
+    
+    links = get_links(root, 'default:referencesLink')
     if links:
         other_xml.extend(links)
 
