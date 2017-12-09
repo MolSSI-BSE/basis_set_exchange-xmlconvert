@@ -17,8 +17,9 @@ done
 
 # Create element,table entries for all that are listed
 # in a tmp file
-for F in `cat ../only-emsl-lib-names.txt`
+cat ../../emsl_raw_data/tocopy.txt | while read I
 do
+    F=`basename "$I"`
     echo $F
     if [[ $F == *"-AGG.xml" ]]
     then
