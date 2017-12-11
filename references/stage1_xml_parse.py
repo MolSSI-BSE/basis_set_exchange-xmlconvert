@@ -10,6 +10,7 @@ from xmljson import badgerfish as bf
 import json
 from xml.etree import ElementTree as ET
 
+DO_PRINT = True
 DO_PRINT = False
 
 # Lookup dictionaries
@@ -23,7 +24,9 @@ _temp_symbol = [
     "UUP", "UUH", "UUS", "UUO"
 ]
 
-atom_number_to_symbol = {k: v for k, v in zip(range(108), _temp_symbol)}
+atom_number_to_symbol = {k: v for k, v in zip(range(len(_temp_symbol)), _temp_symbol)}
+atom_number_to_symbol[-1] = "NOTE"
+
 atom_symbol_to_number = {k: v for v, k in atom_number_to_symbol.items()}
 
 with open("parse_data/journal_abbv.txt", "r") as infile:
@@ -43,22 +46,25 @@ def is_number(val):
         return False
 
 
-def _read_file(infile):
+def _read_file(infile, return_raw = False):
     """
     Pulls in the 'notes' line from the REF files and strips the citations into a single line
     """
     root = ET.parse(infile).getroot()
     data = root.findall("default:notes", {"default": "http://purl.oclc.org/NET/EMSL/BSE"})[0].text
+    if return_raw:
+        return data
+
     if DO_PRINT:
         print(data.strip())
         print("----------\n")
-    data = data.splitlines()
+    sldata = data.splitlines()
 
     ret = []
 
     inside_refs = False
 
-    for line in data:
+    for line in sldata:
         if "Original" in line: continue
         if "Recontraction" in line: continue
         if ":" in line:
@@ -70,8 +76,10 @@ def _read_file(infile):
             ret.append((tmp[0].strip(), tmp[1].strip()))
         # Multiline ref
         elif inside_refs:
-            ret[-1] = (ret[-1][0], ret[-1][1] + " " + line)
-    return ret
+            ret[-1] = (ret[-1][0], ret[-1][1] + " " + line.strip())
+    #for x in ret:
+    #    print(x[1])
+    return data, ret
 
 
 def _handle_atoms(atoms):
@@ -89,6 +97,7 @@ def _handle_atoms(atoms):
 
     ret = []
     for at in atoms:
+        if len(at.strip()) == 0: continue
         if "-" in at:
             start, stop = at.split("-")
             start = atom_symbol_to_number[start.strip().upper()]
@@ -107,47 +116,61 @@ def _handle_cit(citation):
     """
     DO_PRINT = False
 
-    ret = {"orginal": citation, "valid": False}
+    ret = {"orginal": citation.strip(), "valid": False}
 
     # Filter out incomplete
-    if "to be published" in citation.lower():
-        return ret
-
-    if "submitted" in citation.lower():
-        return ret
+    for err in ["to be published", "submitted", "unpublished", "unofficial", "private com"]:
+        if err in citation.lower():
+            return ret
 
     if len(citation.strip()) < 5:
         return ret
 
     #print("CIT, %s" %citation)
-    if DO_PRINT:
-        print(citation)
-    
+    #if DO_PRINT:
+    #    print(citation)
+
+    tmp = citation.split(" DOI:")
+    if len(tmp) == 1:
+        citation = tmp[0]
+    elif len(tmp) == 2:
+        citation = tmp[0]
+        ret["DOI"] = tmp[1].strip()
+    else:
+        raise KeyError("Unpack DOI not understood: %s" % str(tmp))
+
+    citation = citation.replace(" -", "-")
+
     ### Try to find Y/P/V
     ypv_citation = citation.split()
-    if len(ypv_citation) > 3:
-        ret["year"] = is_number(string_remove_chars("().,", ypv_citation[-1]))
-        ret["page"] = is_number(string_remove_chars("().,", ypv_citation[-2]))
-        ret["volume"] = is_number(string_remove_chars("().,", ypv_citation[-3]))
+    if ypv_citation[-2].lower() == "accepted":
+        ypv_citation[-2] = "0"
+        ypv_citation[-3] = "0"
 
-    ypv_data = [ret[x] for x in ["year", "page", "volume"]]
-    if False in ypv_data:
-        raise KeyError("Could not find year/page/volume")
-    
+    ret["year"] = is_number(string_remove_chars("().,", ypv_citation[-1]))
+    ret["page"] = is_number(string_remove_chars("().,", ypv_citation[-2]).split('-')[0])
+    ret["volume"] = is_number(string_remove_chars("().,", ypv_citation[-3]))
+
+    ypv_data = [ret[x] is False for x in ["year", "page", "volume"]]
+    if any(ypv_data):
+        raise KeyError("Could not find year/page/volume: %s" % citation)
+
     citation = " ".join(ypv_citation[:-3])
     if DO_PRINT:
         print(1, citation)
 
-    ### Yank out authors 
+    ### Yank out authors
 
     # Hack our Jr's
     citation = citation.replace(" Jr.", "")
     authors = []
     break_next = False
-    author_enumerate = citation.replace("and", ",  ").split(",")
+    author_enumerate = citation.replace(" and ", ",   ")
+    author_enumerate = author_enumerate.replace(",and", ",  ")
+
     chars_used = 0
-    for num, sp in enumerate(author_enumerate):
-        sp_chars = len(sp) + 1 
+    for num, sp in enumerate(author_enumerate.split(",")):
+        sp_chars = len(sp) + 1
 
         # Are we nothing?
         sp = sp.strip()
@@ -156,26 +179,26 @@ def _handle_cit(citation):
             continue
 
         # Watch cases
-        isjournal = difflib.get_close_matches(sp, journal_abbv)
+        isjournal = difflib.get_close_matches(sp, journal_abbv, cutoff=0.8)
         if isjournal:
             break
-    
+
         # If we hit a `and` we will be done next iteration
         if break_next:
             break
 
-        if "and" in sp:
+        if (" and " in sp) or (",and " in sp):
             break_next = True
 
         # Authors should have a "." in their name
         if ("." in sp) and (len(sp) < 80):
             chars_used += sp_chars
-            authors.append(sp) 
+            authors.append(sp)
         else:
             break
 
     # Cleanup authors
-    authors = [string_remove_chars([")", "(", "and", ","], x).strip() for x in authors]
+    authors = [string_remove_chars([")", "(", ",and", " and ", ","], x).strip() for x in authors]
 
     ret["authors"] = authors
 
@@ -215,8 +238,14 @@ def _handle_cit(citation):
 
 def _parse_citation(atoms, cit):
 
-    ret = _handle_cit(cit)
+    ret = {}
     ret["Z"] = _handle_atoms(atoms)
+    try:
+        ret.update(_handle_cit(cit))
+    except:
+         ret["orginal"] = cit.strip()
+         ret["valid"] = False
+
     if DO_PRINT:
         print('---------')
         print(cit)
@@ -237,36 +266,52 @@ def wos_query_BAD(val):
 
 
 def parse_ref_file(infile):
+    ret = {}
     # Parse
+    data, cit_list = _read_file(infile)
+    ret["original"] = data
+
     citations = []
-    for atoms, cit in _read_file(infile):
+    for atoms, cit in cit_list:
         json_cit = _parse_citation(atoms, cit)
         citations.append(json_cit)
+    ret["citations"] = citations
 
-    return citations
+    return ret
 
 
 # Quick tests
 
 failures = 0
 success = 0
-for infile in glob.glob("data/xml/CC*REF.xml"):
+for infile in glob.glob("../data/xml/*REF.xml"):
+#for infile in glob.glob("../data/xml/*-31PGSS-BS-REF.xml"):
 
-    # Grab data
-    #print("\n============")
-    #print("Basis: %s" % infile)
-    #jsons = parse_ref_file(infile)
-    #for j in jsons:
-    #    j["host"] = infile.split("/")[-1].replace("-REF", "")
     try:
-        jsons = parse_ref_file(infile)
+        json_data = parse_ref_file(infile)
+        json_data["valid"] = True
+        #print(json.dumps(json_data, indent=4, sort_keys=True))
         success += 1
-    except:
+    except Exception as err:
         print("Failed: %s" % infile)
-
+        # print(repr(err))
         failures += 1
+        json_data = {"valid": False}
+        try:
+            json_data["original"] = _read_file(infile, return_raw=True)
+        except IndexError:
+            print("Truly FUBAR: %s" % infile)
+            json_data["original"] = "FUBAR"
+
+    name = infile.split('/')[-1].replace("xml", "json")
+    with open("stage1_xml_parse/" + name, "w") as outfile: 
+        json.dump(json_data, outfile, indent=4, sort_keys=True)
+
+    
+#        print(json.dumps(json_data, indent=4, sort_keys=True))
+
+    #    raise 
 
 print("Success %d, Failures %d,  Ratio %3.2f" % (success, failures, success/(failures + success)))
-        
 
-raise Exception()
+
