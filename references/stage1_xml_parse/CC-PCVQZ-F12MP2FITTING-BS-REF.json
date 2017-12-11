@@ -1,0 +1,37 @@
+{
+    "citations": [
+        {
+            "Z": [
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18
+            ],
+            "authors": [
+                "S. Kritikou",
+                "J.G. Hill"
+            ],
+            "journal": "J. Chem. Theory Comput.",
+            "orginal": "S. Kritikou and J.G. Hill, Auxiliary Basis Sets for Density Fitting in Explicitly Correlated Calculations: The Atoms H?Ar, J. Chem. Theory Comput. 11, 5269 (2015).",
+            "page": 5269,
+            "title": "Auxiliary Basis Sets for Density Fitting in Explicitly Correlated Calculations: The Atoms H?Ar",
+            "valid": true,
+            "volume": 11,
+            "year": 2015
+        }
+    ],
+    "original": "Elements                             References\n--------                             ----------\nLi Be B C N O F Ne Na Mg Al Si P S Cl Ar: S. Kritikou and J.G. Hill, Auxiliary Basis Sets for Density Fitting in Explicitly Correlated Calculations: The Atoms H?Ar, J. Chem. Theory Comput. 11, 5269 (2015).\n\n\n",
+    "valid": true
+}

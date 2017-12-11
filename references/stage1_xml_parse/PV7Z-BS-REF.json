@@ -1,0 +1,24 @@
+{
+    "citations": [
+        {
+            "Z": [
+                1
+            ],
+            "orginal": "D. Feller",
+            "valid": false
+        },
+        {
+            "Z": [
+                6,
+                7,
+                8,
+                9,
+                16
+            ],
+            "orginal": "D. Feller and K.A. Peterson, J. Chem. Phys. 110, 8384 (1999) D. Feller and J.A. Sordo, J. Chem. Phys. 113, 485 (2000) and Ed Valeev (k function exponents) Ne         K. A. Peterson (to be published)",
+            "valid": false
+        }
+    ],
+    "original": "Elements                             References\n--------                             ----------\nH:         D. Feller\nC - F, S:  D. Feller and K.A. Peterson, J. Chem. Phys. 110, 8384 (1999)\nD. Feller and J.A. Sordo, J. Chem. Phys. 113, 485 (2000)\nand Ed Valeev (k function exponents)\nNe         K. A. Peterson (to be published)\n\n\n",
+    "valid": true
+}

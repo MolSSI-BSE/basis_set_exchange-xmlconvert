@@ -1,0 +1,94 @@
+{
+    "citations": [
+        {
+            "Z": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10
+            ],
+            "orginal": "W.J. Hehre, R.F. Stewart and J.A. Pople, J. Chem. Phys. 2657 (1969).",
+            "valid": false
+        },
+        {
+            "Z": [
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18
+            ],
+            "orginal": "W.J. Hehre, R. Ditchfield, R.F. Stewart, J.A. Pople, J. Chem. Phys.  2769 (1970).",
+            "valid": false
+        },
+        {
+            "Z": [
+                19,
+                20
+            ],
+            "orginal": "W.J. Pietro, B.A. Levy, W.J. Hehre and R.F. Stewart,",
+            "valid": false
+        },
+        {
+            "Z": [
+                31,
+                32,
+                33,
+                34,
+                35,
+                36
+            ],
+            "authors": [],
+            "journal": "J. Am. Chem. Soc.",
+            "orginal": "J. Am. Chem. Soc. 19, 2225 (1980).",
+            "page": 2225,
+            "title": false,
+            "valid": true,
+            "volume": 19,
+            "year": 1980
+        },
+        {
+            "Z": [
+                21,
+                22,
+                23,
+                24,
+                25,
+                26,
+                27,
+                28,
+                29,
+                30
+            ],
+            "orginal": "W.J. Pietro and W.J. Hehre, J. Comp. Chem. 4, 241 (1983) + Gaussian.",
+            "valid": false
+        },
+        {
+            "Z": [
+                39,
+                40,
+                41,
+                42,
+                43,
+                44,
+                45,
+                46,
+                47,
+                48
+            ],
+            "orginal": "W.J. Pietro and W.J. Hehre, J. Comp. Chem. 4, 241 (1983). + Gaussian",
+            "valid": false
+        }
+    ],
+    "original": "\nElements                             References\n--------                             ----------\n H - Ne: W.J. Hehre, R.F. Stewart and J.A. Pople, J. Chem. Phys. 2657 (1969).\nNa - Ar: W.J. Hehre, R. Ditchfield, R.F. Stewart, J.A. Pople,\n         J. Chem. Phys.  2769 (1970).\nK,Ca : W.J. Pietro, B.A. Levy, W.J. Hehre and R.F. Stewart,\nGa - Kr: J. Am. Chem. Soc. 19, 2225 (1980).\nSc - Zn: W.J. Pietro and W.J. Hehre, J. Comp. Chem. 4, 241 (1983) + Gaussian.\n Y - Cd: W.J. Pietro and W.J. Hehre, J. Comp. Chem. 4, 241 (1983). + Gaussian\n\n  ",
+    "valid": true
+}

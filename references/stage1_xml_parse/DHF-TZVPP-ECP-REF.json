@@ -1,0 +1,131 @@
+{
+    "citations": [
+        {
+            "Z": [
+                21,
+                22,
+                23,
+                24,
+                25,
+                26,
+                27,
+                28,
+                29,
+                30
+            ],
+            "authors": [
+                "K.A. Peterson",
+                "D. Figgen",
+                "M. Dolg",
+                "H. Stoll"
+            ],
+            "journal": "J. Chem. Phys.",
+            "orginal": "K.A. Peterson, D. Figgen, M. Dolg, H. Stoll, J. Chem. Phys. 126, 124101 (2007).",
+            "page": 124101,
+            "title": false,
+            "valid": true,
+            "volume": 126,
+            "year": 2007
+        },
+        {
+            "Z": [
+                39,
+                40,
+                41,
+                42,
+                43,
+                44,
+                45,
+                46,
+                47,
+                48
+            ],
+            "authors": [
+                "D. Figgen",
+                "K.A. Peterson",
+                "M. Dolg",
+                "H. Stoll"
+            ],
+            "journal": "J. Chem. Phys.",
+            "orginal": "D. Figgen, K.A. Peterson, M. Dolg, H. Stoll, J. Chem. Phys. 130, 164108 (2009).",
+            "page": 164108,
+            "title": false,
+            "valid": true,
+            "volume": 130,
+            "year": 2009
+        },
+        {
+            "Z": [
+                37,
+                38,
+                39,
+                40,
+                41,
+                42,
+                43,
+                44,
+                45,
+                46,
+                47,
+                48,
+                49,
+                50,
+                51,
+                52,
+                53,
+                54,
+                55
+            ],
+            "authors": [
+                "I.S. Lim",
+                "P. Schwerdtfeger",
+                "B. Metz",
+                "H. Stoll"
+            ],
+            "journal": "J. Chem. Phys.",
+            "orginal": "I.S. Lim, P. Schwerdtfeger, B. Metz, H. Stoll, J. Chem. Phys. 122, 104103 (2005).",
+            "page": 104103,
+            "title": false,
+            "valid": true,
+            "volume": 122,
+            "year": 2005
+        },
+        {
+            "Z": [
+                38,
+                39,
+                40,
+                41,
+                42,
+                43,
+                44,
+                45,
+                46,
+                47,
+                48,
+                49,
+                50,
+                51,
+                52,
+                53,
+                54,
+                55,
+                56
+            ],
+            "authors": [
+                "I.S. Lim",
+                "H. Stoll",
+                "P. Schwerdtfeger"
+            ],
+            "journal": "J. Chem. Phys.",
+            "orginal": "I.S. Lim, H. Stoll, P. Schwerdtfeger, J. Chem. Phys. 124, 034107 (2006).",
+            "page": 34107,
+            "title": false,
+            "valid": true,
+            "volume": 124,
+            "year": 2006
+        }
+    ],
+    "original": "Elements                             References\n--------                             ----------\nSc-Zn:    K.A. Peterson, D. Figgen, M. Dolg, H. Stoll, J. Chem. Phys. 126, 124101 (2007).\nY-Cd:    D. Figgen, K.A. Peterson, M. Dolg, H. Stoll, J. Chem. Phys. 130, 164108 (2009).\nRb-Cs: I.S. Lim, P. Schwerdtfeger, B. Metz, H. Stoll, J. Chem. Phys. 122, 104103 (2005).\nSr-Ba: I.S. Lim, H. Stoll, P. Schwerdtfeger, J. Chem. Phys. 124, 034107 (2006).\n\n\n",
+    "valid": true
+}

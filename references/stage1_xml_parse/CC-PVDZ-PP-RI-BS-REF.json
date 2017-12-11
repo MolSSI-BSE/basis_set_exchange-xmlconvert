@@ -1,0 +1,54 @@
+{
+    "citations": [
+        {
+            "Z": [
+                31,
+                32,
+                33,
+                34,
+                35,
+                36,
+                49,
+                50,
+                51,
+                52,
+                53,
+                54,
+                81,
+                82,
+                83,
+                84,
+                85,
+                86
+            ],
+            "authors": [],
+            "journal": "TURBOMOLE basis set library",
+            "orginal": "Christof Hattig, auxiliary basis sets for RI-MP2 calculations, TURBOMOLE basis set library 6.0, 1 (2009).",
+            "page": 1,
+            "title": "Christof Hattig, auxiliary basis sets for RI-MP2 calculations",
+            "valid": true,
+            "volume": 60,
+            "year": 2009
+        },
+        {
+            "Z": [
+                29,
+                30,
+                47,
+                48,
+                79,
+                80
+            ],
+            "authors": [],
+            "journal": "TURBOMOLE basis set library",
+            "orginal": "Christof Hattig, auxiliary basis sets for RI-MP2 calculations, TURBOMOLE basis set library 6.0, 1 (2009).",
+            "page": 1,
+            "title": "Christof Hattig, auxiliary basis sets for RI-MP2 calculations",
+            "valid": true,
+            "volume": 60,
+            "year": 2009
+        }
+    ],
+    "original": "Elements                             References\n--------                             ----------\nGa Ge As Se Br Kr In Sn Sb Te I Xe Tl Pb Bi Po At Rn: Christof Hattig, auxiliary basis sets for RI-MP2 calculations, TURBOMOLE basis set library 6.0, 1 (2009).\n\nCu Zn Ag Cd Au Hg: Christof Hattig, auxiliary basis sets for RI-MP2 calculations, TURBOMOLE basis set library 6.0, 1 (2009).\n\n\n",
+    "valid": true
+}

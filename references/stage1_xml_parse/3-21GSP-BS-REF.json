@@ -1,0 +1,56 @@
+{
+    "citations": [
+        {
+            "Z": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10
+            ],
+            "authors": [
+                "A.V. Mitin",
+                "G. Hirsch",
+                "R. J. Buenker"
+            ],
+            "journal": false,
+            "orginal": "A.V. Mitin, G. Hirsch, R. J. Buenker, Chem. Phys. Lett. 259, 151 (1996)",
+            "page": 151,
+            "title": false,
+            "valid": true,
+            "volume": 259,
+            "year": 1996
+        },
+        {
+            "Z": [
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18
+            ],
+            "authors": [
+                "A.V. Mitin",
+                "G. Hirsch",
+                "R. J. Buenker"
+            ],
+            "journal": "J. Comp. Chem.",
+            "orginal": "A.V. Mitin, G. Hirsch, R. J. Buenker, J. Comp. Chem. 18, 1200 (1997).",
+            "page": 1200,
+            "title": false,
+            "valid": true,
+            "volume": 18,
+            "year": 1997
+        }
+    ],
+    "original": "\nElements                             References\n--------                             ----------\n H - Ne: A.V. Mitin, G. Hirsch, R. J. Buenker, Chem. Phys. Lett. 259, 151 (1996)\nNa - Ar: A.V. Mitin, G. Hirsch, R. J. Buenker, J. Comp. Chem. 18, 1200 (1997).\n\n\n  ",
+    "valid": true
+}

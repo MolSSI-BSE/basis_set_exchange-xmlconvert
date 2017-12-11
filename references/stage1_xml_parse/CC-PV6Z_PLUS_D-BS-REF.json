@@ -1,0 +1,28 @@
+{
+    "citations": [
+        {
+            "Z": [
+                13,
+                14,
+                15,
+                16,
+                17,
+                18
+            ],
+            "authors": [
+                "T. H. Dunning",
+                "K.A. Peterson",
+                "A.K. Wilson"
+            ],
+            "journal": "J. Chem. Phys.",
+            "orginal": "T. H. Dunning, Jr., K.A. Peterson and A.K. Wilson, J. Chem. Phys. 114, 9244 (2001).",
+            "page": 9244,
+            "title": false,
+            "valid": true,
+            "volume": 114,
+            "year": 2001
+        }
+    ],
+    "original": "Elements                             References\n--------                             ----------\nAl - Ar:   T. H. Dunning, Jr., K.A. Peterson and A.K. Wilson, J. Chem. Phys.\n114, 9244 (2001).\n\n\n",
+    "valid": true
+}

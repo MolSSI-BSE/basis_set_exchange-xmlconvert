@@ -1,0 +1,27 @@
+{
+    "citations": [
+        {
+            "Z": [
+                57,
+                58,
+                59,
+                60,
+                61,
+                62,
+                63,
+                64,
+                65,
+                66,
+                67,
+                68,
+                69,
+                70,
+                71
+            ],
+            "orginal": "Daniel Aravena, Frank Neese, and Dimitrios A. Pantazis, Improved Segmented All-Electron Relativistically Contracted Basis Sets for the Lanthanides, J.Chem.Theory Comput. 12, 1148 ? 1156 (2016).",
+            "valid": false
+        }
+    ],
+    "original": "Elements                             References\n--------                             ----------\nCe Dy Er Eu Gd Ho La Lu Nd Pm Pr Sm Tb Tm Yb: Daniel Aravena, Frank Neese, and Dimitrios A. Pantazis, Improved Segmented All-Electron Relativistically Contracted Basis Sets for the Lanthanides, J.Chem.Theory Comput. 12, 1148 ? 1156 (2016).\n\n\n",
+    "valid": true
+}

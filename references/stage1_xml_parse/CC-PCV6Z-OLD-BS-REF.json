@@ -1,0 +1,24 @@
+{
+    "citations": [
+        {
+            "Z": [
+                5,
+                6,
+                7,
+                8,
+                9
+            ],
+            "orginal": "A.K. Wilson and T.H. Dunning, Jr. (to be published)",
+            "valid": false
+        },
+        {
+            "Z": [
+                10
+            ],
+            "orginal": "D. Feller (to be published)",
+            "valid": false
+        }
+    ],
+    "original": "Elements                             References\n--------                             ----------\nB - F:  A.K. Wilson and T.H. Dunning, Jr. (to be published)\nNe   : D. Feller (to be published)\n\n\n",
+    "valid": true
+}

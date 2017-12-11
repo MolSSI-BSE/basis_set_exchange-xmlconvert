@@ -1,0 +1,31 @@
+{
+    "citations": [
+        {
+            "Z": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10
+            ],
+            "authors": [
+                "D.E. Bernholdt",
+                "R.J. Harrison"
+            ],
+            "journal": "J. Chem. Phys.",
+            "orginal": "D.E. Bernholdt and R.J. Harrison, J. Chem. Phys. 109, 1593 (1998)",
+            "page": 1593,
+            "title": false,
+            "valid": true,
+            "volume": 109,
+            "year": 1998
+        }
+    ],
+    "original": "\nElements                             References\n--------                             ----------\nH - Ne: D.E. Bernholdt and R.J. Harrison, J. Chem. Phys. 109, 1593 (1998)\n\n  ",
+    "valid": true
+}

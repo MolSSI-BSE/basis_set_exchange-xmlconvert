@@ -1,0 +1,69 @@
+{
+    "citations": [
+        {
+            "Z": [
+                1,
+                6,
+                7,
+                8,
+                9
+            ],
+            "authors": [
+                "R. Ditchfield",
+                "W.J. Hehre",
+                "J.A. Pople"
+            ],
+            "journal": "J. Chem. Phys.",
+            "orginal": "R. Ditchfield, W.J. Hehre and J.A. Pople, J. Chem. Phys. 54, 724 (1971).",
+            "page": 724,
+            "title": false,
+            "valid": true,
+            "volume": 54,
+            "year": 1971
+        },
+        {
+            "Z": [
+                2,
+                10
+            ],
+            "orginal": "Gaussian 90",
+            "valid": false
+        },
+        {
+            "Z": [
+                3,
+                4
+            ],
+            "orginal": "These are actually 5-21G basis sets.",
+            "valid": false
+        },
+        {
+            "Z": [
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18
+            ],
+            "authors": [
+                "M.S. Gordon",
+                "J.S. Binkley",
+                "J.A. Pople",
+                "W.J. Pietro",
+                "W.J. Hehre"
+            ],
+            "journal": "J. Am. Chem. Soc.",
+            "orginal": "M.S. Gordon, J.S. Binkley, J.A. Pople, W.J. Pietro and W.J. Hehre, J. Am. Chem. Soc. 104, 2797 (1983).",
+            "page": 2797,
+            "title": false,
+            "valid": true,
+            "volume": 104,
+            "year": 1983
+        }
+    ],
+    "original": "\nElements                             References\n--------                             ----------\nH, C - F: R. Ditchfield, W.J. Hehre and J.A. Pople, J. Chem. Phys. 54, 724 \n          (1971).\nHe, Ne:   Gaussian 90 \nLi, Be:   These are actually 5-21G basis sets.\nNa - Ar:  M.S. Gordon, J.S. Binkley, J.A. Pople, W.J. Pietro and W.J. Hehre,\n          J. Am. Chem. Soc. 104, 2797 (1983).\n\n  ",
+    "valid": true
+}

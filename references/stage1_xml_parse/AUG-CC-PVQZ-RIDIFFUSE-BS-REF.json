@@ -1,0 +1,42 @@
+{
+    "citations": [
+        {
+            "Z": [
+                1,
+                2,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                31,
+                32,
+                33,
+                34,
+                35,
+                36
+            ],
+            "authors": [
+                "F. Weigend",
+                "A. Kohn",
+                "C. Hattig"
+            ],
+            "journal": "The Journal of Chemical Physics",
+            "orginal": "F. Weigend, A. Kohn, C. Hattig, Efficient use of the correlation consistent basis sets in resolution of the identity MP2 calculations, The Journal of Chemical Physics 116, 3175 (2002).",
+            "page": 3175,
+            "title": "Efficient use of the correlation consistent basis sets in resolution of the identity MP2 calculations",
+            "valid": true,
+            "volume": 116,
+            "year": 2002
+        }
+    ],
+    "original": "Elements                             References\n--------                             ----------\nH He B C N O F Ne Al Si P S Cl Ar Ga Ge As Se Br Kr : F. Weigend, A. Kohn, C. Hattig, Efficient use of the correlation consistent basis sets in resolution of the identity MP2 calculations, The Journal of Chemical Physics 116, 3175 (2002).\n\n\n",
+    "valid": true
+}

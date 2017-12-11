@@ -1,0 +1,162 @@
+{
+    "citations": [
+        {
+            "Z": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18
+            ],
+            "authors": [
+                "A. Canal Neto",
+                "E. P. Muniz",
+                "R. Centoducatte",
+                "F. E. Jorge",
+                "Gaussian basis sets for correlated wave functions. Hydrogen"
+            ],
+            "journal": "J. Mol. Struct. (Theochem)",
+            "orginal": "A. Canal Neto, E. P. Muniz, R. Centoducatte, and F. E. Jorge, Gaussian basis sets for correlated wave functions. Hydrogen, helium, first- and second-row atoms, J. Mol. Struct. (Theochem) 718, 219 (2005).",
+            "page": 219,
+            "title": "helium, first- and second-row atoms",
+            "valid": true,
+            "volume": 718,
+            "year": 2005
+        },
+        {
+            "Z": [
+                19,
+                20,
+                21,
+                22,
+                23,
+                25,
+                26,
+                27,
+                28,
+                29,
+                30,
+                31,
+                32,
+                33,
+                34,
+                35,
+                36
+            ],
+            "authors": [
+                "G.G. Camiletti",
+                "A. Canal Neto",
+                "F. E. Jorge",
+                "S. F. Machado"
+            ],
+            "journal": "J. Mol. Struct. (Theochem)",
+            "orginal": "G.G. Camiletti, A. Canal Neto, F. E. Jorge, and S. F. Machado, Augmented Gaussian basis sets of double and triple zeta valence qualities for the atoms K and Sc?Kr: Applications in HF, MP2, and DFT calculations of molecular electric properties, J. Mol. Struct. (Theochem) 910, 122 (2009).",
+            "page": 122,
+            "title": "Augmented Gaussian basis sets of double and triple zeta valence qualities for the atoms K and Sc?Kr: Applications in HF, MP2, and DFT calculations of molecular electric properties",
+            "valid": true,
+            "volume": 910,
+            "year": 2009
+        },
+        {
+            "Z": [
+                37,
+                38,
+                39,
+                40,
+                41,
+                42,
+                43,
+                44,
+                45,
+                46,
+                47,
+                48,
+                49,
+                50,
+                51,
+                52,
+                53,
+                54
+            ],
+            "authors": [
+                "P. J. P. de Oliveira",
+                "C. L. Barros",
+                "F. E. Jorge",
+                "A. Canal Neto",
+                "M. Campos"
+            ],
+            "journal": "J. Mol. Struct. (Theochem)",
+            "orginal": "P. J. P. de Oliveira, C. L. Barros, F. E. Jorge, A. Canal Neto, and M. Campos, Augmented Gaussian basis set of double zeta valence quality for the atoms Rb and Y?Xe: Application in DFT calculations of molecular electric properties, J. Mol. Struct. (Theochem) 948, 43 (2010).",
+            "page": 43,
+            "title": "Augmented Gaussian basis set of double zeta valence quality for the atoms Rb and Y?Xe: Application in DFT calculations of molecular electric properties",
+            "valid": true,
+            "volume": 948,
+            "year": 2010
+        },
+        {
+            "Z": [
+                78
+            ],
+            "authors": [
+                "R. C. de Berr\u00eado",
+                "F. E. Jorge",
+                "Sara S. Jorge",
+                "R. Centoducatte"
+            ],
+            "journal": "Compt. Theor. Chem.",
+            "orginal": "R. C. de Berr\u00eado, F. E. Jorge, Sara S. Jorge, R. Centoducatte, An augmented Gaussian basis set for calculations of molecular polarizabilities on platinum compounds, Compt. Theor. Chem. 965, 236 (2011).",
+            "page": 236,
+            "title": "An augmented Gaussian basis set for calculations of molecular polarizabilities on platinum compounds",
+            "valid": true,
+            "volume": 965,
+            "year": 2011
+        },
+        {
+            "Z": [
+                55,
+                56,
+                57,
+                72,
+                73,
+                74,
+                75,
+                76,
+                77,
+                79,
+                80,
+                81,
+                82,
+                83,
+                84,
+                85,
+                86
+            ],
+            "authors": [
+                "A. Canal Neto",
+                "F. E. Jorge"
+            ],
+            "journal": "Chem. Phys. Lett.",
+            "orginal": "A. Canal Neto and F. E. Jorge, All-electron double zeta basis sets for the most fifth-row atoms: Application in DFT spectroscopic constant calculations, Chem. Phys. Lett. 582, 158 (2013).",
+            "page": 158,
+            "title": "All-electron double zeta basis sets for the most fifth-row atoms: Application in DFT spectroscopic constant calculations",
+            "valid": true,
+            "volume": 582,
+            "year": 2013
+        }
+    ],
+    "original": "Elements                             References\n--------                             ----------\nH He Li Be B C N O F Ne Na Mg Al Si P S Cl Ar: A. Canal Neto, E. P. Muniz, R. Centoducatte, and F. E. Jorge, Gaussian basis sets for correlated wave functions. Hydrogen, helium, first- and second-row atoms, J. Mol. Struct. (Theochem) 718, 219 (2005).\nK Ca Sc Ti V Mn Fe Co Ni Cu Zn Ga Ge As Se Br Kr: G.G. Camiletti, A. Canal Neto, F. E. Jorge, and S. F. Machado, Augmented Gaussian basis sets of double and triple zeta valence qualities for the atoms K and Sc?Kr: Applications in HF, MP2, and DFT calculations of molecular electric properties, J. Mol. Struct. (Theochem) 910, 122 (2009).\nRb Sr Y Zr Nb Mo Tc Ru Rh Pd Ag Cd In Sn Sb Te I Xe: P. J. P. de Oliveira, C. L. Barros, F. E. Jorge, A. Canal Neto, and M. Campos, Augmented Gaussian basis set of double zeta valence quality for the atoms Rb and Y?Xe: Application in DFT calculations of molecular electric properties, J. Mol. Struct. (Theochem) 948, 43 (2010).\nPt: R. C. de Berr\u00eado, F. E. Jorge, Sara S. Jorge, R. Centoducatte, An augmented Gaussian basis set for calculations of molecular polarizabilities on platinum compounds, Compt. Theor. Chem. 965, 236 (2011).\nCs Ba La Hf Ta W Re Os Ir Au Hg Tl Pb Bi Po At Rn: A. Canal Neto and F. E. Jorge, All-electron double zeta basis sets for the most fifth-row atoms: Application in DFT spectroscopic constant calculations, Chem. Phys. Lett. 582, 158 (2013).\n\n\n",
+    "valid": true
+}

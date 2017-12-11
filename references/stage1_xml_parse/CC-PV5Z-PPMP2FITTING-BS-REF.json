@@ -1,0 +1,65 @@
+{
+    "citations": [
+        {
+            "Z": [
+                44
+            ],
+            "authors": [
+                "J. G. Hill",
+                "J. A. Platts"
+            ],
+            "journal": "J. Chem. Phys.",
+            "orginal": "J. G. Hill and J. A. Platts, Calculating interaction energies in transition metal complexes with local electron correlation methods, J. Chem. Phys. 129, 134101 (2008).",
+            "page": 134101,
+            "title": "Calculating interaction energies in transition metal complexes with local electron correlation methods",
+            "valid": true,
+            "volume": 129,
+            "year": 2008
+        },
+        {
+            "Z": [
+                39,
+                40,
+                41,
+                42,
+                43,
+                45,
+                46
+            ],
+            "authors": [
+                "J. Grant Hill",
+                "James A. Platts"
+            ],
+            "journal": "J. Chem. Theory Comput.",
+            "orginal": "J. Grant Hill and James A. Platts, Auxiliary Basis Sets for Density-Fitted MP2 Calculations: Correlation-Consistent Basis Sets for the 4d Elements, J. Chem. Theory Comput. 5, 500 (2009).",
+            "page": 500,
+            "title": "Auxiliary Basis Sets for Density-Fitted MP2 Calculations: Correlation-Consistent Basis Sets for the 4d Elements",
+            "valid": true,
+            "volume": 5,
+            "year": 2009
+        },
+        {
+            "Z": [
+                72,
+                73,
+                74,
+                75,
+                76,
+                77,
+                78
+            ],
+            "authors": [
+                "J. Grant Hill"
+            ],
+            "journal": "J. Chem. Phys.",
+            "orginal": "J. Grant Hill, Auxiliary basis sets for density fitting second-order M\u00f8ller-Plesset perturbation theory: Correlation consistent basis sets for the 5d elements Hf-Pt, J. Chem. Phys. 135, 044105 (2011).",
+            "page": 44105,
+            "title": "Auxiliary basis sets for density fitting second-order M\u00f8ller-Plesset perturbation theory: Correlation consistent basis sets for the 5d elements Hf-Pt",
+            "valid": true,
+            "volume": 135,
+            "year": 2011
+        }
+    ],
+    "original": "Elements                             References\n--------                             ----------\nRu: J. G. Hill and J. A. Platts, Calculating interaction energies in transition metal complexes with local electron correlation methods, J. Chem. Phys. 129, 134101 (2008).\nY Zr Nb Mo Tc Rh Pd: J. Grant Hill and James A. Platts, Auxiliary Basis Sets for Density-Fitted MP2 Calculations: Correlation-Consistent Basis Sets for the 4d Elements, J. Chem. Theory Comput. 5, 500 (2009).\nHf Ta W Re Os Ir Pt: J. Grant Hill, Auxiliary basis sets for density fitting second-order M\u00f8ller-Plesset perturbation theory: Correlation consistent basis sets for the 5d elements Hf-Pt, J. Chem. Phys. 135, 044105 (2011).\n\n\n",
+    "valid": true
+}

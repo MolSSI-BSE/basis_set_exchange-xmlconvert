@@ -1,0 +1,62 @@
+{
+    "citations": [
+        {
+            "Z": [
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                19,
+                20,
+                21,
+                22,
+                23,
+                24,
+                25,
+                26,
+                27,
+                28,
+                29,
+                30
+            ],
+            "authors": [
+                "H. Partridge"
+            ],
+            "journal": "J. Chem. Phys.",
+            "orginal": "H. Partridge, J. Chem. Phys. 90, 1043 (1989).",
+            "page": 1043,
+            "title": false,
+            "valid": true,
+            "volume": 90,
+            "year": 1989
+        },
+        {
+            "Z": [
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18
+            ],
+            "authors": [
+                "H. Partridge"
+            ],
+            "journal": "J. Chem. Phys.",
+            "orginal": "H. Partridge, J. Chem. Phys. 87, 6643 (1987).",
+            "page": 6643,
+            "title": false,
+            "valid": true,
+            "volume": 87,
+            "year": 1987
+        }
+    ],
+    "original": "Elements                             References\n--------                             ----------\nLi - Ne, K - Zn: H. Partridge, J. Chem. Phys. 90, 1043 (1989).\nNa - Ar:         H. Partridge, J. Chem. Phys. 87, 6643 (1987).\n\n\n",
+    "valid": true
+}

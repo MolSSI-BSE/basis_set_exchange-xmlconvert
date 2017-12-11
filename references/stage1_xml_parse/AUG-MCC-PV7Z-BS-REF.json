@@ -1,0 +1,23 @@
+{
+    "citations": [
+        {
+            "Z": [
+                1
+            ],
+            "authors": [
+                "S.L. Mielke",
+                "B.C. Garrett",
+                "K.A. Peterson"
+            ],
+            "journal": "J. Chem. Phys.",
+            "orginal": "S.L. Mielke, B.C. Garrett and K.A. Peterson, J. Chem. Phys. 116, 4142 (2002).",
+            "page": 4142,
+            "title": false,
+            "valid": true,
+            "volume": 116,
+            "year": 2002
+        }
+    ],
+    "original": "Elements                             References\n--------                             ---------\nH    : S.L. Mielke, B.C. Garrett and K.A. Peterson, J. Chem. Phys. 116, 4142\n(2002).\n\n\n",
+    "valid": true
+}

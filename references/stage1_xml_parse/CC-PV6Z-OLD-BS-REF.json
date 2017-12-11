@@ -1,0 +1,43 @@
+{
+    "citations": [
+        {
+            "Z": [
+                1
+            ],
+            "orginal": "T. H. Dunning, Jr., (to be published).",
+            "valid": false
+        },
+        {
+            "Z": [
+                6
+            ],
+            "orginal": "A.D. Pradhan, H. Partridge and C.W. Bauschlicher, Jr., J. Chem. Phys. 101, 3857 (1994) with correction to the p set.",
+            "valid": false
+        },
+        {
+            "Z": [
+                8
+            ],
+            "orginal": "(s,p) set from H. Partridge, (d,f,g) from T.H. Dunning, Jr., (h,i) from D. Feller.",
+            "valid": false
+        },
+        {
+            "Z": [
+                7
+            ],
+            "authors": [
+                "C.W. Bauschlicher",
+                "H. Partridge"
+            ],
+            "journal": "J. Chem. Phys.",
+            "orginal": "C.W. Bauschlicher, Jr. and H. Partridge, J. Chem. Phys. 100, 4329 (1994).",
+            "page": 4329,
+            "title": false,
+            "valid": true,
+            "volume": 100,
+            "year": 1994
+        }
+    ],
+    "original": "\nElements                             References\n--------                             ----------\nH:         T. H. Dunning, Jr., (to be published). \nC:         A.D. Pradhan, H. Partridge and C.W. Bauschlicher, Jr., J. Chem.\n           Phys. 101, 3857 (1994) with correction to the p set.\nO:         (s,p) set from H. Partridge, (d,f,g) from T.H. Dunning, Jr., \n           (h,i) from D. Feller.\nN:         C.W. Bauschlicher, Jr. and H. Partridge, J. Chem. Phys. 100,\n           4329 (1994).\n\n  ",
+    "valid": true
+}

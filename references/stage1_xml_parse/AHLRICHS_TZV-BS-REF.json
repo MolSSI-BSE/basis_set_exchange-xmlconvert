@@ -1,0 +1,56 @@
+{
+    "citations": [
+        {
+            "Z": [
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19,
+                20,
+                21,
+                22,
+                23,
+                24,
+                25,
+                26,
+                27,
+                28,
+                29,
+                30,
+                31,
+                32,
+                33,
+                34,
+                35,
+                36
+            ],
+            "authors": [
+                "A. Schafer",
+                "C. Huber",
+                "R. Ahlrichs"
+            ],
+            "journal": "J. Chem. Phys.",
+            "orginal": "A. Schafer, C. Huber and R. Ahlrichs, J. Chem. Phys. 100, 5829 (1994).",
+            "page": 5829,
+            "title": false,
+            "valid": true,
+            "volume": 100,
+            "year": 1994
+        }
+    ],
+    "original": "\nElements                             References\n--------                             ----------\nLi - Kr: A. Schafer, C. Huber and R. Ahlrichs, J. Chem. Phys. 100, 5829 (1994).\n\n  ",
+    "valid": true
+}

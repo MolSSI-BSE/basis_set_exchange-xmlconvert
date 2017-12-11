@@ -1,0 +1,56 @@
+{
+    "citations": [
+        {
+            "Z": [
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10
+            ],
+            "authors": [
+                "T.H. Dunning"
+            ],
+            "journal": "J. Chem. Phys.",
+            "orginal": "T.H. Dunning, Jr. J. Chem. Phys. 90, 1007 (1989) and D. E. Woon and T.H. Dunning, Jr. J. Chem. Phys. 103, 4572 (1995).",
+            "page": 4572,
+            "title": "J. Chem. Phys. 90, 1007 (1989) and D. E. Woon and T.H. Dunning",
+            "valid": true,
+            "volume": 103,
+            "year": 1995
+        },
+        {
+            "Z": [
+                13,
+                14,
+                15,
+                16,
+                17,
+                18
+            ],
+            "authors": [
+                "K.A. Peterson",
+                "T.H. Dunning"
+            ],
+            "journal": "J. Chem. Phys.",
+            "orginal": "K.A. Peterson and T.H. Dunning, Jr. J. Chem. Phys. 117, 10548 (2002)",
+            "page": 10548,
+            "title": false,
+            "valid": true,
+            "volume": 117,
+            "year": 2002
+        },
+        {
+            "Z": [
+                20
+            ],
+            "orginal": "K.A. Peterson (to be published)",
+            "valid": false
+        }
+    ],
+    "original": "Elements                             References\n--------                             ----------\nLi - Ne: T.H. Dunning, Jr. J. Chem. Phys. 90, 1007 (1989) and D. E. Woon and\nT.H. Dunning, Jr. J. Chem. Phys. 103, 4572 (1995).\nAl - Ar: K.A. Peterson and T.H. Dunning, Jr. J. Chem. Phys. 117, 10548 (2002)\nCa     : K.A. Peterson (to be published)\n\n\n",
+    "valid": true
+}

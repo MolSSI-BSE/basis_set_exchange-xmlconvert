@@ -1,0 +1,37 @@
+{
+    "citations": [
+        {
+            "Z": [
+                31,
+                32,
+                33,
+                34,
+                35
+            ],
+            "authors": [
+                "J.M.L. Martin",
+                "A. Sundermann"
+            ],
+            "journal": "J. Chem. Phys.",
+            "orginal": "J.M.L. Martin and A. Sundermann, J. Chem. Phys. 114, 3408 (2001).",
+            "page": 3408,
+            "title": false,
+            "valid": true,
+            "volume": 114,
+            "year": 2001
+        },
+        {
+            "Z": [
+                49,
+                50,
+                51,
+                52,
+                53
+            ],
+            "orginal": "",
+            "valid": false
+        }
+    ],
+    "original": "\nElements                             References\n--------                             ---------\nGa - Br: J.M.L. Martin and A. Sundermann, J. Chem. Phys. 114, 3408 (2001).\nIn - I : \n\n  ",
+    "valid": true
+}

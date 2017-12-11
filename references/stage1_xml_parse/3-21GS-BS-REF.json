@@ -1,0 +1,33 @@
+{
+    "citations": [
+        {
+            "Z": [
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18
+            ],
+            "authors": [
+                "W.J. Pietro",
+                "M.M. Francl",
+                "W.J. Hehre",
+                "D.J. DeFrees",
+                "J.A. Pople",
+                "J.S. Binkley"
+            ],
+            "journal": "J. Am. Chem. Soc.",
+            "orginal": "W.J. Pietro, M.M. Francl, W.J. Hehre, D.J. DeFrees, J.A. Pople and J.S. Binkley, J. Am. Chem. Soc. 104, 5039 (1982)",
+            "page": 5039,
+            "title": false,
+            "valid": true,
+            "volume": 104,
+            "year": 1982
+        }
+    ],
+    "original": "\nElements                             Reference\n--------                             ----------\nNa - Ar:  W.J. Pietro, M.M. Francl, W.J. Hehre, D.J. DeFrees, J.A. Pople and \n          J.S. Binkley, J. Am. Chem. Soc. 104, 5039 (1982)\n\n  ",
+    "valid": true
+}

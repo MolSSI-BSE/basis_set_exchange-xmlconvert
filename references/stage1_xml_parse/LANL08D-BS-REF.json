@@ -1,0 +1,98 @@
+{
+    "citations": [
+        {
+            "Z": [
+                14,
+                15,
+                16,
+                17,
+                32,
+                33,
+                34,
+                35,
+                50,
+                51,
+                52,
+                53,
+                82,
+                83
+            ],
+            "authors": [
+                "P.J. Hay",
+                "W.R. Wadt"
+            ],
+            "journal": "J. Chem. Phys.",
+            "orginal": "P.J. Hay and W.R. Wadt, J. Chem. Phys. 82, 284 (1985).",
+            "page": 284,
+            "title": false,
+            "valid": true,
+            "volume": 82,
+            "year": 1985
+        },
+        {
+            "Z": [
+                14,
+                15,
+                16,
+                17,
+                32,
+                33,
+                34,
+                35,
+                50,
+                51,
+                52,
+                53,
+                82,
+                83
+            ],
+            "authors": [
+                "L.E. Roy",
+                "P.J. Hay",
+                "R.L. Martin"
+            ],
+            "journal": "J. Chem. Theory Comput.",
+            "orginal": "L.E. Roy, P.J. Hay, and R.L. Martin, J. Chem. Theory Comput. 4, 1029 (2008).",
+            "page": 1029,
+            "title": false,
+            "valid": true,
+            "volume": 4,
+            "year": 2008
+        },
+        {
+            "Z": [
+                14,
+                15,
+                16,
+                17,
+                32,
+                33,
+                34,
+                35,
+                50,
+                51,
+                52,
+                53,
+                82,
+                83
+            ],
+            "authors": [
+                "C.E. Check",
+                "T.O. Faust",
+                "J.M. Bailey",
+                "B.J. Wright",
+                "T.M. Gilbert",
+                "L.S. Sunderlin"
+            ],
+            "journal": false,
+            "orginal": "C.E. Check, T.O. Faust, J.M. Bailey, B.J. Wright, T.M. Gilbert and L.S. Sunderlin, J Phys. Chem. A 105, 8111 (2001).",
+            "page": 8111,
+            "title": false,
+            "valid": true,
+            "volume": 105,
+            "year": 2001
+        }
+    ],
+    "original": "Elements                             References\n--------                             ----------\nSi   P   S   Cl   Ge   As   Se   Br   Sn   Sb   Te   I   Pb   Bi: P.J. Hay and W.R. Wadt, J. Chem. Phys. 82, 284 (1985).\nSi   P   S   Cl   Ge   As   Se   Br   Sn   Sb   Te   I   Pb   Bi: L.E. Roy, P.J. Hay, and R.L. Martin, J. Chem. Theory Comput. 4, 1029 (2008).\nSi   P   S   Cl   Ge   As   Se   Br   Sn   Sb   Te   I   Pb   Bi: C.E. Check, T.O. Faust, J.M. Bailey, B.J. Wright, T.M. Gilbert and L.S. Sunderlin, J Phys. Chem. A 105, 8111 (2001).\n\n\n",
+    "valid": true
+}

@@ -1,0 +1,31 @@
+{
+    "citations": [
+        {
+            "Z": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10
+            ],
+            "authors": [
+                "Duminda S. Ranasinghe",
+                "George A. Petersson"
+            ],
+            "journal": "Journal of Chemical Physics",
+            "orginal": "Duminda S. Ranasinghe and George A. Petersson, CCSD(T)?CBS atomic and molecular benchmarks for H through Ar, Journal of Chemical Physics 138, 144104 (2013).",
+            "page": 144104,
+            "title": "CCSD(T)?CBS atomic and molecular benchmarks for H through Ar",
+            "valid": true,
+            "volume": 138,
+            "year": 2013
+        }
+    ],
+    "original": "Elements                             References\n--------                             ----------\nH He Li Be B C N O F Ne: Duminda S. Ranasinghe and George A. Petersson, CCSD(T)?CBS atomic and molecular benchmarks for H through Ar, Journal of Chemical Physics 138, 144104 (2013).\n\n\n",
+    "valid": true
+}

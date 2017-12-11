@@ -1,0 +1,41 @@
+{
+    "citations": [
+        {
+            "Z": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18
+            ],
+            "authors": [
+                "S. Lehtola",
+                "P. Manninen",
+                "M. Hakala",
+                "K. H\u00e4m\u00e4l\u00e4inen"
+            ],
+            "journal": "J. Chem. Phys.",
+            "orginal": "S. Lehtola, P. Manninen, M. Hakala, and K. H\u00e4m\u00e4l\u00e4inen, Contraction of completeness-optimized basis sets: Application to ground-state electron momentum densities, J. Chem. Phys. 138, 044109 (2013).",
+            "page": 44109,
+            "title": "Contraction of completeness-optimized basis sets: Application to ground-state electron momentum densities",
+            "valid": true,
+            "volume": 138,
+            "year": 2013
+        }
+    ],
+    "original": "Elements                             References\n--------                             ----------\nHe H Be Li Ne C N F B O Mg Na Ar P Cl Al Si S: S. Lehtola, P. Manninen, M. Hakala, and K. H\u00e4m\u00e4l\u00e4inen, Contraction of completeness-optimized basis sets: Application to ground-state electron momentum densities, J. Chem. Phys. 138, 044109 (2013).\n\n\n",
+    "valid": true
+}
