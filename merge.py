@@ -54,3 +54,8 @@ for f in element_files:
 
 # Rename the old file
 os.rename(src, src + '.old')
+
+# Rename the old description file
+if os.path.isfile(src_base + '.txt'):
+    src_desc_file = src_base + '.txt'
+    os.rename(src_desc_file, src_desc_file + '.old')

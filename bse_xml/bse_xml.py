@@ -14,8 +14,6 @@ ns = { 'default': 'http://purl.oclc.org/NET/EMSL/BSE',
 def create_json_filename(xmlpath, filetype=None):
     bsdir = os.path.dirname(xmlpath)
     filebase = os.path.basename(xmlpath)
-    # Remove "-AGG"
-    #filebase = filebase.replace("-AGG.", ".")
     filename = os.path.splitext(filebase)[0]
 
     if filetype:
@@ -28,43 +26,34 @@ def create_json_filename(xmlpath, filetype=None):
 
 def get_single_node(node, tag):
     a = node.findall(tag, ns)
-    if not a:
-        raise RuntimeError('tag {} not found'.format(tag))
-    if len(a) != 1:
-        raise RuntimeError('Multiple tags {} found'.format(tag))
-    return a[0]
+    if a:
+        return a[0]
+    else:
+        return None
 
 
-def get_single_text(node, tag, default=None):
-    a = node.findall(tag, ns)
-    if not a:
-        if default:
-            return default
-        else:
-            raise RuntimeError('tag {} not found'.format(tag))
-
-    if len(a) != 1:
-        raise RuntimeError('Multiple tags {} found'.format(tag))
-
-    if len(a[0].attrib) > 0:
-        raise RuntimeError('Tag {} has attributes'.format(tag))
-
-    return a[0].text
+def get_single_text(node, tag):
+    a = get_single_node(node, tag)
+    if a != None:
+        return a.text
+    else:
+        return None
 
 
 def get_links(node, tag):
     all_nodes = node.findall(tag, ns)
-    if not all_nodes:
-        raise RuntimeError('tag {} not found'.format(tag))
-    ret = []
-    for a in all_nodes:
-        ret.append(a.attrib['{{{}}}href'.format(ns['xlink'])])
-
-    return ret
+    if all_nodes:
+        return [ a.attrib['{{{}}}href'.format(ns['xlink'])] for a in all_nodes ]
+    else:
+        return None
 
 
 def get_single_link(node, tag):
-    return get_links(node, tag)[0]
+    a = get_links(node, tag)
+    if a != None:
+        return a[0]
+    else:
+        return None
 
 
 def text_to_cont(txt):
@@ -110,12 +99,6 @@ def text_to_ecpcont(txt):
     return (rexponents,gexponents,coefficients)
 
 
-
-def get_ref_file(reffile):
-    root = ET.parse(reffile).getroot()
-    return get_single_text(root, 'default:notes')
-
-
 def determine_role_region(r):
     orb_roles = ['diffuse', 'polarization', 'rydberg', 'tight', 'valence']
     if r in orb_roles:
@@ -125,8 +108,8 @@ def determine_role_region(r):
 
 
 def read_basis_xml(xmlfile):
-    # Path to the directory
-    bsdir = os.path.dirname(xmlfile)
+    # File without the extension
+    file_base = os.path.splitext(xmlfile)[0]
 
     # Parse the XML
     bsdict = {}
@@ -134,7 +117,13 @@ def read_basis_xml(xmlfile):
 
     # Read the metadata
     bsdict['basisSetName'] = get_single_text(root, 'dc:title')
-    bsdict['basisSetDescription'] = get_single_text(root, 'dct:abstract', bsdict['basisSetName'])
+
+    # Abstract is optional
+    abstract = get_single_text(root, 'dct:abstract')
+    if not abstract:
+        abstract = bsdict['basisSetName']
+    bsdict['basisSetDescription'] = abstract
+
     bstype = get_single_text(root, 'default:basisSetType')
     role, region = determine_role_region(bstype)
     bsdict['basisSetRole'] = role
@@ -143,14 +132,15 @@ def read_basis_xml(xmlfile):
     functionType = 'gto'
 
     # Path to the reference file
-    if root.findall('default:referencesLink', ns):
-        ref_file = get_single_link(root, 'default:referencesLink')
-        ref_file = os.path.join(bsdir, ref_file)
-        ref_data = get_ref_file(ref_file)
-        bs_ref = get_ref_file(ref_file)
+    ref_file = get_single_link(root, 'default:referencesLink')
+    if ref_file:
+        ref_base = os.path.splitext(ref_file)[0]
 
-    # These will be stored separately
+    # Read description and store in a separate file
     bs_desc = get_single_text(root, 'dc:description')
+    if bs_desc:
+        with open(file_base + '.txt', 'w') as f:
+            f.write(bs_desc)
 
     # Read in contraction data
     bsdict['basisSetElements'] = {}
@@ -161,7 +151,7 @@ def read_basis_xml(xmlfile):
         el = cs.attrib['elementType']
         el = bse.lut.element_data_from_sym(el)[0]
 
-        elementData = { 'elementReferences': ['TODO'] }
+        elementData = { 'elementReferences': [ref_base] }
         shells = []
 
         for c in cs.findall('default:contraction', ns):
@@ -190,26 +180,35 @@ def read_basis_xml(xmlfile):
 
 
 def read_ecp_xml(xmlfile):
-    # Path to the directory
-    bsdir = os.path.dirname(xmlfile)
+    # File without the extension
+    file_base = os.path.splitext(xmlfile)[0]
 
     # Parse the XML
-    ecpdict = {}
+    bsdict = {}
     root = ET.parse(xmlfile).getroot()
 
     # Read the metadata
-    ecpdict['ecpName'] = get_single_text(root, 'dc:title')
+    bsdict['basisSetName'] = get_single_text(root, 'dc:title')
 
-    #ecpdict['ecpDescription'] = get_single_text(root, 'dct:abstract', ecpdict['ecpName'])
+    abstract = get_single_text(root, 'dct:abstract')
+    if not abstract:
+        abstract = bsdict['basisSetName']
+    bsdict['basisSetDescription'] = abstract
     ecptype = get_single_text(root, 'default:ecpType')
 
     # Path to the reference file
-    if root.findall('default:referencesLink', ns):
-        ref_file = get_single_link(root, 'default:referencesLink')
-        ref_file = os.path.join(bsdir, ref_file)
-        ref_data = get_ref_file(ref_file)
+    ref_file = get_single_link(root, 'default:referencesLink')
+    if ref_file:
+        ref_base = os.path.splitext(ref_file)[0]
 
-    ecpdict['ecpElements'] = {}
+    # Read description and store in a separate file
+    bs_desc = get_single_text(root, 'dc:description')
+    if bs_desc:
+        with open(file_base + '.txt', 'w') as f:
+            f.write(bs_desc)
+
+
+    bsdict['basisSetElements'] = {}
     all_pots = root.findall('default:potentials', ns)
 
     for cs in all_pots:
@@ -219,8 +218,8 @@ def read_ecp_xml(xmlfile):
 
         nelectrons = int(cs.attrib['numElectronsReplaced'])
 
-        elementData = { 'elementReferences': ['TODO'],
-                        'elementNumElectrons' : nelectrons
+        elementData = { 'elementReferences': [ref_base],
+                        'elementECPElectrons' : nelectrons
                          }
         potentials = []
 
@@ -233,7 +232,8 @@ def read_ecp_xml(xmlfile):
             ngen = int(mat.attrib['columns']) - 1  # Columns includes exponents
             rexponents,gexponents,coefficients = text_to_ecpcont(mat.text)
 
-            pot = { 'potentialAngularMomentum': am,
+            pot = { 'potentialECPType' : ecptype, 
+                    'potentialAngularMomentum': am,
                     'potentialRExponents' : rexponents,
                     'potentialGaussianExponents' : gexponents,
                     'potentialCoefficients' : coefficients
@@ -241,28 +241,46 @@ def read_ecp_xml(xmlfile):
             potentials.append(pot)
 
         elementData['elementECP'] = potentials
-        ecpdict['ecpElements'][el] = elementData
+        bsdict['basisSetElements'][el] = elementData
 
-    return ecpdict
+    return bsdict
 
+
+def read_xml(xmlfile):
+    if xmlfile.endswith('-ECP.xml'):
+        return read_ecp_xml(xmlfile)
+    else:
+        return read_basis_xml(xmlfile)
 
 
 def read_basis_xml_agg(xmlfile):
-    # Path to the directory
-    bsdir = os.path.dirname(xmlfile)
+    # File without the extension
+    file_base = os.path.splitext(xmlfile)[0]
 
     # Parse the XML
     root = ET.parse(xmlfile).getroot()
 
     # Read the metadata
     name = get_single_text(root, 'dc:title')
-    desc = get_single_text(root, 'dct:abstract', name)
+    desc = get_single_text(root, 'dct:abstract')
+    if not desc:
+        desc = name
 
     bstype = get_single_text(root, 'default:basisSetType')
     role, region = determine_role_region(bstype)
 
-    # These will be stored separately
+
+    # Path to the reference file
+    ref_file = get_single_link(root, 'default:referencesLink')
+    if ref_file:
+        ref_base = os.path.splitext(ref_file)[0]
+
+    # Read description and store in a separate file
     bs_desc = get_single_text(root, 'dc:description')
+    if bs_desc:
+        with open(file_base + '.txt', 'w') as f:
+            f.write(bs_desc)
+
 
     # Read in the components
     # These are the paths to the xml files
@@ -273,33 +291,23 @@ def read_basis_xml_agg(xmlfile):
         xml_files.extend(get_links(root, 'default:basisSetLink'))
 
     # ECP link
-    ecp_file = None
-    if root.findall('default:effectivePotentialsLink', ns):
-        ecp_file = get_single_link(root, 'default:effectivePotentialsLink')
+    ecp_file = get_single_link(root, 'default:effectivePotentialsLink')
+    if ecp_file:
         xml_files.append(ecp_file) 
         ecp_name = os.path.splitext(ecp_file)[0]
-
-    # Convert to full paths
-    xml_paths = [ os.path.join(bsdir, p) for p in xml_files ]
 
     # Convert these paths to json files instead
     # and read in the basis set data
     json_files = [ create_json_filename(p) for p in xml_files ]
-    json_paths = [ os.path.join(bsdir, p) for p in json_files ]
-    json_data = [ bse.read_json_by_path(p) for p in json_paths ]
+    json_data = [ bse.read_json_by_path(p) for p in json_files ]
 
     # Also, just the names of the basis sets
-    # (use json_files rather than xml_files since we removed "-AGG")
     basis_names = [ os.path.splitext(p)[0] for p in json_files ]
 
     # Find the intersection for all the elements of the basis sets
     elements = []
     for x in json_data:
-        if 'basisSetElements' in x:
-            elements.append(list(x['basisSetElements'].keys()))
-        if 'ecpElements' in x:
-            elements.append(list(x['ecpElements'].keys()))
-    print(elements)
+        elements.append(list(x['basisSetElements'].keys()))
 
     element_intersection = set(elements[0]).intersection(*elements[1:])
     element_union = set(elements[0]).union(*elements[1:])
@@ -312,17 +320,13 @@ def read_basis_xml_agg(xmlfile):
                   'basisSetElements': elements
                  }
 
-
-
     # Periodic table basis dictionary
     elements = { }
     for e in element_union:
         v = []
         for i,p in enumerate(json_files):
             bs = json_data[i]
-            if 'basisSetElements' in bs and e in bs['basisSetElements'].keys():
-                v.append(basis_names[i])
-            if 'ecpElements' in bs and e in bs['ecpElements'].keys():
+            if e in bs['basisSetElements'].keys():
                 v.append(basis_names[i])
 
         # Use the atom file with the same name
@@ -344,15 +348,12 @@ def read_basis_xml_agg(xmlfile):
     return (atom_dict, table_dict)
 
 
-
 def convert_xml(xmlfile):
-    if xmlfile.endswith('-ECP.xml'):
-        bsdict = read_ecp_xml(xmlfile)
-    else:
-        bsdict = read_basis_xml(xmlfile)
-        
+    bsdict = read_xml(xmlfile)
     outfile = create_json_filename(xmlfile)
     print("New basis file: ", outfile)
+
+    bsdict['molssi_bse_magic'] = 1
     bse.write_basis_file(outfile, bsdict)
 
 
@@ -365,16 +366,16 @@ def convert_xml_agg(xmlfile):
     print("Atom basis: ", atom_basis_path)
     print("Table basis: ", table_basis_path)
 
+    atom_dict['molssi_bse_magic'] = 1
+    table_dict['molssi_bse_magic'] = 1
+
     bse.write_basis_file(atom_basis_path, atom_dict)
     bse.write_basis_file(table_basis_path, table_dict)
 
 
 def get_ecp_file(xmlfile):
     root = ET.parse(xmlfile).getroot()
-    if root.findall('default:effectivePotentialsLink', ns):
-        return get_single_link(root, 'default:effectivePotentialsLink')
-    else:
-        return None
+    return get_single_link(root, 'default:effectivePotentialsLink')
 
 
 def create_xml_agg(xmlfile):
@@ -387,18 +388,31 @@ def create_xml_agg(xmlfile):
     atom_basis_name = os.path.splitext(atom_basis_name)[0]
 
     json_file = os.path.basename(create_json_filename(xmlfile))
-    json_name = [os.path.splitext(json_file)[0]]
+    json_name = os.path.splitext(json_file)[0]
 
-    bs = read_basis_xml(xmlfile)
+    bs = read_xml(xmlfile)
 
+    # May be none
     ecp_file = get_ecp_file(xmlfile)
 
     elementlist = list(bs['basisSetElements'].keys())
-    if ecp_file:
-        json_name.append(os.path.splitext(ecp_file)[0])
 
-    atom_elements = { k: { 'elementComponents': json_name } for k in elementlist }
+    atom_elements = { k: { 'elementComponents': [ json_name ] } for k in elementlist }
     table_elements = { k: { 'elementEntry': atom_basis_name } for k in elementlist }
+
+    # Handle elements with ecp
+    if ecp_file:
+        ecp_name = os.path.splitext(ecp_file)[0]
+        ecp_data = bse.read_json_by_path(ecp_name + '.json')
+        ecp_elements = list(ecp_data['basisSetElements'].keys())
+
+        for k in ecp_elements:
+            if not k in atom_elements:
+                atom_elements[k] = { 'elementComponents': [ ecp_name ] }
+            else:
+                atom_elements[k]['elementComponents'].append(ecp_name)
+
+    # Create the actual dictionaries
 
     atom_dict = { 'basisSetName': bs['basisSetName'],
                   'basisSetDescription': bs['basisSetDescription'],
@@ -410,5 +424,7 @@ def create_xml_agg(xmlfile):
                    'basisSetElements': table_elements
                   }
 
+    atom_dict['molssi_bse_magic'] = 1
+    table_dict['molssi_bse_magic'] = 1
     bse.write_basis_file(atom_basis_file, atom_dict)
     bse.write_basis_file(table_basis_file, table_dict)

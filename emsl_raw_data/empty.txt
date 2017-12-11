@@ -1,0 +1,4 @@
+
+"/files/projects/Basis_Set_Curators/Gaussian/emsl-lib/AUG-CC-PCVDZ-DK-AGG.xml", "aug-cc-pCVDZ-DK", "orbital", "[Li, Be, B, C, N, O, F, Ne, Na, Mg, Al, Si, P, S, Cl, Ar]", "", "false", "false", "Tue, 22 Feb 2011 01:01:34 GMT", "N/A", "N/A", "QZ3PD   Quadruple Zeta + Polarization +Diffuse on All Atoms"
+"/files/projects/Basis_Set_Curators/Gaussian/emsl-lib/AUG-CC-PCVTZ-DK-AGG.xml", "aug-cc-pCVTZ-DK", "orbital", "[Li, Be, B, C, N, O, F, Ne, Na, Mg, Al, Si, P, S, Cl, Ar]", "", "false", "false", "Tue, 22 Feb 2011 01:01:07 GMT", "N/A", "N/A", "QZ3PD   Quadruple Zeta + Polarization +Diffuse on All Atoms"
+"/files/projects/Basis_Set_Curators/Gaussian/emsl-lib/AUG-CC-PCVQZ-DK-AGG.xml", "aug-cc-pCVQZ-DK", "orbital", "[Li, Be, B, C, N, O, F, Ne, Na, Mg, Al, Si, P, S, Cl, Ar]", "", "false", "false", "Tue, 22 Feb 2011 00:27:53 GMT", "N/A", "N/A", "QZ3PD   Quadruple Zeta + Polarization +Diffuse on All Atoms"

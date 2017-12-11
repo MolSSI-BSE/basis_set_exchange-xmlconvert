@@ -2062,4 +2062,4 @@ Element  Energy, H     Polarizability, a.u.&#xD;
 0.68815941916E-01 0.0000000 0.0000000 0.0000000 1.0000000000
 </cml:matrix></contraction><contraction shell="F"><cml:matrix rows="2" columns="3" dataType="xs:double">0.41806000000 1.0000000000 0.0000000
 2.1000000000 0.0000000 1.0000000000
-</cml:matrix></contraction></contractions><effectivePotentialsLink xlink:type="simple" xlink:href="/sam/files/projects/Basis_Set_Curators/Gaussian/contrib/weigend_new_0/DEF2-ECP.xml" /></basisset>
+</cml:matrix></contraction></contractions><effectivePotentialsLink xlink:type="simple" xlink:href="../../contrib/weigend_new_0/DEF2-ECP.xml" /></basisset>

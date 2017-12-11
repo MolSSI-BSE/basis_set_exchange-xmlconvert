@@ -155,4 +155,4 @@
 1.9270000 0.0000000 1.0000000 0.0000000 0.0000000
 0.5528000 0.0000000 0.0000000 1.0000000 0.0000000
 0.1700000 0.0000000 0.0000000 0.0000000 1.0000000
-</cml:matrix></contraction></contractions><effectivePotentialsLink xlink:type="simple" xlink:href="/sam/files/projects/Basis_Set_Curators/Gaussian/emsl-lib/LANL2DZ-ECP.xml" /></basisset>
+</cml:matrix></contraction></contractions><effectivePotentialsLink xlink:type="simple" xlink:href="../../emsl-lib/LANL2DZ-ECP.xml" /></basisset>

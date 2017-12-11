@@ -4,11 +4,10 @@ set -eu
 cd xml
 
 # Convert all XML files
-# for now, skip ECP and REF
+# for now, skip REF and AGG
 for F in *xml
 do
     if [[ $F != *"-REF.xml" && \
-          $F != *"-ECP.xml" && \
           $F != *"-AGG.xml" ]]
     then
         echo $F
@@ -16,20 +15,17 @@ do
     fi
 done
 
-
 # Create element,table entries for all that are listed
 # in a tmp file
-for F in `cat ../only-emsl-lib-names.txt`
+cat ../all_basis_sets.txt | while read I
 do
+    F=`basename "$I"`
     echo $F
-    if [[ $F != *"-ECP.xml" ]]
+    if [[ $F == *"-AGG.xml" ]]
     then
-        if [[ $F == *"-AGG.xml" ]]
-        then
-           ../../convert_xml_agg.py $F 
-        else
-           ../../create_simple_agg.py $F 
-        fi
+       ../../convert_xml_agg.py $F 
+    else
+       ../../create_simple_agg.py $F 
     fi
 done
 
