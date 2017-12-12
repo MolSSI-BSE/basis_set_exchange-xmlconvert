@@ -7,77 +7,18 @@ import difflib
 import json
 import collections
 
-# Pull in globals and make temps
-with open("parse_data/journal_abbv.txt", "r") as infile:
-    journal_abbv = infile.read().splitlines()
+import metadata as md
 
+# Pull in globals and make temps
+journal_abbv = md.known_journals
 authors_dict = {}
 authors_count = collections.defaultdict(int)
-author_translators = {
-    "Kirk A. Peterson": "K. A. Peterson", 
-    "P. von R. Schleyer": "P. R. Schleyer",
-    "P. v. R. Schleyer": "P. R. Schleyer",
-    "P. V. R. Schleyer": "P. R. Schleyer",
-
-    "James A. Platts": "J. A. Platts",
-
-    "George A. Petersson": "G. A. Petersson",
-
-    "J-P. Blandeau": "J-P. Blaudeau",
-
-    "T. v. Mourik": "T. van Mourik",
-
-    "O. Roos": "B. O. Roos",
-    ". O. Roos": "B. O. Roos",
-
-    "B come from J. D. Dill": "J. D. Dill",
-
-    "Larry A. Curtiss": "L. A. Curtiss",
-    "J. Grant Hill": "J. G. Hill",
-
-   "Duminda S. Ranasinghe": "D. Ranasinghe",
-
-    # Valid!
-    #['G. A. Petersson', 'K. A. Peterson']
-    #['J. Lehtola', 'S. Lehtola']
-
-}
 
 errors = []
 total_cit = 0
 
 journals_dict = {}
 journals_count = collections.defaultdict(int)
-journal_translators = {
-    "J. Phys. Chem. A.": "J. Phys. Chem. A",
-    "J. Chem. Theo. Comp.": "J. Chem. Theory Comput.",
-    "J. Chem. Theory Comp.": "J. Chem. Theory Comput.",
-    "J. Chem. Theory Comput": "J. Chem. Theory Comput.",
-    "Comput. Theor. Chem.": "Compt. Theor. Chem.",
-    "J. Am. Chem. Soc.": "J. Am. Chem. Soc",
-    "Theoret. Chimica Acta": "Theor. Chim. Acta",
-    "J. Comp. Chem.": "J. Comput. Chem.",
-    "J. Chem. Phys": "J. Chem. Phys.",
-    "Journal of Molecular Modeling": "J. Mol. Model.",
-    "J.Chem.Phys.": "J. Chem. Phys.",
-
-    # Shrnink abbvs
-    "The Journal of Chemical Physics": "J. Chem. Phys.",
-    "The Journal of chemical physics": "J. Chem. Phys.",
-    "Journal of Chemical Theory and Computation": "J. Chem. Theory Comput.",
-    "Journal of Computational Chemistry": "J. Comput. Chem.",
-    "Journal of Physical Chemistry A": "J. Phys. Chem. A",
-    "Chemical Physics Letters": "Chem. Phys. Lett.",
-    "Chem. Phys. Letters": "Chem. Phys. Lett.",
-    "Molecular Physics": "Mol. Phys.",
-    "Physical Chemistry Chemical Physics": "Phys. Chem. Chem. Phys.",
-    "Theoretical Chemistry Accounts": "Theor. Chem. Acc.",
-    "J. Mol. Struct. (Theochem)": "J. Mol. Struct. THEOCHEM",
-    "J. Mol. Struct. (THEOCHEM)": "J. Mol. Struct. THEOCHEM",
-    "Journal of Molecular Structure: THEOCHEM": "J. Mol. Struct. THEOCHEM",
-    "Journal of Chemical Physics": " J. Chem. Phys.",
-    "Theoretica Chimica Acta": "Theor. Chim. Acta",
-}
 
 #def build_author_compare
 
@@ -89,6 +30,7 @@ for infile in glob.glob("stage1/*.json"):
 
     if data["valid"] is False:
         errors.append(infile)
+        #print(infile)
         continue
 
     if len(data["citations"]) == 0:
@@ -98,14 +40,16 @@ for infile in glob.glob("stage1/*.json"):
     parsed_citations = []
     for cit in data["citations"]:
         if cit["valid"] is False:
-            found_all = False
+            #found_all = False
+            parsed_citations.append(cit)
             continue
 
         # Handle journal
         j = cit["journal"]
         if j is False:
-            found_all = False
+            #found_all = False
             cit["valid"] = False
+            parsed_citations.append(cit)
             continue
 
         j = j.strip()
@@ -113,14 +57,15 @@ for infile in glob.glob("stage1/*.json"):
         if len(j) == 0:
             cit["valid"] = False
             cit["journal"] = False
-            found_all = False
+            #found_all = False
+            parsed_citations.append(cit)
             continue
 
         # People cannot spell!
-        if j in journal_translators:
-            j = journal_translators[j]
+        if j in md.journal_translators:
+            j = md.journal_translators[j]
 
-        j_list = difflib.get_close_matches(j, journal_abbv, cutoff=0.95)
+        j_list = difflib.get_close_matches(j, md.valid_journals, cutoff=0.95)
         if len(j_list) == 1:
             j = j_list[0]
             if j in journals_dict:
@@ -128,8 +73,8 @@ for infile in glob.glob("stage1/*.json"):
             else:
                 journals_dict[j] = set([j])
         elif len(j_list) == 0:
-            continue
             print("Journal: Warning cannot find %s" % j)
+            continue
         else:
             print("Journal: Found matches %s : %s" % (j, ", ".join(j_list)))
             continue
@@ -141,7 +86,9 @@ for infile in glob.glob("stage1/*.json"):
         # Handle authors
         new_authors = []
         if len(cit["authors"]) == 0:
-            found_all = False
+            #found_all = False
+            cit["valid"] = False
+            parsed_citations.append(cit)
             continue
 
         for author in cit["authors"]:
@@ -153,8 +100,8 @@ for infile in glob.glob("stage1/*.json"):
                 continue
                 
 
-            if author in author_translators:
-                author = author_translators[author]
+            if author in md.author_translators:
+                author = md.author_translators[author]
     
             author_list = difflib.get_close_matches(author, list(authors_dict), cutoff=0.95)
             if len(author_list) == 0:
@@ -185,7 +132,7 @@ for k, v in journals_dict.items():
         print("%30s : %s" % (k, ", ".join(v)))
         raise Exception("Duplicate journal name found and not parsed")
 
-if False:
+if True:
     print("Journals %d: " % len(journals_count))
     for key in sorted(journals_count):
         print("%4d | %s" % (journals_count[key], key))
@@ -197,6 +144,7 @@ if False:
 articles_dict = {}
 articles_found = 0
 results_parsed = 0
+bad_articles = 0
 
 keyends = "abcdefghijkl"
 
@@ -210,9 +158,13 @@ for name, data in results.items():
     complete = True
     new_citations = []
     for cit in data["citations"]:
-        if (len(cit["authors"]) == 0) or (False in cit["authors"]):
-            complete = False
-            break
+        if (cit["valid"] is False) or (len(cit["authors"]) == 0) or (False in cit["authors"]):
+            new_citations.append(cit)
+            bad_articles += 1
+
+            articles_found += 1
+            #print(json.dumps(cit, indent=4))
+            continue
 
         fkey = cit["authors"][0].split()[-1].lower()
         fkey += ":" + str(cit["year"])
@@ -261,9 +213,11 @@ with open("REFERENCES.json", "w") as outfile:
             
 print("Total number of basis sets %d" % total_cit)
 print("Total number of basis sets parsed %d" % len(results))
-print("Total number of basis set articles parsed %d" % results_parsed)
+print("")
 print("Total number of articles found %d" % articles_found)
+print("Total number of articles parsed %d" % results_parsed)
 print("Total number of unique articles found %d" % len(articles_dict))
+print("Total number of bad articles found %d" % bad_articles)
 
 
 
