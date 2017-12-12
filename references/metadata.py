@@ -37,6 +37,9 @@ journal_translators = {
     "Journal of Molecular Structure: THEOCHEM": "J. Mol. Struct. THEOCHEM",
     "Journal of Chemical Physics": " J. Chem. Phys.",
     "Theoretica Chimica Acta": "Theor. Chim. Acta",
+    "Journal of the American Chemical Society": "J. Am. Chem. Soc.",
+    "The Journal of Physical Chemistry A": "J. Phys. Chem. A",
+    "The Journal of Physical Chemistry": "J. Phys. Chem.",
 }
 
 author_translators = {
@@ -56,6 +59,9 @@ author_translators = {
     "Duminda S. Ranasinghe": "D. Ranasinghe",
     "Trygve Helgaker": "T. Helgaker",
     "Frank Jensen": "F. Jensen",
+    "C. W. Bauschlicher": "C. W. Bauschlicher, Jr.",
+    "Dmitrij Rappoport": "D. Rappoport",
+    "F. Furche": "F. Furche",
 
     # Valid!
     #['G. A. Petersson', 'K. A. Peterson']
@@ -64,6 +70,7 @@ author_translators = {
 
 
 known_journals = valid_journals + list(journal_translators)
+known_authors = list(author_translators)
 
 # Lookup dictionaries
 _temp_symbol = [

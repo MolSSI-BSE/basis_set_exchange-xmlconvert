@@ -5,6 +5,7 @@ Garbage and convoluted code attempting to parse the formless REF data using web 
 import glob
 import difflib
 import json
+import requests
 from xml.etree import ElementTree as ET
 
 # Locals
@@ -15,6 +16,39 @@ DO_PRINT = False
 
 STRICT = True
 STRICT = False
+
+found_cr_matches = 0
+
+def _parse_message(data):
+    ret = {}
+    ret["title"] = data["title"][0]
+    ret["authors"] = []
+    for author in data["author"]:
+        ret["authors"].append(author["given"] + " " + author["family"])
+    
+    ret["journal"] = data['container-title'][0]
+    ret["volume"] = data["volume"]
+    ret["page"] = data["page"]
+    ret["year"] = data["published-print"]["date-parts"][0][0]
+    ret["DOI"] = data["DOI"]
+    return ret
+
+def query_crossref(query):
+    # Requested by crossref API
+    headers = {
+        'User-Agent': 'BSEConverter 1.0 (mailto:bpp4@vt.edu)'
+    }
+
+    print(query)
+    r = requests.get('https://api.crossref.org/works', params={'query': query}, headers=headers)
+    if r.status_code != 200:
+        return None
+    else:
+        j = json.loads(r.text)
+        try:
+            return _parse_message(j['message']['items'][0])
+        except:
+            return None
 
 def string_remove_chars(chars, string):
     for x in chars:
@@ -100,6 +134,7 @@ def _handle_cit(citation):
     DO_PRINT = False
 
     ret = {"original": citation.strip(), "valid": False}
+    og_citation = citation[:]
 
     # Filter out incomplete
     for err in ["to be published", "submitted", "unpublished", "unofficial", "private com"]:
@@ -122,6 +157,9 @@ def _handle_cit(citation):
         ret["DOI"] = tmp[1].strip()
     else:
         raise KeyError("Unpack DOI not understood: %s" % str(tmp))
+
+
+    cr_data = query_crossref(citation)
 
     citation = citation.replace(" -", "-")
 
@@ -223,10 +261,30 @@ def _handle_cit(citation):
         print(ret["original"])
         print(remain)
         raise Exception()
-
+    
     ret["valid"] = True
-    return ret
 
+    # No CR data to compare to 
+    if cr_data is None:
+        return ret
+
+    matches = int(ret["volume"]) == int(cr_data["volume"])
+    matches &= int(ret["page"]) == int(cr_data["page"].split('-')[0])
+    matches &= int(ret["year"]) == int(cr_data["year"])
+   
+    if matches:
+        global found_cr_matches
+        found_cr_matches += 1    
+        cr_data["original"] = og_citation
+        cr_data["valid"] = True
+        return cr_data
+    else:
+        return ret
+         
+    #print(matches)
+    #print(json.dumps(cr_data, indent=4))
+    #print(json.dumps(ret, indent=4))
+    #raise Exception()
 
 def _parse_citation(atoms, cit):
 
@@ -279,7 +337,7 @@ for infile in glob.glob("../data/xml_stage/*REF.xml"):
 #for infile in glob.glob("../data/xml/CC-PVQZ-DK-BS-REF.xml"):
     #print(infile)
 
-    json_data = parse_ref_file(infile)
+#    json_data = parse_ref_file(infile)
 #    raise Exception()
     try:
         json_data = parse_ref_file(infile)
@@ -306,3 +364,4 @@ for infile in glob.glob("../data/xml_stage/*REF.xml"):
 #    raise
 
 print("Success %d, Failures %d,  Ratio %3.2f" % (success, failures, success / (failures + success)))
+print("Found CR matches %d" % found_cr_matches) 

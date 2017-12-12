@@ -28,7 +28,7 @@ for infile in glob.glob("stage1/*.json"):
     with open(infile, "r") as infile_data:
         data = json.load(infile_data)
 
-    if data["valid"] is False:
+    if not data["valid"]:
         errors.append(infile)
         #print(infile)
         continue
@@ -39,7 +39,7 @@ for infile in glob.glob("stage1/*.json"):
     found_all = True
     parsed_citations = []
     for cit in data["citations"]:
-        if cit["valid"] is False:
+        if cit["valid"] is not True:
             #found_all = False
             parsed_citations.append(cit)
             continue
@@ -153,14 +153,18 @@ keyends = "abcdefghijkl"
 for name, data in results.items():
 
     if len(data["citations"]) == 0:
+        print(name)
         continue
 
+    #print(name)
     complete = True
     new_citations = []
     for cit in data["citations"]:
-        if (cit["valid"] is False) or (len(cit["authors"]) == 0) or (False in cit["authors"]):
+        if (cit["valid"] is not True) or (len(cit["authors"]) == 0) or (False in cit["authors"]):
             new_citations.append(cit)
-            bad_articles += 1
+            if cit["valid"] is False:
+                bad_articles += 1
+                print(json.dumps(cit, indent=4))
 
             articles_found += 1
             #print(json.dumps(cit, indent=4))
@@ -214,10 +218,14 @@ with open("REFERENCES.json", "w") as outfile:
 print("Total number of basis sets %d" % total_cit)
 print("Total number of basis sets parsed %d" % len(results))
 print("")
+print("Total number of results %d" % len(results))
+print("Total number of results parsed %d" % results_parsed)
+print("")
 print("Total number of articles found %d" % articles_found)
-print("Total number of articles parsed %d" % results_parsed)
 print("Total number of unique articles found %d" % len(articles_dict))
 print("Total number of bad articles found %d" % bad_articles)
+missing_doi = sum(True for k, v in articles_dict.items() if "DOI" not in k)
+print("Total number of missing DOI %d" % missing_doi)
 
 
 
