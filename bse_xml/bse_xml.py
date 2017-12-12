@@ -101,10 +101,16 @@ def text_to_ecpcont(txt):
 
 def determine_role_region(r):
     orb_roles = ['diffuse', 'polarization', 'rydberg', 'tight', 'valence']
-    if r in orb_roles:
-        return ('orbital',r)
-    else:
-        return (r, r)
+
+    role = 'orbital'
+
+    region = r
+    if r == 'orbital':
+        region = 'valence'
+    elif r == 'ecporb':
+        region = 'valence'
+
+    return (role, region)
 
 
 def read_basis_xml(xmlfile):
@@ -194,6 +200,7 @@ def read_ecp_xml(xmlfile):
     if not abstract:
         abstract = bsdict['basisSetName']
     bsdict['basisSetDescription'] = abstract
+    bsdict['basisSetRole'] = 'ecp'
     ecptype = get_single_text(root, 'default:ecpType')
 
     # Path to the reference file
@@ -333,7 +340,7 @@ def read_basis_xml_agg(xmlfile):
             atom_basis_file = create_json_filename(xmlfile, 'element')
             elements[e] = { 'elementEntry': atom_basis_file }
         elif len(v) == 1 and os.path.isfile(create_json_filename(v[0], 'element')):
-            elements[e] = { 'elementEntry': v[0] + '.element.json' }
+            elements[e] = { 'elementEntry': os.path.splitext(v[0])[0] + '.element.json' }
 
     table_dict = { 'basisSetName': name,
                    'basisSetDescription' : desc,
