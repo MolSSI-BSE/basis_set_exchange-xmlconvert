@@ -1,0 +1,58 @@
+{
+    "citations": [
+        {
+            "Z": [
+                1
+            ],
+            "article": "dunning:1989a",
+            "original": "T.H. Dunning, Jr. J. Chem. Phys. 90, 1007 (1989)."
+        },
+        {
+            "Z": [
+                2
+            ],
+            "article": "woon:1994a",
+            "original": "D.E. Woon and T.H. Dunning, Jr., J. Chem. Phys. 100, 2975 (1994)."
+        },
+        {
+            "Z": [
+                5,
+                6,
+                7,
+                8,
+                9
+            ],
+            "article": "kendall:1992a",
+            "original": "R.A. Kendall, T.H. Dunning, Jr. and R.J. Harrison, J. Chem. Phys. 96, 6796 (1992)."
+        },
+        {
+            "Z": [
+                13,
+                14,
+                15,
+                16,
+                17
+            ],
+            "article": "woon:1993a",
+            "original": "D.E. Woon and T.H. Dunning, Jr. J. Chem. Phys. 98, 1358 (1993)."
+        },
+        {
+            "Z": [
+                21,
+                22,
+                23,
+                24,
+                25,
+                26,
+                27,
+                28,
+                29,
+                30
+            ],
+            "article": "balabanov:2006a",
+            "original": "N.B. Balabanov and K.A. Peterson, J. Chem. Phys. 123, 064107 (2005), N.B. Balabanov and K.A. Peterson, J. Chem. Phys. 125, 074110 (2006)."
+        }
+    ],
+    "original": "Elements                             References\n--------                             ---------\nH    :  T.H. Dunning, Jr. J. Chem. Phys. 90, 1007 (1989).\nHe   :  D.E. Woon and T.H. Dunning, Jr., J. Chem. Phys. 100, 2975 (1994).\nB - F:  R.A. Kendall, T.H. Dunning, Jr. and R.J. Harrison, J. Chem. Phys. 96,\n6796 (1992).\nAl - Cl: D.E. Woon and T.H. Dunning, Jr. J. Chem. Phys. 98, 1358 (1993).\nSc - Zn: N.B. Balabanov and K.A. Peterson, J. Chem. Phys. 123, 064107 (2005),\nN.B. Balabanov and K.A. Peterson, J. Chem. Phys. 125, 074110 (2006).\n\n\n",
+    "valid": true
+}
