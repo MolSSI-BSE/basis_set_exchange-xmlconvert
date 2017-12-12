@@ -23,7 +23,7 @@
                 19,
                 20
             ],
-            "orginal": "6-311+G Valence Triple Zeta Basis ---------------------------------",
+            "original": "6-311+G Valence Triple Zeta Basis ---------------------------------",
             "valid": false
         },
         {
@@ -45,7 +45,7 @@
                 "J.A. Pople"
             ],
             "journal": "J. Chem. Phys.",
-            "orginal": "R. Krishnan, J.S. Binkley, R. Seeger and J.A. Pople, J. Chem. Phys. 72, 650 (1980)",
+            "original": "R. Krishnan, J.S. Binkley, R. Seeger and J.A. Pople, J. Chem. Phys. 72, 650 (1980)",
             "page": 650,
             "title": false,
             "valid": true,
@@ -68,7 +68,7 @@
                 "G.S. Chandler J. Chem. Phys."
             ],
             "journal": false,
-            "orginal": "A.D. McLean and G.S. Chandler J. Chem. Phys. 72, 5639, (1980).",
+            "original": "A.D. McLean and G.S. Chandler J. Chem. Phys. 72, 5639, (1980).",
             "page": 5639,
             "title": false,
             "valid": true,
@@ -87,7 +87,7 @@
                 "L. Radom"
             ],
             "journal": "J. Chem. Phys.",
-            "orginal": "J-P. Blaudeau, M. P. McGrath, L.A. Curtiss and L. Radom, J. Chem. Phys. 107, 5016 (1997).",
+            "original": "J-P. Blaudeau, M. P. McGrath, L.A. Curtiss and L. Radom, J. Chem. Phys. 107, 5016 (1997).",
             "page": 5016,
             "title": false,
             "valid": true,
@@ -112,7 +112,7 @@
                 "L. Radom"
             ],
             "journal": "J. Chem. Phys.",
-            "orginal": "L. A. Curtiss, M. P. McGrath, J-P. Blandeau, N. E. Davis, R. C. Binning, Jr. L. Radom, J. Chem. Phys. 103, 6104 (1995).",
+            "original": "L. A. Curtiss, M. P. McGrath, J-P. Blandeau, N. E. Davis, R. C. Binning, Jr. L. Radom, J. Chem. Phys. 103, 6104 (1995).",
             "page": 6104,
             "title": false,
             "valid": true,
@@ -130,7 +130,7 @@
                 "L. Radom"
             ],
             "journal": "J. Chem. Phys.",
-            "orginal": "M.N. Glukhovstev, A. pross, M.P. McGrath, L. Radom, J. Chem. Phys. 103, 1878 (1995)",
+            "original": "M.N. Glukhovstev, A. pross, M.P. McGrath, L. Radom, J. Chem. Phys. 103, 1878 (1995)",
             "page": 1878,
             "title": false,
             "valid": true,
@@ -156,7 +156,7 @@
                 16,
                 17
             ],
-            "orginal": "T. Clark, J. Chandrasekhar,  G.W. Spitznagel, P.V.R. Schleyer, J. Comp. Chem. 4, 294 (1983).  6-311+G** polarization ----------------------",
+            "original": "T. Clark, J. Chandrasekhar,  G.W. Spitznagel, P.V.R. Schleyer, J. Comp. Chem. 4, 294 (1983).  6-311+G** polarization ----------------------",
             "valid": false
         },
         {
@@ -187,7 +187,7 @@
                 "J.A. Pople"
             ],
             "journal": "J. Chem. Phys.",
-            "orginal": "R. Krishnan, J.S. Binkley, R. Seeger, J.A. Pople, J. Chem. Phys. 72, 650 (1980)",
+            "original": "R. Krishnan, J.S. Binkley, R. Seeger, J.A. Pople, J. Chem. Phys. 72, 650 (1980)",
             "page": 650,
             "title": false,
             "valid": true,

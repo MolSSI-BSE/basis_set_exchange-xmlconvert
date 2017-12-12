@@ -15,7 +15,7 @@
                 "T.H. Dunning"
             ],
             "journal": "J. Chem. Phys.",
-            "orginal": "T.H. Dunning, Jr. J. Chem. Phys. 90, 1007 (1989) and D. E. Woon and T.H. Dunning, Jr. J. Chem. Phys. 103, 4572 (1995).",
+            "original": "T.H. Dunning, Jr. J. Chem. Phys. 90, 1007 (1989) and D. E. Woon and T.H. Dunning, Jr. J. Chem. Phys. 103, 4572 (1995).",
             "page": 4572,
             "title": "J. Chem. Phys. 90, 1007 (1989) and D. E. Woon and T.H. Dunning",
             "valid": true,
@@ -36,7 +36,7 @@
                 "T.H. Dunning"
             ],
             "journal": "J. Chem. Phys.",
-            "orginal": "K.A. Peterson and T.H. Dunning, Jr. J. Chem. Phys. 117, 10548 (2002)",
+            "original": "K.A. Peterson and T.H. Dunning, Jr. J. Chem. Phys. 117, 10548 (2002)",
             "page": 10548,
             "title": false,
             "valid": true,
@@ -47,7 +47,7 @@
             "Z": [
                 20
             ],
-            "orginal": "K.A. Peterson (to be published)",
+            "original": "K.A. Peterson (to be published)",
             "valid": false
         }
     ],

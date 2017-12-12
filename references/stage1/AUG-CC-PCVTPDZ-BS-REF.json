@@ -14,7 +14,7 @@
                 "T.H. Dunning"
             ],
             "journal": "J. Chem. Phys.",
-            "orginal": "D.E. Woon and T.H. Dunning, Jr., Gaussian basis sets for use in correlated molecular calculations. III. The atoms aluminum through argon, J. Chem. Phys. 98, 1358 (1993).",
+            "original": "D.E. Woon and T.H. Dunning, Jr., Gaussian basis sets for use in correlated molecular calculations. III. The atoms aluminum through argon, J. Chem. Phys. 98, 1358 (1993).",
             "page": 1358,
             "title": "Gaussian basis sets for use in correlated molecular calculations. III. The atoms aluminum through argon",
             "valid": true,
@@ -34,7 +34,7 @@
                 "A. K. Wilson"
             ],
             "journal": "Theor. Chem. Acc.",
-            "orginal": "S. Yockel and A. K. Wilson, Core-valence correlation consistent basis sets for second-row atoms (Al-Ar) revisited, Theor. Chem. Acc. 120, 119 (2008).",
+            "original": "S. Yockel and A. K. Wilson, Core-valence correlation consistent basis sets for second-row atoms (Al-Ar) revisited, Theor. Chem. Acc. 120, 119 (2008).",
             "page": 119,
             "title": "Core-valence correlation consistent basis sets for second-row atoms (Al-Ar) revisited",
             "valid": true,
@@ -55,7 +55,7 @@
                 "T.H. Dunning"
             ],
             "journal": "J. Chem. Phys.",
-            "orginal": "K.A. Peterson and T.H. Dunning, Jr., Accurate correlation consistent basis sets for molecular core?valence correlation effects: The second row atoms Al?Ar, and the first row atoms B?Ne revisited, J. Chem. Phys. 117, 10548 (2002).",
+            "original": "K.A. Peterson and T.H. Dunning, Jr., Accurate correlation consistent basis sets for molecular core?valence correlation effects: The second row atoms Al?Ar, and the first row atoms B?Ne revisited, J. Chem. Phys. 117, 10548 (2002).",
             "page": 10548,
             "title": "Accurate correlation consistent basis sets for molecular core?valence correlation effects: The second row atoms Al?Ar, and the first row atoms B?Ne revisited",
             "valid": true,

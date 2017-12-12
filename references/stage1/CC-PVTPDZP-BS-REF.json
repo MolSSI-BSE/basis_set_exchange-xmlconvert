@@ -21,7 +21,7 @@
                 17,
                 18
             ],
-            "orginal": "E. Papajak, H. R. Leverentz, J. Zheng, and D. G. Truhlar, J. Chem. Theory Comput. 5, 1197-1202 (2009), doi: 10.1021/ct800575z.",
+            "original": "E. Papajak, H. R. Leverentz, J. Zheng, and D. G. Truhlar, J. Chem. Theory Comput. 5, 1197-1202 (2009), doi: 10.1021/ct800575z.",
             "valid": false
         },
         {
@@ -52,7 +52,7 @@
                 "P.V.R. Schleyer"
             ],
             "journal": "J. Comp. Chem.",
-            "orginal": "T. Clark, J. Chandrasekhar,  G.W. Spitznagel, P.V.R. Schleyer, J. Comp. Chem. 4, 294 (1983).",
+            "original": "T. Clark, J. Chandrasekhar,  G.W. Spitznagel, P.V.R. Schleyer, J. Comp. Chem. 4, 294 (1983).",
             "page": 294,
             "title": false,
             "valid": true,
@@ -75,7 +75,7 @@
                 "T.H. Dunning"
             ],
             "journal": "J. Chem. Phys.",
-            "orginal": "T.H. Dunning, Jr., J. Chem. Phys. 90, 1007 (1989).",
+            "original": "T.H. Dunning, Jr., J. Chem. Phys. 90, 1007 (1989).",
             "page": 1007,
             "title": false,
             "valid": true,
@@ -91,7 +91,7 @@
                 "T.H. Dunning"
             ],
             "journal": "J. Chem. Phys.",
-            "orginal": "D.E. Woon and T.H. Dunning, Jr., J. Chem. Phys. 100, 2975 (1994).",
+            "original": "D.E. Woon and T.H. Dunning, Jr., J. Chem. Phys. 100, 2975 (1994).",
             "page": 2975,
             "title": false,
             "valid": true,
@@ -112,7 +112,7 @@
                 "R.J. Harrison"
             ],
             "journal": "J. Chem. Phys.",
-            "orginal": "R.A. Kendall, T.H. Dunning, Jr. and R.J. Harrison, J. Chem. Phys. 96, 6796 (1992).",
+            "original": "R.A. Kendall, T.H. Dunning, Jr. and R.J. Harrison, J. Chem. Phys. 96, 6796 (1992).",
             "page": 6796,
             "title": false,
             "valid": true,
@@ -124,7 +124,7 @@
                 11,
                 12
             ],
-            "orginal": "D.E. Woon and T.H. Dunning, Jr., to be published .",
+            "original": "D.E. Woon and T.H. Dunning, Jr., to be published .",
             "valid": false
         },
         {
@@ -141,7 +141,7 @@
                 "T.H. Dunning"
             ],
             "journal": "J. Chem. Phys.",
-            "orginal": "D.E. Woon and T.H. Dunning, Jr., J. Chem. Phys. 98, 1358 (1993).",
+            "original": "D.E. Woon and T.H. Dunning, Jr., J. Chem. Phys. 98, 1358 (1993).",
             "page": 1358,
             "title": false,
             "valid": true,
@@ -163,7 +163,7 @@
                 "A.K. Wilson"
             ],
             "journal": "J. Chem. Phys.",
-            "orginal": "T.H. Dunning, Jr., K.A. Peterson and A.K. Wilson, J. Chem. Phys. 114, 9244 (2001).",
+            "original": "T.H. Dunning, Jr., K.A. Peterson and A.K. Wilson, J. Chem. Phys. 114, 9244 (2001).",
             "page": 9244,
             "title": false,
             "valid": true,
@@ -172,7 +172,7 @@
         },
         {
             "Z": [],
-            "orginal": ".",
+            "original": ".",
             "valid": false
         }
     ],

@@ -4,7 +4,7 @@
             "Z": [
                 1
             ],
-            "orginal": "K.A. Peterson, D.E. Woon (unpublished)",
+            "original": "K.A. Peterson, D.E. Woon (unpublished)",
             "valid": false
         },
         {
@@ -20,7 +20,7 @@
                 "T.H. Dunning"
             ],
             "journal": "J. Mol. Struct. (THEOCHEM)",
-            "orginal": "A.K. Wilson, T. van Mourik and T.H. Dunning, Jr. J. Mol. Struct. (THEOCHEM) 388, 339 (1997).",
+            "original": "A.K. Wilson, T. van Mourik and T.H. Dunning, Jr. J. Mol. Struct. (THEOCHEM) 388, 339 (1997).",
             "page": 339,
             "title": false,
             "valid": true,
@@ -31,7 +31,7 @@
             "Z": [
                 17
             ],
-            "orginal": "",
+            "original": "",
             "valid": false
         }
     ],

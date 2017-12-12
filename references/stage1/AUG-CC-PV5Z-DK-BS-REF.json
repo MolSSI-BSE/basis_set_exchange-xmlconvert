@@ -8,7 +8,7 @@
                 "T.H. Dunning"
             ],
             "journal": "J. Chem. Phys.",
-            "orginal": "T.H. Dunning, Jr. J. Chem. Phys. 90, 1007 (1989).",
+            "original": "T.H. Dunning, Jr. J. Chem. Phys. 90, 1007 (1989).",
             "page": 1007,
             "title": false,
             "valid": true,
@@ -19,7 +19,7 @@
             "Z": [
                 1
             ],
-            "orginal": "Diffuse s exponent - S. Mielke",
+            "original": "Diffuse s exponent - S. Mielke",
             "valid": false
         },
         {
@@ -31,7 +31,7 @@
                 "T.H. Dunning"
             ],
             "journal": "J. Chem. Phys.",
-            "orginal": "D.E. Woon and T.H. Dunning, Jr., J. Chem. Phys. 100, 2975 (1994).",
+            "original": "D.E. Woon and T.H. Dunning, Jr., J. Chem. Phys. 100, 2975 (1994).",
             "page": 2975,
             "title": false,
             "valid": true,
@@ -52,7 +52,7 @@
                 "R.J. Harrison"
             ],
             "journal": "J. Chem. Phys.",
-            "orginal": "R.A. Kendall, T.H. Dunning, Jr. and R.J. Harrison, J. Chem. Phys. 96, 6796 (1992).",
+            "original": "R.A. Kendall, T.H. Dunning, Jr. and R.J. Harrison, J. Chem. Phys. 96, 6796 (1992).",
             "page": 6796,
             "title": false,
             "valid": true,
@@ -72,7 +72,7 @@
                 "T.H. Dunning"
             ],
             "journal": "J. Chem. Phys.",
-            "orginal": "D.E. Woon and T.H. Dunning, Jr. J. Chem. Phys. 98, 1358 (1993).",
+            "original": "D.E. Woon and T.H. Dunning, Jr. J. Chem. Phys. 98, 1358 (1993).",
             "page": 1358,
             "title": false,
             "valid": true,
@@ -97,7 +97,7 @@
                 "K.A. Peterson"
             ],
             "journal": "",
-            "orginal": "N.B. Balabanov and K.A. Peterson, J. Chem. Phys, 123, 064107 (2005)",
+            "original": "N.B. Balabanov and K.A. Peterson, J. Chem. Phys, 123, 064107 (2005)",
             "page": 64107,
             "title": "J. Chem. Phys",
             "valid": true,

@@ -5,7 +5,7 @@
                 1,
                 2
             ],
-            "orginal": "W.J. Hehre, R.F. Stewart and J.A. Pople, J. Chem. Phys. 2657 (1969).",
+            "original": "W.J. Hehre, R.F. Stewart and J.A. Pople, J. Chem. Phys. 2657 (1969).",
             "valid": false
         },
         {
@@ -19,7 +19,7 @@
                 9,
                 10
             ],
-            "orginal": "",
+            "original": "",
             "valid": false
         },
         {
@@ -33,7 +33,7 @@
                 17,
                 18
             ],
-            "orginal": "W.J. Hehre, R. Ditchfield, R.F. Stewart, J.A. Pople, J. Chem. Phys.",
+            "original": "W.J. Hehre, R. Ditchfield, R.F. Stewart, J.A. Pople, J. Chem. Phys.",
             "valid": false
         },
         {
@@ -59,7 +59,7 @@
             ],
             "authors": [],
             "journal": false,
-            "orginal": "52, 2769 (1970).",
+            "original": "52, 2769 (1970).",
             "page": 2769,
             "title": false,
             "valid": true,

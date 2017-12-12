@@ -9,7 +9,7 @@
                 9,
                 10
             ],
-            "orginal": "(18s,12p,7d,5f,3g,1h) -> [10s,9p,7d,5f,3g,1h] D. Woon, K. Peterson",
+            "original": "(18s,12p,7d,5f,3g,1h) -> [10s,9p,7d,5f,3g,1h] D. Woon, K. Peterson",
             "valid": false
         },
         {
@@ -21,14 +21,14 @@
                 17,
                 18
             ],
-            "orginal": "(20s,12p,8d,6f,4g,2h) -> [7s,6p,4d,3f,2g,1h] K.A. Peterson and T.H. Dunning, Jr., J. Chem. Phys. 117,10548 (2002).",
+            "original": "(20s,12p,8d,6f,4g,2h) -> [7s,6p,4d,3f,2g,1h] K.A. Peterson and T.H. Dunning, Jr., J. Chem. Phys. 117,10548 (2002).",
             "valid": false
         },
         {
             "Z": [
                 20
             ],
-            "orginal": "(26s,18p,12d,6f,4g,2h)-> [12s,10p,9d,6f,4g,2h]  J. Koput and K.A. Peterson, J.  Phys. Chem. A, 106, 9595(2002)",
+            "original": "(26s,18p,12d,6f,4g,2h)-> [12s,10p,9d,6f,4g,2h]  J. Koput and K.A. Peterson, J.  Phys. Chem. A, 106, 9595(2002)",
             "valid": false
         }
     ],

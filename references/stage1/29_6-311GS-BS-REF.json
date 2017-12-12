@@ -30,7 +30,7 @@
                 36,
                 53
             ],
-            "orginal": ".  Elements                             References --------                             ----------",
+            "original": ".  Elements                             References --------                             ----------",
             "valid": false
         },
         {
@@ -52,7 +52,7 @@
                 "J.A. Pople"
             ],
             "journal": "J. Chem. Phys.",
-            "orginal": "R. Krishnan, J.S. Binkley, R. Seeger and J.A. Pople, J. Chem. Phys. 72, 650 (1980)",
+            "original": "R. Krishnan, J.S. Binkley, R. Seeger and J.A. Pople, J. Chem. Phys. 72, 650 (1980)",
             "page": 650,
             "title": false,
             "valid": true,
@@ -75,7 +75,7 @@
                 "G.S. Chandler J. Chem. Phys."
             ],
             "journal": false,
-            "orginal": "A.D. McLean and G.S. Chandler J. Chem. Phys. 72, 5639, (1980).",
+            "original": "A.D. McLean and G.S. Chandler J. Chem. Phys. 72, 5639, (1980).",
             "page": 5639,
             "title": false,
             "valid": true,
@@ -94,7 +94,7 @@
                 "L. Radom"
             ],
             "journal": "J. Chem. Phys.",
-            "orginal": "J-P. Blaudeau, M. P. McGrath, L.A. Curtiss and L. Radom, J. Chem. Phys. 107, 5016 (1997).",
+            "original": "J-P. Blaudeau, M. P. McGrath, L.A. Curtiss and L. Radom, J. Chem. Phys. 107, 5016 (1997).",
             "page": 5016,
             "title": false,
             "valid": true,
@@ -119,7 +119,7 @@
                 "L. Radom"
             ],
             "journal": "J. Chem. Phys.",
-            "orginal": "L. A. Curtiss, M. P. McGrath, J-P. Blandeau, N. E. Davis, R. C. Binning, Jr. L. Radom, J. Chem. Phys. 103, 6104 (1995).",
+            "original": "L. A. Curtiss, M. P. McGrath, J-P. Blandeau, N. E. Davis, R. C. Binning, Jr. L. Radom, J. Chem. Phys. 103, 6104 (1995).",
             "page": 6104,
             "title": false,
             "valid": true,
@@ -130,7 +130,7 @@
             "Z": [
                 53
             ],
-            "orginal": "M.N. Glukhovstev, A. pross, M.P. McGrath, L. Radom, J. Chem. Phys. 103, 1878 (1995) 6-311G* Polarization Functions ------------------------------ Elements                            Reference",
+            "original": "M.N. Glukhovstev, A. pross, M.P. McGrath, L. Radom, J. Chem. Phys. 103, 1878 (1995) 6-311G* Polarization Functions ------------------------------ Elements                            Reference",
             "valid": false
         },
         {
@@ -138,7 +138,7 @@
                 1,
                 2
             ],
-            "orginal": "(1p) R. Krishnan, J.S. Binkley, R. Seeger and J.A. Pople, J. Chem.",
+            "original": "(1p) R. Krishnan, J.S. Binkley, R. Seeger and J.A. Pople, J. Chem.",
             "valid": false
         },
         {
@@ -156,7 +156,7 @@
                 "1d Phys."
             ],
             "journal": false,
-            "orginal": "(1d) Phys. 72, 650 (1980).",
+            "original": "(1d) Phys. 72, 650 (1980).",
             "page": 650,
             "title": false,
             "valid": true,
@@ -167,7 +167,7 @@
             "Z": [
                 -1
             ],
-            "orginal": "This basis uses 5-component d functions. This collection of polarization functions was chosen to give the lowest possible energy for the atomic ground states in frozen core UMP2 calculations. For Be all exponents were optimized for the 1s2 2s1 2p1 excited 2-P state.",
+            "original": "This basis uses 5-component d functions. This collection of polarization functions was chosen to give the lowest possible energy for the atomic ground states in frozen core UMP2 calculations. For Be all exponents were optimized for the 1s2 2s1 2p1 excited 2-P state.",
             "valid": false
         }
     ],

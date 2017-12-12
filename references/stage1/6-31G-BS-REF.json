@@ -5,7 +5,7 @@
                 1,
                 2
             ],
-            "orginal": "W.J. Hehre, R. Ditchfield and J.A. Pople, J. Chem. Phys. 56,",
+            "original": "W.J. Hehre, R. Ditchfield and J.A. Pople, J. Chem. Phys. 56,",
             "valid": false
         },
         {
@@ -25,7 +25,7 @@
                 "J.A. Pople"
             ],
             "journal": "J. Chem. Phys.",
-            "orginal": "2257 (1972).  Note: Li and B come from J.D. Dill and J.A. Pople, J. Chem. Phys. 62, 2921 (1975).",
+            "original": "2257 (1972).  Note: Li and B come from J.D. Dill and J.A. Pople, J. Chem. Phys. 62, 2921 (1975).",
             "page": 2921,
             "title": "e",
             "valid": true,
@@ -53,7 +53,7 @@
                 "J.A. Pople"
             ],
             "journal": "J. Chem. Phys.",
-            "orginal": "M.M. Francl, W.J. Petro, W.J. Hehre, J.S. Binkley, M.S. Gordon, D.J. DeFrees and J.A. Pople, J. Chem. Phys. 77, 3654 (1982)",
+            "original": "M.M. Francl, W.J. Petro, W.J. Hehre, J.S. Binkley, M.S. Gordon, D.J. DeFrees and J.A. Pople, J. Chem. Phys. 77, 3654 (1982)",
             "page": 3654,
             "title": false,
             "valid": true,
@@ -82,7 +82,7 @@
                 "T.L. Windus"
             ],
             "journal": "J. Chem. Phys.",
-            "orginal": "V. Rassolov, J.A. Pople, M. Ratner and T.L. Windus, J. Chem. Phys. 109, 1223 (1998)",
+            "original": "V. Rassolov, J.A. Pople, M. Ratner and T.L. Windus, J. Chem. Phys. 109, 1223 (1998)",
             "page": 1223,
             "title": false,
             "valid": true,
@@ -93,7 +93,7 @@
             "Z": [
                 -1
             ],
-            "orginal": "He and Ne are unpublished basis sets taken from the Gaussian program",
+            "original": "He and Ne are unpublished basis sets taken from the Gaussian program",
             "valid": false
         }
     ],

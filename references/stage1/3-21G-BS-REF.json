@@ -19,7 +19,7 @@
                 "W.J. Hehre"
             ],
             "journal": "J. Am. Chem. Soc",
-            "orginal": "J.S. Binkley, J.A. Pople, W.J. Hehre, J. Am. Chem. Soc 102 939 (1980)",
+            "original": "J.S. Binkley, J.A. Pople, W.J. Hehre, J. Am. Chem. Soc 102 939 (1980)",
             "page": 939,
             "title": false,
             "valid": true,
@@ -45,7 +45,7 @@
                 "W.J. Hehre"
             ],
             "journal": "J. Am. Chem. Soc.",
-            "orginal": "M.S. Gordon, J.S. Binkley, J.A. Pople, W.J. Pietro and W.J. Hehre, J. Am. Chem. Soc. 104, 2797 (1983).",
+            "original": "M.S. Gordon, J.S. Binkley, J.A. Pople, W.J. Pietro and W.J. Hehre, J. Am. Chem. Soc. 104, 2797 (1983).",
             "page": 2797,
             "title": false,
             "valid": true,
@@ -62,7 +62,7 @@
                 "W.J. Hehre"
             ],
             "journal": "J. Comput. Chem.",
-            "orginal": "K.D. Dobbs, W.J. Hehre, J. Comput. Chem. 7, 359 (1986).",
+            "original": "K.D. Dobbs, W.J. Hehre, J. Comput. Chem. 7, 359 (1986).",
             "page": 359,
             "title": false,
             "valid": true,
@@ -83,7 +83,7 @@
                 "W.J. Hehre"
             ],
             "journal": "J. Comput. Chem.",
-            "orginal": "K.D. Dobbs, W.J. Hehre, J. Comput. Chem. 7, 359 (1986).",
+            "original": "K.D. Dobbs, W.J. Hehre, J. Comput. Chem. 7, 359 (1986).",
             "page": 359,
             "title": false,
             "valid": true,
@@ -108,7 +108,7 @@
                 "W.J. Hehre"
             ],
             "journal": "J. Comput. Chem.",
-            "orginal": "K.D. Dobbs, W.J. Hehre, J. Comput. Chem. 8, 861 (1987).",
+            "original": "K.D. Dobbs, W.J. Hehre, J. Comput. Chem. 8, 861 (1987).",
             "page": 861,
             "title": false,
             "valid": true,
@@ -133,7 +133,7 @@
                 "W.J. Hehre"
             ],
             "journal": "J. Comput. Chem.",
-            "orginal": "K.D. Dobbs, W.J. Hehre, J. Comput. Chem. 8, 880 (1987).",
+            "original": "K.D. Dobbs, W.J. Hehre, J. Comput. Chem. 8, 880 (1987).",
             "page": 880,
             "title": false,
             "valid": true,
@@ -149,7 +149,7 @@
                 "D. Feller"
             ],
             "journal": "J. Phys. Chem.",
-            "orginal": "A 3-21G quality set derived from the Huzinage MIDI basis sets. E.D. Glendening and D. Feller, J. Phys. Chem. 99, 3060 (1995)",
+            "original": "A 3-21G quality set derived from the Huzinage MIDI basis sets. E.D. Glendening and D. Feller, J. Phys. Chem. 99, 3060 (1995)",
             "page": 3060,
             "title": false,
             "valid": true,

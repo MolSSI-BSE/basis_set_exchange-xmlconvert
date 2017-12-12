@@ -4,7 +4,7 @@
             "Z": [
                 8
             ],
-            "orginal": "B. Metz and H. Stoll, private communication (KAP)",
+            "original": "B. Metz and H. Stoll, private communication (KAP)",
             "valid": false
         },
         {
@@ -19,7 +19,7 @@
                 "W. Liu"
             ],
             "journal": false,
-            "orginal": "B. Metz, M. Schweizer, H. Stoll, M. Dolg, W. Liu, Theor. Chem. Acc. 104, 22 (2000).",
+            "original": "B. Metz, M. Schweizer, H. Stoll, M. Dolg, W. Liu, Theor. Chem. Acc. 104, 22 (2000).",
             "page": 22,
             "title": false,
             "valid": true,
@@ -43,7 +43,7 @@
                 "M. Dolg"
             ],
             "journal": "J. Chem. Phys.",
-            "orginal": "B. Metz, H. Stoll, M. Dolg, J. Chem. Phys. 113, 2563 (2000).",
+            "original": "B. Metz, H. Stoll, M. Dolg, J. Chem. Phys. 113, 2563 (2000).",
             "page": 2563,
             "title": false,
             "valid": true,
@@ -62,7 +62,7 @@
                 85,
                 86
             ],
-            "orginal": "K.A. Peterson, D. Figgen, E. Goll, H. Stoll, and M. Dolg, J. Chem. Phys., in press (2003).",
+            "original": "K.A. Peterson, D. Figgen, E. Goll, H. Stoll, and M. Dolg, J. Chem. Phys., in press (2003).",
             "valid": false
         },
         {
@@ -81,7 +81,7 @@
                 "H. Stoll"
             ],
             "journal": false,
-            "orginal": "D. Figgen, G. Rauhut, M. Dolg, and H. Stoll, Chem. Phys. 311, 227 (2005).",
+            "original": "D. Figgen, G. Rauhut, M. Dolg, and H. Stoll, Chem. Phys. 311, 227 (2005).",
             "page": 227,
             "title": false,
             "valid": true,
@@ -106,7 +106,7 @@
                 "H. Stoll"
             ],
             "journal": "Journal of Chemical Physics",
-            "orginal": "K.A. Peterson, D. Figgen, M. Dolg, H. Stoll, Energy-consistent relativistic pseudopotentials and correlation consistent basis sets for the 4d elements Y-Pd, Journal of Chemical Physics 126, 124101 (2007).",
+            "original": "K.A. Peterson, D. Figgen, M. Dolg, H. Stoll, Energy-consistent relativistic pseudopotentials and correlation consistent basis sets for the 4d elements Y-Pd, Journal of Chemical Physics 126, 124101 (2007).",
             "page": 124101,
             "title": "Energy-consistent relativistic pseudopotentials and correlation consistent basis sets for the 4d elements Y-Pd",
             "valid": true,
@@ -124,7 +124,7 @@
                 "H. Stoll"
             ],
             "journal": "Journal of Physical Chemistry A",
-            "orginal": "K. A. Peterson, B. C. Shepler, D. Figgen, H. Stoll, On the spectroscopic and thermochemical properties of ClO, BrO, IO, and their anions, Journal of Physical Chemistry A 110, 13877 (2006).",
+            "original": "K. A. Peterson, B. C. Shepler, D. Figgen, H. Stoll, On the spectroscopic and thermochemical properties of ClO, BrO, IO, and their anions, Journal of Physical Chemistry A 110, 13877 (2006).",
             "page": 13877,
             "title": "On the spectroscopic and thermochemical properties of ClO, BrO, IO, and their anions",
             "valid": true,
@@ -148,7 +148,7 @@
                 "H. Stoll"
             ],
             "journal": "Journal of Chemical Physics",
-            "orginal": "D. Figgen, K.A. Peterson, M. Dolg, and H. Stoll, Energy-consistent pseudopotentials and correlation consistent basis sets for the 5d elements Hf-Pt, Journal of Chemical Physics 130, 164108 (2009).",
+            "original": "D. Figgen, K.A. Peterson, M. Dolg, and H. Stoll, Energy-consistent pseudopotentials and correlation consistent basis sets for the 5d elements Hf-Pt, Journal of Chemical Physics 130, 164108 (2009).",
             "page": 164108,
             "title": "Energy-consistent pseudopotentials and correlation consistent basis sets for the 5d elements Hf-Pt",
             "valid": true,

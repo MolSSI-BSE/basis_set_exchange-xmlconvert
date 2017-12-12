@@ -14,7 +14,7 @@
                 "T.H. Dunning"
             ],
             "journal": "J. Chem. Phys.",
-            "orginal": "D.E. Woon and T.H. Dunning, Jr., Gaussian basis sets for use in correlated molecular calculations. III. The atoms aluminum through argon, J. Chem. Phys. 98, 1358 (1993).",
+            "original": "D.E. Woon and T.H. Dunning, Jr., Gaussian basis sets for use in correlated molecular calculations. III. The atoms aluminum through argon, J. Chem. Phys. 98, 1358 (1993).",
             "page": 1358,
             "title": "Gaussian basis sets for use in correlated molecular calculations. III. The atoms aluminum through argon",
             "valid": true,
@@ -36,7 +36,7 @@
                 "A.K. Wilson"
             ],
             "journal": "J. Chem. Phys.",
-            "orginal": "T.H. Dunning, Jr., K.A. Peterson and A.K. Wilson, Gaussian basis sets for use in correlated molecular calculations. X. The atoms aluminum through argon revisited, J. Chem. Phys. 114, 9244 (2001).",
+            "original": "T.H. Dunning, Jr., K.A. Peterson and A.K. Wilson, Gaussian basis sets for use in correlated molecular calculations. X. The atoms aluminum through argon revisited, J. Chem. Phys. 114, 9244 (2001).",
             "page": 9244,
             "title": "Gaussian basis sets for use in correlated molecular calculations. X. The atoms aluminum through argon revisited",
             "valid": true,
@@ -88,7 +88,7 @@
                 "D.A. Dixon"
             ],
             "journal": "J. Chem. Phys.",
-            "orginal": "W.A. de Jong, R.J. Harrison and D.A. Dixon, Parallel Douglas?Kroll energy and gradients in NWChem: Estimating scalar relativistic effects using Douglas?Kroll contracted basis sets, J. Chem. Phys. 114, 48 (2001).",
+            "original": "W.A. de Jong, R.J. Harrison and D.A. Dixon, Parallel Douglas?Kroll energy and gradients in NWChem: Estimating scalar relativistic effects using Douglas?Kroll contracted basis sets, J. Chem. Phys. 114, 48 (2001).",
             "page": 48,
             "title": "Parallel Douglas?Kroll energy and gradients in NWChem: Estimating scalar relativistic effects using Douglas?Kroll contracted basis sets",
             "valid": true,

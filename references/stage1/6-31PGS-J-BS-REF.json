@@ -13,7 +13,7 @@
                 "J. A. Pople"
             ],
             "journal": "J. Chem. Phys.",
-            "orginal": "W. J. Hehre, R. Ditchfield and J. A. Pople, Self?Consistent Molecular Orbital Methods. XII. Further Extensions of Gaussian?Type Basis Sets for Use in Molecular Orbital Studies of Organic Molecules, J. Chem. Phys. 56, 2257-2261 (1972).",
+            "original": "W. J. Hehre, R. Ditchfield and J. A. Pople, Self?Consistent Molecular Orbital Methods. XII. Further Extensions of Gaussian?Type Basis Sets for Use in Molecular Orbital Studies of Organic Molecules, J. Chem. Phys. 56, 2257-2261 (1972).",
             "page": 2257,
             "title": "Self?Consistent Molecular Orbital Methods. XII. Further Extensions of Gaussian?Type Basis Sets for Use in Molecular Orbital Studies of Organic Molecules",
             "valid": true,
@@ -32,7 +32,7 @@
                 "J.A. Pople"
             ],
             "journal": "Theoret. Chimica Acta",
-            "orginal": "P.C. Hariharan and J.A. Pople, The Influence of Polarization Functions on Molecular Orbital Hydrogenation Energies, Theoret. Chimica Acta 28, 213-222 (1973).",
+            "original": "P.C. Hariharan and J.A. Pople, The Influence of Polarization Functions on Molecular Orbital Hydrogenation Energies, Theoret. Chimica Acta 28, 213-222 (1973).",
             "page": 213,
             "title": "The Influence of Polarization Functions on Molecular Orbital Hydrogenation Energies",
             "valid": true,
@@ -53,7 +53,7 @@
                 "P. von R. Schleyer"
             ],
             "journal": "J. Comp. Chem.",
-            "orginal": "T. Clark, J. Chandrasekhar, G.W. Spitznagel and P. von R. Schleyer, Efficient Diffuse Function- Augmented Basis Sets for Anion Calculations. III.* The 3-21+G Basis Set for First-Row Elements, Li-F, J. Comp. Chem. 4, 294-301 (1983).",
+            "original": "T. Clark, J. Chandrasekhar, G.W. Spitznagel and P. von R. Schleyer, Efficient Diffuse Function- Augmented Basis Sets for Anion Calculations. III.* The 3-21+G Basis Set for First-Row Elements, Li-F, J. Comp. Chem. 4, 294-301 (1983).",
             "page": 294,
             "title": "Efficient Diffuse Function- Augmented Basis Sets for Anion Calculations. III.* The 3-21+G Basis Set for First-Row Elements, Li-F",
             "valid": true,
@@ -72,7 +72,7 @@
                 "S. P. A. Sauer"
             ],
             "journal": "J. Chem. Theory Comput.",
-            "orginal": "H. Kj\u00e6r and S. P. A. Sauer, Pople style basis sets for the calculation of NMR spin-spin coupling constants: the 6-31G-J and 6-311G-J basis sets, J. Chem. Theory Comput. 7, 4070-4076 (2011).",
+            "original": "H. Kj\u00e6r and S. P. A. Sauer, Pople style basis sets for the calculation of NMR spin-spin coupling constants: the 6-31G-J and 6-311G-J basis sets, J. Chem. Theory Comput. 7, 4070-4076 (2011).",
             "page": 4070,
             "title": "Pople style basis sets for the calculation of NMR spin-spin coupling constants: the 6-31G-J and 6-311G-J basis sets",
             "valid": true,

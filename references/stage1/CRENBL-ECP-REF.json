@@ -4,7 +4,7 @@
             "Z": [
                 1
             ],
-            "orginal": "T.H. Dunning, Jr. and P.J. Hay; Gaussian Basis Sets for Molecular Calculations, in Methods of Electronic Structure Theory, Vol. 3 (1975)",
+            "original": "T.H. Dunning, Jr. and P.J. Hay; Gaussian Basis Sets for Molecular Calculations, in Methods of Electronic Structure Theory, Vol. 3 (1975)",
             "valid": false
         },
         {
@@ -31,7 +31,7 @@
                 "P. A. Christiansen"
             ],
             "journal": "J. Chem. Phys.",
-            "orginal": "L.F. Pacios and P. A. Christiansen, J. Chem. Phys. 82, 2664 (1985).",
+            "original": "L.F. Pacios and P. A. Christiansen, J. Chem. Phys. 82, 2664 (1985).",
             "page": 2664,
             "title": false,
             "valid": true,
@@ -63,7 +63,7 @@
                 "M.M. Hurley et al. J. Chem. Phys."
             ],
             "journal": false,
-            "orginal": "M.M. Hurley et al. J. Chem. Phys. 84, 6840 (1986).",
+            "original": "M.M. Hurley et al. J. Chem. Phys. 84, 6840 (1986).",
             "page": 6840,
             "title": false,
             "valid": true,
@@ -94,7 +94,7 @@
                 "L.A. LaJohn et al. J. Chem. Phys."
             ],
             "journal": false,
-            "orginal": "L.A. LaJohn et al. J. Chem. Phys., 87, 2812 (1987).",
+            "original": "L.A. LaJohn et al. J. Chem. Phys., 87, 2812 (1987).",
             "page": 2812,
             "title": false,
             "valid": true,
@@ -109,7 +109,7 @@
                 "M.M. Hurley et al. J. Chem. Phys."
             ],
             "journal": false,
-            "orginal": "M.M. Hurley et al. J. Chem. Phys. 84, 6840 (1986).",
+            "original": "M.M. Hurley et al. J. Chem. Phys. 84, 6840 (1986).",
             "page": 6840,
             "title": false,
             "valid": true,
@@ -126,7 +126,7 @@
                 "P.A. CHRISTIANSEN ET AL. J. CHEM. PHYS."
             ],
             "journal": false,
-            "orginal": "R.B. ROSS, W.C. ERMLER, P.A. CHRISTIANSEN ET AL. J. CHEM. PHYS. 93, (1990) 6654.",
+            "original": "R.B. ROSS, W.C. ERMLER, P.A. CHRISTIANSEN ET AL. J. CHEM. PHYS. 93, (1990) 6654.",
             "page": 1990,
             "title": false,
             "valid": true,
@@ -137,14 +137,14 @@
             "Z": [
                 56
             ],
-            "orginal": "R.B. ROSS, W.C. ERMLER, P.A. CHRISTIANSEN, ET AL. SUB.TO J. CHEM. PHYS.",
+            "original": "R.B. ROSS, W.C. ERMLER, P.A. CHRISTIANSEN, ET AL. SUB.TO J. CHEM. PHYS.",
             "valid": false
         },
         {
             "Z": [
                 57
             ],
-            "orginal": "R.B. ROSS, W.C. ERMLER, P.A. CHRISTIANSEN ET AL. J. CHEM. PHYS. 93,(1990)6654.",
+            "original": "R.B. ROSS, W.C. ERMLER, P.A. CHRISTIANSEN ET AL. J. CHEM. PHYS. 93,(1990)6654.",
             "valid": false
         },
         {
@@ -164,7 +164,7 @@
                 70,
                 71
             ],
-            "orginal": "R.B. Ross, W.C. Ermler, S. Das, To be published",
+            "original": "R.B. Ross, W.C. Ermler, S. Das, To be published",
             "valid": false
         },
         {
@@ -185,7 +185,7 @@
                 85,
                 86
             ],
-            "orginal": "R.B. ROSS, W.C. ERMLER, P.A. CHRISTIANSEN ET AL. J. CHEM. PHYS. 93,(1990)6654.",
+            "original": "R.B. ROSS, W.C. ERMLER, P.A. CHRISTIANSEN ET AL. J. CHEM. PHYS. 93,(1990)6654.",
             "valid": false
         },
         {
@@ -199,7 +199,7 @@
                 93,
                 94
             ],
-            "orginal": "W.C. ERMLER, R.B. ROSS, P.A. CHRISTIANSEN, INT. J. QUANT. CHEM. 40,(1991)829.",
+            "original": "W.C. ERMLER, R.B. ROSS, P.A. CHRISTIANSEN, INT. J. QUANT. CHEM. 40,(1991)829.",
             "valid": false
         },
         {
@@ -229,7 +229,7 @@
                 117,
                 118
             ],
-            "orginal": "C.S. NASH, B.E. BURSTEN, W.C. ERMLER, J. CHEM. PHYS. 1997",
+            "original": "C.S. NASH, B.E. BURSTEN, W.C. ERMLER, J. CHEM. PHYS. 1997",
             "valid": false
         }
     ],

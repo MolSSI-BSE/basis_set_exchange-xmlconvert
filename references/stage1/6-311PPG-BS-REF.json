@@ -19,7 +19,7 @@
                 "J.A. Pople"
             ],
             "journal": "J. Chem. Phys.",
-            "orginal": "R. Krishnan, J.S. Binkley, R. Seeger and J.A. Pople, J. Chem. Phys. 72, 650 (1980)",
+            "original": "R. Krishnan, J.S. Binkley, R. Seeger and J.A. Pople, J. Chem. Phys. 72, 650 (1980)",
             "page": 650,
             "title": false,
             "valid": true,
@@ -42,7 +42,7 @@
                 "G.S. Chandler J. Chem. Phys."
             ],
             "journal": false,
-            "orginal": "A.D. McLean and G.S. Chandler J. Chem. Phys. 72, 5639, (1980).",
+            "original": "A.D. McLean and G.S. Chandler J. Chem. Phys. 72, 5639, (1980).",
             "page": 5639,
             "title": false,
             "valid": true,
@@ -61,7 +61,7 @@
                 "L. Radom"
             ],
             "journal": "J. Chem. Phys.",
-            "orginal": "J-P. Blaudeau, M. P. McGrath, L.A. Curtiss and L. Radom, J. Chem. Phys. 107, 5016 (1997).",
+            "original": "J-P. Blaudeau, M. P. McGrath, L.A. Curtiss and L. Radom, J. Chem. Phys. 107, 5016 (1997).",
             "page": 5016,
             "title": false,
             "valid": true,
@@ -94,7 +94,7 @@
                 "P.V.R. Schleyer"
             ],
             "journal": "J. Comp. Chem.",
-            "orginal": "T. Clark, J. Chandrasekhar,  G.W. Spitznagel, P.V.R. Schleyer, J. Comp. Chem. 4, 294 (1983).",
+            "original": "T. Clark, J. Chandrasekhar,  G.W. Spitznagel, P.V.R. Schleyer, J. Comp. Chem. 4, 294 (1983).",
             "page": 294,
             "title": false,
             "valid": true,
@@ -109,7 +109,7 @@
                 "Diffuse functions J. Comp. Chem."
             ],
             "journal": false,
-            "orginal": "Diffuse functions (J. Comp. Chem. 4, 294 (1983).)",
+            "original": "Diffuse functions (J. Comp. Chem. 4, 294 (1983).)",
             "page": 294,
             "title": false,
             "valid": true,

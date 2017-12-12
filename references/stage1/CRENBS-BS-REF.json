@@ -14,7 +14,7 @@
                 "M.M. Hurley et al."
             ],
             "journal": "",
-            "orginal": "M.M. Hurley et al., J. Chem. Phys., 84, 6840 (1986). Ni          L.A. LaJohn et al., J. Chem. Phys., 87, 2812 (1987).",
+            "original": "M.M. Hurley et al., J. Chem. Phys., 84, 6840 (1986). Ni          L.A. LaJohn et al., J. Chem. Phys., 87, 2812 (1987).",
             "page": 2812,
             "title": "J. Chem. Phys., 84, 6840 (1986). Ni L.A. LaJohn et al., J. Chem. Phys.",
             "valid": true,
@@ -30,7 +30,7 @@
                 "M.M. Hurley et al."
             ],
             "journal": "",
-            "orginal": "M.M. Hurley et al., J. Chem. Phys., 84, 6840 (1986).",
+            "original": "M.M. Hurley et al., J. Chem. Phys., 84, 6840 (1986).",
             "page": 6840,
             "title": "J. Chem. Phys.",
             "valid": true,
@@ -54,7 +54,7 @@
                 "L.A. LaJohn et al."
             ],
             "journal": "",
-            "orginal": "L.A. LaJohn et al., J. Chem. Phys., 87, 2812 (1987).",
+            "original": "L.A. LaJohn et al., J. Chem. Phys., 87, 2812 (1987).",
             "page": 2812,
             "title": "J. Chem. Phys.",
             "valid": true,
@@ -86,7 +86,7 @@
                 "P.A. Christiansen et al. J. Chem. Phys."
             ],
             "journal": false,
-            "orginal": "R.B. Ross, W.C. Ermler, P.A. Christiansen et al. J. Chem. Phys. 93, 6654 (1990).",
+            "original": "R.B. Ross, W.C. Ermler, P.A. Christiansen et al. J. Chem. Phys. 93, 6654 (1990).",
             "page": 6654,
             "title": false,
             "valid": true,
@@ -111,7 +111,7 @@
                 117,
                 118
             ],
-            "orginal": "C.S. NASH, B.E. BURSTEN, W.C. ERMLER, J. CHEM. PHYS. 1997",
+            "original": "C.S. NASH, B.E. BURSTEN, W.C. ERMLER, J. CHEM. PHYS. 1997",
             "valid": false
         }
     ],

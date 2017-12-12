@@ -17,7 +17,7 @@
                 "J.A. Pople"
             ],
             "journal": false,
-            "orginal": "P.C. Hariharan and J.A. Pople, Theoret. Chimica Acta 28, 213 (1973).",
+            "original": "P.C. Hariharan and J.A. Pople, Theoret. Chimica Acta 28, 213 (1973).",
             "page": 213,
             "title": false,
             "valid": true,
@@ -45,7 +45,7 @@
                 "J.A. Pople"
             ],
             "journal": "J. Chem. Phys.",
-            "orginal": "M.M. Francl, W.J. Petro, W.J. Hehre, J.S. Binkley, M.S. Gordon, D.J. DeFrees and J.A. Pople, J. Chem. Phys. 77, 3654 (1982).",
+            "original": "M.M. Francl, W.J. Petro, W.J. Hehre, J.S. Binkley, M.S. Gordon, D.J. DeFrees and J.A. Pople, J. Chem. Phys. 77, 3654 (1982).",
             "page": 3654,
             "title": false,
             "valid": true,
@@ -74,7 +74,7 @@
                 "T.L. Windus J. Chem. Phys."
             ],
             "journal": false,
-            "orginal": "V.A. Rassolov, J.A. Pople, M.A. Ratner, and T.L. Windus J. Chem. Phys. 109, 1223 (1998)",
+            "original": "V.A. Rassolov, J.A. Pople, M.A. Ratner, and T.L. Windus J. Chem. Phys. 109, 1223 (1998)",
             "page": 1223,
             "title": false,
             "valid": true,
@@ -86,7 +86,7 @@
                 2,
                 10
             ],
-            "orginal": "Unpublished basis sets taken from Gaussian.",
+            "original": "Unpublished basis sets taken from Gaussian.",
             "valid": false
         }
     ],

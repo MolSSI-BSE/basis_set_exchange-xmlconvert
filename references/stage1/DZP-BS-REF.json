@@ -29,7 +29,7 @@
                 "Gaussian basis sets for correlated wave functions. Hydrogen"
             ],
             "journal": "J. Mol. Struct. (Theochem)",
-            "orginal": "A. Canal Neto, E. P. Muniz, R. Centoducatte, and F. E. Jorge, Gaussian basis sets for correlated wave functions. Hydrogen, helium, first- and second-row atoms, J. Mol. Struct. (Theochem) 718, 219 (2005).",
+            "original": "A. Canal Neto, E. P. Muniz, R. Centoducatte, and F. E. Jorge, Gaussian basis sets for correlated wave functions. Hydrogen, helium, first- and second-row atoms, J. Mol. Struct. (Theochem) 718, 219 (2005).",
             "page": 219,
             "title": "helium, first- and second-row atoms",
             "valid": true,
@@ -62,7 +62,7 @@
                 "F. E. Jorge"
             ],
             "journal": "J. Comp. Chem.",
-            "orginal": "G. G. Camiletti, S. F. Machado, and F. E. Jorge, Gaussian Basis Set of Double Zeta Quality for Atoms K Through Kr: Application in DFT Calculations of Molecular Properties, J. Comp. Chem. 29, 2434 (2008).",
+            "original": "G. G. Camiletti, S. F. Machado, and F. E. Jorge, Gaussian Basis Set of Double Zeta Quality for Atoms K Through Kr: Application in DFT Calculations of Molecular Properties, J. Comp. Chem. 29, 2434 (2008).",
             "page": 2434,
             "title": "Gaussian Basis Set of Double Zeta Quality for Atoms K Through Kr: Application in DFT Calculations of Molecular Properties",
             "valid": true,
@@ -98,7 +98,7 @@
                 "M. Campos"
             ],
             "journal": "Mol. Phys.",
-            "orginal": "C. L. Barros, P. J. P. de Oliveira, F. E. Jorge, A. Canal Neto, and M. Campos, Gaussian basis set of double zeta quality for atoms Rb through Xe: application in non-relativistic and relativistic calculations of atomic and molecular properties, Mol. Phys. 108, 1965 (2010).",
+            "original": "C. L. Barros, P. J. P. de Oliveira, F. E. Jorge, A. Canal Neto, and M. Campos, Gaussian basis set of double zeta quality for atoms Rb through Xe: application in non-relativistic and relativistic calculations of atomic and molecular properties, Mol. Phys. 108, 1965 (2010).",
             "page": 1965,
             "title": "Gaussian basis set of double zeta quality for atoms Rb through Xe: application in non-relativistic and relativistic calculations of atomic and molecular properties",
             "valid": true,
@@ -114,7 +114,7 @@
                 "F. E. Jorge"
             ],
             "journal": "J. Mol. Struct. (Theochem)",
-            "orginal": "R. C. de Berr\u00eado, and F. E. Jorge, All-electron double zeta basis sets for platinum: Estimating scalar relativistic effects on platinum(II) anticancer drugs, J. Mol. Struct. (Theochem) 961, 107 (2010).",
+            "original": "R. C. de Berr\u00eado, and F. E. Jorge, All-electron double zeta basis sets for platinum: Estimating scalar relativistic effects on platinum(II) anticancer drugs, J. Mol. Struct. (Theochem) 961, 107 (2010).",
             "page": 107,
             "title": "All-electron double zeta basis sets for platinum: Estimating scalar relativistic effects on platinum(II) anticancer drugs",
             "valid": true,
@@ -146,7 +146,7 @@
                 "F. E. Jorge"
             ],
             "journal": "Chem. Phys. Lett.",
-            "orginal": "A. Canal Neto and F. E. Jorge, All-electron double zeta basis sets for the most fifth-row atoms: Application in DFT spectroscopic constant calculations, Chem. Phys. Lett. 582, 158 (2013).",
+            "original": "A. Canal Neto and F. E. Jorge, All-electron double zeta basis sets for the most fifth-row atoms: Application in DFT spectroscopic constant calculations, Chem. Phys. Lett. 582, 158 (2013).",
             "page": 158,
             "title": "All-electron double zeta basis sets for the most fifth-row atoms: Application in DFT spectroscopic constant calculations",
             "valid": true,

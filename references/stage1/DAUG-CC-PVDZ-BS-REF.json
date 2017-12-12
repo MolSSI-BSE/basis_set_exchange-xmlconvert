@@ -10,7 +10,7 @@
                 "T.H. Dunning"
             ],
             "journal": "J. Chem. Phys.",
-            "orginal": "D.E. Woon and T.H. Dunning, Jr., J. Chem. Phys. 100, 2975 (1994).",
+            "original": "D.E. Woon and T.H. Dunning, Jr., J. Chem. Phys. 100, 2975 (1994).",
             "page": 2975,
             "title": false,
             "valid": true,
@@ -25,7 +25,7 @@
                 8,
                 9
             ],
-            "orginal": "",
+            "original": "",
             "valid": false
         },
         {
@@ -36,7 +36,7 @@
                 16,
                 17
             ],
-            "orginal": "",
+            "original": "",
             "valid": false
         }
     ],

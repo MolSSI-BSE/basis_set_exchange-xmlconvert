@@ -14,7 +14,7 @@
                 "J.A. Pople"
             ],
             "journal": "J. Chem. Phys.",
-            "orginal": "R. Ditchfield, W.J. Hehre and J.A. Pople, J. Chem. Phys. 54, 724 (1971).",
+            "original": "R. Ditchfield, W.J. Hehre and J.A. Pople, J. Chem. Phys. 54, 724 (1971).",
             "page": 724,
             "title": false,
             "valid": true,
@@ -26,7 +26,7 @@
                 2,
                 10
             ],
-            "orginal": "Gaussian 90",
+            "original": "Gaussian 90",
             "valid": false
         },
         {
@@ -34,7 +34,7 @@
                 3,
                 4
             ],
-            "orginal": "These are actually 5-21G basis sets.",
+            "original": "These are actually 5-21G basis sets.",
             "valid": false
         },
         {
@@ -56,7 +56,7 @@
                 "W.J. Hehre"
             ],
             "journal": "J. Am. Chem. Soc.",
-            "orginal": "M.S. Gordon, J.S. Binkley, J.A. Pople, W.J. Pietro and W.J. Hehre, J. Am. Chem. Soc. 104, 2797 (1983).",
+            "original": "M.S. Gordon, J.S. Binkley, J.A. Pople, W.J. Pietro and W.J. Hehre, J. Am. Chem. Soc. 104, 2797 (1983).",
             "page": 2797,
             "title": false,
             "valid": true,
