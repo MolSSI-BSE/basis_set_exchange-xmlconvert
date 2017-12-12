@@ -1,7 +1,7 @@
 
 set -eu
 
-cd xml
+cd xml_stage
 
 # Convert all XML files
 # for now, skip REF and AGG
@@ -17,7 +17,7 @@ done
 
 # Create element,table entries for all that are listed
 # in a tmp file
-cat ../all_basis_sets.txt | while read I
+cat ../$1 | while read I
 do
     F=`basename "$I"`
     echo $F
