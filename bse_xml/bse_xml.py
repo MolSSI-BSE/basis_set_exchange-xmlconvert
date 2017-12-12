@@ -149,7 +149,7 @@ def read_basis_xml(xmlfile):
     for cs in all_contractions:
         # Read in element and convert to Z number
         el = cs.attrib['elementType']
-        el = bse.lut.element_data_from_sym(el)[0]
+        el = bse.lut.element_data_from_sym(el)[1]
 
         elementData = { 'elementReferences': [ref_base] }
         shells = []
@@ -214,7 +214,7 @@ def read_ecp_xml(xmlfile):
     for cs in all_pots:
         # Read in element and convert to Z number
         el = cs.attrib['elementType']
-        el = bse.lut.element_data_from_sym(el)[0]
+        el = bse.lut.element_data_from_sym(el)[1]
 
         nelectrons = int(cs.attrib['numElectronsReplaced'])
 
@@ -294,15 +294,11 @@ def read_basis_xml_agg(xmlfile):
     ecp_file = get_single_link(root, 'default:effectivePotentialsLink')
     if ecp_file:
         xml_files.append(ecp_file) 
-        ecp_name = os.path.splitext(ecp_file)[0]
 
     # Convert these paths to json files instead
     # and read in the basis set data
     json_files = [ create_json_filename(p) for p in xml_files ]
-    json_data = [ bse.read_json_by_path(p) for p in json_files ]
-
-    # Also, just the names of the basis sets
-    basis_names = [ os.path.splitext(p)[0] for p in json_files ]
+    json_data = [ bse.read_json_basis(p) for p in json_files ]
 
     # Find the intersection for all the elements of the basis sets
     elements = []
@@ -313,7 +309,7 @@ def read_basis_xml_agg(xmlfile):
     element_union = set(elements[0]).union(*elements[1:])
 
     # "Atom" basis dictionary
-    elements = { k: { 'elementComponents': basis_names } for k in element_intersection }
+    elements = { k: { 'elementComponents': json_files } for k in element_intersection }
 
     atom_dict = { 'basisSetName': name,
                   'basisSetDescription' : desc,
@@ -327,18 +323,17 @@ def read_basis_xml_agg(xmlfile):
         for i,p in enumerate(json_files):
             bs = json_data[i]
             if e in bs['basisSetElements'].keys():
-                v.append(basis_names[i])
+                v.append(json_files[i])
 
         # Use the atom file with the same name
         # (but only if in the intersection)
         # Otherwise, if there is only one entry, and it exists as an
         # element basis, use that
         if e in element_intersection:
-            atom_basis_file = create_json_filename(xmlfile) # leave off .element
-            atom_basis_name = os.path.splitext(atom_basis_file)[0]
-            elements[e] = { 'elementEntry': atom_basis_name }
+            atom_basis_file = create_json_filename(xmlfile, 'element')
+            elements[e] = { 'elementEntry': atom_basis_file }
         elif len(v) == 1 and os.path.isfile(create_json_filename(v[0], 'element')):
-            elements[e] = { 'elementEntry': v[0] }
+            elements[e] = { 'elementEntry': v[0] + '.element.json' }
 
     table_dict = { 'basisSetName': name,
                    'basisSetDescription' : desc,
@@ -354,6 +349,7 @@ def convert_xml(xmlfile):
     print("New basis file: ", outfile)
 
     bsdict['molssi_bse_magic'] = 1
+    #print(json.dumps(bsdict, indent=4))
     bse.write_basis_file(outfile, bsdict)
 
 
@@ -384,33 +380,32 @@ def create_xml_agg(xmlfile):
     table_basis_file = create_json_filename(xmlfile, 'table')
 
     # Needed for the table entry
-    atom_basis_name = create_json_filename(xmlfile)
-    atom_basis_name = os.path.splitext(atom_basis_name)[0]
+    atom_basis_file = create_json_filename(xmlfile, 'element')
 
     json_file = os.path.basename(create_json_filename(xmlfile))
-    json_name = os.path.splitext(json_file)[0]
 
     bs = read_xml(xmlfile)
 
     # May be none
     ecp_file = get_ecp_file(xmlfile)
+    if ecp_file:
+        ecp_json = create_json_filename(ecp_file)
 
     elementlist = list(bs['basisSetElements'].keys())
 
-    atom_elements = { k: { 'elementComponents': [ json_name ] } for k in elementlist }
-    table_elements = { k: { 'elementEntry': atom_basis_name } for k in elementlist }
+    atom_elements = { k: { 'elementComponents': [ json_file ] } for k in elementlist }
+    table_elements = { k: { 'elementEntry': atom_basis_file } for k in elementlist }
 
     # Handle elements with ecp
     if ecp_file:
-        ecp_name = os.path.splitext(ecp_file)[0]
-        ecp_data = bse.read_json_by_path(ecp_name + '.json')
+        ecp_data = bse.read_json_basis(ecp_json)
         ecp_elements = list(ecp_data['basisSetElements'].keys())
 
         for k in ecp_elements:
             if not k in atom_elements:
-                atom_elements[k] = { 'elementComponents': [ ecp_name ] }
+                atom_elements[k] = { 'elementComponents': [ ecp_json ] }
             else:
-                atom_elements[k]['elementComponents'].append(ecp_name)
+                atom_elements[k]['elementComponents'].append(ecp_json)
 
     # Create the actual dictionaries
 
