@@ -175,8 +175,6 @@ for infile in glob.glob("stage1/*.json"):
     if found_all:
         results[infile] = data
 
-    #with open("stage2/" + infile, "w") as outfile:
-    #    json.dump(data, outfile, indent=4, sort_keys=True)
         
 
 for k, v in journals_dict.items():
@@ -197,11 +195,14 @@ articles_dict = {}
 articles_found = 0
 results_parsed = 0
 
-keyends = "abcdefg"
+keyends = "abcdefghijkl"
 
 
 # Find duplicates 
 for name, data in results.items():
+
+    if len(data["citations"]) == 0:
+        continue
 
     complete = True
     new_citations = []
@@ -225,18 +226,36 @@ for name, data in results.items():
                 match_art = articles_dict[pmatch]
                 if cit["journal"] != match_art["journal"]:
                     continue
-                if cit["page"] != match_art["journal"]:
+                if cit["page"] != match_art["page"]:
                     continue
-                if cit["volume"] != match_art["journal"]:
+                if cit["volume"] != match_art["volume"]:
                     continue
                 if set(cit["authors"]) != set(match_art["authors"]):
                     continue
+
                 new_citations.append({"article": pmatch, "Z": cit["Z"], "original": cit["original"]})
+                found_match = True
                 break
+
+            if found_match is False:
+                key = fkey + keyends[len(possible_matches)]
+                new_citations.append({"article": key, "Z": cit["Z"], "original": cit["original"]})
+                articles_dict[key] = cit 
+                
+
         articles_found += 1
 
+    #if len(data["citations"]) == len(
     if complete:
+        print(len(data["citations"]))
+        data["citations"] = new_citations
         results_parsed += 1
+        with open("stage2/" + name.split('/')[-1], "w") as outfile:
+            json.dump(data, outfile, indent=4, sort_keys=True)
+
+with open("REFERENCES.json", "w") as outfile:
+    json.dump(articles_dict, outfile, indent=4, sort_keys=True)
+
             
 print("Total number of basis sets %d" % total_cit)
 print("Total number of basis sets parsed %d" % len(results))
