@@ -1,102 +1,102 @@
-Astron. Astrophys.
-Anal. Bioanal. Chem.
 Acc. Chem. Res.
-Angew. Chem., Int. Ed. Engl.
-Angew. Chem. Int. Ed.
-Austral. J. Chem.
+Adv. Chem. Phys.
+Adv. Quantum Chem.
+Anal. Bioanal. Chem.
 Analyst
+Angew. Chem. Int. Ed.
+Angew. Chem., Int. Ed. Engl.
+Ann. Rev. Phys. Chem.
+Astron. Astrophys.
 Astron. J. Suppl. Ser.
 Astrophys. J.
+Austral. J. Chem.
 Bull. Acad. Sci. USSR, Div. Chem. Sci.
 Bull. Chem. Soc. Jpn.
-Chem. Eur. J.
-Chem. Ber.
-Chem. Phys. Lett.
 Can. J. Chem.
+Chem. Ber.
 Chem. Comm.
+Chem. Eur. J.
+Chem. Phys.
+Journal of Chemical Physics
+Chem. Phys. Lett.
+Chem. Phys. Letters
+Chemical Physics Letters
 Chem. Rev.
 Chem. Soc. Rev.
-Collect. Czech. Chem. Commun.
-Chem. Phys.
-Comput. Theor. Chem.
 ChemPhysChem
+Collect. Czech. Chem. Commun.
 Comput. Phys. Commun.
+Comput. Theor. Chem.
 Coord. Chem. Rev.
+Inorg. Chem.
 Int. J. Biol. Macromol.
 Int. J. Mass Spectrom. Ion Processes
 Int. J. Quantum Chem.
 Int. J. Quantum Chem. Symp.
-Inorg. Chem.
 Int. Rev. Phys. Chem.
 J. Am. Chem. Soc.
-J. Chem. Soc., Chem. Commun.
-J. Comput. Chem.
-J. Chem. Theory Comput.
-J. Chem. Soc., Daldon Trans.
-J. Chem. Soc., Faraday Trans. II
-J. Chem. Soc., Faraday Trans.
 J. Chem. Phys.
+The Journal of Chemical Physics
+J. Chem. Soc., Chem. Commun.
+J. Chem. Soc., Daldon Trans.
+J. Chem. Soc., Faraday Trans.
+J. Chem. Soc., Faraday Trans. II
+J. Chem. Theory Comput.
+Journal of Chemical Theory and Computation
+J. Chem. Theo. Comp.
+J. Comp. Chem.
+Journal of Computational Chemistry
+J. Comp. Phys.
+J. Comput. Chem.
 J. Electr. Spectrosc. Rel. Phenomena
+J. Mol. Model.
+Journal of Molecular Modeling
 J. Math. Chem.
 J. Med. Chem.
 J. Mol. Biol.
 J. Mol. Spectrosc.
+J. Mol. Struct. THEOCHEM
+J. Mol. Struct. (Theochem)
 J. Mol. Structure
 J. Org. Chem.
 J. Phys. B
-J. Phys. B
+J. Phys. Chem.
 J. Phys. Chem. A
+Journal of Physical Chemistry A
 J. Phys. Chem. B
 J. Phys. Chem. C
-J. Phys. Chem.
 J. Phys. Chem. Lett.
 J. Phys. Org. Chem.
 J. Struct. Chem.
 J. Theor. Comp. Chem.
+Magn. Res. Chem.
 Mol. Phys.
+Molecular Physics
 Org. Biomol. Chem.
-Organometallics
-J. Phys. Org. Chem.
-J. Struct. Chem.
-J. Theor. Comp. Chem.
-Mol. Phys.
-Organometallics
 Org. Lett.
+Organometallics
+PLoS ONE
 Phys. Chem. Chem. Phys.
-Phys. Rev. Lett.
+Physical Chemistry Chemical Physics
 Phys. Rev.
 Phys. Rev. A
 Phys. Rev. B
-PLoS ONE
+Phys. Rev. Lett.
 Proc. Natl. Acad. Sci. USA
 Protein Sci.
+Rev. Mod. Phys.
 Russ. J. Inorg. Chem.
 Russ. J. Phys. Chem.
-Spectrochim. Acta, Part A
 Science
-Sov. J. Coord. Chem.
 Solid State Commun.
+Sov. J. Coord. Chem.
+Spectrochim. Acta, Part A
 Surface Science
 Theor. Chem. Acc.
+Theoretical Chemistry Accounts
 Theor. Chim. Acta
+Theoret. Chimica Acta
 Theor. Exper. Chem.
-J. Mol. Struct. THEOCHEM
-Zh. Strukt. Khim.
-WIREs Comput. Mol. Sci.
-J. Comp. Phys.
-J. Comp. Chem.
-Int. J. Quantum Chem.
 Theoret. Chim. Acta
-J. Chem. Phys.
-J. Am. Chem. Soc.
-J. Phys. Chem.
-Mol. Phys.
-Rev. Mod. Phys.
-Ann. Rev. Phys. Chem.
-J. Med. Chem.
-J. Mol. Biol.
-Chem. Phys. Lett.
-Adv. Quantum Chem.
-J. Phys. Chem.
-Adv. Chem. Phys.
-Phys. Chem. Chem. Phys.
+WIREs Comput. Mol. Sci.
+Zh. Strukt. Khim.

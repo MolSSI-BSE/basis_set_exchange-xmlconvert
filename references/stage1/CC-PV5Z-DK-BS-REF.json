@@ -87,13 +87,13 @@
                 "K.A. Peterson",
                 "T.H. Dunning"
             ],
-            "journal": "7667 (1999). J. Chem. Phys.",
-            "orginal": "A.K. Wilson, D.E. Woon, K.A. Peterson, T.H. Dunning, Jr., J. Chem. Phys., 110, 7667 (1999). J. Chem. Phys. 114, 48 (2001).",
-            "page": 48,
-            "title": "J. Chem. Phys., 110",
+            "journal": "",
+            "orginal": "A.K. Wilson, D.E. Woon, K.A. Peterson, T.H. Dunning, Jr., J. Chem. Phys., 110, 7667 (1999).",
+            "page": 7667,
+            "title": "J. Chem. Phys.",
             "valid": true,
-            "volume": 114,
-            "year": 2001
+            "volume": 110,
+            "year": 1999
         },
         {
             "Z": [
@@ -118,6 +118,6 @@
             "year": 2005
         }
     ],
-    "original": "Original basis sets:\nElements                             References\n--------                             ----------\nH     : T.H. Dunning, Jr. J. Chem. Phys. 90, 1007 (1989).\nHe    : D.E. Woon and T.H. Dunning, Jr. J. Chem. Phys. 100, 2975 (1994).\nB - Ne: T.H. Dunning, Jr. J. Chem. Phys. 90, 1007 (1989).\nAl - Ar: D.E. Woon and T.H. Dunning, Jr.  J. Chem. Phys. 98, 1358 (1993).\nGa - Kr: A.K. Wilson, D.E. Woon, K.A. Peterson, T.H. Dunning, Jr.,\nJ. Chem. Phys., 110, 7667 (1999).\nOriginal exponents recontracted: W.A. de Jong, R.J. Harrison and D.A. Dixon,\nJ. Chem. Phys. 114, 48 (2001).\nSc - Zn: (20s,16p,8d,2f,1g) -> [7s,6p,4d,2f,1g]     N.B. Balabanov and K.A.\nPeterson, J. Chem. Phys.,\n123, 064107 (2005)\n\n\n",
+    "original": "Original basis sets:\nElements                             References\n--------                             ----------\nH     : T.H. Dunning, Jr. J. Chem. Phys. 90, 1007 (1989).\nHe    : D.E. Woon and T.H. Dunning, Jr. J. Chem. Phys. 100, 2975 (1994).\nB - Ne: T.H. Dunning, Jr. J. Chem. Phys. 90, 1007 (1989).\nAl - Ar: D.E. Woon and T.H. Dunning, Jr.  J. Chem. Phys. 98, 1358 (1993).\nGa - Kr: A.K. Wilson, D.E. Woon, K.A. Peterson, T.H. Dunning, Jr., J. Chem. Phys., 110, 7667 (1999).\nOriginal exponents recontracted: W.A. de Jong, R.J. Harrison and D.A. Dixon, J. Chem. Phys. 114, 48 (2001).\nSc - Zn: (20s,16p,8d,2f,1g) -> [7s,6p,4d,2f,1g]     N.B. Balabanov and K.A. Peterson, J. Chem. Phys., 123, 064107 (2005)\n\n\n",
     "valid": true
 }
