@@ -11,17 +11,18 @@ import json
 from xml.etree import ElementTree as ET
 
 DO_PRINT = True
-DO_PRINT = False
+#DO_PRINT = False
 
 # Lookup dictionaries
 _temp_symbol = [
-    "X", "H", "HE", "LI", "BE", "B", "C", "N", "O", "F", "NE", "NA", "MG", "AL", "SI", "P", "S", "CL", "AR", "K", "CA",
-    "SC", "TI", "V", "CR", "MN", "FE", "CO", "NI", "CU", "ZN", "GA", "GE", "AS", "SE", "BR", "KR", "RB", "SR", "Y",
-    "ZR", "NB", "MO", "TC", "RU", "RH", "PD", "AG", "CD", "IN", "SN", "SB", "TE", "I", "XE", "CS", "BA", "LA", "CE",
-    "PR", "ND", "PM", "SM", "EU", "GD", "TB", "DY", "HO", "ER", "TM", "YB", "LU", "HF", "TA", "W", "RE", "OS", "IR",
-    "PT", "AU", "HG", "TL", "PB", "BI", "PO", "AT", "RN", "FR", "RA", "AC", "TH", "PA", "U", "NP", "PU", "AM", "CM",
-    "BK", "CF", "ES", "FM", "MD", "NO", "LR", "RF", "DB", "SG", "BH", "HS", "MT", "DS", "RG", "UUB", "UUT", "UUQ",
-    "UUP", "UUH", "UUS", "UUO"
+    "X", "H", "HE", "LI", "BE", "B", "C", "N", "O", "F", "NE", "NA", "MG", "AL", "SI", "P", "S",
+    "CL", "AR", "K", "CA", "SC", "TI", "V", "CR", "MN", "FE", "CO", "NI", "CU", "ZN", "GA", "GE",
+    "AS", "SE", "BR", "KR", "RB", "SR", "Y", "ZR", "NB", "MO", "TC", "RU", "RH", "PD", "AG", "CD",
+    "IN", "SN", "SB", "TE", "I", "XE", "CS", "BA", "LA", "CE", "PR", "ND", "PM", "SM", "EU", "GD",
+    "TB", "DY", "HO", "ER", "TM", "YB", "LU", "HF", "TA", "W", "RE", "OS", "IR", "PT", "AU", "HG",
+    "TL", "PB", "BI", "PO", "AT", "RN", "FR", "RA", "AC", "TH", "PA", "U", "NP", "PU", "AM", "CM",
+    "BK", "CF", "ES", "FM", "MD", "NO", "LR", "RF", "DB", "SG", "BH", "HS", "MT", "DS", "RG", "UUB",
+    "UUT", "UUQ", "UUP", "UUH", "UUS", "UUO"
 ]
 
 atom_number_to_symbol = {k: v for k, v in zip(range(len(_temp_symbol)), _temp_symbol)}
@@ -46,7 +47,7 @@ def is_number(val):
         return False
 
 
-def _read_file(infile, return_raw = False):
+def _read_file(infile, return_raw=False):
     """
     Pulls in the 'notes' line from the REF files and strips the citations into a single line
     """
@@ -116,7 +117,7 @@ def _handle_cit(citation):
     """
     DO_PRINT = False
 
-    ret = {"orginal": citation.strip(), "valid": False}
+    ret = {"original": citation.strip(), "valid": False}
 
     # Filter out incomplete
     for err in ["to be published", "submitted", "unpublished", "unofficial", "private com"]:
@@ -243,8 +244,8 @@ def _parse_citation(atoms, cit):
     try:
         ret.update(_handle_cit(cit))
     except:
-         ret["orginal"] = cit.strip()
-         ret["valid"] = False
+        ret["original"] = cit.strip()
+        ret["valid"] = False
 
     if DO_PRINT:
         print('---------')
@@ -252,16 +253,6 @@ def _parse_citation(atoms, cit):
         for k, v in ret.items():
             print("%10s : %s" % (k, v))
         print('---------')
-    return ret
-
-def wos_query_BAD(val):
-    wos_query = "TO=%s" % string_remove_chars(["(", ")", "and", "or"], cit)
-    data = wos.utils.query(client, wos_query)
-
-    print(data)
-    data = bf.data(data)
-    print(data)
-    raise Exception()
     return ret
 
 
@@ -285,7 +276,7 @@ def parse_ref_file(infile):
 failures = 0
 success = 0
 for infile in glob.glob("../data/xml/*REF.xml"):
-#for infile in glob.glob("../data/xml/*-31PGSS-BS-REF.xml"):
+#for infile in glob.glob("../data/xml/CC-PVQZ-DK-BS-REF.xml"):
 
     try:
         json_data = parse_ref_file(infile)
@@ -304,14 +295,11 @@ for infile in glob.glob("../data/xml/*REF.xml"):
             json_data["original"] = "FUBAR"
 
     name = infile.split('/')[-1].replace("xml", "json")
-    with open("stage1_xml_parse/" + name, "w") as outfile: 
+    with open("stage1/" + name, "w") as outfile:
         json.dump(json_data, outfile, indent=4, sort_keys=True)
 
-    
 #        print(json.dumps(json_data, indent=4, sort_keys=True))
 
-    #    raise 
+#    raise
 
-print("Success %d, Failures %d,  Ratio %3.2f" % (success, failures, success/(failures + success)))
-
-
+print("Success %d, Failures %d,  Ratio %3.2f" % (success, failures, success / (failures + success)))
