@@ -262,6 +262,9 @@ def parse_ref_file(infile):
     data, cit_list = _read_file(infile)
     ret["original"] = data
 
+    if len(cit_list) == 0:
+        raise KeyError("No citations for %s" % infile)
+
     citations = []
     for atoms, cit in cit_list:
         json_cit = _parse_citation(atoms, cit)

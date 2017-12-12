@@ -91,6 +91,9 @@ for infile in glob.glob("stage1/*.json"):
         errors.append(infile)
         continue
 
+    if len(data["citations"]) == 0:
+        raise KeyError("No citations for %s" % infile)
+
     found_all = True
     parsed_citations = []
     for cit in data["citations"]:
@@ -247,7 +250,6 @@ for name, data in results.items():
 
     #if len(data["citations"]) == len(
     if complete:
-        print(len(data["citations"]))
         data["citations"] = new_citations
         results_parsed += 1
         with open("stage2/" + name.split('/')[-1], "w") as outfile:
