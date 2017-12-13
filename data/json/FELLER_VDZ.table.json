@@ -1,9 +1,0 @@
-{
-    "basisSetName": "Feller Misc. CVDZ",
-    "basisSetDescription": "DZP     Double Zeta + Polarization on All Atoms",
-    "basisSetElements": {
-        "19": {
-            "elementEntry": "FELLER_VDZ"
-        }
-    }
-}

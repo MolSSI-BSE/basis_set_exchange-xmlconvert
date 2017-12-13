@@ -1,9 +1,0 @@
-{
-    "basisSetName": "NASA Ames cc-pCV5Z",
-    "basisSetDescription": "V5Z4P   Valence Quintuple Zeta + Polarization on All Atoms",
-    "basisSetElements": {
-        "22": {
-            "elementEntry": "NASA_CC-PCV5Z"
-        }
-    }
-}
