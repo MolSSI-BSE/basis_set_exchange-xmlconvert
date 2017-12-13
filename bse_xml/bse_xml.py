@@ -132,7 +132,6 @@ def read_basis_xml(xmlfile):
 
     bstype = get_single_text(root, 'default:basisSetType')
     role, region = determine_role_region(bstype)
-    bsdict['basisSetRole'] = role
 
     harmonicType = get_single_text(root, 'default:harmonicType')
     functionType = 'gto'
@@ -200,7 +199,6 @@ def read_ecp_xml(xmlfile):
     if not abstract:
         abstract = bsdict['basisSetName']
     bsdict['basisSetDescription'] = abstract
-    bsdict['basisSetRole'] = 'ecp'
     ecptype = get_single_text(root, 'default:ecpType')
 
     # Path to the reference file
@@ -371,7 +369,7 @@ def convert_xml_agg(xmlfile):
 
     atom_dict['molssi_bse_magic'] = 1
     table_dict['molssi_bse_magic'] = 1
-
+    table_dict['basisSetRole'] = 'orbital'
     bse.write_basis_file(atom_basis_path, atom_dict)
     bse.write_basis_file(table_basis_path, table_dict)
 
@@ -428,5 +426,6 @@ def create_xml_agg(xmlfile):
 
     atom_dict['molssi_bse_magic'] = 1
     table_dict['molssi_bse_magic'] = 1
+    table_dict['basisSetRole'] = 'orbital'
     bse.write_basis_file(atom_basis_file, atom_dict)
     bse.write_basis_file(table_basis_file, table_dict)
