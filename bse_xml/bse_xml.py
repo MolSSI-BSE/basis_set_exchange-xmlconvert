@@ -237,6 +237,9 @@ def read_ecp_xml(xmlfile):
             ngen = int(mat.attrib['columns']) - 1  # Columns includes exponents
             rexponents,gexponents,coefficients = text_to_ecpcont(mat.text)
 
+            # Change exponents on R to integers
+            rexponents = [ int(x) for x in rexponents ]
+
             pot = { 'potentialECPType' : ecptype, 
                     'potentialAngularMomentum': am,
                     'potentialRExponents' : rexponents,
