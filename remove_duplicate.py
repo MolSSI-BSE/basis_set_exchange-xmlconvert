@@ -122,7 +122,7 @@ for cfile in component_files:
     # rewrite the candidate file
     if changed:
         os.rename(cfile, cfile + ".old")
-        bse.write_basis_file(cfile, cdata)
+        bse.write_json_basis(cfile, cdata)
 
 # print out the replacement map
 for k, v in replaced_map.items():
@@ -148,4 +148,4 @@ for afile in element_files:
 
     if changed:
         os.rename(afile, afile + ".old")
-        bse.write_basis_file(afile, adata)
+        bse.write_json_basis(afile, adata)

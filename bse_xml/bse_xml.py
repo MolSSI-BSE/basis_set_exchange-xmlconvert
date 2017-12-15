@@ -358,7 +358,7 @@ def convert_xml(xmlfile):
 
     bsdict['molssi_bse_magic'] = 1
     #print(json.dumps(bsdict, indent=4))
-    bse.write_basis_file(outfile, bsdict)
+    bse.write_json_basis(outfile, bsdict)
 
 
 def convert_xml_agg(xmlfile):
@@ -373,8 +373,8 @@ def convert_xml_agg(xmlfile):
     atom_dict['molssi_bse_magic'] = 1
     table_dict['molssi_bse_magic'] = 1
     table_dict['basisSetRole'] = 'orbital'
-    bse.write_basis_file(atom_basis_path, atom_dict)
-    bse.write_basis_file(table_basis_path, table_dict)
+    bse.write_json_basis(atom_basis_path, atom_dict)
+    bse.write_json_basis(table_basis_path, table_dict)
 
 
 def get_ecp_file(xmlfile):
@@ -430,5 +430,5 @@ def create_xml_agg(xmlfile):
     atom_dict['molssi_bse_magic'] = 1
     table_dict['molssi_bse_magic'] = 1
     table_dict['basisSetRole'] = 'orbital'
-    bse.write_basis_file(atom_basis_file, atom_dict)
-    bse.write_basis_file(table_basis_file, table_dict)
+    bse.write_json_basis(atom_basis_file, atom_dict)
+    bse.write_json_basis(table_basis_file, table_dict)

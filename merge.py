@@ -50,7 +50,7 @@ for f in element_files:
 
     if changed:
         os.rename(f, f + ".old")
-        bse.write_basis_file(f, data)
+        bse.write_json_basis(f, data)
 
 # Rename the old file
 os.rename(src, src + '.old')

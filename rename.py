@@ -49,7 +49,7 @@ elif src_base.endswith('.element'):
                 v['elementEntry'] = dest_base2
         if changed:
             os.rename(f, f + ".old")
-            bse.write_basis_file(f, data)
+            bse.write_json_basis(f, data)
 else:
     for f in element_files:
         changed = False
@@ -62,4 +62,4 @@ else:
 
         if changed:
             os.rename(f, f + ".old")
-            bse.write_basis_file(f, data)
+            bse.write_json_basis(f, data)

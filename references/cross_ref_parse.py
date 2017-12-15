@@ -345,7 +345,9 @@ for infile in glob.glob("../data/xml_stage/*REF.xml"):
         #print(json.dumps(json_data, indent=4, sort_keys=True))
         success += 1
     except Exception as err:
-        print("Failed: %s" % infile)
+        print()
+        print("****Failed: %s" % infile)
+        print()
         # print(repr(err))
         failures += 1
         json_data = {"valid": False}
