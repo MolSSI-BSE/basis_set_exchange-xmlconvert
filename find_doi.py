@@ -125,4 +125,4 @@ for k,v in refdata.items():
             refdata[k]['DOI'] = res['DOI']
                 
 
-json.dumps(reffile + ".new", refdata)
+bse.write_references(reffile + ".new", refdata)
