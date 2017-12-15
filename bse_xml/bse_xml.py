@@ -54,6 +54,11 @@ def get_single_link(node, tag):
         return a[0]
     else:
         return None
+    
+
+def read_ref_data(xmlfile):
+    root = ET.parse(xmlfile).getroot()
+    return get_single_text(root, 'default:notes')
 
 
 def text_to_cont(txt):
@@ -141,11 +146,18 @@ def read_basis_xml(xmlfile):
     if ref_file:
         ref_base = os.path.splitext(ref_file)[0]
 
-    # Read description and store in a separate file
+    # Read description and referece data and store in a separate file
     bs_desc = get_single_text(root, 'dc:description')
-    if bs_desc:
+    if ref_file:
+        bs_ref = read_ref_data(ref_file)
+    if bs_desc or bs_ref:
         with open(file_base + '.txt', 'w') as f:
-            f.write(bs_desc)
+            if bs_desc:
+                f.write("FROM DESCRIPTION:\n----------------\n")
+                f.write(bs_desc)
+            if bs_ref:
+                f.write("FROM REFERENCE:\n----------------\n")
+                f.write(bs_ref)
 
     # Read in contraction data
     bsdict['basisSetElements'] = {}
@@ -206,12 +218,18 @@ def read_ecp_xml(xmlfile):
     if ref_file:
         ref_base = os.path.splitext(ref_file)[0]
 
-    # Read description and store in a separate file
+    # Read description and referece data and store in a separate file
     bs_desc = get_single_text(root, 'dc:description')
-    if bs_desc:
+    if ref_file:
+        bs_ref = read_ref_data(ref_file)
+    if bs_desc or bs_ref:
         with open(file_base + '.txt', 'w') as f:
-            f.write(bs_desc)
-
+            if bs_desc:
+                f.write("FROM DESCRIPTION:\n----------------\n")
+                f.write(bs_desc)
+            if bs_ref:
+                f.write("FROM REFERENCE:\n----------------\n")
+                f.write(bs_ref)
 
     bsdict['basisSetElements'] = {}
     all_pots = root.findall('default:potentials', ns)
@@ -283,12 +301,21 @@ def read_basis_xml_agg(xmlfile):
     if ref_file:
         ref_base = os.path.splitext(ref_file)[0]
 
-    # Read description and store in a separate file
+    # Read description and referece data and store in a separate file
     bs_desc = get_single_text(root, 'dc:description')
-    if bs_desc:
+    bs_ref = None
+    if ref_file:
+        bs_ref = read_ref_data(ref_file)
+    if bs_desc or bs_ref:
         with open(file_base + '.txt', 'w') as f:
-            f.write(bs_desc)
-
+            if bs_desc:
+                f.write("\n\n")
+                f.write("FROM DESCRIPTION:\n----------------\n")
+                f.write(bs_desc)
+            if bs_ref:
+                f.write("\n\n")
+                f.write("FROM REFERENCE:\n----------------\n")
+                f.write(bs_ref)
 
     # Read in the components
     # These are the paths to the xml files

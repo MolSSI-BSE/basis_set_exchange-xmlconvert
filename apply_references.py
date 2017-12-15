@@ -41,7 +41,6 @@ for f in file_list:
 
         elref = data['elementReferences']
         elsym = bse.lut.element_sym_from_Z(el)
-        print("Element: ", el, " ", bse.lut.normalize_element_symbol(elsym))
 
         if len(elref) > 1:
             raise RuntimeError("Multiple references")
