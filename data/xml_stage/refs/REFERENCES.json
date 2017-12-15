@@ -180,6 +180,19 @@
         "volume": "62",
         "year": 1975
     },
+    "ditchfield:1971a": {
+        "title": "Self\u2010Consistent Molecular\u2010Orbital Methods. IX. An Extended Gaussian\u2010Type Basis for Molecular\u2010Orbital Studies of Organic Molecules",
+        "authors": [
+            "R. Ditchfield",
+            "W. J. Hehre",
+            "J. A. Pople"
+        ],
+        "journal": "The Journal of Chemical Physics",
+        "volume": "54",
+        "page": "724-728",
+        "year": 1971,
+        "DOI": "10.1063/1.1674902"
+    },
     "dobbs:1986a": {
         "DOI": "10.1002/jcc.540070313",
         "Z": [
@@ -948,6 +961,21 @@
         "valid": true,
         "volume": "109",
         "year": 1998
+    },
+    "rassolov:2001a": {
+        "title": "6-31G* basis set for third-row atoms",
+        "authors": [
+            "Vitaly A. Rassolov",
+            "Mark A. Ratner",
+            "John A. Pople",
+            "Paul C. Redfern",
+            "Larry A. Curtiss"
+        ],
+        "journal": "Journal of Computational Chemistry",
+        "volume": "22",
+        "page": "976-984",
+        "year": 2001,
+        "DOI": "10.1002/jcc.1058"
     },
     "wadt:1985a": {
         "DOI": "10.1063/1.448800",
