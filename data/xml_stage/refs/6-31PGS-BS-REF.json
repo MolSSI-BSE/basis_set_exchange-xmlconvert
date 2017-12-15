@@ -1,0 +1,110 @@
+{
+    "citations": [
+        {
+            "Z": [
+                1
+            ],
+            "article": "hariharan:1973a",
+            "original": "P.C. Hariharan and J.A. Pople, Theoret. Chimica Acta 28, 213 (1973)."
+        },
+        {
+            "Z": [
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9
+            ],
+            "article": "francl:1982a",
+            "original": "M.M. Francl, W.J. Petro, W.J. Hehre, J.S. Binkley, M.S. Gordon, D.J. DeFrees and J.A. Pople, J. Chem. Phys. 77, 3654 (1982)"
+        },
+        {
+            "Z": [
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18
+            ],
+            "article": "francl:1982a",
+            "original": "M.M. Francl, W.J. Petro, W.J. Hehre, J.S. Binkley, M.S. Gordon, D.J. DeFrees and J.A. Pople, J. Chem. Phys. 77, 3654 (1982) "
+        },
+        {
+            "Z": [
+                1
+            ],
+            "article": "clark:1983a",
+            "original": "T. Clark, J. Chandrasekhar, G.W. Spitznagel and P. von R. Schleyer, J. Comp. Chem. 4, 294 (1983)."
+        },
+        {
+            "Z": [
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10
+            ],
+            "article": "clark:1983a",
+            "original": "T. Clark, J. Chandrasekhar, G.W. Spitznagel and P. von R. Schleyer, J. Comp. Chem. 4, 294 (1983)."
+        },
+        {
+            "Z": [
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18
+            ],
+            "article": "krishnan:1980a",
+            "original": "R. Krishnam, J.S. Binkley, R. Seeger, J.A. Pople, J. Chem. Phys. 72, 650 (1980). "
+        },
+        {
+            "Z": [
+                1
+            ],
+            "article": "clark:1983a",
+            "original": "T. Clark, J. Chandrasekhar, G.W. Spitznagel and P. von R. Schleyer, J. Comp. Chem. 4, 294 (1983)."
+        },
+        {
+            "Z": [
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10
+            ],
+            "article": "clark:1983a",
+            "original": "T. Clark, J. Chandrasekhar, G.W. Spitznagel and P. von R. Schleyer, J. Comp. Chem. 4, 294 (1983)."
+        },
+        {
+            "Z": [
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18
+            ],
+            "article": "krishnan:1980a",
+            "original": "R. Krishnam, J.S. Binkley, R. Seeger, J.A. Pople, J. Chem. Phys. 72, 650 (1980). "
+        }
+    ],
+    "original": "\nH: P.C. Hariharan and J.A. Pople, Theoret. Chimica Acta 28, 213 (1973).\nLi - F: M.M. Francl, W.J. Petro, W.J. Hehre, J.S.\n        Binkley, M.S. Gordon, D.J. DeFrees and J.A.\n        Pople, J. Chem. Phys. 77, 3654 (1982)\nNa - Ar: M.M. Francl, W.J. Petro, W.J. Hehre, J.S.\n         Binkley, M.S. Gordon, D.J. DeFrees and J.A.\n         Pople, J. Chem. Phys. 77, 3654 (1982)\n\nH: T. Clark, J. Chandrasekhar, G.W. Spitznagel and P. von R. Schleyer, J. Comp. Chem. 4, 294 (1983).\nLi - Ne: T. Clark, J. Chandrasekhar, G.W. Spitznagel and P. von R. Schleyer, J. Comp. Chem. 4, 294 (1983).\nNa - Ar: R. Krishnam, J.S. Binkley, R. Seeger, J.A. Pople,\n         J. Chem. Phys. 72, 650 (1980).\n\nH: T. Clark, J. Chandrasekhar, G.W. Spitznagel and P. von R. Schleyer, J. Comp. Chem. 4, 294 (1983).\nLi - Ne: T. Clark, J. Chandrasekhar, G.W. Spitznagel and P. von R. Schleyer, J. Comp. Chem. 4, 294 (1983).\nNa - Ar: R. Krishnam, J.S. Binkley, R. Seeger, J.A. Pople,\n         J. Chem. Phys. 72, 650 (1980).\n\n",
+    "valid": true
+}

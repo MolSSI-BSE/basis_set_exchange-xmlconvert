@@ -1,0 +1,20 @@
+{
+    "citations": [
+        {
+            "Z": [
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18
+            ],
+            "article": "pietro:1982a",
+            "original": "W.J. Pietro, M.M. Francl, W.J. Hehre, D.J. DeFrees, J.A. Pople and J.S. Binkley, J. Am. Chem. Soc. 104, 5039 (1982)  "
+        }
+    ],
+    "original": "\nElements                             Reference\n--------                             ----------\nNa - Ar:  W.J. Pietro, M.M. Francl, W.J. Hehre, D.J. DeFrees, J.A. Pople and \n          J.S. Binkley, J. Am. Chem. Soc. 104, 5039 (1982)\n\n  ",
+    "valid": true
+}

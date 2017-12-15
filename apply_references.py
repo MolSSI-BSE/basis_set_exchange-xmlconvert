@@ -55,6 +55,7 @@ for f in file_list:
                 file_ref_json = json.loads(ftmp.read())
                 file_ref_raw = file_ref_json['original']
         else:
+            print("Missing file {}".format(reffile))
             continue
 
         elref_data = find_Z(file_ref_json, el) 
