@@ -2,6 +2,8 @@
 Garbage and convoluted code attempting to parse the formless REF data using web of science.
 """
 
+import os
+import re
 import glob
 import difflib
 import json
@@ -19,6 +21,11 @@ STRICT = False
 
 found_cr_matches = 0
 
+crossref_cache = {}
+if os.path.isfile('CROSSREF_CACHE.json'):
+    with open('CROSSREF_CACHE.json', 'r') as f:
+        crossref_cache = json.load(f)
+
 def _parse_message(data):
     ret = {}
     ret["title"] = data["title"][0]
@@ -34,19 +41,31 @@ def _parse_message(data):
     return ret
 
 def query_crossref(query):
+    # Remove anything not a character or number
+    query_key = re.sub(r'[^\w]', '', query.lower())
+
     # Requested by crossref API
     headers = {
         'User-Agent': 'BSEConverter 1.0 (mailto:bpp4@vt.edu)'
     }
 
     print(query)
-    r = requests.get('https://api.crossref.org/works', params={'query': query}, headers=headers)
-    if r.status_code != 200:
+
+    if not query_key in crossref_cache:
+        r = requests.get('https://api.crossref.org/works', params={'query': query}, headers=headers)
+        if r.status_code != 200:
+            crossref_cache[query_key] = None
+        else:
+            crossref_cache[query_key] = r.text
+
+    rtext = crossref_cache[query_key]
+    if rtext is None:
         return None
     else:
-        j = json.loads(r.text)
+        j = json.loads(rtext)
         try:
-            return _parse_message(j['message']['items'][0])
+            msg = _parse_message(j['message']['items'][0])
+            return msg
         except:
             return None
 
@@ -367,3 +386,7 @@ for infile in glob.glob("../data/xml_stage/*REF.xml"):
 
 print("Success %d, Failures %d,  Ratio %3.2f" % (success, failures, success / (failures + success)))
 print("Found CR matches %d" % found_cr_matches) 
+print("Saving CROSSREF_CACHE.json")
+with open('CROSSREF_CACHE.json', 'w') as f:
+    json.dump(crossref_cache, f)
+
