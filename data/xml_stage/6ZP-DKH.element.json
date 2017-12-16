@@ -1,0 +1,97 @@
+{
+    "molssi_bse_magic": 1,
+    "basisSetName": "6ZP-DKH",
+    "basisSetDescription": "6ZP-DKH",
+    "basisSetElements": {
+        "1": {
+            "elementComponents": [
+                "6ZP-DKH.json"
+            ]
+        },
+        "2": {
+            "elementComponents": [
+                "6ZP-DKH.json"
+            ]
+        },
+        "3": {
+            "elementComponents": [
+                "6ZP-DKH.json"
+            ]
+        },
+        "4": {
+            "elementComponents": [
+                "6ZP-DKH.json"
+            ]
+        },
+        "5": {
+            "elementComponents": [
+                "6ZP-DKH.json"
+            ]
+        },
+        "6": {
+            "elementComponents": [
+                "6ZP-DKH.json"
+            ]
+        },
+        "7": {
+            "elementComponents": [
+                "6ZP-DKH.json"
+            ]
+        },
+        "8": {
+            "elementComponents": [
+                "6ZP-DKH.json"
+            ]
+        },
+        "9": {
+            "elementComponents": [
+                "6ZP-DKH.json"
+            ]
+        },
+        "10": {
+            "elementComponents": [
+                "6ZP-DKH.json"
+            ]
+        },
+        "11": {
+            "elementComponents": [
+                "6ZP-DKH.json"
+            ]
+        },
+        "12": {
+            "elementComponents": [
+                "6ZP-DKH.json"
+            ]
+        },
+        "13": {
+            "elementComponents": [
+                "6ZP-DKH.json"
+            ]
+        },
+        "14": {
+            "elementComponents": [
+                "6ZP-DKH.json"
+            ]
+        },
+        "15": {
+            "elementComponents": [
+                "6ZP-DKH.json"
+            ]
+        },
+        "16": {
+            "elementComponents": [
+                "6ZP-DKH.json"
+            ]
+        },
+        "17": {
+            "elementComponents": [
+                "6ZP-DKH.json"
+            ]
+        },
+        "18": {
+            "elementComponents": [
+                "6ZP-DKH.json"
+            ]
+        }
+    }
+}

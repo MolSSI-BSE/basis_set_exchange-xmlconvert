@@ -1,0 +1,137 @@
+{
+    "molssi_bse_magic": 1,
+    "basisSetName": "Pople (2d,2p) Polarization",
+    "basisSetDescription": "Pople (2d,2p) Polarization",
+    "basisSetElements": {
+        "1": {
+            "elementComponents": [
+                "6-311G2D2P.json"
+            ]
+        },
+        "2": {
+            "elementComponents": [
+                "6-311G2D2P.json"
+            ]
+        },
+        "3": {
+            "elementComponents": [
+                "6-311G2D2P.json"
+            ]
+        },
+        "4": {
+            "elementComponents": [
+                "6-311G2D2P.json"
+            ]
+        },
+        "5": {
+            "elementComponents": [
+                "6-311G2D2P.json"
+            ]
+        },
+        "6": {
+            "elementComponents": [
+                "6-311G2D2P.json"
+            ]
+        },
+        "7": {
+            "elementComponents": [
+                "6-311G2D2P.json"
+            ]
+        },
+        "8": {
+            "elementComponents": [
+                "6-311G2D2P.json"
+            ]
+        },
+        "9": {
+            "elementComponents": [
+                "6-311G2D2P.json"
+            ]
+        },
+        "10": {
+            "elementComponents": [
+                "6-311G2D2P.json"
+            ]
+        },
+        "11": {
+            "elementComponents": [
+                "6-311G2D2P.json"
+            ]
+        },
+        "12": {
+            "elementComponents": [
+                "6-311G2D2P.json"
+            ]
+        },
+        "13": {
+            "elementComponents": [
+                "6-311G2D2P.json"
+            ]
+        },
+        "14": {
+            "elementComponents": [
+                "6-311G2D2P.json"
+            ]
+        },
+        "15": {
+            "elementComponents": [
+                "6-311G2D2P.json"
+            ]
+        },
+        "16": {
+            "elementComponents": [
+                "6-311G2D2P.json"
+            ]
+        },
+        "17": {
+            "elementComponents": [
+                "6-311G2D2P.json"
+            ]
+        },
+        "18": {
+            "elementComponents": [
+                "6-311G2D2P.json"
+            ]
+        },
+        "19": {
+            "elementComponents": [
+                "6-311G2D2P.json"
+            ]
+        },
+        "20": {
+            "elementComponents": [
+                "6-311G2D2P.json"
+            ]
+        },
+        "31": {
+            "elementComponents": [
+                "6-311G2D2P.json"
+            ]
+        },
+        "32": {
+            "elementComponents": [
+                "6-311G2D2P.json"
+            ]
+        },
+        "33": {
+            "elementComponents": [
+                "6-311G2D2P.json"
+            ]
+        },
+        "34": {
+            "elementComponents": [
+                "6-311G2D2P.json"
+            ]
+        },
+        "35": {
+            "elementComponents": [
+                "6-311G2D2P.json"
+            ]
+        },
+        "36": {
+            "elementComponents": [
+                "6-311G2D2P.json"
+            ]
+        }
+    }
+}

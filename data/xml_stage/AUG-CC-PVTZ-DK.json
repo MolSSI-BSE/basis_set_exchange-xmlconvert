@@ -1,0 +1,3245 @@
+{
+    "molssi_bse_magic": 1,
+    "basisSetName": "aug-cc-pVTZ-DK Diffuse",
+    "basisSetDescription": "aug-cc-pVTZ-DK Diffuse",
+    "basisSetElements": {
+        "1": {
+            "elementReferences": [
+                "AUG-CC-PVTZ-DK-BS-REF"
+            ],
+            "elementElectronShells": [
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        0
+                    ],
+                    "shellExponents": [
+                        "0.0252600"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        1
+                    ],
+                    "shellExponents": [
+                        "0.1020000"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        2
+                    ],
+                    "shellExponents": [
+                        "0.2470000"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                }
+            ]
+        },
+        "2": {
+            "elementReferences": [
+                "AUG-CC-PVTZ-DK-BS-REF"
+            ],
+            "elementElectronShells": [
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        0
+                    ],
+                    "shellExponents": [
+                        "0.0513800"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        1
+                    ],
+                    "shellExponents": [
+                        "0.1993000"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        2
+                    ],
+                    "shellExponents": [
+                        "0.4592000"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                }
+            ]
+        },
+        "3": {
+            "elementReferences": [
+                "AUG-CC-PVTZ-DK-BS-REF"
+            ],
+            "elementElectronShells": [
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        0
+                    ],
+                    "shellExponents": [
+                        "0.0076000"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        1
+                    ],
+                    "shellExponents": [
+                        "0.0091000"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        2
+                    ],
+                    "shellExponents": [
+                        "0.0371000"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        3
+                    ],
+                    "shellExponents": [
+                        "0.0816000"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                }
+            ]
+        },
+        "4": {
+            "elementReferences": [
+                "AUG-CC-PVTZ-DK-BS-REF"
+            ],
+            "elementElectronShells": [
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        0
+                    ],
+                    "shellExponents": [
+                        "0.0150300"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        1
+                    ],
+                    "shellExponents": [
+                        "0.0070600"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        2
+                    ],
+                    "shellExponents": [
+                        "0.0654000"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        3
+                    ],
+                    "shellExponents": [
+                        "0.1533000"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                }
+            ]
+        },
+        "5": {
+            "elementReferences": [
+                "AUG-CC-PVTZ-DK-BS-REF"
+            ],
+            "elementElectronShells": [
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        0
+                    ],
+                    "shellExponents": [
+                        "0.0291400"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        1
+                    ],
+                    "shellExponents": [
+                        "0.0209600"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        2
+                    ],
+                    "shellExponents": [
+                        "0.0604000"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        3
+                    ],
+                    "shellExponents": [
+                        "0.1630000"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                }
+            ]
+        },
+        "6": {
+            "elementReferences": [
+                "AUG-CC-PVTZ-DK-BS-REF"
+            ],
+            "elementElectronShells": [
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        0
+                    ],
+                    "shellExponents": [
+                        "0.0440200"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        1
+                    ],
+                    "shellExponents": [
+                        "0.0356900"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        2
+                    ],
+                    "shellExponents": [
+                        "0.1000000"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        3
+                    ],
+                    "shellExponents": [
+                        "0.2680000"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                }
+            ]
+        },
+        "7": {
+            "elementReferences": [
+                "AUG-CC-PVTZ-DK-BS-REF"
+            ],
+            "elementElectronShells": [
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        0
+                    ],
+                    "shellExponents": [
+                        "0.0576000"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        1
+                    ],
+                    "shellExponents": [
+                        "0.0491000"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        2
+                    ],
+                    "shellExponents": [
+                        "0.1510000"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        3
+                    ],
+                    "shellExponents": [
+                        "0.3640000"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                }
+            ]
+        },
+        "8": {
+            "elementReferences": [
+                "AUG-CC-PVTZ-DK-BS-REF"
+            ],
+            "elementElectronShells": [
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        0
+                    ],
+                    "shellExponents": [
+                        "0.0737600"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        1
+                    ],
+                    "shellExponents": [
+                        "0.0597400"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        2
+                    ],
+                    "shellExponents": [
+                        "0.2140000"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        3
+                    ],
+                    "shellExponents": [
+                        "0.5000000"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                }
+            ]
+        },
+        "9": {
+            "elementReferences": [
+                "AUG-CC-PVTZ-DK-BS-REF"
+            ],
+            "elementElectronShells": [
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        0
+                    ],
+                    "shellExponents": [
+                        "0.0915800"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        1
+                    ],
+                    "shellExponents": [
+                        "0.0736100"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        2
+                    ],
+                    "shellExponents": [
+                        "0.2920000"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        3
+                    ],
+                    "shellExponents": [
+                        "0.7240000"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                }
+            ]
+        },
+        "10": {
+            "elementReferences": [
+                "AUG-CC-PVTZ-DK-BS-REF"
+            ],
+            "elementElectronShells": [
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        0
+                    ],
+                    "shellExponents": [
+                        "0.1133000"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        1
+                    ],
+                    "shellExponents": [
+                        "0.0917500"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        2
+                    ],
+                    "shellExponents": [
+                        "0.3860000"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        3
+                    ],
+                    "shellExponents": [
+                        "1.0840000"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                }
+            ]
+        },
+        "11": {
+            "elementReferences": [
+                "AUG-CC-PVTZ-DK-BS-REF"
+            ],
+            "elementElectronShells": [
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        0
+                    ],
+                    "shellExponents": [
+                        "0.0066500"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        1
+                    ],
+                    "shellExponents": [
+                        "0.0070000"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        2
+                    ],
+                    "shellExponents": [
+                        "0.0223000"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        3
+                    ],
+                    "shellExponents": [
+                        "0.0714000"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                }
+            ]
+        },
+        "12": {
+            "elementReferences": [
+                "AUG-CC-PVTZ-DK-BS-REF"
+            ],
+            "elementElectronShells": [
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        0
+                    ],
+                    "shellExponents": [
+                        "0.0129000"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        1
+                    ],
+                    "shellExponents": [
+                        "0.0074500"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        2
+                    ],
+                    "shellExponents": [
+                        "0.0468000"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        3
+                    ],
+                    "shellExponents": [
+                        "0.0940000"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                }
+            ]
+        },
+        "13": {
+            "elementReferences": [
+                "AUG-CC-PVTZ-DK-BS-REF"
+            ],
+            "elementElectronShells": [
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        0
+                    ],
+                    "shellExponents": [
+                        "0.0221000"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        1
+                    ],
+                    "shellExponents": [
+                        "0.0146000"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        2
+                    ],
+                    "shellExponents": [
+                        "0.0356000"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        3
+                    ],
+                    "shellExponents": [
+                        "0.0858000"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                }
+            ]
+        },
+        "14": {
+            "elementReferences": [
+                "AUG-CC-PVTZ-DK-BS-REF"
+            ],
+            "elementElectronShells": [
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        0
+                    ],
+                    "shellExponents": [
+                        "0.0330000"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        1
+                    ],
+                    "shellExponents": [
+                        "0.0237000"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        2
+                    ],
+                    "shellExponents": [
+                        "0.0556000"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        3
+                    ],
+                    "shellExponents": [
+                        "0.1250000"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                }
+            ]
+        },
+        "15": {
+            "elementReferences": [
+                "AUG-CC-PVTZ-DK-BS-REF"
+            ],
+            "elementElectronShells": [
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        0
+                    ],
+                    "shellExponents": [
+                        "0.0409000"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        1
+                    ],
+                    "shellExponents": [
+                        "0.0307000"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        2
+                    ],
+                    "shellExponents": [
+                        "0.0775000"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        3
+                    ],
+                    "shellExponents": [
+                        "0.1650000"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                }
+            ]
+        },
+        "16": {
+            "elementReferences": [
+                "AUG-CC-PVTZ-DK-BS-REF"
+            ],
+            "elementElectronShells": [
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        0
+                    ],
+                    "shellExponents": [
+                        "0.0497000"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        1
+                    ],
+                    "shellExponents": [
+                        "0.0351000"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        2
+                    ],
+                    "shellExponents": [
+                        "0.1010000"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        3
+                    ],
+                    "shellExponents": [
+                        "0.2180000"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                }
+            ]
+        },
+        "17": {
+            "elementReferences": [
+                "AUG-CC-PVTZ-DK-BS-REF"
+            ],
+            "elementElectronShells": [
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        0
+                    ],
+                    "shellExponents": [
+                        "0.0591000"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        1
+                    ],
+                    "shellExponents": [
+                        "0.0419000"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        2
+                    ],
+                    "shellExponents": [
+                        "0.1350000"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        3
+                    ],
+                    "shellExponents": [
+                        "0.3120000"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                }
+            ]
+        },
+        "18": {
+            "elementReferences": [
+                "AUG-CC-PVTZ-DK-BS-REF"
+            ],
+            "elementElectronShells": [
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        0
+                    ],
+                    "shellExponents": [
+                        "0.0685000"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        1
+                    ],
+                    "shellExponents": [
+                        "0.0487000"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        2
+                    ],
+                    "shellExponents": [
+                        "0.1690000"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        3
+                    ],
+                    "shellExponents": [
+                        "0.4060000"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                }
+            ]
+        },
+        "21": {
+            "elementReferences": [
+                "AUG-CC-PVTZ-DK-BS-REF"
+            ],
+            "elementElectronShells": [
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        0
+                    ],
+                    "shellExponents": [
+                        "0.0111000"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        1
+                    ],
+                    "shellExponents": [
+                        "0.0106600"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        2
+                    ],
+                    "shellExponents": [
+                        "0.0124400"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        3
+                    ],
+                    "shellExponents": [
+                        "0.0406300"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        4
+                    ],
+                    "shellExponents": [
+                        "0.0947300"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                }
+            ]
+        },
+        "22": {
+            "elementReferences": [
+                "AUG-CC-PVTZ-DK-BS-REF"
+            ],
+            "elementElectronShells": [
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        0
+                    ],
+                    "shellExponents": [
+                        "0.0117300"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        1
+                    ],
+                    "shellExponents": [
+                        "0.0117200"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        2
+                    ],
+                    "shellExponents": [
+                        "0.0171200"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        3
+                    ],
+                    "shellExponents": [
+                        "0.0806900"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        4
+                    ],
+                    "shellExponents": [
+                        "0.2041300"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                }
+            ]
+        },
+        "23": {
+            "elementReferences": [
+                "AUG-CC-PVTZ-DK-BS-REF"
+            ],
+            "elementElectronShells": [
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        0
+                    ],
+                    "shellExponents": [
+                        "0.0123200"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        1
+                    ],
+                    "shellExponents": [
+                        "0.0124000"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        2
+                    ],
+                    "shellExponents": [
+                        "0.0224000"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        3
+                    ],
+                    "shellExponents": [
+                        "0.1281300"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        4
+                    ],
+                    "shellExponents": [
+                        "0.3721200"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                }
+            ]
+        },
+        "24": {
+            "elementReferences": [
+                "AUG-CC-PVTZ-DK-BS-REF"
+            ],
+            "elementElectronShells": [
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        0
+                    ],
+                    "shellExponents": [
+                        "0.0124700"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        1
+                    ],
+                    "shellExponents": [
+                        "0.0130700"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        2
+                    ],
+                    "shellExponents": [
+                        "0.0249800"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        3
+                    ],
+                    "shellExponents": [
+                        "0.1724900"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        4
+                    ],
+                    "shellExponents": [
+                        "0.4989600"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                }
+            ]
+        },
+        "25": {
+            "elementReferences": [
+                "AUG-CC-PVTZ-DK-BS-REF"
+            ],
+            "elementElectronShells": [
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        0
+                    ],
+                    "shellExponents": [
+                        "0.0133500"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        1
+                    ],
+                    "shellExponents": [
+                        "0.0137600"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        2
+                    ],
+                    "shellExponents": [
+                        "0.0285300"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        3
+                    ],
+                    "shellExponents": [
+                        "0.2176400"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        4
+                    ],
+                    "shellExponents": [
+                        "0.6143600"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                }
+            ]
+        },
+        "26": {
+            "elementReferences": [
+                "AUG-CC-PVTZ-DK-BS-REF"
+            ],
+            "elementElectronShells": [
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        0
+                    ],
+                    "shellExponents": [
+                        "0.0140100"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        1
+                    ],
+                    "shellExponents": [
+                        "0.0140100"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        2
+                    ],
+                    "shellExponents": [
+                        "0.0321600"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        3
+                    ],
+                    "shellExponents": [
+                        "0.2672300"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        4
+                    ],
+                    "shellExponents": [
+                        "0.7642600"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                }
+            ]
+        },
+        "27": {
+            "elementReferences": [
+                "AUG-CC-PVTZ-DK-BS-REF"
+            ],
+            "elementElectronShells": [
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        0
+                    ],
+                    "shellExponents": [
+                        "0.0145900"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        1
+                    ],
+                    "shellExponents": [
+                        "0.0152000"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        2
+                    ],
+                    "shellExponents": [
+                        "0.0359800"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        3
+                    ],
+                    "shellExponents": [
+                        "0.3204100"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        4
+                    ],
+                    "shellExponents": [
+                        "0.9281600"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                }
+            ]
+        },
+        "28": {
+            "elementReferences": [
+                "AUG-CC-PVTZ-DK-BS-REF"
+            ],
+            "elementElectronShells": [
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        0
+                    ],
+                    "shellExponents": [
+                        "0.0151600"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        1
+                    ],
+                    "shellExponents": [
+                        "0.0149400"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        2
+                    ],
+                    "shellExponents": [
+                        "0.0399900"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        3
+                    ],
+                    "shellExponents": [
+                        "0.3772500"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        4
+                    ],
+                    "shellExponents": [
+                        "1.1744600"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                }
+            ]
+        },
+        "29": {
+            "elementReferences": [
+                "AUG-CC-PVTZ-DK-BS-REF"
+            ],
+            "elementElectronShells": [
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        0
+                    ],
+                    "shellExponents": [
+                        "0.0157200"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        1
+                    ],
+                    "shellExponents": [
+                        "0.0153800"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        2
+                    ],
+                    "shellExponents": [
+                        "0.0648900"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        3
+                    ],
+                    "shellExponents": [
+                        "0.4516500"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        4
+                    ],
+                    "shellExponents": [
+                        "1.4055600"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                }
+            ]
+        },
+        "30": {
+            "elementReferences": [
+                "AUG-CC-PVTZ-DK-BS-REF"
+            ],
+            "elementElectronShells": [
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        0
+                    ],
+                    "shellExponents": [
+                        "0.0162300"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        1
+                    ],
+                    "shellExponents": [
+                        "0.0158200"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        2
+                    ],
+                    "shellExponents": [
+                        "0.0889700"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        3
+                    ],
+                    "shellExponents": [
+                        "0.5365400"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        4
+                    ],
+                    "shellExponents": [
+                        "1.7512600"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                }
+            ]
+        },
+        "31": {
+            "elementReferences": [
+                "AUG-CC-PVTZ-DK-BS-REF"
+            ],
+            "elementElectronShells": [
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        0
+                    ],
+                    "shellExponents": [
+                        "0.0143980"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        1
+                    ],
+                    "shellExponents": [
+                        "0.0193000"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        2
+                    ],
+                    "shellExponents": [
+                        "0.0387000"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        3
+                    ],
+                    "shellExponents": [
+                        "0.0980000"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                }
+            ]
+        },
+        "32": {
+            "elementReferences": [
+                "AUG-CC-PVTZ-DK-BS-REF"
+            ],
+            "elementElectronShells": [
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        0
+                    ],
+                    "shellExponents": [
+                        "0.0273700"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        1
+                    ],
+                    "shellExponents": [
+                        "0.0213680"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        2
+                    ],
+                    "shellExponents": [
+                        "0.0528000"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        3
+                    ],
+                    "shellExponents": [
+                        "0.1323000"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                }
+            ]
+        },
+        "33": {
+            "elementReferences": [
+                "AUG-CC-PVTZ-DK-BS-REF"
+            ],
+            "elementElectronShells": [
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        0
+                    ],
+                    "shellExponents": [
+                        "0.0334070"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        1
+                    ],
+                    "shellExponents": [
+                        "0.0267990"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        2
+                    ],
+                    "shellExponents": [
+                        "0.0700000"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        3
+                    ],
+                    "shellExponents": [
+                        "0.1690000"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                }
+            ]
+        },
+        "34": {
+            "elementReferences": [
+                "AUG-CC-PVTZ-DK-BS-REF"
+            ],
+            "elementElectronShells": [
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        0
+                    ],
+                    "shellExponents": [
+                        "0.0392010"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        1
+                    ],
+                    "shellExponents": [
+                        "0.0302510"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        2
+                    ],
+                    "shellExponents": [
+                        "0.0837000"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        3
+                    ],
+                    "shellExponents": [
+                        "0.1880000"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                }
+            ]
+        },
+        "35": {
+            "elementReferences": [
+                "AUG-CC-PVTZ-DK-BS-REF"
+            ],
+            "elementElectronShells": [
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        0
+                    ],
+                    "shellExponents": [
+                        "0.0455930"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        1
+                    ],
+                    "shellExponents": [
+                        "0.0351420"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        2
+                    ],
+                    "shellExponents": [
+                        "0.1047000"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        3
+                    ],
+                    "shellExponents": [
+                        "0.2580000"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                }
+            ]
+        },
+        "36": {
+            "elementReferences": [
+                "AUG-CC-PVTZ-DK-BS-REF"
+            ],
+            "elementElectronShells": [
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        0
+                    ],
+                    "shellExponents": [
+                        "0.0519850"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        1
+                    ],
+                    "shellExponents": [
+                        "0.0400330"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        2
+                    ],
+                    "shellExponents": [
+                        "0.1257000"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        3
+                    ],
+                    "shellExponents": [
+                        "0.3280000"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                }
+            ]
+        },
+        "39": {
+            "elementReferences": [
+                "AUG-CC-PVTZ-DK-BS-REF"
+            ],
+            "elementElectronShells": [
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        0
+                    ],
+                    "shellExponents": [
+                        "0.0105000"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        1
+                    ],
+                    "shellExponents": [
+                        "0.0094000"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        2
+                    ],
+                    "shellExponents": [
+                        "0.0114000"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        3
+                    ],
+                    "shellExponents": [
+                        "0.0363000"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        4
+                    ],
+                    "shellExponents": [
+                        "0.0792000"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                }
+            ]
+        },
+        "40": {
+            "elementReferences": [
+                "AUG-CC-PVTZ-DK-BS-REF"
+            ],
+            "elementElectronShells": [
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        0
+                    ],
+                    "shellExponents": [
+                        "0.0112000"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        1
+                    ],
+                    "shellExponents": [
+                        "0.0105000"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        2
+                    ],
+                    "shellExponents": [
+                        "0.0149000"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        3
+                    ],
+                    "shellExponents": [
+                        "0.0631000"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        4
+                    ],
+                    "shellExponents": [
+                        "0.1377000"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                }
+            ]
+        },
+        "41": {
+            "elementReferences": [
+                "AUG-CC-PVTZ-DK-BS-REF"
+            ],
+            "elementElectronShells": [
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        0
+                    ],
+                    "shellExponents": [
+                        "0.0117000"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        1
+                    ],
+                    "shellExponents": [
+                        "0.0112000"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        2
+                    ],
+                    "shellExponents": [
+                        "0.0189000"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        3
+                    ],
+                    "shellExponents": [
+                        "0.0921000"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        4
+                    ],
+                    "shellExponents": [
+                        "0.2175000"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                }
+            ]
+        },
+        "42": {
+            "elementReferences": [
+                "AUG-CC-PVTZ-DK-BS-REF"
+            ],
+            "elementElectronShells": [
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        0
+                    ],
+                    "shellExponents": [
+                        "0.0124000"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        1
+                    ],
+                    "shellExponents": [
+                        "0.0119000"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        2
+                    ],
+                    "shellExponents": [
+                        "0.0201000"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        3
+                    ],
+                    "shellExponents": [
+                        "0.1190000"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        4
+                    ],
+                    "shellExponents": [
+                        "0.2855000"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                }
+            ]
+        },
+        "43": {
+            "elementReferences": [
+                "AUG-CC-PVTZ-DK-BS-REF"
+            ],
+            "elementElectronShells": [
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        0
+                    ],
+                    "shellExponents": [
+                        "0.0127000"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        1
+                    ],
+                    "shellExponents": [
+                        "0.0123000"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        2
+                    ],
+                    "shellExponents": [
+                        "0.0235000"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        3
+                    ],
+                    "shellExponents": [
+                        "0.1460000"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        4
+                    ],
+                    "shellExponents": [
+                        "0.3554000"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                }
+            ]
+        },
+        "44": {
+            "elementReferences": [
+                "AUG-CC-PVTZ-DK-BS-REF"
+            ],
+            "elementElectronShells": [
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        0
+                    ],
+                    "shellExponents": [
+                        "0.0132000"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        1
+                    ],
+                    "shellExponents": [
+                        "0.0123000"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        2
+                    ],
+                    "shellExponents": [
+                        "0.0261000"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        3
+                    ],
+                    "shellExponents": [
+                        "0.1757000"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        4
+                    ],
+                    "shellExponents": [
+                        "0.4376000"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                }
+            ]
+        },
+        "45": {
+            "elementReferences": [
+                "AUG-CC-PVTZ-DK-BS-REF"
+            ],
+            "elementElectronShells": [
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        0
+                    ],
+                    "shellExponents": [
+                        "0.0140000"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        1
+                    ],
+                    "shellExponents": [
+                        "0.0136000"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        2
+                    ],
+                    "shellExponents": [
+                        "0.0290000"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        3
+                    ],
+                    "shellExponents": [
+                        "0.2080000"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        4
+                    ],
+                    "shellExponents": [
+                        "0.5224000"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                }
+            ]
+        },
+        "46": {
+            "elementReferences": [
+                "AUG-CC-PVTZ-DK-BS-REF"
+            ],
+            "elementElectronShells": [
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        0
+                    ],
+                    "shellExponents": [
+                        "0.0142000"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        1
+                    ],
+                    "shellExponents": [
+                        "0.0131000"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        2
+                    ],
+                    "shellExponents": [
+                        "0.0320000"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        3
+                    ],
+                    "shellExponents": [
+                        "0.2424000"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        4
+                    ],
+                    "shellExponents": [
+                        "0.6192000"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                }
+            ]
+        }
+    }
+}

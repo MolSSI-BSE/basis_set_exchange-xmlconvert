@@ -1,0 +1,409 @@
+{
+    "molssi_bse_magic": 1,
+    "basisSetName": "SBKJC Polarized (p,2d) - LFK",
+    "basisSetDescription": "SBKJC Polarized (p,2d) - LFK",
+    "basisSetElements": {
+        "1": {
+            "elementComponents": [
+                "SBKJCPOLARIZEDP2D-LFK.json"
+            ]
+        },
+        "2": {
+            "elementComponents": [
+                "SBKJCPOLARIZEDP2D-LFK.json"
+            ]
+        },
+        "3": {
+            "elementComponents": [
+                "SBKJCPOLARIZEDP2D-LFK.json",
+                "SBKJC-ECP.json"
+            ]
+        },
+        "4": {
+            "elementComponents": [
+                "SBKJCPOLARIZEDP2D-LFK.json",
+                "SBKJC-ECP.json"
+            ]
+        },
+        "5": {
+            "elementComponents": [
+                "SBKJCPOLARIZEDP2D-LFK.json",
+                "SBKJC-ECP.json"
+            ]
+        },
+        "6": {
+            "elementComponents": [
+                "SBKJCPOLARIZEDP2D-LFK.json",
+                "SBKJC-ECP.json"
+            ]
+        },
+        "7": {
+            "elementComponents": [
+                "SBKJCPOLARIZEDP2D-LFK.json",
+                "SBKJC-ECP.json"
+            ]
+        },
+        "8": {
+            "elementComponents": [
+                "SBKJCPOLARIZEDP2D-LFK.json",
+                "SBKJC-ECP.json"
+            ]
+        },
+        "9": {
+            "elementComponents": [
+                "SBKJCPOLARIZEDP2D-LFK.json",
+                "SBKJC-ECP.json"
+            ]
+        },
+        "10": {
+            "elementComponents": [
+                "SBKJCPOLARIZEDP2D-LFK.json",
+                "SBKJC-ECP.json"
+            ]
+        },
+        "11": {
+            "elementComponents": [
+                "SBKJCPOLARIZEDP2D-LFK.json",
+                "SBKJC-ECP.json"
+            ]
+        },
+        "12": {
+            "elementComponents": [
+                "SBKJCPOLARIZEDP2D-LFK.json",
+                "SBKJC-ECP.json"
+            ]
+        },
+        "13": {
+            "elementComponents": [
+                "SBKJCPOLARIZEDP2D-LFK.json",
+                "SBKJC-ECP.json"
+            ]
+        },
+        "14": {
+            "elementComponents": [
+                "SBKJCPOLARIZEDP2D-LFK.json",
+                "SBKJC-ECP.json"
+            ]
+        },
+        "15": {
+            "elementComponents": [
+                "SBKJCPOLARIZEDP2D-LFK.json",
+                "SBKJC-ECP.json"
+            ]
+        },
+        "16": {
+            "elementComponents": [
+                "SBKJCPOLARIZEDP2D-LFK.json",
+                "SBKJC-ECP.json"
+            ]
+        },
+        "17": {
+            "elementComponents": [
+                "SBKJCPOLARIZEDP2D-LFK.json",
+                "SBKJC-ECP.json"
+            ]
+        },
+        "18": {
+            "elementComponents": [
+                "SBKJCPOLARIZEDP2D-LFK.json",
+                "SBKJC-ECP.json"
+            ]
+        },
+        "19": {
+            "elementComponents": [
+                "SBKJCPOLARIZEDP2D-LFK.json",
+                "SBKJC-ECP.json"
+            ]
+        },
+        "20": {
+            "elementComponents": [
+                "SBKJCPOLARIZEDP2D-LFK.json",
+                "SBKJC-ECP.json"
+            ]
+        },
+        "21": {
+            "elementComponents": [
+                "SBKJC-ECP.json"
+            ]
+        },
+        "22": {
+            "elementComponents": [
+                "SBKJC-ECP.json"
+            ]
+        },
+        "23": {
+            "elementComponents": [
+                "SBKJC-ECP.json"
+            ]
+        },
+        "24": {
+            "elementComponents": [
+                "SBKJC-ECP.json"
+            ]
+        },
+        "25": {
+            "elementComponents": [
+                "SBKJC-ECP.json"
+            ]
+        },
+        "26": {
+            "elementComponents": [
+                "SBKJC-ECP.json"
+            ]
+        },
+        "27": {
+            "elementComponents": [
+                "SBKJC-ECP.json"
+            ]
+        },
+        "28": {
+            "elementComponents": [
+                "SBKJC-ECP.json"
+            ]
+        },
+        "29": {
+            "elementComponents": [
+                "SBKJC-ECP.json"
+            ]
+        },
+        "30": {
+            "elementComponents": [
+                "SBKJC-ECP.json"
+            ]
+        },
+        "31": {
+            "elementComponents": [
+                "SBKJC-ECP.json"
+            ]
+        },
+        "32": {
+            "elementComponents": [
+                "SBKJCPOLARIZEDP2D-LFK.json",
+                "SBKJC-ECP.json"
+            ]
+        },
+        "33": {
+            "elementComponents": [
+                "SBKJCPOLARIZEDP2D-LFK.json",
+                "SBKJC-ECP.json"
+            ]
+        },
+        "34": {
+            "elementComponents": [
+                "SBKJCPOLARIZEDP2D-LFK.json",
+                "SBKJC-ECP.json"
+            ]
+        },
+        "35": {
+            "elementComponents": [
+                "SBKJCPOLARIZEDP2D-LFK.json",
+                "SBKJC-ECP.json"
+            ]
+        },
+        "36": {
+            "elementComponents": [
+                "SBKJCPOLARIZEDP2D-LFK.json",
+                "SBKJC-ECP.json"
+            ]
+        },
+        "37": {
+            "elementComponents": [
+                "SBKJCPOLARIZEDP2D-LFK.json",
+                "SBKJC-ECP.json"
+            ]
+        },
+        "38": {
+            "elementComponents": [
+                "SBKJCPOLARIZEDP2D-LFK.json",
+                "SBKJC-ECP.json"
+            ]
+        },
+        "39": {
+            "elementComponents": [
+                "SBKJC-ECP.json"
+            ]
+        },
+        "40": {
+            "elementComponents": [
+                "SBKJC-ECP.json"
+            ]
+        },
+        "41": {
+            "elementComponents": [
+                "SBKJC-ECP.json"
+            ]
+        },
+        "42": {
+            "elementComponents": [
+                "SBKJC-ECP.json"
+            ]
+        },
+        "43": {
+            "elementComponents": [
+                "SBKJC-ECP.json"
+            ]
+        },
+        "44": {
+            "elementComponents": [
+                "SBKJC-ECP.json"
+            ]
+        },
+        "45": {
+            "elementComponents": [
+                "SBKJC-ECP.json"
+            ]
+        },
+        "46": {
+            "elementComponents": [
+                "SBKJC-ECP.json"
+            ]
+        },
+        "47": {
+            "elementComponents": [
+                "SBKJC-ECP.json"
+            ]
+        },
+        "48": {
+            "elementComponents": [
+                "SBKJC-ECP.json"
+            ]
+        },
+        "49": {
+            "elementComponents": [
+                "SBKJC-ECP.json"
+            ]
+        },
+        "50": {
+            "elementComponents": [
+                "SBKJCPOLARIZEDP2D-LFK.json",
+                "SBKJC-ECP.json"
+            ]
+        },
+        "51": {
+            "elementComponents": [
+                "SBKJCPOLARIZEDP2D-LFK.json",
+                "SBKJC-ECP.json"
+            ]
+        },
+        "52": {
+            "elementComponents": [
+                "SBKJCPOLARIZEDP2D-LFK.json",
+                "SBKJC-ECP.json"
+            ]
+        },
+        "53": {
+            "elementComponents": [
+                "SBKJCPOLARIZEDP2D-LFK.json",
+                "SBKJC-ECP.json"
+            ]
+        },
+        "54": {
+            "elementComponents": [
+                "SBKJCPOLARIZEDP2D-LFK.json",
+                "SBKJC-ECP.json"
+            ]
+        },
+        "55": {
+            "elementComponents": [
+                "SBKJCPOLARIZEDP2D-LFK.json",
+                "SBKJC-ECP.json"
+            ]
+        },
+        "56": {
+            "elementComponents": [
+                "SBKJCPOLARIZEDP2D-LFK.json",
+                "SBKJC-ECP.json"
+            ]
+        },
+        "57": {
+            "elementComponents": [
+                "SBKJC-ECP.json"
+            ]
+        },
+        "58": {
+            "elementComponents": [
+                "SBKJC-ECP.json"
+            ]
+        },
+        "72": {
+            "elementComponents": [
+                "SBKJC-ECP.json"
+            ]
+        },
+        "73": {
+            "elementComponents": [
+                "SBKJC-ECP.json"
+            ]
+        },
+        "74": {
+            "elementComponents": [
+                "SBKJC-ECP.json"
+            ]
+        },
+        "75": {
+            "elementComponents": [
+                "SBKJC-ECP.json"
+            ]
+        },
+        "76": {
+            "elementComponents": [
+                "SBKJC-ECP.json"
+            ]
+        },
+        "77": {
+            "elementComponents": [
+                "SBKJC-ECP.json"
+            ]
+        },
+        "78": {
+            "elementComponents": [
+                "SBKJC-ECP.json"
+            ]
+        },
+        "79": {
+            "elementComponents": [
+                "SBKJC-ECP.json"
+            ]
+        },
+        "80": {
+            "elementComponents": [
+                "SBKJC-ECP.json"
+            ]
+        },
+        "81": {
+            "elementComponents": [
+                "SBKJC-ECP.json"
+            ]
+        },
+        "82": {
+            "elementComponents": [
+                "SBKJCPOLARIZEDP2D-LFK.json",
+                "SBKJC-ECP.json"
+            ]
+        },
+        "83": {
+            "elementComponents": [
+                "SBKJCPOLARIZEDP2D-LFK.json",
+                "SBKJC-ECP.json"
+            ]
+        },
+        "84": {
+            "elementComponents": [
+                "SBKJCPOLARIZEDP2D-LFK.json",
+                "SBKJC-ECP.json"
+            ]
+        },
+        "85": {
+            "elementComponents": [
+                "SBKJCPOLARIZEDP2D-LFK.json",
+                "SBKJC-ECP.json"
+            ]
+        },
+        "86": {
+            "elementComponents": [
+                "SBKJCPOLARIZEDP2D-LFK.json",
+                "SBKJC-ECP.json"
+            ]
+        }
+    }
+}

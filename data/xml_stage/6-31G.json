@@ -5,7 +5,7 @@
     "basisSetElements": {
         "1": {
             "elementReferences": [
-                "hehre:1972a"
+                "6-31G-BS-REF"
             ],
             "elementElectronShells": [
                 {
@@ -47,7 +47,9 @@
             ]
         },
         "2": {
-            "elementReferences": [],
+            "elementReferences": [
+                "6-31G-BS-REF"
+            ],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -89,7 +91,7 @@
         },
         "3": {
             "elementReferences": [
-                "dill:1975a"
+                "6-31G-BS-REF"
             ],
             "elementElectronShells": [
                 {
@@ -168,7 +170,7 @@
         },
         "4": {
             "elementReferences": [
-                "dill:1975a"
+                "6-31G-BS-REF"
             ],
             "elementElectronShells": [
                 {
@@ -247,7 +249,7 @@
         },
         "5": {
             "elementReferences": [
-                "dill:1975a"
+                "6-31G-BS-REF"
             ],
             "elementElectronShells": [
                 {
@@ -326,7 +328,7 @@
         },
         "6": {
             "elementReferences": [
-                "hehre:1972a"
+                "6-31G-BS-REF"
             ],
             "elementElectronShells": [
                 {
@@ -405,7 +407,7 @@
         },
         "7": {
             "elementReferences": [
-                "hehre:1972a"
+                "6-31G-BS-REF"
             ],
             "elementElectronShells": [
                 {
@@ -484,7 +486,7 @@
         },
         "8": {
             "elementReferences": [
-                "hehre:1972a"
+                "6-31G-BS-REF"
             ],
             "elementElectronShells": [
                 {
@@ -563,7 +565,7 @@
         },
         "9": {
             "elementReferences": [
-                "hehre:1972a"
+                "6-31G-BS-REF"
             ],
             "elementElectronShells": [
                 {
@@ -642,7 +644,7 @@
         },
         "10": {
             "elementReferences": [
-                "hehre:1972a"
+                "6-31G-BS-REF"
             ],
             "elementElectronShells": [
                 {
@@ -721,7 +723,7 @@
         },
         "11": {
             "elementReferences": [
-                "francl:1982a"
+                "6-31G-BS-REF"
             ],
             "elementElectronShells": [
                 {
@@ -835,7 +837,7 @@
         },
         "12": {
             "elementReferences": [
-                "francl:1982a"
+                "6-31G-BS-REF"
             ],
             "elementElectronShells": [
                 {
@@ -949,7 +951,7 @@
         },
         "13": {
             "elementReferences": [
-                "francl:1982a"
+                "6-31G-BS-REF"
             ],
             "elementElectronShells": [
                 {
@@ -1063,7 +1065,7 @@
         },
         "14": {
             "elementReferences": [
-                "francl:1982a"
+                "6-31G-BS-REF"
             ],
             "elementElectronShells": [
                 {
@@ -1177,7 +1179,7 @@
         },
         "15": {
             "elementReferences": [
-                "francl:1982a"
+                "6-31G-BS-REF"
             ],
             "elementElectronShells": [
                 {
@@ -1291,7 +1293,7 @@
         },
         "16": {
             "elementReferences": [
-                "francl:1982a"
+                "6-31G-BS-REF"
             ],
             "elementElectronShells": [
                 {
@@ -1405,7 +1407,7 @@
         },
         "17": {
             "elementReferences": [
-                "francl:1982a"
+                "6-31G-BS-REF"
             ],
             "elementElectronShells": [
                 {
@@ -1519,7 +1521,7 @@
         },
         "18": {
             "elementReferences": [
-                "francl:1982a"
+                "6-31G-BS-REF"
             ],
             "elementElectronShells": [
                 {
@@ -1633,7 +1635,7 @@
         },
         "19": {
             "elementReferences": [
-                "rassolov:1998a"
+                "6-31G-BS-REF"
             ],
             "elementElectronShells": [
                 {
@@ -1782,7 +1784,7 @@
         },
         "20": {
             "elementReferences": [
-                "rassolov:1998a"
+                "6-31G-BS-REF"
             ],
             "elementElectronShells": [
                 {
@@ -1931,7 +1933,7 @@
         },
         "21": {
             "elementReferences": [
-                "rassolov:1998a"
+                "6-31G-BS-REF"
             ],
             "elementElectronShells": [
                 {
@@ -2116,7 +2118,7 @@
         },
         "22": {
             "elementReferences": [
-                "rassolov:1998a"
+                "6-31G-BS-REF"
             ],
             "elementElectronShells": [
                 {
@@ -2301,7 +2303,7 @@
         },
         "23": {
             "elementReferences": [
-                "rassolov:1998a"
+                "6-31G-BS-REF"
             ],
             "elementElectronShells": [
                 {
@@ -2486,7 +2488,7 @@
         },
         "24": {
             "elementReferences": [
-                "rassolov:1998a"
+                "6-31G-BS-REF"
             ],
             "elementElectronShells": [
                 {
@@ -2671,7 +2673,7 @@
         },
         "25": {
             "elementReferences": [
-                "rassolov:1998a"
+                "6-31G-BS-REF"
             ],
             "elementElectronShells": [
                 {
@@ -2856,7 +2858,7 @@
         },
         "26": {
             "elementReferences": [
-                "rassolov:1998a"
+                "6-31G-BS-REF"
             ],
             "elementElectronShells": [
                 {
@@ -3041,7 +3043,7 @@
         },
         "27": {
             "elementReferences": [
-                "rassolov:1998a"
+                "6-31G-BS-REF"
             ],
             "elementElectronShells": [
                 {
@@ -3226,7 +3228,7 @@
         },
         "28": {
             "elementReferences": [
-                "rassolov:1998a"
+                "6-31G-BS-REF"
             ],
             "elementElectronShells": [
                 {
@@ -3411,7 +3413,7 @@
         },
         "29": {
             "elementReferences": [
-                "rassolov:1998a"
+                "6-31G-BS-REF"
             ],
             "elementElectronShells": [
                 {
@@ -3596,7 +3598,7 @@
         },
         "30": {
             "elementReferences": [
-                "rassolov:1998a"
+                "6-31G-BS-REF"
             ],
             "elementElectronShells": [
                 {

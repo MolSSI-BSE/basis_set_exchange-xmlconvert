@@ -1,0 +1,43 @@
+{
+    "molssi_bse_magic": 1,
+    "basisSetName": "cc-pCVQZ(old)",
+    "basisSetDescription": "QZ3P    Quadruple Zeta + Polarization + Tight Core",
+    "basisSetElements": {
+        "13": {
+            "elementComponents": [
+                "CC-PVQZ.json",
+                "CC-PCVQZ_OLD.json"
+            ]
+        },
+        "14": {
+            "elementComponents": [
+                "CC-PVQZ.json",
+                "CC-PCVQZ_OLD.json"
+            ]
+        },
+        "15": {
+            "elementComponents": [
+                "CC-PVQZ.json",
+                "CC-PCVQZ_OLD.json"
+            ]
+        },
+        "16": {
+            "elementComponents": [
+                "CC-PVQZ.json",
+                "CC-PCVQZ_OLD.json"
+            ]
+        },
+        "17": {
+            "elementComponents": [
+                "CC-PVQZ.json",
+                "CC-PCVQZ_OLD.json"
+            ]
+        },
+        "18": {
+            "elementComponents": [
+                "CC-PVQZ.json",
+                "CC-PCVQZ_OLD.json"
+            ]
+        }
+    }
+}

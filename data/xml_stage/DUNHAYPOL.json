@@ -1,0 +1,352 @@
+{
+    "molssi_bse_magic": 1,
+    "basisSetName": "DHMS Polarization",
+    "basisSetDescription": "1P      Polarization Functions",
+    "basisSetElements": {
+        "1": {
+            "elementReferences": [
+                "DUNHAYPOL-BS-REF"
+            ],
+            "elementElectronShells": [
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "cartesian",
+                    "shellRegion": "polarization",
+                    "shellAngularMomentum": [
+                        1
+                    ],
+                    "shellExponents": [
+                        "1.000000"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.000000"
+                        ]
+                    ]
+                }
+            ]
+        },
+        "2": {
+            "elementReferences": [
+                "DUNHAYPOL-BS-REF"
+            ],
+            "elementElectronShells": [
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "cartesian",
+                    "shellRegion": "polarization",
+                    "shellAngularMomentum": [
+                        1
+                    ],
+                    "shellExponents": [
+                        "1.000000"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.000000"
+                        ]
+                    ]
+                }
+            ]
+        },
+        "3": {
+            "elementReferences": [
+                "DUNHAYPOL-BS-REF"
+            ],
+            "elementElectronShells": [
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "cartesian",
+                    "shellRegion": "polarization",
+                    "shellAngularMomentum": [
+                        2
+                    ],
+                    "shellExponents": [
+                        "0.200000"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.000000"
+                        ]
+                    ]
+                }
+            ]
+        },
+        "4": {
+            "elementReferences": [
+                "DUNHAYPOL-BS-REF"
+            ],
+            "elementElectronShells": [
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "cartesian",
+                    "shellRegion": "polarization",
+                    "shellAngularMomentum": [
+                        2
+                    ],
+                    "shellExponents": [
+                        "0.400000"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.000000"
+                        ]
+                    ]
+                }
+            ]
+        },
+        "5": {
+            "elementReferences": [
+                "DUNHAYPOL-BS-REF"
+            ],
+            "elementElectronShells": [
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "cartesian",
+                    "shellRegion": "polarization",
+                    "shellAngularMomentum": [
+                        2
+                    ],
+                    "shellExponents": [
+                        "0.700000"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.000000"
+                        ]
+                    ]
+                }
+            ]
+        },
+        "6": {
+            "elementReferences": [
+                "DUNHAYPOL-BS-REF"
+            ],
+            "elementElectronShells": [
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "cartesian",
+                    "shellRegion": "polarization",
+                    "shellAngularMomentum": [
+                        2
+                    ],
+                    "shellExponents": [
+                        "0.750000"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.000000"
+                        ]
+                    ]
+                }
+            ]
+        },
+        "7": {
+            "elementReferences": [
+                "DUNHAYPOL-BS-REF"
+            ],
+            "elementElectronShells": [
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "cartesian",
+                    "shellRegion": "polarization",
+                    "shellAngularMomentum": [
+                        2
+                    ],
+                    "shellExponents": [
+                        "0.800000"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.000000"
+                        ]
+                    ]
+                }
+            ]
+        },
+        "8": {
+            "elementReferences": [
+                "DUNHAYPOL-BS-REF"
+            ],
+            "elementElectronShells": [
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "cartesian",
+                    "shellRegion": "polarization",
+                    "shellAngularMomentum": [
+                        2
+                    ],
+                    "shellExponents": [
+                        "0.850000"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.000000"
+                        ]
+                    ]
+                }
+            ]
+        },
+        "9": {
+            "elementReferences": [
+                "DUNHAYPOL-BS-REF"
+            ],
+            "elementElectronShells": [
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "cartesian",
+                    "shellRegion": "polarization",
+                    "shellAngularMomentum": [
+                        2
+                    ],
+                    "shellExponents": [
+                        "0.900000"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.000000"
+                        ]
+                    ]
+                }
+            ]
+        },
+        "10": {
+            "elementReferences": [
+                "DUNHAYPOL-BS-REF"
+            ],
+            "elementElectronShells": [
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "cartesian",
+                    "shellRegion": "polarization",
+                    "shellAngularMomentum": [
+                        2
+                    ],
+                    "shellExponents": [
+                        "0.950000"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.000000"
+                        ]
+                    ]
+                }
+            ]
+        },
+        "13": {
+            "elementReferences": [
+                "DUNHAYPOL-BS-REF"
+            ],
+            "elementElectronShells": [
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "cartesian",
+                    "shellRegion": "polarization",
+                    "shellAngularMomentum": [
+                        2
+                    ],
+                    "shellExponents": [
+                        "0.325000"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.000000"
+                        ]
+                    ]
+                }
+            ]
+        },
+        "14": {
+            "elementReferences": [
+                "DUNHAYPOL-BS-REF"
+            ],
+            "elementElectronShells": [
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "cartesian",
+                    "shellRegion": "polarization",
+                    "shellAngularMomentum": [
+                        2
+                    ],
+                    "shellExponents": [
+                        "0.550000"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.000000"
+                        ]
+                    ]
+                }
+            ]
+        },
+        "15": {
+            "elementReferences": [
+                "DUNHAYPOL-BS-REF"
+            ],
+            "elementElectronShells": [
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "cartesian",
+                    "shellRegion": "polarization",
+                    "shellAngularMomentum": [
+                        2
+                    ],
+                    "shellExponents": [
+                        "0.600000"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.000000"
+                        ]
+                    ]
+                }
+            ]
+        },
+        "16": {
+            "elementReferences": [
+                "DUNHAYPOL-BS-REF"
+            ],
+            "elementElectronShells": [
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "cartesian",
+                    "shellRegion": "polarization",
+                    "shellAngularMomentum": [
+                        2
+                    ],
+                    "shellExponents": [
+                        "0.700000"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.000000"
+                        ]
+                    ]
+                }
+            ]
+        },
+        "17": {
+            "elementReferences": [
+                "DUNHAYPOL-BS-REF"
+            ],
+            "elementElectronShells": [
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "cartesian",
+                    "shellRegion": "polarization",
+                    "shellAngularMomentum": [
+                        2
+                    ],
+                    "shellExponents": [
+                        "0.750000"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.000000"
+                        ]
+                    ]
+                }
+            ]
+        }
+    }
+}

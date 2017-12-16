@@ -1,0 +1,57 @@
+{
+    "molssi_bse_magic": 1,
+    "basisSetName": "SDB-aug-cc-pVQZ Diffuse",
+    "basisSetDescription": "1D      Diffuse Functions",
+    "basisSetElements": {
+        "31": {
+            "elementComponents": [
+                "SDB-AUG-CC-PVQZ.json"
+            ]
+        },
+        "32": {
+            "elementComponents": [
+                "SDB-AUG-CC-PVQZ.json"
+            ]
+        },
+        "33": {
+            "elementComponents": [
+                "SDB-AUG-CC-PVQZ.json"
+            ]
+        },
+        "34": {
+            "elementComponents": [
+                "SDB-AUG-CC-PVQZ.json"
+            ]
+        },
+        "35": {
+            "elementComponents": [
+                "SDB-AUG-CC-PVQZ.json"
+            ]
+        },
+        "49": {
+            "elementComponents": [
+                "SDB-AUG-CC-PVQZ.json"
+            ]
+        },
+        "50": {
+            "elementComponents": [
+                "SDB-AUG-CC-PVQZ.json"
+            ]
+        },
+        "51": {
+            "elementComponents": [
+                "SDB-AUG-CC-PVQZ.json"
+            ]
+        },
+        "52": {
+            "elementComponents": [
+                "SDB-AUG-CC-PVQZ.json"
+            ]
+        },
+        "53": {
+            "elementComponents": [
+                "SDB-AUG-CC-PVQZ.json"
+            ]
+        }
+    }
+}

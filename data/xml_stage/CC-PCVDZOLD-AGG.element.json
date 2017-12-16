@@ -1,0 +1,43 @@
+{
+    "molssi_bse_magic": 1,
+    "basisSetName": "cc-pCVDZ(old)",
+    "basisSetDescription": "DZP     Double Zeta + Polarization + Tight Core",
+    "basisSetElements": {
+        "13": {
+            "elementComponents": [
+                "CC-PVDZ.json",
+                "CC-PCVDZ_OLD.json"
+            ]
+        },
+        "14": {
+            "elementComponents": [
+                "CC-PVDZ.json",
+                "CC-PCVDZ_OLD.json"
+            ]
+        },
+        "15": {
+            "elementComponents": [
+                "CC-PVDZ.json",
+                "CC-PCVDZ_OLD.json"
+            ]
+        },
+        "16": {
+            "elementComponents": [
+                "CC-PVDZ.json",
+                "CC-PCVDZ_OLD.json"
+            ]
+        },
+        "17": {
+            "elementComponents": [
+                "CC-PVDZ.json",
+                "CC-PCVDZ_OLD.json"
+            ]
+        },
+        "18": {
+            "elementComponents": [
+                "CC-PVDZ.json",
+                "CC-PCVDZ_OLD.json"
+            ]
+        }
+    }
+}

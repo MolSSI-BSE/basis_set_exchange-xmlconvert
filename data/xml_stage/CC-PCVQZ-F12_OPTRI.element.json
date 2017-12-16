@@ -1,0 +1,87 @@
+{
+    "molssi_bse_magic": 1,
+    "basisSetName": "cc-pCVQZ-F12_OPTRI",
+    "basisSetDescription": "cc-pCVQZ-F12_OPTRI",
+    "basisSetElements": {
+        "3": {
+            "elementComponents": [
+                "CC-PCVQZ-F12_OPTRI.json"
+            ]
+        },
+        "4": {
+            "elementComponents": [
+                "CC-PCVQZ-F12_OPTRI.json"
+            ]
+        },
+        "5": {
+            "elementComponents": [
+                "CC-PCVQZ-F12_OPTRI.json"
+            ]
+        },
+        "6": {
+            "elementComponents": [
+                "CC-PCVQZ-F12_OPTRI.json"
+            ]
+        },
+        "7": {
+            "elementComponents": [
+                "CC-PCVQZ-F12_OPTRI.json"
+            ]
+        },
+        "8": {
+            "elementComponents": [
+                "CC-PCVQZ-F12_OPTRI.json"
+            ]
+        },
+        "9": {
+            "elementComponents": [
+                "CC-PCVQZ-F12_OPTRI.json"
+            ]
+        },
+        "10": {
+            "elementComponents": [
+                "CC-PCVQZ-F12_OPTRI.json"
+            ]
+        },
+        "11": {
+            "elementComponents": [
+                "CC-PCVQZ-F12_OPTRI.json"
+            ]
+        },
+        "12": {
+            "elementComponents": [
+                "CC-PCVQZ-F12_OPTRI.json"
+            ]
+        },
+        "13": {
+            "elementComponents": [
+                "CC-PCVQZ-F12_OPTRI.json"
+            ]
+        },
+        "14": {
+            "elementComponents": [
+                "CC-PCVQZ-F12_OPTRI.json"
+            ]
+        },
+        "15": {
+            "elementComponents": [
+                "CC-PCVQZ-F12_OPTRI.json"
+            ]
+        },
+        "16": {
+            "elementComponents": [
+                "CC-PCVQZ-F12_OPTRI.json"
+            ]
+        },
+        "17": {
+            "elementComponents": [
+                "CC-PCVQZ-F12_OPTRI.json"
+            ]
+        },
+        "18": {
+            "elementComponents": [
+                "CC-PCVQZ-F12_OPTRI.json"
+            ]
+        }
+    }
+}

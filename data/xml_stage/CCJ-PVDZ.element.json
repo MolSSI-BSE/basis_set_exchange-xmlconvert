@@ -1,0 +1,47 @@
+{
+    "molssi_bse_magic": 1,
+    "basisSetName": "ccJ-pVDZ",
+    "basisSetDescription": "ccJ-pVDZ",
+    "basisSetElements": {
+        "1": {
+            "elementComponents": [
+                "CCJ-PVDZ.json"
+            ]
+        },
+        "2": {
+            "elementComponents": [
+                "CCJ-PVDZ.json"
+            ]
+        },
+        "5": {
+            "elementComponents": [
+                "CCJ-PVDZ.json"
+            ]
+        },
+        "6": {
+            "elementComponents": [
+                "CCJ-PVDZ.json"
+            ]
+        },
+        "7": {
+            "elementComponents": [
+                "CCJ-PVDZ.json"
+            ]
+        },
+        "8": {
+            "elementComponents": [
+                "CCJ-PVDZ.json"
+            ]
+        },
+        "9": {
+            "elementComponents": [
+                "CCJ-PVDZ.json"
+            ]
+        },
+        "10": {
+            "elementComponents": [
+                "CCJ-PVDZ.json"
+            ]
+        }
+    }
+}

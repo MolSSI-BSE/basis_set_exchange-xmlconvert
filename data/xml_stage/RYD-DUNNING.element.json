@@ -1,0 +1,67 @@
+{
+    "molssi_bse_magic": 1,
+    "basisSetName": "Dunning-Hay Rydberg",
+    "basisSetDescription": "1R      Rydberg Functions",
+    "basisSetElements": {
+        "5": {
+            "elementComponents": [
+                "RYD-DUNNING.json"
+            ]
+        },
+        "6": {
+            "elementComponents": [
+                "RYD-DUNNING.json"
+            ]
+        },
+        "7": {
+            "elementComponents": [
+                "RYD-DUNNING.json"
+            ]
+        },
+        "8": {
+            "elementComponents": [
+                "RYD-DUNNING.json"
+            ]
+        },
+        "9": {
+            "elementComponents": [
+                "RYD-DUNNING.json"
+            ]
+        },
+        "10": {
+            "elementComponents": [
+                "RYD-DUNNING.json"
+            ]
+        },
+        "13": {
+            "elementComponents": [
+                "RYD-DUNNING.json"
+            ]
+        },
+        "14": {
+            "elementComponents": [
+                "RYD-DUNNING.json"
+            ]
+        },
+        "15": {
+            "elementComponents": [
+                "RYD-DUNNING.json"
+            ]
+        },
+        "16": {
+            "elementComponents": [
+                "RYD-DUNNING.json"
+            ]
+        },
+        "17": {
+            "elementComponents": [
+                "RYD-DUNNING.json"
+            ]
+        },
+        "18": {
+            "elementComponents": [
+                "RYD-DUNNING.json"
+            ]
+        }
+    }
+}

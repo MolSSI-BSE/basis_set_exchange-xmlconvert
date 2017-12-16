@@ -1,0 +1,232 @@
+{
+    "molssi_bse_magic": 1,
+    "basisSetName": "SARC-DKH",
+    "basisSetDescription": "SARC-DKH",
+    "basisSetElements": {
+        "57": {
+            "elementComponents": [
+                "SARC-DKH.json"
+            ]
+        },
+        "58": {
+            "elementComponents": [
+                "SARC-DKH.json"
+            ]
+        },
+        "59": {
+            "elementComponents": [
+                "SARC-DKH.json"
+            ]
+        },
+        "60": {
+            "elementComponents": [
+                "SARC-DKH.json"
+            ]
+        },
+        "61": {
+            "elementComponents": [
+                "SARC-DKH.json"
+            ]
+        },
+        "62": {
+            "elementComponents": [
+                "SARC-DKH.json"
+            ]
+        },
+        "63": {
+            "elementComponents": [
+                "SARC-DKH.json"
+            ]
+        },
+        "64": {
+            "elementComponents": [
+                "SARC-DKH.json"
+            ]
+        },
+        "65": {
+            "elementComponents": [
+                "SARC-DKH.json"
+            ]
+        },
+        "66": {
+            "elementComponents": [
+                "SARC-DKH.json"
+            ]
+        },
+        "67": {
+            "elementComponents": [
+                "SARC-DKH.json"
+            ]
+        },
+        "68": {
+            "elementComponents": [
+                "SARC-DKH.json"
+            ]
+        },
+        "69": {
+            "elementComponents": [
+                "SARC-DKH.json"
+            ]
+        },
+        "70": {
+            "elementComponents": [
+                "SARC-DKH.json"
+            ]
+        },
+        "71": {
+            "elementComponents": [
+                "SARC-DKH.json"
+            ]
+        },
+        "72": {
+            "elementComponents": [
+                "SARC-DKH.json"
+            ]
+        },
+        "73": {
+            "elementComponents": [
+                "SARC-DKH.json"
+            ]
+        },
+        "74": {
+            "elementComponents": [
+                "SARC-DKH.json"
+            ]
+        },
+        "75": {
+            "elementComponents": [
+                "SARC-DKH.json"
+            ]
+        },
+        "76": {
+            "elementComponents": [
+                "SARC-DKH.json"
+            ]
+        },
+        "77": {
+            "elementComponents": [
+                "SARC-DKH.json"
+            ]
+        },
+        "78": {
+            "elementComponents": [
+                "SARC-DKH.json"
+            ]
+        },
+        "79": {
+            "elementComponents": [
+                "SARC-DKH.json"
+            ]
+        },
+        "80": {
+            "elementComponents": [
+                "SARC-DKH.json"
+            ]
+        },
+        "81": {
+            "elementComponents": [
+                "SARC-DKH.json"
+            ]
+        },
+        "82": {
+            "elementComponents": [
+                "SARC-DKH.json"
+            ]
+        },
+        "83": {
+            "elementComponents": [
+                "SARC-DKH.json"
+            ]
+        },
+        "84": {
+            "elementComponents": [
+                "SARC-DKH.json"
+            ]
+        },
+        "85": {
+            "elementComponents": [
+                "SARC-DKH.json"
+            ]
+        },
+        "86": {
+            "elementComponents": [
+                "SARC-DKH.json"
+            ]
+        },
+        "89": {
+            "elementComponents": [
+                "SARC-DKH.json"
+            ]
+        },
+        "90": {
+            "elementComponents": [
+                "SARC-DKH.json"
+            ]
+        },
+        "91": {
+            "elementComponents": [
+                "SARC-DKH.json"
+            ]
+        },
+        "92": {
+            "elementComponents": [
+                "SARC-DKH.json"
+            ]
+        },
+        "93": {
+            "elementComponents": [
+                "SARC-DKH.json"
+            ]
+        },
+        "94": {
+            "elementComponents": [
+                "SARC-DKH.json"
+            ]
+        },
+        "95": {
+            "elementComponents": [
+                "SARC-DKH.json"
+            ]
+        },
+        "96": {
+            "elementComponents": [
+                "SARC-DKH.json"
+            ]
+        },
+        "97": {
+            "elementComponents": [
+                "SARC-DKH.json"
+            ]
+        },
+        "98": {
+            "elementComponents": [
+                "SARC-DKH.json"
+            ]
+        },
+        "99": {
+            "elementComponents": [
+                "SARC-DKH.json"
+            ]
+        },
+        "100": {
+            "elementComponents": [
+                "SARC-DKH.json"
+            ]
+        },
+        "101": {
+            "elementComponents": [
+                "SARC-DKH.json"
+            ]
+        },
+        "102": {
+            "elementComponents": [
+                "SARC-DKH.json"
+            ]
+        },
+        "103": {
+            "elementComponents": [
+                "SARC-DKH.json"
+            ]
+        }
+    }
+}

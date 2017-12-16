@@ -1,0 +1,97 @@
+{
+    "molssi_bse_magic": 1,
+    "basisSetName": "5ZP",
+    "basisSetDescription": "5ZP",
+    "basisSetElements": {
+        "1": {
+            "elementComponents": [
+                "5ZP.json"
+            ]
+        },
+        "2": {
+            "elementComponents": [
+                "5ZP.json"
+            ]
+        },
+        "3": {
+            "elementComponents": [
+                "5ZP.json"
+            ]
+        },
+        "4": {
+            "elementComponents": [
+                "5ZP.json"
+            ]
+        },
+        "5": {
+            "elementComponents": [
+                "5ZP.json"
+            ]
+        },
+        "6": {
+            "elementComponents": [
+                "5ZP.json"
+            ]
+        },
+        "7": {
+            "elementComponents": [
+                "5ZP.json"
+            ]
+        },
+        "8": {
+            "elementComponents": [
+                "5ZP.json"
+            ]
+        },
+        "9": {
+            "elementComponents": [
+                "5ZP.json"
+            ]
+        },
+        "10": {
+            "elementComponents": [
+                "5ZP.json"
+            ]
+        },
+        "11": {
+            "elementComponents": [
+                "5ZP.json"
+            ]
+        },
+        "12": {
+            "elementComponents": [
+                "5ZP.json"
+            ]
+        },
+        "13": {
+            "elementComponents": [
+                "5ZP.json"
+            ]
+        },
+        "14": {
+            "elementComponents": [
+                "5ZP.json"
+            ]
+        },
+        "15": {
+            "elementComponents": [
+                "5ZP.json"
+            ]
+        },
+        "16": {
+            "elementComponents": [
+                "5ZP.json"
+            ]
+        },
+        "17": {
+            "elementComponents": [
+                "5ZP.json"
+            ]
+        },
+        "18": {
+            "elementComponents": [
+                "5ZP.json"
+            ]
+        }
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "molssi_bse_magic": 1,
+    "basisSetName": "cc-pwCVTZ-NR",
+    "basisSetDescription": "TZ2P    All-electron non-relativistic Core-Valence Triple Zeta + Polarization",
+    "basisSetElements": {
+        "21": {
+            "elementComponents": [
+                "CC-PWCVTZ-NR.json"
+            ]
+        },
+        "22": {
+            "elementComponents": [
+                "CC-PWCVTZ-NR.json"
+            ]
+        },
+        "23": {
+            "elementComponents": [
+                "CC-PWCVTZ-NR.json"
+            ]
+        },
+        "24": {
+            "elementComponents": [
+                "CC-PWCVTZ-NR.json"
+            ]
+        },
+        "25": {
+            "elementComponents": [
+                "CC-PWCVTZ-NR.json"
+            ]
+        },
+        "26": {
+            "elementComponents": [
+                "CC-PWCVTZ-NR.json"
+            ]
+        },
+        "27": {
+            "elementComponents": [
+                "CC-PWCVTZ-NR.json"
+            ]
+        },
+        "28": {
+            "elementComponents": [
+                "CC-PWCVTZ-NR.json"
+            ]
+        },
+        "29": {
+            "elementComponents": [
+                "CC-PWCVTZ-NR.json"
+            ]
+        },
+        "30": {
+            "elementComponents": [
+                "CC-PWCVTZ-NR.json"
+            ]
+        }
+    }
+}

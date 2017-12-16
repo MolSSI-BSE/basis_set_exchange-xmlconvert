@@ -1,0 +1,70 @@
+{
+    "molssi_bse_magic": 1,
+    "basisSetName": "SVP + Diffuse (Dunning-Hay)",
+    "basisSetDescription": "VDZPD   Valence Double Zeta + Polarization + Diffuse",
+    "basisSetElements": {
+        "1": {
+            "elementComponents": [
+                "DUNHAYSV.json",
+                "DUNHAYPOL.json",
+                "DUNHAYDIF.json"
+            ]
+        },
+        "3": {
+            "elementComponents": [
+                "DUNHAYSV.json",
+                "DUNHAYPOL.json",
+                "DUNHAYDIF.json"
+            ]
+        },
+        "4": {
+            "elementComponents": [
+                "DUNHAYSV.json",
+                "DUNHAYPOL.json",
+                "DUNHAYDIF.json"
+            ]
+        },
+        "5": {
+            "elementComponents": [
+                "DUNHAYSV.json",
+                "DUNHAYPOL.json",
+                "DUNHAYDIF.json"
+            ]
+        },
+        "6": {
+            "elementComponents": [
+                "DUNHAYSV.json",
+                "DUNHAYPOL.json",
+                "DUNHAYDIF.json"
+            ]
+        },
+        "7": {
+            "elementComponents": [
+                "DUNHAYSV.json",
+                "DUNHAYPOL.json",
+                "DUNHAYDIF.json"
+            ]
+        },
+        "8": {
+            "elementComponents": [
+                "DUNHAYSV.json",
+                "DUNHAYPOL.json",
+                "DUNHAYDIF.json"
+            ]
+        },
+        "9": {
+            "elementComponents": [
+                "DUNHAYSV.json",
+                "DUNHAYPOL.json",
+                "DUNHAYDIF.json"
+            ]
+        },
+        "10": {
+            "elementComponents": [
+                "DUNHAYSV.json",
+                "DUNHAYPOL.json",
+                "DUNHAYDIF.json"
+            ]
+        }
+    }
+}

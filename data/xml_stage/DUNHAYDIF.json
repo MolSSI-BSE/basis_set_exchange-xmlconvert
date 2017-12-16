@@ -1,0 +1,230 @@
+{
+    "molssi_bse_magic": 1,
+    "basisSetName": "Dunning-Hay Diffuse",
+    "basisSetDescription": "1D      Diffuse Functions",
+    "basisSetElements": {
+        "1": {
+            "elementReferences": [
+                "DUNHAYDIF-BS-REF"
+            ],
+            "elementElectronShells": [
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "cartesian",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        0
+                    ],
+                    "shellExponents": [
+                        "0.048273"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.000000"
+                        ]
+                    ]
+                }
+            ]
+        },
+        "3": {
+            "elementReferences": [
+                "DUNHAYDIF-BS-REF"
+            ],
+            "elementElectronShells": [
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "cartesian",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        0
+                    ],
+                    "shellExponents": [
+                        "0.010700"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.000000"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "cartesian",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        1
+                    ],
+                    "shellExponents": [
+                        "0.007800"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.000000"
+                        ]
+                    ]
+                }
+            ]
+        },
+        "4": {
+            "elementReferences": [
+                "DUNHAYDIF-BS-REF"
+            ],
+            "elementElectronShells": [
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "cartesian",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        1
+                    ],
+                    "shellExponents": [
+                        "0.017342"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.000000"
+                        ]
+                    ]
+                }
+            ]
+        },
+        "5": {
+            "elementReferences": [
+                "DUNHAYDIF-BS-REF"
+            ],
+            "elementElectronShells": [
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "cartesian",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        1
+                    ],
+                    "shellExponents": [
+                        "0.019"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.000000"
+                        ]
+                    ]
+                }
+            ]
+        },
+        "6": {
+            "elementReferences": [
+                "DUNHAYDIF-BS-REF"
+            ],
+            "elementElectronShells": [
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "cartesian",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        1
+                    ],
+                    "shellExponents": [
+                        "0.034"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.000000"
+                        ]
+                    ]
+                }
+            ]
+        },
+        "7": {
+            "elementReferences": [
+                "DUNHAYDIF-BS-REF"
+            ],
+            "elementElectronShells": [
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "cartesian",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        1
+                    ],
+                    "shellExponents": [
+                        "0.048"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.000000"
+                        ]
+                    ]
+                }
+            ]
+        },
+        "8": {
+            "elementReferences": [
+                "DUNHAYDIF-BS-REF"
+            ],
+            "elementElectronShells": [
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "cartesian",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        1
+                    ],
+                    "shellExponents": [
+                        "0.059"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.000000"
+                        ]
+                    ]
+                }
+            ]
+        },
+        "9": {
+            "elementReferences": [
+                "DUNHAYDIF-BS-REF"
+            ],
+            "elementElectronShells": [
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "cartesian",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        1
+                    ],
+                    "shellExponents": [
+                        "0.074"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.000000"
+                        ]
+                    ]
+                }
+            ]
+        },
+        "10": {
+            "elementReferences": [
+                "DUNHAYDIF-BS-REF"
+            ],
+            "elementElectronShells": [
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "cartesian",
+                    "shellRegion": "diffuse",
+                    "shellAngularMomentum": [
+                        1
+                    ],
+                    "shellExponents": [
+                        "0.089"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.000000"
+                        ]
+                    ]
+                }
+            ]
+        }
+    }
+}

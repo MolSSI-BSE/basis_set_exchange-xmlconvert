@@ -1,0 +1,67 @@
+{
+    "molssi_bse_magic": 1,
+    "basisSetName": "Pople (2df,2pd) Polarization",
+    "basisSetDescription": "Pople (2df,2pd) Polarization",
+    "basisSetElements": {
+        "1": {
+            "elementComponents": [
+                "6-311G2DF2PD.json"
+            ]
+        },
+        "2": {
+            "elementComponents": [
+                "6-311G2DF2PD.json"
+            ]
+        },
+        "3": {
+            "elementComponents": [
+                "6-311G2DF2PD.json"
+            ]
+        },
+        "4": {
+            "elementComponents": [
+                "6-311G2DF2PD.json"
+            ]
+        },
+        "5": {
+            "elementComponents": [
+                "6-311G2DF2PD.json"
+            ]
+        },
+        "6": {
+            "elementComponents": [
+                "6-311G2DF2PD.json"
+            ]
+        },
+        "7": {
+            "elementComponents": [
+                "6-311G2DF2PD.json"
+            ]
+        },
+        "8": {
+            "elementComponents": [
+                "6-311G2DF2PD.json"
+            ]
+        },
+        "9": {
+            "elementComponents": [
+                "6-311G2DF2PD.json"
+            ]
+        },
+        "10": {
+            "elementComponents": [
+                "6-311G2DF2PD.json"
+            ]
+        },
+        "19": {
+            "elementComponents": [
+                "6-311G2DF2PD.json"
+            ]
+        },
+        "20": {
+            "elementComponents": [
+                "6-311G2DF2PD.json"
+            ]
+        }
+    }
+}

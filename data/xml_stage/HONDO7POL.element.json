@@ -1,0 +1,92 @@
+{
+    "molssi_bse_magic": 1,
+    "basisSetName": "HONDO7 Polarization",
+    "basisSetDescription": "1P      Polarization functions from HONDO7",
+    "basisSetElements": {
+        "1": {
+            "elementComponents": [
+                "HONDO7POL.json"
+            ]
+        },
+        "2": {
+            "elementComponents": [
+                "HONDO7POL.json"
+            ]
+        },
+        "4": {
+            "elementComponents": [
+                "HONDO7POL.json"
+            ]
+        },
+        "5": {
+            "elementComponents": [
+                "HONDO7POL.json"
+            ]
+        },
+        "6": {
+            "elementComponents": [
+                "HONDO7POL.json"
+            ]
+        },
+        "7": {
+            "elementComponents": [
+                "HONDO7POL.json"
+            ]
+        },
+        "8": {
+            "elementComponents": [
+                "HONDO7POL.json"
+            ]
+        },
+        "9": {
+            "elementComponents": [
+                "HONDO7POL.json"
+            ]
+        },
+        "10": {
+            "elementComponents": [
+                "HONDO7POL.json"
+            ]
+        },
+        "11": {
+            "elementComponents": [
+                "HONDO7POL.json"
+            ]
+        },
+        "12": {
+            "elementComponents": [
+                "HONDO7POL.json"
+            ]
+        },
+        "13": {
+            "elementComponents": [
+                "HONDO7POL.json"
+            ]
+        },
+        "14": {
+            "elementComponents": [
+                "HONDO7POL.json"
+            ]
+        },
+        "15": {
+            "elementComponents": [
+                "HONDO7POL.json"
+            ]
+        },
+        "16": {
+            "elementComponents": [
+                "HONDO7POL.json"
+            ]
+        },
+        "17": {
+            "elementComponents": [
+                "HONDO7POL.json"
+            ]
+        },
+        "18": {
+            "elementComponents": [
+                "HONDO7POL.json"
+            ]
+        }
+    }
+}

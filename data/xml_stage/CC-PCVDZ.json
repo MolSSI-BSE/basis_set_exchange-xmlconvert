@@ -1,0 +1,814 @@
+{
+    "molssi_bse_magic": 1,
+    "basisSetName": "Core/valence Functions (cc-pCVDZ)",
+    "basisSetDescription": "Core/valence Functions (cc-pCVDZ)",
+    "basisSetElements": {
+        "3": {
+            "elementReferences": [
+                "CC-PCVDZ-BS-REF"
+            ],
+            "elementElectronShells": [
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "tight",
+                    "shellAngularMomentum": [
+                        0
+                    ],
+                    "shellExponents": [
+                        "0.9060000"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "tight",
+                    "shellAngularMomentum": [
+                        1
+                    ],
+                    "shellExponents": [
+                        "3.2420000"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                }
+            ]
+        },
+        "4": {
+            "elementReferences": [
+                "CC-PCVDZ-BS-REF"
+            ],
+            "elementElectronShells": [
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "tight",
+                    "shellAngularMomentum": [
+                        0
+                    ],
+                    "shellExponents": [
+                        "1.8600000"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "tight",
+                    "shellAngularMomentum": [
+                        1
+                    ],
+                    "shellExponents": [
+                        "6.1630000"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                }
+            ]
+        },
+        "5": {
+            "elementReferences": [
+                "CC-PCVDZ-BS-REF"
+            ],
+            "elementElectronShells": [
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "tight",
+                    "shellAngularMomentum": [
+                        0
+                    ],
+                    "shellExponents": [
+                        "3.0660000"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "tight",
+                    "shellAngularMomentum": [
+                        1
+                    ],
+                    "shellExponents": [
+                        "9.9400000"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                }
+            ]
+        },
+        "6": {
+            "elementReferences": [
+                "CC-PCVDZ-BS-REF"
+            ],
+            "elementElectronShells": [
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "tight",
+                    "shellAngularMomentum": [
+                        0
+                    ],
+                    "shellExponents": [
+                        "4.5300000"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "tight",
+                    "shellAngularMomentum": [
+                        1
+                    ],
+                    "shellExponents": [
+                        "14.5570000"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                }
+            ]
+        },
+        "7": {
+            "elementReferences": [
+                "CC-PCVDZ-BS-REF"
+            ],
+            "elementElectronShells": [
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "tight",
+                    "shellAngularMomentum": [
+                        0
+                    ],
+                    "shellExponents": [
+                        "6.2330000"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "tight",
+                    "shellAngularMomentum": [
+                        1
+                    ],
+                    "shellExponents": [
+                        "19.9770000"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                }
+            ]
+        },
+        "8": {
+            "elementReferences": [
+                "CC-PCVDZ-BS-REF"
+            ],
+            "elementElectronShells": [
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "tight",
+                    "shellAngularMomentum": [
+                        0
+                    ],
+                    "shellExponents": [
+                        "8.2150000"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "tight",
+                    "shellAngularMomentum": [
+                        1
+                    ],
+                    "shellExponents": [
+                        "26.0560000"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                }
+            ]
+        },
+        "9": {
+            "elementReferences": [
+                "CC-PCVDZ-BS-REF"
+            ],
+            "elementElectronShells": [
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "tight",
+                    "shellAngularMomentum": [
+                        0
+                    ],
+                    "shellExponents": [
+                        "10.4260000"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "tight",
+                    "shellAngularMomentum": [
+                        1
+                    ],
+                    "shellExponents": [
+                        "32.8300000"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                }
+            ]
+        },
+        "10": {
+            "elementReferences": [
+                "CC-PCVDZ-BS-REF"
+            ],
+            "elementElectronShells": [
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "tight",
+                    "shellAngularMomentum": [
+                        0
+                    ],
+                    "shellExponents": [
+                        "12.8540000"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "tight",
+                    "shellAngularMomentum": [
+                        1
+                    ],
+                    "shellExponents": [
+                        "40.1840000"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                }
+            ]
+        },
+        "11": {
+            "elementReferences": [
+                "CC-PCVDZ-BS-REF"
+            ],
+            "elementElectronShells": [
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "tight",
+                    "shellAngularMomentum": [
+                        0
+                    ],
+                    "shellExponents": [
+                        "0.7040000"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "tight",
+                    "shellAngularMomentum": [
+                        1
+                    ],
+                    "shellExponents": [
+                        "0.7610000"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "tight",
+                    "shellAngularMomentum": [
+                        2
+                    ],
+                    "shellExponents": [
+                        "2.9490000"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                }
+            ]
+        },
+        "12": {
+            "elementReferences": [
+                "CC-PCVDZ-BS-REF"
+            ],
+            "elementElectronShells": [
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "tight",
+                    "shellAngularMomentum": [
+                        0
+                    ],
+                    "shellExponents": [
+                        "3.4220000"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "tight",
+                    "shellAngularMomentum": [
+                        1
+                    ],
+                    "shellExponents": [
+                        "8.2790000"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "tight",
+                    "shellAngularMomentum": [
+                        2
+                    ],
+                    "shellExponents": [
+                        "3.7040000"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                }
+            ]
+        },
+        "13": {
+            "elementReferences": [
+                "CC-PCVDZ-BS-REF"
+            ],
+            "elementElectronShells": [
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "tight",
+                    "shellAngularMomentum": [
+                        0
+                    ],
+                    "shellExponents": [
+                        "4.0300000"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "tight",
+                    "shellAngularMomentum": [
+                        1
+                    ],
+                    "shellExponents": [
+                        "1.5290000"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "tight",
+                    "shellAngularMomentum": [
+                        2
+                    ],
+                    "shellExponents": [
+                        "4.7250000"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                }
+            ]
+        },
+        "14": {
+            "elementReferences": [
+                "CC-PCVDZ-BS-REF"
+            ],
+            "elementElectronShells": [
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "tight",
+                    "shellAngularMomentum": [
+                        0
+                    ],
+                    "shellExponents": [
+                        "4.9590000"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "tight",
+                    "shellAngularMomentum": [
+                        1
+                    ],
+                    "shellExponents": [
+                        "1.9980000"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "tight",
+                    "shellAngularMomentum": [
+                        2
+                    ],
+                    "shellExponents": [
+                        "5.8060000"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                }
+            ]
+        },
+        "15": {
+            "elementReferences": [
+                "CC-PCVDZ-BS-REF"
+            ],
+            "elementElectronShells": [
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "tight",
+                    "shellAngularMomentum": [
+                        0
+                    ],
+                    "shellExponents": [
+                        "5.9770000"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "tight",
+                    "shellAngularMomentum": [
+                        1
+                    ],
+                    "shellExponents": [
+                        "2.5240000"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "tight",
+                    "shellAngularMomentum": [
+                        2
+                    ],
+                    "shellExponents": [
+                        "7.0200000"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                }
+            ]
+        },
+        "16": {
+            "elementReferences": [
+                "CC-PCVDZ-BS-REF"
+            ],
+            "elementElectronShells": [
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "tight",
+                    "shellAngularMomentum": [
+                        0
+                    ],
+                    "shellExponents": [
+                        "7.0830000"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "tight",
+                    "shellAngularMomentum": [
+                        1
+                    ],
+                    "shellExponents": [
+                        "3.0890000"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "tight",
+                    "shellAngularMomentum": [
+                        2
+                    ],
+                    "shellExponents": [
+                        "8.3630000"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                }
+            ]
+        },
+        "17": {
+            "elementReferences": [
+                "CC-PCVDZ-BS-REF"
+            ],
+            "elementElectronShells": [
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "tight",
+                    "shellAngularMomentum": [
+                        0
+                    ],
+                    "shellExponents": [
+                        "8.2730000"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "tight",
+                    "shellAngularMomentum": [
+                        1
+                    ],
+                    "shellExponents": [
+                        "3.6970000"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "tight",
+                    "shellAngularMomentum": [
+                        2
+                    ],
+                    "shellExponents": [
+                        "9.8440000"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                }
+            ]
+        },
+        "18": {
+            "elementReferences": [
+                "CC-PCVDZ-BS-REF"
+            ],
+            "elementElectronShells": [
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "tight",
+                    "shellAngularMomentum": [
+                        0
+                    ],
+                    "shellExponents": [
+                        "9.5480000"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "tight",
+                    "shellAngularMomentum": [
+                        1
+                    ],
+                    "shellExponents": [
+                        "4.3610000"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "tight",
+                    "shellAngularMomentum": [
+                        2
+                    ],
+                    "shellExponents": [
+                        "11.4590000"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                }
+            ]
+        },
+        "20": {
+            "elementReferences": [
+                "CC-PCVDZ-BS-REF"
+            ],
+            "elementElectronShells": [
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "tight",
+                    "shellAngularMomentum": [
+                        0
+                    ],
+                    "shellExponents": [
+                        "1.1143000"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "tight",
+                    "shellAngularMomentum": [
+                        1
+                    ],
+                    "shellExponents": [
+                        "1.5101000"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "tight",
+                    "shellAngularMomentum": [
+                        2
+                    ],
+                    "shellExponents": [
+                        "1.3743000"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0000000"
+                        ]
+                    ]
+                }
+            ]
+        }
+    }
+}

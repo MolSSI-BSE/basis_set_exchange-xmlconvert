@@ -5,7 +5,7 @@
     "basisSetElements": {
         "1": {
             "elementReferences": [
-                "weigend:2005a"
+                "DEF2-SVPP-BS-REF"
             ],
             "elementElectronShells": [
                 {
@@ -40,7 +40,7 @@
         },
         "2": {
             "elementReferences": [
-                "weigend:2005a"
+                "DEF2-SVPP-BS-REF"
             ],
             "elementElectronShells": [
                 {
@@ -91,7 +91,7 @@
         },
         "3": {
             "elementReferences": [
-                "weigend:2005a"
+                "DEF2-SVPP-BS-REF"
             ],
             "elementElectronShells": [
                 {
@@ -169,7 +169,7 @@
         },
         "4": {
             "elementReferences": [
-                "weigend:2005a"
+                "DEF2-SVPP-BS-REF"
             ],
             "elementElectronShells": [
                 {
@@ -250,7 +250,7 @@
         },
         "5": {
             "elementReferences": [
-                "weigend:2005a"
+                "DEF2-SVPP-BS-REF"
             ],
             "elementElectronShells": [
                 {
@@ -347,7 +347,7 @@
         },
         "6": {
             "elementReferences": [
-                "weigend:2005a"
+                "DEF2-SVPP-BS-REF"
             ],
             "elementElectronShells": [
                 {
@@ -444,7 +444,7 @@
         },
         "7": {
             "elementReferences": [
-                "weigend:2005a"
+                "DEF2-SVPP-BS-REF"
             ],
             "elementElectronShells": [
                 {
@@ -541,7 +541,7 @@
         },
         "8": {
             "elementReferences": [
-                "weigend:2005a"
+                "DEF2-SVPP-BS-REF"
             ],
             "elementElectronShells": [
                 {
@@ -638,7 +638,7 @@
         },
         "9": {
             "elementReferences": [
-                "weigend:2005a"
+                "DEF2-SVPP-BS-REF"
             ],
             "elementElectronShells": [
                 {
@@ -735,7 +735,7 @@
         },
         "10": {
             "elementReferences": [
-                "weigend:2005a"
+                "DEF2-SVPP-BS-REF"
             ],
             "elementElectronShells": [
                 {
@@ -832,7 +832,7 @@
         },
         "11": {
             "elementReferences": [
-                "weigend:2005a"
+                "DEF2-SVPP-BS-REF"
             ],
             "elementElectronShells": [
                 {
@@ -959,7 +959,7 @@
         },
         "12": {
             "elementReferences": [
-                "weigend:2005a"
+                "DEF2-SVPP-BS-REF"
             ],
             "elementElectronShells": [
                 {
@@ -1098,7 +1098,7 @@
         },
         "13": {
             "elementReferences": [
-                "weigend:2005a"
+                "DEF2-SVPP-BS-REF"
             ],
             "elementElectronShells": [
                 {
@@ -1237,7 +1237,7 @@
         },
         "14": {
             "elementReferences": [
-                "weigend:2005a"
+                "DEF2-SVPP-BS-REF"
             ],
             "elementElectronShells": [
                 {
@@ -1376,7 +1376,7 @@
         },
         "15": {
             "elementReferences": [
-                "weigend:2005a"
+                "DEF2-SVPP-BS-REF"
             ],
             "elementElectronShells": [
                 {
@@ -1515,7 +1515,7 @@
         },
         "16": {
             "elementReferences": [
-                "weigend:2005a"
+                "DEF2-SVPP-BS-REF"
             ],
             "elementElectronShells": [
                 {
@@ -1654,7 +1654,7 @@
         },
         "17": {
             "elementReferences": [
-                "weigend:2005a"
+                "DEF2-SVPP-BS-REF"
             ],
             "elementElectronShells": [
                 {
@@ -1793,7 +1793,7 @@
         },
         "18": {
             "elementReferences": [
-                "weigend:2005a"
+                "DEF2-SVPP-BS-REF"
             ],
             "elementElectronShells": [
                 {
@@ -1932,7 +1932,7 @@
         },
         "19": {
             "elementReferences": [
-                "weigend:2005a"
+                "DEF2-SVPP-BS-REF"
             ],
             "elementElectronShells": [
                 {
@@ -2121,7 +2121,7 @@
         },
         "20": {
             "elementReferences": [
-                "weigend:2005a"
+                "DEF2-SVPP-BS-REF"
             ],
             "elementElectronShells": [
                 {
@@ -2316,7 +2316,7 @@
         },
         "21": {
             "elementReferences": [
-                "weigend:2005a"
+                "DEF2-SVPP-BS-REF"
             ],
             "elementElectronShells": [
                 {
@@ -2514,7 +2514,7 @@
         },
         "22": {
             "elementReferences": [
-                "weigend:2005a"
+                "DEF2-SVPP-BS-REF"
             ],
             "elementElectronShells": [
                 {
@@ -2712,7 +2712,7 @@
         },
         "23": {
             "elementReferences": [
-                "weigend:2005a"
+                "DEF2-SVPP-BS-REF"
             ],
             "elementElectronShells": [
                 {
@@ -2910,7 +2910,7 @@
         },
         "24": {
             "elementReferences": [
-                "weigend:2005a"
+                "DEF2-SVPP-BS-REF"
             ],
             "elementElectronShells": [
                 {
@@ -3108,7 +3108,7 @@
         },
         "25": {
             "elementReferences": [
-                "weigend:2005a"
+                "DEF2-SVPP-BS-REF"
             ],
             "elementElectronShells": [
                 {
@@ -3306,7 +3306,7 @@
         },
         "26": {
             "elementReferences": [
-                "weigend:2005a"
+                "DEF2-SVPP-BS-REF"
             ],
             "elementElectronShells": [
                 {
@@ -3504,7 +3504,7 @@
         },
         "27": {
             "elementReferences": [
-                "weigend:2005a"
+                "DEF2-SVPP-BS-REF"
             ],
             "elementElectronShells": [
                 {
@@ -3702,7 +3702,7 @@
         },
         "28": {
             "elementReferences": [
-                "weigend:2005a"
+                "DEF2-SVPP-BS-REF"
             ],
             "elementElectronShells": [
                 {
@@ -3900,7 +3900,7 @@
         },
         "29": {
             "elementReferences": [
-                "weigend:2005a"
+                "DEF2-SVPP-BS-REF"
             ],
             "elementElectronShells": [
                 {
@@ -4098,7 +4098,7 @@
         },
         "30": {
             "elementReferences": [
-                "weigend:2005a"
+                "DEF2-SVPP-BS-REF"
             ],
             "elementElectronShells": [
                 {
@@ -4296,7 +4296,7 @@
         },
         "31": {
             "elementReferences": [
-                "weigend:2005a"
+                "DEF2-SVPP-BS-REF"
             ],
             "elementElectronShells": [
                 {
@@ -4521,7 +4521,7 @@
         },
         "32": {
             "elementReferences": [
-                "weigend:2005a"
+                "DEF2-SVPP-BS-REF"
             ],
             "elementElectronShells": [
                 {
@@ -4746,7 +4746,7 @@
         },
         "33": {
             "elementReferences": [
-                "weigend:2005a"
+                "DEF2-SVPP-BS-REF"
             ],
             "elementElectronShells": [
                 {
@@ -4971,7 +4971,7 @@
         },
         "34": {
             "elementReferences": [
-                "weigend:2005a"
+                "DEF2-SVPP-BS-REF"
             ],
             "elementElectronShells": [
                 {
@@ -5196,7 +5196,7 @@
         },
         "35": {
             "elementReferences": [
-                "weigend:2005a"
+                "DEF2-SVPP-BS-REF"
             ],
             "elementElectronShells": [
                 {
@@ -5421,7 +5421,7 @@
         },
         "36": {
             "elementReferences": [
-                "weigend:2005a"
+                "DEF2-SVPP-BS-REF"
             ],
             "elementElectronShells": [
                 {
@@ -5646,7 +5646,7 @@
         },
         "37": {
             "elementReferences": [
-                "weigend:2005a"
+                "DEF2-SVPP-BS-REF"
             ],
             "elementElectronShells": [
                 {
@@ -5781,7 +5781,7 @@
         },
         "38": {
             "elementReferences": [
-                "weigend:2005a"
+                "DEF2-SVPP-BS-REF"
             ],
             "elementElectronShells": [
                 {
@@ -5911,7 +5911,7 @@
         },
         "39": {
             "elementReferences": [
-                "weigend:2005a"
+                "DEF2-SVPP-BS-REF"
             ],
             "elementElectronShells": [
                 {
@@ -6055,7 +6055,7 @@
         },
         "40": {
             "elementReferences": [
-                "weigend:2005a"
+                "DEF2-SVPP-BS-REF"
             ],
             "elementElectronShells": [
                 {
@@ -6199,7 +6199,7 @@
         },
         "41": {
             "elementReferences": [
-                "weigend:2005a"
+                "DEF2-SVPP-BS-REF"
             ],
             "elementElectronShells": [
                 {
@@ -6343,7 +6343,7 @@
         },
         "42": {
             "elementReferences": [
-                "weigend:2005a"
+                "DEF2-SVPP-BS-REF"
             ],
             "elementElectronShells": [
                 {
@@ -6487,7 +6487,7 @@
         },
         "43": {
             "elementReferences": [
-                "weigend:2005a"
+                "DEF2-SVPP-BS-REF"
             ],
             "elementElectronShells": [
                 {
@@ -6631,7 +6631,7 @@
         },
         "44": {
             "elementReferences": [
-                "weigend:2005a"
+                "DEF2-SVPP-BS-REF"
             ],
             "elementElectronShells": [
                 {
@@ -6775,7 +6775,7 @@
         },
         "45": {
             "elementReferences": [
-                "weigend:2005a"
+                "DEF2-SVPP-BS-REF"
             ],
             "elementElectronShells": [
                 {
@@ -6919,7 +6919,7 @@
         },
         "46": {
             "elementReferences": [
-                "weigend:2005a"
+                "DEF2-SVPP-BS-REF"
             ],
             "elementElectronShells": [
                 {
@@ -7063,7 +7063,7 @@
         },
         "47": {
             "elementReferences": [
-                "weigend:2005a"
+                "DEF2-SVPP-BS-REF"
             ],
             "elementElectronShells": [
                 {
@@ -7207,7 +7207,7 @@
         },
         "48": {
             "elementReferences": [
-                "weigend:2005a"
+                "DEF2-SVPP-BS-REF"
             ],
             "elementElectronShells": [
                 {
@@ -7351,7 +7351,7 @@
         },
         "49": {
             "elementReferences": [
-                "weigend:2005a"
+                "DEF2-SVPP-BS-REF"
             ],
             "elementElectronShells": [
                 {
@@ -7517,7 +7517,7 @@
         },
         "50": {
             "elementReferences": [
-                "weigend:2005a"
+                "DEF2-SVPP-BS-REF"
             ],
             "elementElectronShells": [
                 {
@@ -7683,7 +7683,7 @@
         },
         "51": {
             "elementReferences": [
-                "weigend:2005a"
+                "DEF2-SVPP-BS-REF"
             ],
             "elementElectronShells": [
                 {
@@ -7849,7 +7849,7 @@
         },
         "52": {
             "elementReferences": [
-                "weigend:2005a"
+                "DEF2-SVPP-BS-REF"
             ],
             "elementElectronShells": [
                 {
@@ -8015,7 +8015,7 @@
         },
         "53": {
             "elementReferences": [
-                "weigend:2005a"
+                "DEF2-SVPP-BS-REF"
             ],
             "elementElectronShells": [
                 {
@@ -8181,7 +8181,7 @@
         },
         "54": {
             "elementReferences": [
-                "weigend:2005a"
+                "DEF2-SVPP-BS-REF"
             ],
             "elementElectronShells": [
                 {
@@ -8443,7 +8443,7 @@
         },
         "55": {
             "elementReferences": [
-                "weigend:2005a"
+                "DEF2-SVPP-BS-REF"
             ],
             "elementElectronShells": [
                 {
@@ -8578,7 +8578,7 @@
         },
         "56": {
             "elementReferences": [
-                "weigend:2005a"
+                "DEF2-SVPP-BS-REF"
             ],
             "elementElectronShells": [
                 {
@@ -8708,7 +8708,7 @@
         },
         "57": {
             "elementReferences": [
-                "weigend:2005a"
+                "DEF2-SVPP-BS-REF"
             ],
             "elementElectronShells": [
                 {
@@ -8861,7 +8861,7 @@
         },
         "72": {
             "elementReferences": [
-                "weigend:2005a"
+                "DEF2-SVPP-BS-REF"
             ],
             "elementElectronShells": [
                 {
@@ -9014,7 +9014,7 @@
         },
         "73": {
             "elementReferences": [
-                "weigend:2005a"
+                "DEF2-SVPP-BS-REF"
             ],
             "elementElectronShells": [
                 {
@@ -9167,7 +9167,7 @@
         },
         "74": {
             "elementReferences": [
-                "weigend:2005a"
+                "DEF2-SVPP-BS-REF"
             ],
             "elementElectronShells": [
                 {
@@ -9320,7 +9320,7 @@
         },
         "75": {
             "elementReferences": [
-                "weigend:2005a"
+                "DEF2-SVPP-BS-REF"
             ],
             "elementElectronShells": [
                 {
@@ -9473,7 +9473,7 @@
         },
         "76": {
             "elementReferences": [
-                "weigend:2005a"
+                "DEF2-SVPP-BS-REF"
             ],
             "elementElectronShells": [
                 {
@@ -9626,7 +9626,7 @@
         },
         "77": {
             "elementReferences": [
-                "weigend:2005a"
+                "DEF2-SVPP-BS-REF"
             ],
             "elementElectronShells": [
                 {
@@ -9779,7 +9779,7 @@
         },
         "78": {
             "elementReferences": [
-                "weigend:2005a"
+                "DEF2-SVPP-BS-REF"
             ],
             "elementElectronShells": [
                 {
@@ -9932,7 +9932,7 @@
         },
         "79": {
             "elementReferences": [
-                "weigend:2005a"
+                "DEF2-SVPP-BS-REF"
             ],
             "elementElectronShells": [
                 {
@@ -10085,7 +10085,7 @@
         },
         "80": {
             "elementReferences": [
-                "weigend:2005a"
+                "DEF2-SVPP-BS-REF"
             ],
             "elementElectronShells": [
                 {
@@ -10238,7 +10238,7 @@
         },
         "81": {
             "elementReferences": [
-                "weigend:2005a"
+                "DEF2-SVPP-BS-REF"
             ],
             "elementElectronShells": [
                 {
@@ -10404,7 +10404,7 @@
         },
         "82": {
             "elementReferences": [
-                "weigend:2005a"
+                "DEF2-SVPP-BS-REF"
             ],
             "elementElectronShells": [
                 {
@@ -10570,7 +10570,7 @@
         },
         "83": {
             "elementReferences": [
-                "weigend:2005a"
+                "DEF2-SVPP-BS-REF"
             ],
             "elementElectronShells": [
                 {
@@ -10736,7 +10736,7 @@
         },
         "84": {
             "elementReferences": [
-                "weigend:2005a"
+                "DEF2-SVPP-BS-REF"
             ],
             "elementElectronShells": [
                 {
@@ -10902,7 +10902,7 @@
         },
         "85": {
             "elementReferences": [
-                "weigend:2005a"
+                "DEF2-SVPP-BS-REF"
             ],
             "elementElectronShells": [
                 {
@@ -11068,7 +11068,7 @@
         },
         "86": {
             "elementReferences": [
-                "weigend:2005a"
+                "DEF2-SVPP-BS-REF"
             ],
             "elementElectronShells": [
                 {

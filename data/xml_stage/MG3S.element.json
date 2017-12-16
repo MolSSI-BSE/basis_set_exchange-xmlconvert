@@ -1,0 +1,97 @@
+{
+    "molssi_bse_magic": 1,
+    "basisSetName": "MG3S",
+    "basisSetDescription": "MG3S",
+    "basisSetElements": {
+        "1": {
+            "elementComponents": [
+                "MG3S.json"
+            ]
+        },
+        "2": {
+            "elementComponents": [
+                "MG3S.json"
+            ]
+        },
+        "3": {
+            "elementComponents": [
+                "MG3S.json"
+            ]
+        },
+        "4": {
+            "elementComponents": [
+                "MG3S.json"
+            ]
+        },
+        "5": {
+            "elementComponents": [
+                "MG3S.json"
+            ]
+        },
+        "6": {
+            "elementComponents": [
+                "MG3S.json"
+            ]
+        },
+        "7": {
+            "elementComponents": [
+                "MG3S.json"
+            ]
+        },
+        "8": {
+            "elementComponents": [
+                "MG3S.json"
+            ]
+        },
+        "9": {
+            "elementComponents": [
+                "MG3S.json"
+            ]
+        },
+        "10": {
+            "elementComponents": [
+                "MG3S.json"
+            ]
+        },
+        "11": {
+            "elementComponents": [
+                "MG3S.json"
+            ]
+        },
+        "12": {
+            "elementComponents": [
+                "MG3S.json"
+            ]
+        },
+        "13": {
+            "elementComponents": [
+                "MG3S.json"
+            ]
+        },
+        "14": {
+            "elementComponents": [
+                "MG3S.json"
+            ]
+        },
+        "15": {
+            "elementComponents": [
+                "MG3S.json"
+            ]
+        },
+        "16": {
+            "elementComponents": [
+                "MG3S.json"
+            ]
+        },
+        "17": {
+            "elementComponents": [
+                "MG3S.json"
+            ]
+        },
+        "18": {
+            "elementComponents": [
+                "MG3S.json"
+            ]
+        }
+    }
+}

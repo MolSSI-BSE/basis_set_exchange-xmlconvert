@@ -5,7 +5,7 @@
     "basisSetElements": {
         "1": {
             "elementReferences": [
-                "curtiss:1998a"
+                "6-31G2DFP-BS-REF"
             ],
             "elementElectronShells": [
                 {
@@ -80,7 +80,7 @@
         },
         "2": {
             "elementReferences": [
-                "curtiss:1998a"
+                "6-31G2DFP-BS-REF"
             ],
             "elementElectronShells": [
                 {
@@ -155,7 +155,7 @@
         },
         "3": {
             "elementReferences": [
-                "curtiss:1998a"
+                "6-31G2DFP-BS-REF"
             ],
             "elementElectronShells": [
                 {
@@ -282,7 +282,7 @@
         },
         "4": {
             "elementReferences": [
-                "curtiss:1998a"
+                "6-31G2DFP-BS-REF"
             ],
             "elementElectronShells": [
                 {
@@ -409,7 +409,7 @@
         },
         "5": {
             "elementReferences": [
-                "curtiss:1998a"
+                "6-31G2DFP-BS-REF"
             ],
             "elementElectronShells": [
                 {
@@ -536,7 +536,7 @@
         },
         "6": {
             "elementReferences": [
-                "curtiss:1998a"
+                "6-31G2DFP-BS-REF"
             ],
             "elementElectronShells": [
                 {
@@ -663,7 +663,7 @@
         },
         "7": {
             "elementReferences": [
-                "curtiss:1998a"
+                "6-31G2DFP-BS-REF"
             ],
             "elementElectronShells": [
                 {
@@ -790,7 +790,7 @@
         },
         "8": {
             "elementReferences": [
-                "curtiss:1998a"
+                "6-31G2DFP-BS-REF"
             ],
             "elementElectronShells": [
                 {
@@ -917,7 +917,7 @@
         },
         "9": {
             "elementReferences": [
-                "curtiss:1998a"
+                "6-31G2DFP-BS-REF"
             ],
             "elementElectronShells": [
                 {
@@ -1044,7 +1044,7 @@
         },
         "10": {
             "elementReferences": [
-                "curtiss:1998a"
+                "6-31G2DFP-BS-REF"
             ],
             "elementElectronShells": [
                 {
@@ -1171,7 +1171,7 @@
         },
         "11": {
             "elementReferences": [
-                "curtiss:1998a"
+                "6-31G2DFP-BS-REF"
             ],
             "elementElectronShells": [
                 {
@@ -1333,7 +1333,7 @@
         },
         "12": {
             "elementReferences": [
-                "curtiss:1998a"
+                "6-31G2DFP-BS-REF"
             ],
             "elementElectronShells": [
                 {
@@ -1495,7 +1495,7 @@
         },
         "13": {
             "elementReferences": [
-                "curtiss:1998a"
+                "6-31G2DFP-BS-REF"
             ],
             "elementElectronShells": [
                 {
@@ -1657,7 +1657,7 @@
         },
         "14": {
             "elementReferences": [
-                "curtiss:1998a"
+                "6-31G2DFP-BS-REF"
             ],
             "elementElectronShells": [
                 {
@@ -1819,7 +1819,7 @@
         },
         "15": {
             "elementReferences": [
-                "curtiss:1998a"
+                "6-31G2DFP-BS-REF"
             ],
             "elementElectronShells": [
                 {
@@ -1981,7 +1981,7 @@
         },
         "16": {
             "elementReferences": [
-                "curtiss:1998a"
+                "6-31G2DFP-BS-REF"
             ],
             "elementElectronShells": [
                 {
@@ -2143,7 +2143,7 @@
         },
         "17": {
             "elementReferences": [
-                "curtiss:1998a"
+                "6-31G2DFP-BS-REF"
             ],
             "elementElectronShells": [
                 {
@@ -2305,7 +2305,7 @@
         },
         "18": {
             "elementReferences": [
-                "curtiss:1998a"
+                "6-31G2DFP-BS-REF"
             ],
             "elementElectronShells": [
                 {

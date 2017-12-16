@@ -1,0 +1,53 @@
+{
+    "molssi_bse_magic": 1,
+    "basisSetName": "Blaudeau Polarization",
+    "basisSetDescription": "1P      Polarization functions",
+    "basisSetElements": {
+        "19": {
+            "elementReferences": [
+                "6-31GS-BLAUDEAU-BS-REF"
+            ],
+            "elementElectronShells": [
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "cartesian",
+                    "shellRegion": "polarization",
+                    "shellAngularMomentum": [
+                        2
+                    ],
+                    "shellExponents": [
+                        "0.235000"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.000000"
+                        ]
+                    ]
+                }
+            ]
+        },
+        "20": {
+            "elementReferences": [
+                "6-31GS-BLAUDEAU-BS-REF"
+            ],
+            "elementElectronShells": [
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "cartesian",
+                    "shellRegion": "polarization",
+                    "shellAngularMomentum": [
+                        2
+                    ],
+                    "shellExponents": [
+                        "0.216000"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.000000"
+                        ]
+                    ]
+                }
+            ]
+        }
+    }
+}

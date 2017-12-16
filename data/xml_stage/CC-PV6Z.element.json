@@ -1,0 +1,77 @@
+{
+    "molssi_bse_magic": 1,
+    "basisSetName": "cc-pV6Z",
+    "basisSetDescription": "cc-pV6Z",
+    "basisSetElements": {
+        "1": {
+            "elementComponents": [
+                "CC-PV6Z.json"
+            ]
+        },
+        "2": {
+            "elementComponents": [
+                "CC-PV6Z.json"
+            ]
+        },
+        "5": {
+            "elementComponents": [
+                "CC-PV6Z.json"
+            ]
+        },
+        "6": {
+            "elementComponents": [
+                "CC-PV6Z.json"
+            ]
+        },
+        "7": {
+            "elementComponents": [
+                "CC-PV6Z.json"
+            ]
+        },
+        "8": {
+            "elementComponents": [
+                "CC-PV6Z.json"
+            ]
+        },
+        "9": {
+            "elementComponents": [
+                "CC-PV6Z.json"
+            ]
+        },
+        "10": {
+            "elementComponents": [
+                "CC-PV6Z.json"
+            ]
+        },
+        "13": {
+            "elementComponents": [
+                "CC-PV6Z.json"
+            ]
+        },
+        "14": {
+            "elementComponents": [
+                "CC-PV6Z.json"
+            ]
+        },
+        "15": {
+            "elementComponents": [
+                "CC-PV6Z.json"
+            ]
+        },
+        "16": {
+            "elementComponents": [
+                "CC-PV6Z.json"
+            ]
+        },
+        "17": {
+            "elementComponents": [
+                "CC-PV6Z.json"
+            ]
+        },
+        "18": {
+            "elementComponents": [
+                "CC-PV6Z.json"
+            ]
+        }
+    }
+}

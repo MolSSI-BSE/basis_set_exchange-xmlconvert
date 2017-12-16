@@ -1,0 +1,102 @@
+{
+    "molssi_bse_magic": 1,
+    "basisSetName": "MIDI (Huzinaga)",
+    "basisSetDescription": "VDZ     Valence Double Zeta: 2 Funct.'s/Valence AO",
+    "basisSetElements": {
+        "1": {
+            "elementComponents": [
+                "MIDI.json"
+            ]
+        },
+        "2": {
+            "elementComponents": [
+                "MIDI.json"
+            ]
+        },
+        "3": {
+            "elementComponents": [
+                "MIDI.json"
+            ]
+        },
+        "4": {
+            "elementComponents": [
+                "MIDI.json"
+            ]
+        },
+        "5": {
+            "elementComponents": [
+                "MIDI.json"
+            ]
+        },
+        "6": {
+            "elementComponents": [
+                "MIDI.json"
+            ]
+        },
+        "7": {
+            "elementComponents": [
+                "MIDI.json"
+            ]
+        },
+        "8": {
+            "elementComponents": [
+                "MIDI.json"
+            ]
+        },
+        "9": {
+            "elementComponents": [
+                "MIDI.json"
+            ]
+        },
+        "10": {
+            "elementComponents": [
+                "MIDI.json"
+            ]
+        },
+        "11": {
+            "elementComponents": [
+                "MIDI.json"
+            ]
+        },
+        "13": {
+            "elementComponents": [
+                "MIDI.json"
+            ]
+        },
+        "14": {
+            "elementComponents": [
+                "MIDI.json"
+            ]
+        },
+        "15": {
+            "elementComponents": [
+                "MIDI.json"
+            ]
+        },
+        "16": {
+            "elementComponents": [
+                "MIDI.json"
+            ]
+        },
+        "17": {
+            "elementComponents": [
+                "MIDI.json"
+            ]
+        },
+        "18": {
+            "elementComponents": [
+                "MIDI.json"
+            ]
+        },
+        "19": {
+            "elementComponents": [
+                "MIDI.json"
+            ]
+        },
+        "55": {
+            "elementComponents": [
+                "MIDI.json"
+            ]
+        }
+    }
+}

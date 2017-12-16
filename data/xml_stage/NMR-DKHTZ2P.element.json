@@ -1,0 +1,182 @@
+{
+    "molssi_bse_magic": 1,
+    "basisSetName": "NMR-DKH (TZ2P)",
+    "basisSetDescription": "NMR-DKH (TZ2P)",
+    "basisSetElements": {
+        "1": {
+            "elementComponents": [
+                "NMR-DKHTZ2P.json"
+            ]
+        },
+        "2": {
+            "elementComponents": [
+                "NMR-DKHTZ2P.json"
+            ]
+        },
+        "3": {
+            "elementComponents": [
+                "NMR-DKHTZ2P.json"
+            ]
+        },
+        "4": {
+            "elementComponents": [
+                "NMR-DKHTZ2P.json"
+            ]
+        },
+        "5": {
+            "elementComponents": [
+                "NMR-DKHTZ2P.json"
+            ]
+        },
+        "6": {
+            "elementComponents": [
+                "NMR-DKHTZ2P.json"
+            ]
+        },
+        "7": {
+            "elementComponents": [
+                "NMR-DKHTZ2P.json"
+            ]
+        },
+        "8": {
+            "elementComponents": [
+                "NMR-DKHTZ2P.json"
+            ]
+        },
+        "9": {
+            "elementComponents": [
+                "NMR-DKHTZ2P.json"
+            ]
+        },
+        "10": {
+            "elementComponents": [
+                "NMR-DKHTZ2P.json"
+            ]
+        },
+        "11": {
+            "elementComponents": [
+                "NMR-DKHTZ2P.json"
+            ]
+        },
+        "12": {
+            "elementComponents": [
+                "NMR-DKHTZ2P.json"
+            ]
+        },
+        "13": {
+            "elementComponents": [
+                "NMR-DKHTZ2P.json"
+            ]
+        },
+        "14": {
+            "elementComponents": [
+                "NMR-DKHTZ2P.json"
+            ]
+        },
+        "15": {
+            "elementComponents": [
+                "NMR-DKHTZ2P.json"
+            ]
+        },
+        "16": {
+            "elementComponents": [
+                "NMR-DKHTZ2P.json"
+            ]
+        },
+        "17": {
+            "elementComponents": [
+                "NMR-DKHTZ2P.json"
+            ]
+        },
+        "18": {
+            "elementComponents": [
+                "NMR-DKHTZ2P.json"
+            ]
+        },
+        "19": {
+            "elementComponents": [
+                "NMR-DKHTZ2P.json"
+            ]
+        },
+        "20": {
+            "elementComponents": [
+                "NMR-DKHTZ2P.json"
+            ]
+        },
+        "31": {
+            "elementComponents": [
+                "NMR-DKHTZ2P.json"
+            ]
+        },
+        "32": {
+            "elementComponents": [
+                "NMR-DKHTZ2P.json"
+            ]
+        },
+        "33": {
+            "elementComponents": [
+                "NMR-DKHTZ2P.json"
+            ]
+        },
+        "34": {
+            "elementComponents": [
+                "NMR-DKHTZ2P.json"
+            ]
+        },
+        "35": {
+            "elementComponents": [
+                "NMR-DKHTZ2P.json"
+            ]
+        },
+        "36": {
+            "elementComponents": [
+                "NMR-DKHTZ2P.json"
+            ]
+        },
+        "37": {
+            "elementComponents": [
+                "NMR-DKHTZ2P.json"
+            ]
+        },
+        "38": {
+            "elementComponents": [
+                "NMR-DKHTZ2P.json"
+            ]
+        },
+        "49": {
+            "elementComponents": [
+                "NMR-DKHTZ2P.json"
+            ]
+        },
+        "50": {
+            "elementComponents": [
+                "NMR-DKHTZ2P.json"
+            ]
+        },
+        "51": {
+            "elementComponents": [
+                "NMR-DKHTZ2P.json"
+            ]
+        },
+        "52": {
+            "elementComponents": [
+                "NMR-DKHTZ2P.json"
+            ]
+        },
+        "53": {
+            "elementComponents": [
+                "NMR-DKHTZ2P.json"
+            ]
+        },
+        "54": {
+            "elementComponents": [
+                "NMR-DKHTZ2P.json"
+            ]
+        },
+        "78": {
+            "elementComponents": [
+                "NMR-DKHTZ2P.json"
+            ]
+        }
+    }
+}

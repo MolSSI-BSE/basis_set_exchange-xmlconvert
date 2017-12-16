@@ -1,0 +1,357 @@
+{
+    "molssi_bse_magic": 1,
+    "basisSetName": "Ahlrichs Coulomb Fitting",
+    "basisSetDescription": "DFT     Coulomb Fitting",
+    "basisSetElements": {
+        "1": {
+            "elementComponents": [
+                "AHLRICHS-COULOMB.json"
+            ]
+        },
+        "2": {
+            "elementComponents": [
+                "AHLRICHS-COULOMB.json"
+            ]
+        },
+        "3": {
+            "elementComponents": [
+                "AHLRICHS-COULOMB.json"
+            ]
+        },
+        "4": {
+            "elementComponents": [
+                "AHLRICHS-COULOMB.json"
+            ]
+        },
+        "5": {
+            "elementComponents": [
+                "AHLRICHS-COULOMB.json"
+            ]
+        },
+        "6": {
+            "elementComponents": [
+                "AHLRICHS-COULOMB.json"
+            ]
+        },
+        "7": {
+            "elementComponents": [
+                "AHLRICHS-COULOMB.json"
+            ]
+        },
+        "8": {
+            "elementComponents": [
+                "AHLRICHS-COULOMB.json"
+            ]
+        },
+        "9": {
+            "elementComponents": [
+                "AHLRICHS-COULOMB.json"
+            ]
+        },
+        "10": {
+            "elementComponents": [
+                "AHLRICHS-COULOMB.json"
+            ]
+        },
+        "11": {
+            "elementComponents": [
+                "AHLRICHS-COULOMB.json"
+            ]
+        },
+        "12": {
+            "elementComponents": [
+                "AHLRICHS-COULOMB.json"
+            ]
+        },
+        "13": {
+            "elementComponents": [
+                "AHLRICHS-COULOMB.json"
+            ]
+        },
+        "14": {
+            "elementComponents": [
+                "AHLRICHS-COULOMB.json"
+            ]
+        },
+        "15": {
+            "elementComponents": [
+                "AHLRICHS-COULOMB.json"
+            ]
+        },
+        "16": {
+            "elementComponents": [
+                "AHLRICHS-COULOMB.json"
+            ]
+        },
+        "17": {
+            "elementComponents": [
+                "AHLRICHS-COULOMB.json"
+            ]
+        },
+        "18": {
+            "elementComponents": [
+                "AHLRICHS-COULOMB.json"
+            ]
+        },
+        "19": {
+            "elementComponents": [
+                "AHLRICHS-COULOMB.json"
+            ]
+        },
+        "20": {
+            "elementComponents": [
+                "AHLRICHS-COULOMB.json"
+            ]
+        },
+        "21": {
+            "elementComponents": [
+                "AHLRICHS-COULOMB.json"
+            ]
+        },
+        "22": {
+            "elementComponents": [
+                "AHLRICHS-COULOMB.json"
+            ]
+        },
+        "23": {
+            "elementComponents": [
+                "AHLRICHS-COULOMB.json"
+            ]
+        },
+        "24": {
+            "elementComponents": [
+                "AHLRICHS-COULOMB.json"
+            ]
+        },
+        "25": {
+            "elementComponents": [
+                "AHLRICHS-COULOMB.json"
+            ]
+        },
+        "26": {
+            "elementComponents": [
+                "AHLRICHS-COULOMB.json"
+            ]
+        },
+        "27": {
+            "elementComponents": [
+                "AHLRICHS-COULOMB.json"
+            ]
+        },
+        "28": {
+            "elementComponents": [
+                "AHLRICHS-COULOMB.json"
+            ]
+        },
+        "29": {
+            "elementComponents": [
+                "AHLRICHS-COULOMB.json"
+            ]
+        },
+        "30": {
+            "elementComponents": [
+                "AHLRICHS-COULOMB.json"
+            ]
+        },
+        "31": {
+            "elementComponents": [
+                "AHLRICHS-COULOMB.json"
+            ]
+        },
+        "32": {
+            "elementComponents": [
+                "AHLRICHS-COULOMB.json"
+            ]
+        },
+        "33": {
+            "elementComponents": [
+                "AHLRICHS-COULOMB.json"
+            ]
+        },
+        "34": {
+            "elementComponents": [
+                "AHLRICHS-COULOMB.json"
+            ]
+        },
+        "35": {
+            "elementComponents": [
+                "AHLRICHS-COULOMB.json"
+            ]
+        },
+        "36": {
+            "elementComponents": [
+                "AHLRICHS-COULOMB.json"
+            ]
+        },
+        "37": {
+            "elementComponents": [
+                "AHLRICHS-COULOMB.json"
+            ]
+        },
+        "38": {
+            "elementComponents": [
+                "AHLRICHS-COULOMB.json"
+            ]
+        },
+        "39": {
+            "elementComponents": [
+                "AHLRICHS-COULOMB.json"
+            ]
+        },
+        "40": {
+            "elementComponents": [
+                "AHLRICHS-COULOMB.json"
+            ]
+        },
+        "41": {
+            "elementComponents": [
+                "AHLRICHS-COULOMB.json"
+            ]
+        },
+        "42": {
+            "elementComponents": [
+                "AHLRICHS-COULOMB.json"
+            ]
+        },
+        "43": {
+            "elementComponents": [
+                "AHLRICHS-COULOMB.json"
+            ]
+        },
+        "44": {
+            "elementComponents": [
+                "AHLRICHS-COULOMB.json"
+            ]
+        },
+        "45": {
+            "elementComponents": [
+                "AHLRICHS-COULOMB.json"
+            ]
+        },
+        "46": {
+            "elementComponents": [
+                "AHLRICHS-COULOMB.json"
+            ]
+        },
+        "47": {
+            "elementComponents": [
+                "AHLRICHS-COULOMB.json"
+            ]
+        },
+        "48": {
+            "elementComponents": [
+                "AHLRICHS-COULOMB.json"
+            ]
+        },
+        "49": {
+            "elementComponents": [
+                "AHLRICHS-COULOMB.json"
+            ]
+        },
+        "50": {
+            "elementComponents": [
+                "AHLRICHS-COULOMB.json"
+            ]
+        },
+        "51": {
+            "elementComponents": [
+                "AHLRICHS-COULOMB.json"
+            ]
+        },
+        "52": {
+            "elementComponents": [
+                "AHLRICHS-COULOMB.json"
+            ]
+        },
+        "53": {
+            "elementComponents": [
+                "AHLRICHS-COULOMB.json"
+            ]
+        },
+        "54": {
+            "elementComponents": [
+                "AHLRICHS-COULOMB.json"
+            ]
+        },
+        "55": {
+            "elementComponents": [
+                "AHLRICHS-COULOMB.json"
+            ]
+        },
+        "56": {
+            "elementComponents": [
+                "AHLRICHS-COULOMB.json"
+            ]
+        },
+        "72": {
+            "elementComponents": [
+                "AHLRICHS-COULOMB.json"
+            ]
+        },
+        "73": {
+            "elementComponents": [
+                "AHLRICHS-COULOMB.json"
+            ]
+        },
+        "74": {
+            "elementComponents": [
+                "AHLRICHS-COULOMB.json"
+            ]
+        },
+        "75": {
+            "elementComponents": [
+                "AHLRICHS-COULOMB.json"
+            ]
+        },
+        "76": {
+            "elementComponents": [
+                "AHLRICHS-COULOMB.json"
+            ]
+        },
+        "77": {
+            "elementComponents": [
+                "AHLRICHS-COULOMB.json"
+            ]
+        },
+        "78": {
+            "elementComponents": [
+                "AHLRICHS-COULOMB.json"
+            ]
+        },
+        "79": {
+            "elementComponents": [
+                "AHLRICHS-COULOMB.json"
+            ]
+        },
+        "80": {
+            "elementComponents": [
+                "AHLRICHS-COULOMB.json"
+            ]
+        },
+        "81": {
+            "elementComponents": [
+                "AHLRICHS-COULOMB.json"
+            ]
+        },
+        "82": {
+            "elementComponents": [
+                "AHLRICHS-COULOMB.json"
+            ]
+        },
+        "83": {
+            "elementComponents": [
+                "AHLRICHS-COULOMB.json"
+            ]
+        },
+        "84": {
+            "elementComponents": [
+                "AHLRICHS-COULOMB.json"
+            ]
+        },
+        "85": {
+            "elementComponents": [
+                "AHLRICHS-COULOMB.json"
+            ]
+        }
+    }
+}

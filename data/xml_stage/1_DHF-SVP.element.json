@@ -1,0 +1,217 @@
+{
+    "molssi_bse_magic": 1,
+    "basisSetName": "dhf-SV(P)",
+    "basisSetDescription": "dhf-SV(P)",
+    "basisSetElements": {
+        "37": {
+            "elementComponents": [
+                "1_DHF-SVP.json",
+                "DHF-TZVPP-ECP.json"
+            ]
+        },
+        "38": {
+            "elementComponents": [
+                "1_DHF-SVP.json",
+                "DHF-TZVPP-ECP.json"
+            ]
+        },
+        "39": {
+            "elementComponents": [
+                "1_DHF-SVP.json",
+                "DHF-TZVPP-ECP.json"
+            ]
+        },
+        "40": {
+            "elementComponents": [
+                "1_DHF-SVP.json",
+                "DHF-TZVPP-ECP.json"
+            ]
+        },
+        "41": {
+            "elementComponents": [
+                "1_DHF-SVP.json",
+                "DHF-TZVPP-ECP.json"
+            ]
+        },
+        "42": {
+            "elementComponents": [
+                "1_DHF-SVP.json",
+                "DHF-TZVPP-ECP.json"
+            ]
+        },
+        "43": {
+            "elementComponents": [
+                "1_DHF-SVP.json",
+                "DHF-TZVPP-ECP.json"
+            ]
+        },
+        "44": {
+            "elementComponents": [
+                "1_DHF-SVP.json",
+                "DHF-TZVPP-ECP.json"
+            ]
+        },
+        "45": {
+            "elementComponents": [
+                "1_DHF-SVP.json",
+                "DHF-TZVPP-ECP.json"
+            ]
+        },
+        "46": {
+            "elementComponents": [
+                "1_DHF-SVP.json",
+                "DHF-TZVPP-ECP.json"
+            ]
+        },
+        "47": {
+            "elementComponents": [
+                "1_DHF-SVP.json",
+                "DHF-TZVPP-ECP.json"
+            ]
+        },
+        "48": {
+            "elementComponents": [
+                "1_DHF-SVP.json",
+                "DHF-TZVPP-ECP.json"
+            ]
+        },
+        "49": {
+            "elementComponents": [
+                "1_DHF-SVP.json",
+                "DHF-TZVPP-ECP.json"
+            ]
+        },
+        "50": {
+            "elementComponents": [
+                "1_DHF-SVP.json",
+                "DHF-TZVPP-ECP.json"
+            ]
+        },
+        "51": {
+            "elementComponents": [
+                "1_DHF-SVP.json",
+                "DHF-TZVPP-ECP.json"
+            ]
+        },
+        "52": {
+            "elementComponents": [
+                "1_DHF-SVP.json",
+                "DHF-TZVPP-ECP.json"
+            ]
+        },
+        "53": {
+            "elementComponents": [
+                "1_DHF-SVP.json",
+                "DHF-TZVPP-ECP.json"
+            ]
+        },
+        "54": {
+            "elementComponents": [
+                "1_DHF-SVP.json",
+                "DHF-TZVPP-ECP.json"
+            ]
+        },
+        "55": {
+            "elementComponents": [
+                "1_DHF-SVP.json",
+                "DHF-TZVPP-ECP.json"
+            ]
+        },
+        "56": {
+            "elementComponents": [
+                "1_DHF-SVP.json",
+                "DHF-TZVPP-ECP.json"
+            ]
+        },
+        "72": {
+            "elementComponents": [
+                "1_DHF-SVP.json",
+                "DHF-TZVPP-ECP.json"
+            ]
+        },
+        "73": {
+            "elementComponents": [
+                "1_DHF-SVP.json",
+                "DHF-TZVPP-ECP.json"
+            ]
+        },
+        "74": {
+            "elementComponents": [
+                "1_DHF-SVP.json",
+                "DHF-TZVPP-ECP.json"
+            ]
+        },
+        "75": {
+            "elementComponents": [
+                "1_DHF-SVP.json",
+                "DHF-TZVPP-ECP.json"
+            ]
+        },
+        "76": {
+            "elementComponents": [
+                "1_DHF-SVP.json",
+                "DHF-TZVPP-ECP.json"
+            ]
+        },
+        "77": {
+            "elementComponents": [
+                "1_DHF-SVP.json",
+                "DHF-TZVPP-ECP.json"
+            ]
+        },
+        "78": {
+            "elementComponents": [
+                "1_DHF-SVP.json",
+                "DHF-TZVPP-ECP.json"
+            ]
+        },
+        "79": {
+            "elementComponents": [
+                "1_DHF-SVP.json",
+                "DHF-TZVPP-ECP.json"
+            ]
+        },
+        "80": {
+            "elementComponents": [
+                "1_DHF-SVP.json",
+                "DHF-TZVPP-ECP.json"
+            ]
+        },
+        "81": {
+            "elementComponents": [
+                "1_DHF-SVP.json",
+                "DHF-TZVPP-ECP.json"
+            ]
+        },
+        "82": {
+            "elementComponents": [
+                "1_DHF-SVP.json",
+                "DHF-TZVPP-ECP.json"
+            ]
+        },
+        "83": {
+            "elementComponents": [
+                "1_DHF-SVP.json",
+                "DHF-TZVPP-ECP.json"
+            ]
+        },
+        "84": {
+            "elementComponents": [
+                "1_DHF-SVP.json",
+                "DHF-TZVPP-ECP.json"
+            ]
+        },
+        "85": {
+            "elementComponents": [
+                "1_DHF-SVP.json",
+                "DHF-TZVPP-ECP.json"
+            ]
+        },
+        "86": {
+            "elementComponents": [
+                "1_DHF-SVP.json",
+                "DHF-TZVPP-ECP.json"
+            ]
+        }
+    }
+}

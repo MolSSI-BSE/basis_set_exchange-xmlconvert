@@ -1,0 +1,47 @@
+{
+    "molssi_bse_magic": 1,
+    "basisSetName": "d-aug-cc-pVQZ Diffuse",
+    "basisSetDescription": "2D      Diffuse Functions",
+    "basisSetElements": {
+        "1": {
+            "elementComponents": [
+                "DAUG-CC-PVQZ.json"
+            ]
+        },
+        "2": {
+            "elementComponents": [
+                "DAUG-CC-PVQZ.json"
+            ]
+        },
+        "5": {
+            "elementComponents": [
+                "DAUG-CC-PVQZ.json"
+            ]
+        },
+        "6": {
+            "elementComponents": [
+                "DAUG-CC-PVQZ.json"
+            ]
+        },
+        "7": {
+            "elementComponents": [
+                "DAUG-CC-PVQZ.json"
+            ]
+        },
+        "8": {
+            "elementComponents": [
+                "DAUG-CC-PVQZ.json"
+            ]
+        },
+        "9": {
+            "elementComponents": [
+                "DAUG-CC-PVQZ.json"
+            ]
+        },
+        "10": {
+            "elementComponents": [
+                "DAUG-CC-PVQZ.json"
+            ]
+        }
+    }
+}

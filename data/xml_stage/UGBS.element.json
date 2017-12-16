@@ -1,0 +1,497 @@
+{
+    "molssi_bse_magic": 1,
+    "basisSetName": "UGBS",
+    "basisSetDescription": "UGBS",
+    "basisSetElements": {
+        "1": {
+            "elementComponents": [
+                "UGBS.json"
+            ]
+        },
+        "2": {
+            "elementComponents": [
+                "UGBS.json"
+            ]
+        },
+        "3": {
+            "elementComponents": [
+                "UGBS.json"
+            ]
+        },
+        "4": {
+            "elementComponents": [
+                "UGBS.json"
+            ]
+        },
+        "5": {
+            "elementComponents": [
+                "UGBS.json"
+            ]
+        },
+        "6": {
+            "elementComponents": [
+                "UGBS.json"
+            ]
+        },
+        "7": {
+            "elementComponents": [
+                "UGBS.json"
+            ]
+        },
+        "8": {
+            "elementComponents": [
+                "UGBS.json"
+            ]
+        },
+        "9": {
+            "elementComponents": [
+                "UGBS.json"
+            ]
+        },
+        "10": {
+            "elementComponents": [
+                "UGBS.json"
+            ]
+        },
+        "11": {
+            "elementComponents": [
+                "UGBS.json"
+            ]
+        },
+        "12": {
+            "elementComponents": [
+                "UGBS.json"
+            ]
+        },
+        "13": {
+            "elementComponents": [
+                "UGBS.json"
+            ]
+        },
+        "14": {
+            "elementComponents": [
+                "UGBS.json"
+            ]
+        },
+        "15": {
+            "elementComponents": [
+                "UGBS.json"
+            ]
+        },
+        "16": {
+            "elementComponents": [
+                "UGBS.json"
+            ]
+        },
+        "17": {
+            "elementComponents": [
+                "UGBS.json"
+            ]
+        },
+        "18": {
+            "elementComponents": [
+                "UGBS.json"
+            ]
+        },
+        "19": {
+            "elementComponents": [
+                "UGBS.json"
+            ]
+        },
+        "20": {
+            "elementComponents": [
+                "UGBS.json"
+            ]
+        },
+        "21": {
+            "elementComponents": [
+                "UGBS.json"
+            ]
+        },
+        "22": {
+            "elementComponents": [
+                "UGBS.json"
+            ]
+        },
+        "23": {
+            "elementComponents": [
+                "UGBS.json"
+            ]
+        },
+        "24": {
+            "elementComponents": [
+                "UGBS.json"
+            ]
+        },
+        "25": {
+            "elementComponents": [
+                "UGBS.json"
+            ]
+        },
+        "26": {
+            "elementComponents": [
+                "UGBS.json"
+            ]
+        },
+        "27": {
+            "elementComponents": [
+                "UGBS.json"
+            ]
+        },
+        "28": {
+            "elementComponents": [
+                "UGBS.json"
+            ]
+        },
+        "29": {
+            "elementComponents": [
+                "UGBS.json"
+            ]
+        },
+        "30": {
+            "elementComponents": [
+                "UGBS.json"
+            ]
+        },
+        "31": {
+            "elementComponents": [
+                "UGBS.json"
+            ]
+        },
+        "32": {
+            "elementComponents": [
+                "UGBS.json"
+            ]
+        },
+        "33": {
+            "elementComponents": [
+                "UGBS.json"
+            ]
+        },
+        "34": {
+            "elementComponents": [
+                "UGBS.json"
+            ]
+        },
+        "35": {
+            "elementComponents": [
+                "UGBS.json"
+            ]
+        },
+        "36": {
+            "elementComponents": [
+                "UGBS.json"
+            ]
+        },
+        "37": {
+            "elementComponents": [
+                "UGBS.json"
+            ]
+        },
+        "38": {
+            "elementComponents": [
+                "UGBS.json"
+            ]
+        },
+        "39": {
+            "elementComponents": [
+                "UGBS.json"
+            ]
+        },
+        "40": {
+            "elementComponents": [
+                "UGBS.json"
+            ]
+        },
+        "41": {
+            "elementComponents": [
+                "UGBS.json"
+            ]
+        },
+        "42": {
+            "elementComponents": [
+                "UGBS.json"
+            ]
+        },
+        "43": {
+            "elementComponents": [
+                "UGBS.json"
+            ]
+        },
+        "44": {
+            "elementComponents": [
+                "UGBS.json"
+            ]
+        },
+        "45": {
+            "elementComponents": [
+                "UGBS.json"
+            ]
+        },
+        "46": {
+            "elementComponents": [
+                "UGBS.json"
+            ]
+        },
+        "47": {
+            "elementComponents": [
+                "UGBS.json"
+            ]
+        },
+        "48": {
+            "elementComponents": [
+                "UGBS.json"
+            ]
+        },
+        "49": {
+            "elementComponents": [
+                "UGBS.json"
+            ]
+        },
+        "50": {
+            "elementComponents": [
+                "UGBS.json"
+            ]
+        },
+        "51": {
+            "elementComponents": [
+                "UGBS.json"
+            ]
+        },
+        "52": {
+            "elementComponents": [
+                "UGBS.json"
+            ]
+        },
+        "53": {
+            "elementComponents": [
+                "UGBS.json"
+            ]
+        },
+        "54": {
+            "elementComponents": [
+                "UGBS.json"
+            ]
+        },
+        "55": {
+            "elementComponents": [
+                "UGBS.json"
+            ]
+        },
+        "56": {
+            "elementComponents": [
+                "UGBS.json"
+            ]
+        },
+        "57": {
+            "elementComponents": [
+                "UGBS.json"
+            ]
+        },
+        "58": {
+            "elementComponents": [
+                "UGBS.json"
+            ]
+        },
+        "59": {
+            "elementComponents": [
+                "UGBS.json"
+            ]
+        },
+        "60": {
+            "elementComponents": [
+                "UGBS.json"
+            ]
+        },
+        "61": {
+            "elementComponents": [
+                "UGBS.json"
+            ]
+        },
+        "62": {
+            "elementComponents": [
+                "UGBS.json"
+            ]
+        },
+        "63": {
+            "elementComponents": [
+                "UGBS.json"
+            ]
+        },
+        "64": {
+            "elementComponents": [
+                "UGBS.json"
+            ]
+        },
+        "65": {
+            "elementComponents": [
+                "UGBS.json"
+            ]
+        },
+        "66": {
+            "elementComponents": [
+                "UGBS.json"
+            ]
+        },
+        "67": {
+            "elementComponents": [
+                "UGBS.json"
+            ]
+        },
+        "68": {
+            "elementComponents": [
+                "UGBS.json"
+            ]
+        },
+        "69": {
+            "elementComponents": [
+                "UGBS.json"
+            ]
+        },
+        "70": {
+            "elementComponents": [
+                "UGBS.json"
+            ]
+        },
+        "71": {
+            "elementComponents": [
+                "UGBS.json"
+            ]
+        },
+        "72": {
+            "elementComponents": [
+                "UGBS.json"
+            ]
+        },
+        "73": {
+            "elementComponents": [
+                "UGBS.json"
+            ]
+        },
+        "74": {
+            "elementComponents": [
+                "UGBS.json"
+            ]
+        },
+        "75": {
+            "elementComponents": [
+                "UGBS.json"
+            ]
+        },
+        "76": {
+            "elementComponents": [
+                "UGBS.json"
+            ]
+        },
+        "77": {
+            "elementComponents": [
+                "UGBS.json"
+            ]
+        },
+        "78": {
+            "elementComponents": [
+                "UGBS.json"
+            ]
+        },
+        "79": {
+            "elementComponents": [
+                "UGBS.json"
+            ]
+        },
+        "80": {
+            "elementComponents": [
+                "UGBS.json"
+            ]
+        },
+        "81": {
+            "elementComponents": [
+                "UGBS.json"
+            ]
+        },
+        "82": {
+            "elementComponents": [
+                "UGBS.json"
+            ]
+        },
+        "83": {
+            "elementComponents": [
+                "UGBS.json"
+            ]
+        },
+        "84": {
+            "elementComponents": [
+                "UGBS.json"
+            ]
+        },
+        "85": {
+            "elementComponents": [
+                "UGBS.json"
+            ]
+        },
+        "86": {
+            "elementComponents": [
+                "UGBS.json"
+            ]
+        },
+        "87": {
+            "elementComponents": [
+                "UGBS.json"
+            ]
+        },
+        "88": {
+            "elementComponents": [
+                "UGBS.json"
+            ]
+        },
+        "89": {
+            "elementComponents": [
+                "UGBS.json"
+            ]
+        },
+        "90": {
+            "elementComponents": [
+                "UGBS.json"
+            ]
+        },
+        "94": {
+            "elementComponents": [
+                "UGBS.json"
+            ]
+        },
+        "95": {
+            "elementComponents": [
+                "UGBS.json"
+            ]
+        },
+        "98": {
+            "elementComponents": [
+                "UGBS.json"
+            ]
+        },
+        "99": {
+            "elementComponents": [
+                "UGBS.json"
+            ]
+        },
+        "100": {
+            "elementComponents": [
+                "UGBS.json"
+            ]
+        },
+        "101": {
+            "elementComponents": [
+                "UGBS.json"
+            ]
+        },
+        "102": {
+            "elementComponents": [
+                "UGBS.json"
+            ]
+        },
+        "103": {
+            "elementComponents": [
+                "UGBS.json"
+            ]
+        }
+    }
+}

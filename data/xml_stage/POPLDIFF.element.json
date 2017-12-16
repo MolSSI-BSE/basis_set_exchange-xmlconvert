@@ -1,0 +1,102 @@
+{
+    "molssi_bse_magic": 1,
+    "basisSetName": "Pople-style Diffuse",
+    "basisSetDescription": "1D      Shared exponent, diffuse (s,p)",
+    "basisSetElements": {
+        "1": {
+            "elementComponents": [
+                "POPLDIFF.json"
+            ]
+        },
+        "3": {
+            "elementComponents": [
+                "POPLDIFF.json"
+            ]
+        },
+        "4": {
+            "elementComponents": [
+                "POPLDIFF.json"
+            ]
+        },
+        "5": {
+            "elementComponents": [
+                "POPLDIFF.json"
+            ]
+        },
+        "6": {
+            "elementComponents": [
+                "POPLDIFF.json"
+            ]
+        },
+        "7": {
+            "elementComponents": [
+                "POPLDIFF.json"
+            ]
+        },
+        "8": {
+            "elementComponents": [
+                "POPLDIFF.json"
+            ]
+        },
+        "9": {
+            "elementComponents": [
+                "POPLDIFF.json"
+            ]
+        },
+        "10": {
+            "elementComponents": [
+                "POPLDIFF.json"
+            ]
+        },
+        "11": {
+            "elementComponents": [
+                "POPLDIFF.json"
+            ]
+        },
+        "12": {
+            "elementComponents": [
+                "POPLDIFF.json"
+            ]
+        },
+        "13": {
+            "elementComponents": [
+                "POPLDIFF.json"
+            ]
+        },
+        "14": {
+            "elementComponents": [
+                "POPLDIFF.json"
+            ]
+        },
+        "15": {
+            "elementComponents": [
+                "POPLDIFF.json"
+            ]
+        },
+        "16": {
+            "elementComponents": [
+                "POPLDIFF.json"
+            ]
+        },
+        "17": {
+            "elementComponents": [
+                "POPLDIFF.json"
+            ]
+        },
+        "18": {
+            "elementComponents": [
+                "POPLDIFF.json"
+            ]
+        },
+        "19": {
+            "elementComponents": [
+                "POPLDIFF.json"
+            ]
+        },
+        "20": {
+            "elementComponents": [
+                "POPLDIFF.json"
+            ]
+        }
+    }
+}

@@ -1,0 +1,92 @@
+{
+    "molssi_bse_magic": 1,
+    "basisSetName": "Core/valence Functions (cc-pCVDZ)",
+    "basisSetDescription": "Core/valence Functions (cc-pCVDZ)",
+    "basisSetElements": {
+        "3": {
+            "elementComponents": [
+                "CC-PCVDZ.json"
+            ]
+        },
+        "4": {
+            "elementComponents": [
+                "CC-PCVDZ.json"
+            ]
+        },
+        "5": {
+            "elementComponents": [
+                "CC-PCVDZ.json"
+            ]
+        },
+        "6": {
+            "elementComponents": [
+                "CC-PCVDZ.json"
+            ]
+        },
+        "7": {
+            "elementComponents": [
+                "CC-PCVDZ.json"
+            ]
+        },
+        "8": {
+            "elementComponents": [
+                "CC-PCVDZ.json"
+            ]
+        },
+        "9": {
+            "elementComponents": [
+                "CC-PCVDZ.json"
+            ]
+        },
+        "10": {
+            "elementComponents": [
+                "CC-PCVDZ.json"
+            ]
+        },
+        "11": {
+            "elementComponents": [
+                "CC-PCVDZ.json"
+            ]
+        },
+        "12": {
+            "elementComponents": [
+                "CC-PCVDZ.json"
+            ]
+        },
+        "13": {
+            "elementComponents": [
+                "CC-PCVDZ.json"
+            ]
+        },
+        "14": {
+            "elementComponents": [
+                "CC-PCVDZ.json"
+            ]
+        },
+        "15": {
+            "elementComponents": [
+                "CC-PCVDZ.json"
+            ]
+        },
+        "16": {
+            "elementComponents": [
+                "CC-PCVDZ.json"
+            ]
+        },
+        "17": {
+            "elementComponents": [
+                "CC-PCVDZ.json"
+            ]
+        },
+        "18": {
+            "elementComponents": [
+                "CC-PCVDZ.json"
+            ]
+        },
+        "20": {
+            "elementComponents": [
+                "CC-PCVDZ.json"
+            ]
+        }
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "molssi_bse_magic": 1,
+    "basisSetName": "SVP (Dunning-Hay)",
+    "basisSetDescription": "VDZP    Valence Double Zeta + Polarization on All Atoms",
+    "basisSetElements": {
+        "1": {
+            "elementComponents": [
+                "DUNHAYSV.json",
+                "DUNHAYPOL.json"
+            ]
+        },
+        "3": {
+            "elementComponents": [
+                "DUNHAYSV.json",
+                "DUNHAYPOL.json"
+            ]
+        },
+        "4": {
+            "elementComponents": [
+                "DUNHAYSV.json",
+                "DUNHAYPOL.json"
+            ]
+        },
+        "5": {
+            "elementComponents": [
+                "DUNHAYSV.json",
+                "DUNHAYPOL.json"
+            ]
+        },
+        "6": {
+            "elementComponents": [
+                "DUNHAYSV.json",
+                "DUNHAYPOL.json"
+            ]
+        },
+        "7": {
+            "elementComponents": [
+                "DUNHAYSV.json",
+                "DUNHAYPOL.json"
+            ]
+        },
+        "8": {
+            "elementComponents": [
+                "DUNHAYSV.json",
+                "DUNHAYPOL.json"
+            ]
+        },
+        "9": {
+            "elementComponents": [
+                "DUNHAYSV.json",
+                "DUNHAYPOL.json"
+            ]
+        },
+        "10": {
+            "elementComponents": [
+                "DUNHAYSV.json",
+                "DUNHAYPOL.json"
+            ]
+        }
+    }
+}

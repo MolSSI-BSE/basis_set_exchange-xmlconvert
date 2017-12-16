@@ -1,0 +1,157 @@
+{
+    "molssi_bse_magic": 1,
+    "basisSetName": "Roos Augmented Double Zeta ANO",
+    "basisSetDescription": "VDZPD   Valence Double Zeta + Polarization + Diffuse",
+    "basisSetElements": {
+        "1": {
+            "elementComponents": [
+                "ROOS_ANO1.json"
+            ]
+        },
+        "2": {
+            "elementComponents": [
+                "ROOS_ANO1.json"
+            ]
+        },
+        "3": {
+            "elementComponents": [
+                "ROOS_ANO1.json"
+            ]
+        },
+        "4": {
+            "elementComponents": [
+                "ROOS_ANO1.json"
+            ]
+        },
+        "5": {
+            "elementComponents": [
+                "ROOS_ANO1.json"
+            ]
+        },
+        "6": {
+            "elementComponents": [
+                "ROOS_ANO1.json"
+            ]
+        },
+        "7": {
+            "elementComponents": [
+                "ROOS_ANO1.json"
+            ]
+        },
+        "8": {
+            "elementComponents": [
+                "ROOS_ANO1.json"
+            ]
+        },
+        "9": {
+            "elementComponents": [
+                "ROOS_ANO1.json"
+            ]
+        },
+        "10": {
+            "elementComponents": [
+                "ROOS_ANO1.json"
+            ]
+        },
+        "11": {
+            "elementComponents": [
+                "ROOS_ANO1.json"
+            ]
+        },
+        "12": {
+            "elementComponents": [
+                "ROOS_ANO1.json"
+            ]
+        },
+        "13": {
+            "elementComponents": [
+                "ROOS_ANO1.json"
+            ]
+        },
+        "14": {
+            "elementComponents": [
+                "ROOS_ANO1.json"
+            ]
+        },
+        "15": {
+            "elementComponents": [
+                "ROOS_ANO1.json"
+            ]
+        },
+        "16": {
+            "elementComponents": [
+                "ROOS_ANO1.json"
+            ]
+        },
+        "17": {
+            "elementComponents": [
+                "ROOS_ANO1.json"
+            ]
+        },
+        "18": {
+            "elementComponents": [
+                "ROOS_ANO1.json"
+            ]
+        },
+        "19": {
+            "elementComponents": [
+                "ROOS_ANO1.json"
+            ]
+        },
+        "20": {
+            "elementComponents": [
+                "ROOS_ANO1.json"
+            ]
+        },
+        "21": {
+            "elementComponents": [
+                "ROOS_ANO1.json"
+            ]
+        },
+        "22": {
+            "elementComponents": [
+                "ROOS_ANO1.json"
+            ]
+        },
+        "23": {
+            "elementComponents": [
+                "ROOS_ANO1.json"
+            ]
+        },
+        "24": {
+            "elementComponents": [
+                "ROOS_ANO1.json"
+            ]
+        },
+        "25": {
+            "elementComponents": [
+                "ROOS_ANO1.json"
+            ]
+        },
+        "26": {
+            "elementComponents": [
+                "ROOS_ANO1.json"
+            ]
+        },
+        "27": {
+            "elementComponents": [
+                "ROOS_ANO1.json"
+            ]
+        },
+        "28": {
+            "elementComponents": [
+                "ROOS_ANO1.json"
+            ]
+        },
+        "29": {
+            "elementComponents": [
+                "ROOS_ANO1.json"
+            ]
+        },
+        "30": {
+            "elementComponents": [
+                "ROOS_ANO1.json"
+            ]
+        }
+    }
+}

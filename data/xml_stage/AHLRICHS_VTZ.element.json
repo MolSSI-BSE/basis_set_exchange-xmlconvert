@@ -1,0 +1,187 @@
+{
+    "molssi_bse_magic": 1,
+    "basisSetName": "Ahlrichs VTZ",
+    "basisSetDescription": "VTZ     Valence Triple Zeta: 3 Funct.'s/Valence AO",
+    "basisSetElements": {
+        "1": {
+            "elementComponents": [
+                "AHLRICHS_VTZ.json"
+            ]
+        },
+        "2": {
+            "elementComponents": [
+                "AHLRICHS_VTZ.json"
+            ]
+        },
+        "3": {
+            "elementComponents": [
+                "AHLRICHS_VTZ.json"
+            ]
+        },
+        "4": {
+            "elementComponents": [
+                "AHLRICHS_VTZ.json"
+            ]
+        },
+        "5": {
+            "elementComponents": [
+                "AHLRICHS_VTZ.json"
+            ]
+        },
+        "6": {
+            "elementComponents": [
+                "AHLRICHS_VTZ.json"
+            ]
+        },
+        "7": {
+            "elementComponents": [
+                "AHLRICHS_VTZ.json"
+            ]
+        },
+        "8": {
+            "elementComponents": [
+                "AHLRICHS_VTZ.json"
+            ]
+        },
+        "9": {
+            "elementComponents": [
+                "AHLRICHS_VTZ.json"
+            ]
+        },
+        "10": {
+            "elementComponents": [
+                "AHLRICHS_VTZ.json"
+            ]
+        },
+        "11": {
+            "elementComponents": [
+                "AHLRICHS_VTZ.json"
+            ]
+        },
+        "12": {
+            "elementComponents": [
+                "AHLRICHS_VTZ.json"
+            ]
+        },
+        "13": {
+            "elementComponents": [
+                "AHLRICHS_VTZ.json"
+            ]
+        },
+        "14": {
+            "elementComponents": [
+                "AHLRICHS_VTZ.json"
+            ]
+        },
+        "15": {
+            "elementComponents": [
+                "AHLRICHS_VTZ.json"
+            ]
+        },
+        "16": {
+            "elementComponents": [
+                "AHLRICHS_VTZ.json"
+            ]
+        },
+        "17": {
+            "elementComponents": [
+                "AHLRICHS_VTZ.json"
+            ]
+        },
+        "18": {
+            "elementComponents": [
+                "AHLRICHS_VTZ.json"
+            ]
+        },
+        "19": {
+            "elementComponents": [
+                "AHLRICHS_VTZ.json"
+            ]
+        },
+        "20": {
+            "elementComponents": [
+                "AHLRICHS_VTZ.json"
+            ]
+        },
+        "21": {
+            "elementComponents": [
+                "AHLRICHS_VTZ.json"
+            ]
+        },
+        "22": {
+            "elementComponents": [
+                "AHLRICHS_VTZ.json"
+            ]
+        },
+        "23": {
+            "elementComponents": [
+                "AHLRICHS_VTZ.json"
+            ]
+        },
+        "24": {
+            "elementComponents": [
+                "AHLRICHS_VTZ.json"
+            ]
+        },
+        "25": {
+            "elementComponents": [
+                "AHLRICHS_VTZ.json"
+            ]
+        },
+        "26": {
+            "elementComponents": [
+                "AHLRICHS_VTZ.json"
+            ]
+        },
+        "27": {
+            "elementComponents": [
+                "AHLRICHS_VTZ.json"
+            ]
+        },
+        "28": {
+            "elementComponents": [
+                "AHLRICHS_VTZ.json"
+            ]
+        },
+        "29": {
+            "elementComponents": [
+                "AHLRICHS_VTZ.json"
+            ]
+        },
+        "30": {
+            "elementComponents": [
+                "AHLRICHS_VTZ.json"
+            ]
+        },
+        "31": {
+            "elementComponents": [
+                "AHLRICHS_VTZ.json"
+            ]
+        },
+        "32": {
+            "elementComponents": [
+                "AHLRICHS_VTZ.json"
+            ]
+        },
+        "33": {
+            "elementComponents": [
+                "AHLRICHS_VTZ.json"
+            ]
+        },
+        "34": {
+            "elementComponents": [
+                "AHLRICHS_VTZ.json"
+            ]
+        },
+        "35": {
+            "elementComponents": [
+                "AHLRICHS_VTZ.json"
+            ]
+        },
+        "36": {
+            "elementComponents": [
+                "AHLRICHS_VTZ.json"
+            ]
+        }
+    }
+}

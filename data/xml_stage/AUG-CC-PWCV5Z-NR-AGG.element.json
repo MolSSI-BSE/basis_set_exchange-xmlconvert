@@ -1,0 +1,67 @@
+{
+    "molssi_bse_magic": 1,
+    "basisSetName": "aug-cc-pwCV5Z-NR",
+    "basisSetDescription": "V5ZPD   All-electron non-relativistic Core-Valence Quintuple Zeta + Polarization",
+    "basisSetElements": {
+        "21": {
+            "elementComponents": [
+                "CC-PWCV5Z-NR.json",
+                "AUG-CC-PV5Z-NR.json"
+            ]
+        },
+        "22": {
+            "elementComponents": [
+                "CC-PWCV5Z-NR.json",
+                "AUG-CC-PV5Z-NR.json"
+            ]
+        },
+        "23": {
+            "elementComponents": [
+                "CC-PWCV5Z-NR.json",
+                "AUG-CC-PV5Z-NR.json"
+            ]
+        },
+        "24": {
+            "elementComponents": [
+                "CC-PWCV5Z-NR.json",
+                "AUG-CC-PV5Z-NR.json"
+            ]
+        },
+        "25": {
+            "elementComponents": [
+                "CC-PWCV5Z-NR.json",
+                "AUG-CC-PV5Z-NR.json"
+            ]
+        },
+        "26": {
+            "elementComponents": [
+                "CC-PWCV5Z-NR.json",
+                "AUG-CC-PV5Z-NR.json"
+            ]
+        },
+        "27": {
+            "elementComponents": [
+                "CC-PWCV5Z-NR.json",
+                "AUG-CC-PV5Z-NR.json"
+            ]
+        },
+        "28": {
+            "elementComponents": [
+                "CC-PWCV5Z-NR.json",
+                "AUG-CC-PV5Z-NR.json"
+            ]
+        },
+        "29": {
+            "elementComponents": [
+                "CC-PWCV5Z-NR.json",
+                "AUG-CC-PV5Z-NR.json"
+            ]
+        },
+        "30": {
+            "elementComponents": [
+                "CC-PWCV5Z-NR.json",
+                "AUG-CC-PV5Z-NR.json"
+            ]
+        }
+    }
+}

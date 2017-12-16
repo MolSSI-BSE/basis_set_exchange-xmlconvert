@@ -1,0 +1,102 @@
+{
+    "molssi_bse_magic": 1,
+    "basisSetName": "Sadlej pVTZ",
+    "basisSetDescription": "Sadlej pVTZ",
+    "basisSetElements": {
+        "1": {
+            "elementComponents": [
+                "SADLEJ.json"
+            ]
+        },
+        "3": {
+            "elementComponents": [
+                "SADLEJ.json"
+            ]
+        },
+        "4": {
+            "elementComponents": [
+                "SADLEJ.json"
+            ]
+        },
+        "6": {
+            "elementComponents": [
+                "SADLEJ.json"
+            ]
+        },
+        "7": {
+            "elementComponents": [
+                "SADLEJ.json"
+            ]
+        },
+        "8": {
+            "elementComponents": [
+                "SADLEJ.json"
+            ]
+        },
+        "9": {
+            "elementComponents": [
+                "SADLEJ.json"
+            ]
+        },
+        "11": {
+            "elementComponents": [
+                "SADLEJ.json"
+            ]
+        },
+        "12": {
+            "elementComponents": [
+                "SADLEJ.json"
+            ]
+        },
+        "14": {
+            "elementComponents": [
+                "SADLEJ.json"
+            ]
+        },
+        "15": {
+            "elementComponents": [
+                "SADLEJ.json"
+            ]
+        },
+        "16": {
+            "elementComponents": [
+                "SADLEJ.json"
+            ]
+        },
+        "17": {
+            "elementComponents": [
+                "SADLEJ.json"
+            ]
+        },
+        "19": {
+            "elementComponents": [
+                "SADLEJ.json"
+            ]
+        },
+        "20": {
+            "elementComponents": [
+                "SADLEJ.json"
+            ]
+        },
+        "35": {
+            "elementComponents": [
+                "SADLEJ.json"
+            ]
+        },
+        "37": {
+            "elementComponents": [
+                "SADLEJ.json"
+            ]
+        },
+        "38": {
+            "elementComponents": [
+                "SADLEJ.json"
+            ]
+        },
+        "53": {
+            "elementComponents": [
+                "SADLEJ.json"
+            ]
+        }
+    }
+}

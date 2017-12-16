@@ -1,0 +1,77 @@
+{
+    "molssi_bse_magic": 1,
+    "basisSetName": "aug-cc-pV6Z-RI diffuse",
+    "basisSetDescription": "aug-cc-pV6Z-RI diffuse",
+    "basisSetElements": {
+        "1": {
+            "elementComponents": [
+                "AUG-CC-PV6Z-RIDIFFUSE.json"
+            ]
+        },
+        "2": {
+            "elementComponents": [
+                "AUG-CC-PV6Z-RIDIFFUSE.json"
+            ]
+        },
+        "5": {
+            "elementComponents": [
+                "AUG-CC-PV6Z-RIDIFFUSE.json"
+            ]
+        },
+        "6": {
+            "elementComponents": [
+                "AUG-CC-PV6Z-RIDIFFUSE.json"
+            ]
+        },
+        "7": {
+            "elementComponents": [
+                "AUG-CC-PV6Z-RIDIFFUSE.json"
+            ]
+        },
+        "8": {
+            "elementComponents": [
+                "AUG-CC-PV6Z-RIDIFFUSE.json"
+            ]
+        },
+        "9": {
+            "elementComponents": [
+                "AUG-CC-PV6Z-RIDIFFUSE.json"
+            ]
+        },
+        "10": {
+            "elementComponents": [
+                "AUG-CC-PV6Z-RIDIFFUSE.json"
+            ]
+        },
+        "13": {
+            "elementComponents": [
+                "AUG-CC-PV6Z-RIDIFFUSE.json"
+            ]
+        },
+        "14": {
+            "elementComponents": [
+                "AUG-CC-PV6Z-RIDIFFUSE.json"
+            ]
+        },
+        "15": {
+            "elementComponents": [
+                "AUG-CC-PV6Z-RIDIFFUSE.json"
+            ]
+        },
+        "16": {
+            "elementComponents": [
+                "AUG-CC-PV6Z-RIDIFFUSE.json"
+            ]
+        },
+        "17": {
+            "elementComponents": [
+                "AUG-CC-PV6Z-RIDIFFUSE.json"
+            ]
+        },
+        "18": {
+            "elementComponents": [
+                "AUG-CC-PV6Z-RIDIFFUSE.json"
+            ]
+        }
+    }
+}

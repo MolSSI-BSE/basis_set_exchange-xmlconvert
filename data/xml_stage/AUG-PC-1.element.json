@@ -1,0 +1,187 @@
+{
+    "molssi_bse_magic": 1,
+    "basisSetName": "aug-pc-1",
+    "basisSetDescription": "aug-pc-1",
+    "basisSetElements": {
+        "1": {
+            "elementComponents": [
+                "AUG-PC-1.json"
+            ]
+        },
+        "2": {
+            "elementComponents": [
+                "AUG-PC-1.json"
+            ]
+        },
+        "3": {
+            "elementComponents": [
+                "AUG-PC-1.json"
+            ]
+        },
+        "4": {
+            "elementComponents": [
+                "AUG-PC-1.json"
+            ]
+        },
+        "5": {
+            "elementComponents": [
+                "AUG-PC-1.json"
+            ]
+        },
+        "6": {
+            "elementComponents": [
+                "AUG-PC-1.json"
+            ]
+        },
+        "7": {
+            "elementComponents": [
+                "AUG-PC-1.json"
+            ]
+        },
+        "8": {
+            "elementComponents": [
+                "AUG-PC-1.json"
+            ]
+        },
+        "9": {
+            "elementComponents": [
+                "AUG-PC-1.json"
+            ]
+        },
+        "10": {
+            "elementComponents": [
+                "AUG-PC-1.json"
+            ]
+        },
+        "11": {
+            "elementComponents": [
+                "AUG-PC-1.json"
+            ]
+        },
+        "12": {
+            "elementComponents": [
+                "AUG-PC-1.json"
+            ]
+        },
+        "13": {
+            "elementComponents": [
+                "AUG-PC-1.json"
+            ]
+        },
+        "14": {
+            "elementComponents": [
+                "AUG-PC-1.json"
+            ]
+        },
+        "15": {
+            "elementComponents": [
+                "AUG-PC-1.json"
+            ]
+        },
+        "16": {
+            "elementComponents": [
+                "AUG-PC-1.json"
+            ]
+        },
+        "17": {
+            "elementComponents": [
+                "AUG-PC-1.json"
+            ]
+        },
+        "18": {
+            "elementComponents": [
+                "AUG-PC-1.json"
+            ]
+        },
+        "19": {
+            "elementComponents": [
+                "AUG-PC-1.json"
+            ]
+        },
+        "20": {
+            "elementComponents": [
+                "AUG-PC-1.json"
+            ]
+        },
+        "21": {
+            "elementComponents": [
+                "AUG-PC-1.json"
+            ]
+        },
+        "22": {
+            "elementComponents": [
+                "AUG-PC-1.json"
+            ]
+        },
+        "23": {
+            "elementComponents": [
+                "AUG-PC-1.json"
+            ]
+        },
+        "24": {
+            "elementComponents": [
+                "AUG-PC-1.json"
+            ]
+        },
+        "25": {
+            "elementComponents": [
+                "AUG-PC-1.json"
+            ]
+        },
+        "26": {
+            "elementComponents": [
+                "AUG-PC-1.json"
+            ]
+        },
+        "27": {
+            "elementComponents": [
+                "AUG-PC-1.json"
+            ]
+        },
+        "28": {
+            "elementComponents": [
+                "AUG-PC-1.json"
+            ]
+        },
+        "29": {
+            "elementComponents": [
+                "AUG-PC-1.json"
+            ]
+        },
+        "30": {
+            "elementComponents": [
+                "AUG-PC-1.json"
+            ]
+        },
+        "31": {
+            "elementComponents": [
+                "AUG-PC-1.json"
+            ]
+        },
+        "32": {
+            "elementComponents": [
+                "AUG-PC-1.json"
+            ]
+        },
+        "33": {
+            "elementComponents": [
+                "AUG-PC-1.json"
+            ]
+        },
+        "34": {
+            "elementComponents": [
+                "AUG-PC-1.json"
+            ]
+        },
+        "35": {
+            "elementComponents": [
+                "AUG-PC-1.json"
+            ]
+        },
+        "36": {
+            "elementComponents": [
+                "AUG-PC-1.json"
+            ]
+        }
+    }
+}

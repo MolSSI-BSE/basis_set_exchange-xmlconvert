@@ -1,0 +1,277 @@
+{
+    "molssi_bse_magic": 1,
+    "basisSetName": "DZVP (DFT Orbital)",
+    "basisSetDescription": "VDZP    Valence Double Zeta + Polarization designed for DFT",
+    "basisSetElements": {
+        "1": {
+            "elementComponents": [
+                "DGAUSS_DZVP.json"
+            ]
+        },
+        "2": {
+            "elementComponents": [
+                "DGAUSS_DZVP.json"
+            ]
+        },
+        "3": {
+            "elementComponents": [
+                "DGAUSS_DZVP.json"
+            ]
+        },
+        "4": {
+            "elementComponents": [
+                "DGAUSS_DZVP.json"
+            ]
+        },
+        "5": {
+            "elementComponents": [
+                "DGAUSS_DZVP.json"
+            ]
+        },
+        "6": {
+            "elementComponents": [
+                "DGAUSS_DZVP.json"
+            ]
+        },
+        "7": {
+            "elementComponents": [
+                "DGAUSS_DZVP.json"
+            ]
+        },
+        "8": {
+            "elementComponents": [
+                "DGAUSS_DZVP.json"
+            ]
+        },
+        "9": {
+            "elementComponents": [
+                "DGAUSS_DZVP.json"
+            ]
+        },
+        "10": {
+            "elementComponents": [
+                "DGAUSS_DZVP.json"
+            ]
+        },
+        "11": {
+            "elementComponents": [
+                "DGAUSS_DZVP.json"
+            ]
+        },
+        "12": {
+            "elementComponents": [
+                "DGAUSS_DZVP.json"
+            ]
+        },
+        "13": {
+            "elementComponents": [
+                "DGAUSS_DZVP.json"
+            ]
+        },
+        "14": {
+            "elementComponents": [
+                "DGAUSS_DZVP.json"
+            ]
+        },
+        "15": {
+            "elementComponents": [
+                "DGAUSS_DZVP.json"
+            ]
+        },
+        "16": {
+            "elementComponents": [
+                "DGAUSS_DZVP.json"
+            ]
+        },
+        "17": {
+            "elementComponents": [
+                "DGAUSS_DZVP.json"
+            ]
+        },
+        "18": {
+            "elementComponents": [
+                "DGAUSS_DZVP.json"
+            ]
+        },
+        "19": {
+            "elementComponents": [
+                "DGAUSS_DZVP.json"
+            ]
+        },
+        "20": {
+            "elementComponents": [
+                "DGAUSS_DZVP.json"
+            ]
+        },
+        "21": {
+            "elementComponents": [
+                "DGAUSS_DZVP.json"
+            ]
+        },
+        "22": {
+            "elementComponents": [
+                "DGAUSS_DZVP.json"
+            ]
+        },
+        "23": {
+            "elementComponents": [
+                "DGAUSS_DZVP.json"
+            ]
+        },
+        "24": {
+            "elementComponents": [
+                "DGAUSS_DZVP.json"
+            ]
+        },
+        "25": {
+            "elementComponents": [
+                "DGAUSS_DZVP.json"
+            ]
+        },
+        "26": {
+            "elementComponents": [
+                "DGAUSS_DZVP.json"
+            ]
+        },
+        "27": {
+            "elementComponents": [
+                "DGAUSS_DZVP.json"
+            ]
+        },
+        "28": {
+            "elementComponents": [
+                "DGAUSS_DZVP.json"
+            ]
+        },
+        "29": {
+            "elementComponents": [
+                "DGAUSS_DZVP.json"
+            ]
+        },
+        "30": {
+            "elementComponents": [
+                "DGAUSS_DZVP.json"
+            ]
+        },
+        "31": {
+            "elementComponents": [
+                "DGAUSS_DZVP.json"
+            ]
+        },
+        "32": {
+            "elementComponents": [
+                "DGAUSS_DZVP.json"
+            ]
+        },
+        "33": {
+            "elementComponents": [
+                "DGAUSS_DZVP.json"
+            ]
+        },
+        "34": {
+            "elementComponents": [
+                "DGAUSS_DZVP.json"
+            ]
+        },
+        "35": {
+            "elementComponents": [
+                "DGAUSS_DZVP.json"
+            ]
+        },
+        "36": {
+            "elementComponents": [
+                "DGAUSS_DZVP.json"
+            ]
+        },
+        "37": {
+            "elementComponents": [
+                "DGAUSS_DZVP.json"
+            ]
+        },
+        "38": {
+            "elementComponents": [
+                "DGAUSS_DZVP.json"
+            ]
+        },
+        "39": {
+            "elementComponents": [
+                "DGAUSS_DZVP.json"
+            ]
+        },
+        "40": {
+            "elementComponents": [
+                "DGAUSS_DZVP.json"
+            ]
+        },
+        "41": {
+            "elementComponents": [
+                "DGAUSS_DZVP.json"
+            ]
+        },
+        "42": {
+            "elementComponents": [
+                "DGAUSS_DZVP.json"
+            ]
+        },
+        "43": {
+            "elementComponents": [
+                "DGAUSS_DZVP.json"
+            ]
+        },
+        "44": {
+            "elementComponents": [
+                "DGAUSS_DZVP.json"
+            ]
+        },
+        "45": {
+            "elementComponents": [
+                "DGAUSS_DZVP.json"
+            ]
+        },
+        "46": {
+            "elementComponents": [
+                "DGAUSS_DZVP.json"
+            ]
+        },
+        "47": {
+            "elementComponents": [
+                "DGAUSS_DZVP.json"
+            ]
+        },
+        "48": {
+            "elementComponents": [
+                "DGAUSS_DZVP.json"
+            ]
+        },
+        "49": {
+            "elementComponents": [
+                "DGAUSS_DZVP.json"
+            ]
+        },
+        "50": {
+            "elementComponents": [
+                "DGAUSS_DZVP.json"
+            ]
+        },
+        "51": {
+            "elementComponents": [
+                "DGAUSS_DZVP.json"
+            ]
+        },
+        "52": {
+            "elementComponents": [
+                "DGAUSS_DZVP.json"
+            ]
+        },
+        "53": {
+            "elementComponents": [
+                "DGAUSS_DZVP.json"
+            ]
+        },
+        "54": {
+            "elementComponents": [
+                "DGAUSS_DZVP.json"
+            ]
+        }
+    }
+}

@@ -1,0 +1,112 @@
+{
+    "molssi_bse_magic": 1,
+    "basisSetName": "STO-2G",
+    "basisSetDescription": "MB      Minimal Basis: 1 Function/AO",
+    "basisSetElements": {
+        "1": {
+            "elementComponents": [
+                "STO-2G.json"
+            ]
+        },
+        "2": {
+            "elementComponents": [
+                "STO-2G.json"
+            ]
+        },
+        "3": {
+            "elementComponents": [
+                "STO-2G.json"
+            ]
+        },
+        "4": {
+            "elementComponents": [
+                "STO-2G.json"
+            ]
+        },
+        "5": {
+            "elementComponents": [
+                "STO-2G.json"
+            ]
+        },
+        "6": {
+            "elementComponents": [
+                "STO-2G.json"
+            ]
+        },
+        "7": {
+            "elementComponents": [
+                "STO-2G.json"
+            ]
+        },
+        "8": {
+            "elementComponents": [
+                "STO-2G.json"
+            ]
+        },
+        "9": {
+            "elementComponents": [
+                "STO-2G.json"
+            ]
+        },
+        "10": {
+            "elementComponents": [
+                "STO-2G.json"
+            ]
+        },
+        "11": {
+            "elementComponents": [
+                "STO-2G.json"
+            ]
+        },
+        "12": {
+            "elementComponents": [
+                "STO-2G.json"
+            ]
+        },
+        "13": {
+            "elementComponents": [
+                "STO-2G.json"
+            ]
+        },
+        "14": {
+            "elementComponents": [
+                "STO-2G.json"
+            ]
+        },
+        "15": {
+            "elementComponents": [
+                "STO-2G.json"
+            ]
+        },
+        "16": {
+            "elementComponents": [
+                "STO-2G.json"
+            ]
+        },
+        "17": {
+            "elementComponents": [
+                "STO-2G.json"
+            ]
+        },
+        "18": {
+            "elementComponents": [
+                "STO-2G.json"
+            ]
+        },
+        "19": {
+            "elementComponents": [
+                "STO-2G.json"
+            ]
+        },
+        "20": {
+            "elementComponents": [
+                "STO-2G.json"
+            ]
+        },
+        "38": {
+            "elementComponents": [
+                "STO-2G.json"
+            ]
+        }
+    }
+}

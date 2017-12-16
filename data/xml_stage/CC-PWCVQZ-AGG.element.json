@@ -1,0 +1,85 @@
+{
+    "molssi_bse_magic": 1,
+    "basisSetName": "cc-pwCVQZ",
+    "basisSetDescription": "QZ3P    Quadruple Zeta + Polarization + Tight Core",
+    "basisSetElements": {
+        "5": {
+            "elementComponents": [
+                "CC-PVQZ.json",
+                "CC-PWCVQZ.json"
+            ]
+        },
+        "6": {
+            "elementComponents": [
+                "CC-PVQZ.json",
+                "CC-PWCVQZ.json"
+            ]
+        },
+        "7": {
+            "elementComponents": [
+                "CC-PVQZ.json",
+                "CC-PWCVQZ.json"
+            ]
+        },
+        "8": {
+            "elementComponents": [
+                "CC-PVQZ.json",
+                "CC-PWCVQZ.json"
+            ]
+        },
+        "9": {
+            "elementComponents": [
+                "CC-PVQZ.json",
+                "CC-PWCVQZ.json"
+            ]
+        },
+        "10": {
+            "elementComponents": [
+                "CC-PVQZ.json",
+                "CC-PWCVQZ.json"
+            ]
+        },
+        "13": {
+            "elementComponents": [
+                "CC-PVQZ.json",
+                "CC-PWCVQZ.json"
+            ]
+        },
+        "14": {
+            "elementComponents": [
+                "CC-PVQZ.json",
+                "CC-PWCVQZ.json"
+            ]
+        },
+        "15": {
+            "elementComponents": [
+                "CC-PVQZ.json",
+                "CC-PWCVQZ.json"
+            ]
+        },
+        "16": {
+            "elementComponents": [
+                "CC-PVQZ.json",
+                "CC-PWCVQZ.json"
+            ]
+        },
+        "17": {
+            "elementComponents": [
+                "CC-PVQZ.json",
+                "CC-PWCVQZ.json"
+            ]
+        },
+        "18": {
+            "elementComponents": [
+                "CC-PVQZ.json",
+                "CC-PWCVQZ.json"
+            ]
+        },
+        "35": {
+            "elementComponents": [
+                "CC-PVQZ.json",
+                "CC-PWCVQZ.json"
+            ]
+        }
+    }
+}

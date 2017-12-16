@@ -1,0 +1,259 @@
+{
+    "molssi_bse_magic": 1,
+    "basisSetName": "aug-cc-pVTZ-DK",
+    "basisSetDescription": "VTZ2P   All-electron Douglas-Kroll Valence Triple Zeta + Polarization",
+    "basisSetElements": {
+        "1": {
+            "elementComponents": [
+                "CC-PVTZ-DK.json",
+                "AUG-CC-PVTZ-DK.json"
+            ]
+        },
+        "2": {
+            "elementComponents": [
+                "CC-PVTZ-DK.json",
+                "AUG-CC-PVTZ-DK.json"
+            ]
+        },
+        "3": {
+            "elementComponents": [
+                "CC-PVTZ-DK.json",
+                "AUG-CC-PVTZ-DK.json"
+            ]
+        },
+        "4": {
+            "elementComponents": [
+                "CC-PVTZ-DK.json",
+                "AUG-CC-PVTZ-DK.json"
+            ]
+        },
+        "5": {
+            "elementComponents": [
+                "CC-PVTZ-DK.json",
+                "AUG-CC-PVTZ-DK.json"
+            ]
+        },
+        "6": {
+            "elementComponents": [
+                "CC-PVTZ-DK.json",
+                "AUG-CC-PVTZ-DK.json"
+            ]
+        },
+        "7": {
+            "elementComponents": [
+                "CC-PVTZ-DK.json",
+                "AUG-CC-PVTZ-DK.json"
+            ]
+        },
+        "8": {
+            "elementComponents": [
+                "CC-PVTZ-DK.json",
+                "AUG-CC-PVTZ-DK.json"
+            ]
+        },
+        "9": {
+            "elementComponents": [
+                "CC-PVTZ-DK.json",
+                "AUG-CC-PVTZ-DK.json"
+            ]
+        },
+        "10": {
+            "elementComponents": [
+                "CC-PVTZ-DK.json",
+                "AUG-CC-PVTZ-DK.json"
+            ]
+        },
+        "11": {
+            "elementComponents": [
+                "CC-PVTZ-DK.json",
+                "AUG-CC-PVTZ-DK.json"
+            ]
+        },
+        "12": {
+            "elementComponents": [
+                "CC-PVTZ-DK.json",
+                "AUG-CC-PVTZ-DK.json"
+            ]
+        },
+        "13": {
+            "elementComponents": [
+                "CC-PVTZ-DK.json",
+                "AUG-CC-PVTZ-DK.json"
+            ]
+        },
+        "14": {
+            "elementComponents": [
+                "CC-PVTZ-DK.json",
+                "AUG-CC-PVTZ-DK.json"
+            ]
+        },
+        "15": {
+            "elementComponents": [
+                "CC-PVTZ-DK.json",
+                "AUG-CC-PVTZ-DK.json"
+            ]
+        },
+        "16": {
+            "elementComponents": [
+                "CC-PVTZ-DK.json",
+                "AUG-CC-PVTZ-DK.json"
+            ]
+        },
+        "17": {
+            "elementComponents": [
+                "CC-PVTZ-DK.json",
+                "AUG-CC-PVTZ-DK.json"
+            ]
+        },
+        "18": {
+            "elementComponents": [
+                "CC-PVTZ-DK.json",
+                "AUG-CC-PVTZ-DK.json"
+            ]
+        },
+        "21": {
+            "elementComponents": [
+                "CC-PVTZ-DK.json",
+                "AUG-CC-PVTZ-DK.json"
+            ]
+        },
+        "22": {
+            "elementComponents": [
+                "CC-PVTZ-DK.json",
+                "AUG-CC-PVTZ-DK.json"
+            ]
+        },
+        "23": {
+            "elementComponents": [
+                "CC-PVTZ-DK.json",
+                "AUG-CC-PVTZ-DK.json"
+            ]
+        },
+        "24": {
+            "elementComponents": [
+                "CC-PVTZ-DK.json",
+                "AUG-CC-PVTZ-DK.json"
+            ]
+        },
+        "25": {
+            "elementComponents": [
+                "CC-PVTZ-DK.json",
+                "AUG-CC-PVTZ-DK.json"
+            ]
+        },
+        "26": {
+            "elementComponents": [
+                "CC-PVTZ-DK.json",
+                "AUG-CC-PVTZ-DK.json"
+            ]
+        },
+        "27": {
+            "elementComponents": [
+                "CC-PVTZ-DK.json",
+                "AUG-CC-PVTZ-DK.json"
+            ]
+        },
+        "28": {
+            "elementComponents": [
+                "CC-PVTZ-DK.json",
+                "AUG-CC-PVTZ-DK.json"
+            ]
+        },
+        "29": {
+            "elementComponents": [
+                "CC-PVTZ-DK.json",
+                "AUG-CC-PVTZ-DK.json"
+            ]
+        },
+        "30": {
+            "elementComponents": [
+                "CC-PVTZ-DK.json",
+                "AUG-CC-PVTZ-DK.json"
+            ]
+        },
+        "31": {
+            "elementComponents": [
+                "CC-PVTZ-DK.json",
+                "AUG-CC-PVTZ-DK.json"
+            ]
+        },
+        "32": {
+            "elementComponents": [
+                "CC-PVTZ-DK.json",
+                "AUG-CC-PVTZ-DK.json"
+            ]
+        },
+        "33": {
+            "elementComponents": [
+                "CC-PVTZ-DK.json",
+                "AUG-CC-PVTZ-DK.json"
+            ]
+        },
+        "34": {
+            "elementComponents": [
+                "CC-PVTZ-DK.json",
+                "AUG-CC-PVTZ-DK.json"
+            ]
+        },
+        "35": {
+            "elementComponents": [
+                "CC-PVTZ-DK.json",
+                "AUG-CC-PVTZ-DK.json"
+            ]
+        },
+        "36": {
+            "elementComponents": [
+                "CC-PVTZ-DK.json",
+                "AUG-CC-PVTZ-DK.json"
+            ]
+        },
+        "39": {
+            "elementComponents": [
+                "CC-PVTZ-DK.json",
+                "AUG-CC-PVTZ-DK.json"
+            ]
+        },
+        "40": {
+            "elementComponents": [
+                "CC-PVTZ-DK.json",
+                "AUG-CC-PVTZ-DK.json"
+            ]
+        },
+        "41": {
+            "elementComponents": [
+                "CC-PVTZ-DK.json",
+                "AUG-CC-PVTZ-DK.json"
+            ]
+        },
+        "42": {
+            "elementComponents": [
+                "CC-PVTZ-DK.json",
+                "AUG-CC-PVTZ-DK.json"
+            ]
+        },
+        "43": {
+            "elementComponents": [
+                "CC-PVTZ-DK.json",
+                "AUG-CC-PVTZ-DK.json"
+            ]
+        },
+        "44": {
+            "elementComponents": [
+                "CC-PVTZ-DK.json",
+                "AUG-CC-PVTZ-DK.json"
+            ]
+        },
+        "45": {
+            "elementComponents": [
+                "CC-PVTZ-DK.json",
+                "AUG-CC-PVTZ-DK.json"
+            ]
+        },
+        "46": {
+            "elementComponents": [
+                "CC-PVTZ-DK.json",
+                "AUG-CC-PVTZ-DK.json"
+            ]
+        }
+    }
+}

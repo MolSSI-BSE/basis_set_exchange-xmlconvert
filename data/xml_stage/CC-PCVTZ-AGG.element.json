@@ -1,0 +1,109 @@
+{
+    "molssi_bse_magic": 1,
+    "basisSetName": "cc-pCVTZ",
+    "basisSetDescription": "TZ2P    Triple Zeta + Polarization + Tight Core",
+    "basisSetElements": {
+        "3": {
+            "elementComponents": [
+                "CC-PVTZ.json",
+                "CC-PCVTZ.json"
+            ]
+        },
+        "4": {
+            "elementComponents": [
+                "CC-PVTZ.json",
+                "CC-PCVTZ.json"
+            ]
+        },
+        "5": {
+            "elementComponents": [
+                "CC-PVTZ.json",
+                "CC-PCVTZ.json"
+            ]
+        },
+        "6": {
+            "elementComponents": [
+                "CC-PVTZ.json",
+                "CC-PCVTZ.json"
+            ]
+        },
+        "7": {
+            "elementComponents": [
+                "CC-PVTZ.json",
+                "CC-PCVTZ.json"
+            ]
+        },
+        "8": {
+            "elementComponents": [
+                "CC-PVTZ.json",
+                "CC-PCVTZ.json"
+            ]
+        },
+        "9": {
+            "elementComponents": [
+                "CC-PVTZ.json",
+                "CC-PCVTZ.json"
+            ]
+        },
+        "10": {
+            "elementComponents": [
+                "CC-PVTZ.json",
+                "CC-PCVTZ.json"
+            ]
+        },
+        "11": {
+            "elementComponents": [
+                "CC-PVTZ.json",
+                "CC-PCVTZ.json"
+            ]
+        },
+        "12": {
+            "elementComponents": [
+                "CC-PVTZ.json",
+                "CC-PCVTZ.json"
+            ]
+        },
+        "13": {
+            "elementComponents": [
+                "CC-PVTZ.json",
+                "CC-PCVTZ.json"
+            ]
+        },
+        "14": {
+            "elementComponents": [
+                "CC-PVTZ.json",
+                "CC-PCVTZ.json"
+            ]
+        },
+        "15": {
+            "elementComponents": [
+                "CC-PVTZ.json",
+                "CC-PCVTZ.json"
+            ]
+        },
+        "16": {
+            "elementComponents": [
+                "CC-PVTZ.json",
+                "CC-PCVTZ.json"
+            ]
+        },
+        "17": {
+            "elementComponents": [
+                "CC-PVTZ.json",
+                "CC-PCVTZ.json"
+            ]
+        },
+        "18": {
+            "elementComponents": [
+                "CC-PVTZ.json",
+                "CC-PCVTZ.json"
+            ]
+        },
+        "20": {
+            "elementComponents": [
+                "CC-PVTZ.json",
+                "CC-PCVTZ.json"
+            ]
+        }
+    }
+}

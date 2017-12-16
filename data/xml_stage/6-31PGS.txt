@@ -1,6 +1,7 @@
 FROM DESCRIPTION:
 ----------------
-
+ FROM REFERENCE:
+----------------
 Elements                             References
 --------                             ----------
 H He Li Be B C N O F Ne Na Mg Al Si P S Cl Ar K Ca:  .
@@ -54,27 +55,4 @@ H   2-S    -0.498233       -0.498233
 C   3-P   -37.755631      -37.756669
 Ne  1-S  -128.642365     -128.644705
 Note: This basis set uses 6-component d functions.
-
-
-
-FROM REFERENCE:
-----------------
-
-H: P.C. Hariharan and J.A. Pople, Theoret. Chimica Acta 28, 213 (1973).
-Li - F: M.M. Francl, W.J. Petro, W.J. Hehre, J.S.
-        Binkley, M.S. Gordon, D.J. DeFrees and J.A.
-        Pople, J. Chem. Phys. 77, 3654 (1982)
-Na - Ar: M.M. Francl, W.J. Petro, W.J. Hehre, J.S.
-         Binkley, M.S. Gordon, D.J. DeFrees and J.A.
-         Pople, J. Chem. Phys. 77, 3654 (1982)
-
-H: T. Clark, J. Chandrasekhar, G.W. Spitznagel and P. von R. Schleyer, J. Comp. Chem. 4, 294 (1983).
-Li - Ne: T. Clark, J. Chandrasekhar, G.W. Spitznagel and P. von R. Schleyer, J. Comp. Chem. 4, 294 (1983).
-Na - Ar: R. Krishnam, J.S. Binkley, R. Seeger, J.A. Pople,
-         J. Chem. Phys. 72, 650 (1980).
-
-H: T. Clark, J. Chandrasekhar, G.W. Spitznagel and P. von R. Schleyer, J. Comp. Chem. 4, 294 (1983).
-Li - Ne: T. Clark, J. Chandrasekhar, G.W. Spitznagel and P. von R. Schleyer, J. Comp. Chem. 4, 294 (1983).
-Na - Ar: R. Krishnam, J.S. Binkley, R. Seeger, J.A. Pople,
-         J. Chem. Phys. 72, 650 (1980).
 

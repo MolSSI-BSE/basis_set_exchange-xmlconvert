@@ -1,0 +1,67 @@
+{
+    "molssi_bse_magic": 1,
+    "basisSetName": "Dunning-Hay Double Rydberg",
+    "basisSetDescription": "2R      Double Rydberg Functions",
+    "basisSetElements": {
+        "5": {
+            "elementComponents": [
+                "RYD2-DUNNING.json"
+            ]
+        },
+        "6": {
+            "elementComponents": [
+                "RYD2-DUNNING.json"
+            ]
+        },
+        "7": {
+            "elementComponents": [
+                "RYD2-DUNNING.json"
+            ]
+        },
+        "8": {
+            "elementComponents": [
+                "RYD2-DUNNING.json"
+            ]
+        },
+        "9": {
+            "elementComponents": [
+                "RYD2-DUNNING.json"
+            ]
+        },
+        "10": {
+            "elementComponents": [
+                "RYD2-DUNNING.json"
+            ]
+        },
+        "13": {
+            "elementComponents": [
+                "RYD2-DUNNING.json"
+            ]
+        },
+        "14": {
+            "elementComponents": [
+                "RYD2-DUNNING.json"
+            ]
+        },
+        "15": {
+            "elementComponents": [
+                "RYD2-DUNNING.json"
+            ]
+        },
+        "16": {
+            "elementComponents": [
+                "RYD2-DUNNING.json"
+            ]
+        },
+        "17": {
+            "elementComponents": [
+                "RYD2-DUNNING.json"
+            ]
+        },
+        "18": {
+            "elementComponents": [
+                "RYD2-DUNNING.json"
+            ]
+        }
+    }
+}

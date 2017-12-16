@@ -1,0 +1,262 @@
+{
+    "molssi_bse_magic": 1,
+    "basisSetName": "ATZP",
+    "basisSetDescription": "ATZP",
+    "basisSetElements": {
+        "1": {
+            "elementComponents": [
+                "ATZP.json"
+            ]
+        },
+        "3": {
+            "elementComponents": [
+                "ATZP.json"
+            ]
+        },
+        "4": {
+            "elementComponents": [
+                "ATZP.json"
+            ]
+        },
+        "5": {
+            "elementComponents": [
+                "ATZP.json"
+            ]
+        },
+        "6": {
+            "elementComponents": [
+                "ATZP.json"
+            ]
+        },
+        "7": {
+            "elementComponents": [
+                "ATZP.json"
+            ]
+        },
+        "8": {
+            "elementComponents": [
+                "ATZP.json"
+            ]
+        },
+        "9": {
+            "elementComponents": [
+                "ATZP.json"
+            ]
+        },
+        "10": {
+            "elementComponents": [
+                "ATZP.json"
+            ]
+        },
+        "11": {
+            "elementComponents": [
+                "ATZP.json"
+            ]
+        },
+        "12": {
+            "elementComponents": [
+                "ATZP.json"
+            ]
+        },
+        "13": {
+            "elementComponents": [
+                "ATZP.json"
+            ]
+        },
+        "14": {
+            "elementComponents": [
+                "ATZP.json"
+            ]
+        },
+        "15": {
+            "elementComponents": [
+                "ATZP.json"
+            ]
+        },
+        "16": {
+            "elementComponents": [
+                "ATZP.json"
+            ]
+        },
+        "17": {
+            "elementComponents": [
+                "ATZP.json"
+            ]
+        },
+        "18": {
+            "elementComponents": [
+                "ATZP.json"
+            ]
+        },
+        "19": {
+            "elementComponents": [
+                "ATZP.json"
+            ]
+        },
+        "21": {
+            "elementComponents": [
+                "ATZP.json"
+            ]
+        },
+        "22": {
+            "elementComponents": [
+                "ATZP.json"
+            ]
+        },
+        "23": {
+            "elementComponents": [
+                "ATZP.json"
+            ]
+        },
+        "24": {
+            "elementComponents": [
+                "ATZP.json"
+            ]
+        },
+        "25": {
+            "elementComponents": [
+                "ATZP.json"
+            ]
+        },
+        "26": {
+            "elementComponents": [
+                "ATZP.json"
+            ]
+        },
+        "27": {
+            "elementComponents": [
+                "ATZP.json"
+            ]
+        },
+        "28": {
+            "elementComponents": [
+                "ATZP.json"
+            ]
+        },
+        "29": {
+            "elementComponents": [
+                "ATZP.json"
+            ]
+        },
+        "30": {
+            "elementComponents": [
+                "ATZP.json"
+            ]
+        },
+        "31": {
+            "elementComponents": [
+                "ATZP.json"
+            ]
+        },
+        "32": {
+            "elementComponents": [
+                "ATZP.json"
+            ]
+        },
+        "33": {
+            "elementComponents": [
+                "ATZP.json"
+            ]
+        },
+        "34": {
+            "elementComponents": [
+                "ATZP.json"
+            ]
+        },
+        "35": {
+            "elementComponents": [
+                "ATZP.json"
+            ]
+        },
+        "36": {
+            "elementComponents": [
+                "ATZP.json"
+            ]
+        },
+        "37": {
+            "elementComponents": [
+                "ATZP.json"
+            ]
+        },
+        "39": {
+            "elementComponents": [
+                "ATZP.json"
+            ]
+        },
+        "40": {
+            "elementComponents": [
+                "ATZP.json"
+            ]
+        },
+        "41": {
+            "elementComponents": [
+                "ATZP.json"
+            ]
+        },
+        "42": {
+            "elementComponents": [
+                "ATZP.json"
+            ]
+        },
+        "43": {
+            "elementComponents": [
+                "ATZP.json"
+            ]
+        },
+        "44": {
+            "elementComponents": [
+                "ATZP.json"
+            ]
+        },
+        "45": {
+            "elementComponents": [
+                "ATZP.json"
+            ]
+        },
+        "46": {
+            "elementComponents": [
+                "ATZP.json"
+            ]
+        },
+        "47": {
+            "elementComponents": [
+                "ATZP.json"
+            ]
+        },
+        "48": {
+            "elementComponents": [
+                "ATZP.json"
+            ]
+        },
+        "49": {
+            "elementComponents": [
+                "ATZP.json"
+            ]
+        },
+        "50": {
+            "elementComponents": [
+                "ATZP.json"
+            ]
+        },
+        "51": {
+            "elementComponents": [
+                "ATZP.json"
+            ]
+        },
+        "52": {
+            "elementComponents": [
+                "ATZP.json"
+            ]
+        },
+        "53": {
+            "elementComponents": [
+                "ATZP.json"
+            ]
+        },
+        "54": {
+            "elementComponents": [
+                "ATZP.json"
+            ]
+        }
+    }
+}

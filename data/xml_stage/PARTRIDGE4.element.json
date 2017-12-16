@@ -1,0 +1,57 @@
+{
+    "molssi_bse_magic": 1,
+    "basisSetName": "Partridge Uncontracted 4",
+    "basisSetDescription": "Partridge Uncontracted 4",
+    "basisSetElements": {
+        "21": {
+            "elementComponents": [
+                "PARTRIDGE4.json"
+            ]
+        },
+        "22": {
+            "elementComponents": [
+                "PARTRIDGE4.json"
+            ]
+        },
+        "23": {
+            "elementComponents": [
+                "PARTRIDGE4.json"
+            ]
+        },
+        "24": {
+            "elementComponents": [
+                "PARTRIDGE4.json"
+            ]
+        },
+        "25": {
+            "elementComponents": [
+                "PARTRIDGE4.json"
+            ]
+        },
+        "26": {
+            "elementComponents": [
+                "PARTRIDGE4.json"
+            ]
+        },
+        "27": {
+            "elementComponents": [
+                "PARTRIDGE4.json"
+            ]
+        },
+        "28": {
+            "elementComponents": [
+                "PARTRIDGE4.json"
+            ]
+        },
+        "29": {
+            "elementComponents": [
+                "PARTRIDGE4.json"
+            ]
+        },
+        "30": {
+            "elementComponents": [
+                "PARTRIDGE4.json"
+            ]
+        }
+    }
+}

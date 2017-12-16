@@ -1,0 +1,437 @@
+{
+    "molssi_bse_magic": 1,
+    "basisSetName": "x2c-SV(P)all-2c",
+    "basisSetDescription": "x2c-SV(P)all-2c",
+    "basisSetElements": {
+        "1": {
+            "elementComponents": [
+                "25_X2C-SVPALL-2C.json"
+            ]
+        },
+        "2": {
+            "elementComponents": [
+                "25_X2C-SVPALL-2C.json"
+            ]
+        },
+        "3": {
+            "elementComponents": [
+                "25_X2C-SVPALL-2C.json"
+            ]
+        },
+        "4": {
+            "elementComponents": [
+                "25_X2C-SVPALL-2C.json"
+            ]
+        },
+        "5": {
+            "elementComponents": [
+                "25_X2C-SVPALL-2C.json"
+            ]
+        },
+        "6": {
+            "elementComponents": [
+                "25_X2C-SVPALL-2C.json"
+            ]
+        },
+        "7": {
+            "elementComponents": [
+                "25_X2C-SVPALL-2C.json"
+            ]
+        },
+        "8": {
+            "elementComponents": [
+                "25_X2C-SVPALL-2C.json"
+            ]
+        },
+        "9": {
+            "elementComponents": [
+                "25_X2C-SVPALL-2C.json"
+            ]
+        },
+        "10": {
+            "elementComponents": [
+                "25_X2C-SVPALL-2C.json"
+            ]
+        },
+        "11": {
+            "elementComponents": [
+                "25_X2C-SVPALL-2C.json"
+            ]
+        },
+        "12": {
+            "elementComponents": [
+                "25_X2C-SVPALL-2C.json"
+            ]
+        },
+        "13": {
+            "elementComponents": [
+                "25_X2C-SVPALL-2C.json"
+            ]
+        },
+        "14": {
+            "elementComponents": [
+                "25_X2C-SVPALL-2C.json"
+            ]
+        },
+        "15": {
+            "elementComponents": [
+                "25_X2C-SVPALL-2C.json"
+            ]
+        },
+        "16": {
+            "elementComponents": [
+                "25_X2C-SVPALL-2C.json"
+            ]
+        },
+        "17": {
+            "elementComponents": [
+                "25_X2C-SVPALL-2C.json"
+            ]
+        },
+        "18": {
+            "elementComponents": [
+                "25_X2C-SVPALL-2C.json"
+            ]
+        },
+        "19": {
+            "elementComponents": [
+                "25_X2C-SVPALL-2C.json"
+            ]
+        },
+        "20": {
+            "elementComponents": [
+                "25_X2C-SVPALL-2C.json"
+            ]
+        },
+        "21": {
+            "elementComponents": [
+                "25_X2C-SVPALL-2C.json"
+            ]
+        },
+        "22": {
+            "elementComponents": [
+                "25_X2C-SVPALL-2C.json"
+            ]
+        },
+        "23": {
+            "elementComponents": [
+                "25_X2C-SVPALL-2C.json"
+            ]
+        },
+        "24": {
+            "elementComponents": [
+                "25_X2C-SVPALL-2C.json"
+            ]
+        },
+        "25": {
+            "elementComponents": [
+                "25_X2C-SVPALL-2C.json"
+            ]
+        },
+        "26": {
+            "elementComponents": [
+                "25_X2C-SVPALL-2C.json"
+            ]
+        },
+        "27": {
+            "elementComponents": [
+                "25_X2C-SVPALL-2C.json"
+            ]
+        },
+        "28": {
+            "elementComponents": [
+                "25_X2C-SVPALL-2C.json"
+            ]
+        },
+        "29": {
+            "elementComponents": [
+                "25_X2C-SVPALL-2C.json"
+            ]
+        },
+        "30": {
+            "elementComponents": [
+                "25_X2C-SVPALL-2C.json"
+            ]
+        },
+        "31": {
+            "elementComponents": [
+                "25_X2C-SVPALL-2C.json"
+            ]
+        },
+        "32": {
+            "elementComponents": [
+                "25_X2C-SVPALL-2C.json"
+            ]
+        },
+        "33": {
+            "elementComponents": [
+                "25_X2C-SVPALL-2C.json"
+            ]
+        },
+        "34": {
+            "elementComponents": [
+                "25_X2C-SVPALL-2C.json"
+            ]
+        },
+        "35": {
+            "elementComponents": [
+                "25_X2C-SVPALL-2C.json"
+            ]
+        },
+        "36": {
+            "elementComponents": [
+                "25_X2C-SVPALL-2C.json"
+            ]
+        },
+        "37": {
+            "elementComponents": [
+                "25_X2C-SVPALL-2C.json"
+            ]
+        },
+        "38": {
+            "elementComponents": [
+                "25_X2C-SVPALL-2C.json"
+            ]
+        },
+        "39": {
+            "elementComponents": [
+                "25_X2C-SVPALL-2C.json"
+            ]
+        },
+        "40": {
+            "elementComponents": [
+                "25_X2C-SVPALL-2C.json"
+            ]
+        },
+        "41": {
+            "elementComponents": [
+                "25_X2C-SVPALL-2C.json"
+            ]
+        },
+        "42": {
+            "elementComponents": [
+                "25_X2C-SVPALL-2C.json"
+            ]
+        },
+        "43": {
+            "elementComponents": [
+                "25_X2C-SVPALL-2C.json"
+            ]
+        },
+        "44": {
+            "elementComponents": [
+                "25_X2C-SVPALL-2C.json"
+            ]
+        },
+        "45": {
+            "elementComponents": [
+                "25_X2C-SVPALL-2C.json"
+            ]
+        },
+        "46": {
+            "elementComponents": [
+                "25_X2C-SVPALL-2C.json"
+            ]
+        },
+        "47": {
+            "elementComponents": [
+                "25_X2C-SVPALL-2C.json"
+            ]
+        },
+        "48": {
+            "elementComponents": [
+                "25_X2C-SVPALL-2C.json"
+            ]
+        },
+        "49": {
+            "elementComponents": [
+                "25_X2C-SVPALL-2C.json"
+            ]
+        },
+        "50": {
+            "elementComponents": [
+                "25_X2C-SVPALL-2C.json"
+            ]
+        },
+        "51": {
+            "elementComponents": [
+                "25_X2C-SVPALL-2C.json"
+            ]
+        },
+        "52": {
+            "elementComponents": [
+                "25_X2C-SVPALL-2C.json"
+            ]
+        },
+        "53": {
+            "elementComponents": [
+                "25_X2C-SVPALL-2C.json"
+            ]
+        },
+        "54": {
+            "elementComponents": [
+                "25_X2C-SVPALL-2C.json"
+            ]
+        },
+        "55": {
+            "elementComponents": [
+                "25_X2C-SVPALL-2C.json"
+            ]
+        },
+        "56": {
+            "elementComponents": [
+                "25_X2C-SVPALL-2C.json"
+            ]
+        },
+        "57": {
+            "elementComponents": [
+                "25_X2C-SVPALL-2C.json"
+            ]
+        },
+        "58": {
+            "elementComponents": [
+                "25_X2C-SVPALL-2C.json"
+            ]
+        },
+        "59": {
+            "elementComponents": [
+                "25_X2C-SVPALL-2C.json"
+            ]
+        },
+        "60": {
+            "elementComponents": [
+                "25_X2C-SVPALL-2C.json"
+            ]
+        },
+        "61": {
+            "elementComponents": [
+                "25_X2C-SVPALL-2C.json"
+            ]
+        },
+        "62": {
+            "elementComponents": [
+                "25_X2C-SVPALL-2C.json"
+            ]
+        },
+        "63": {
+            "elementComponents": [
+                "25_X2C-SVPALL-2C.json"
+            ]
+        },
+        "64": {
+            "elementComponents": [
+                "25_X2C-SVPALL-2C.json"
+            ]
+        },
+        "65": {
+            "elementComponents": [
+                "25_X2C-SVPALL-2C.json"
+            ]
+        },
+        "66": {
+            "elementComponents": [
+                "25_X2C-SVPALL-2C.json"
+            ]
+        },
+        "67": {
+            "elementComponents": [
+                "25_X2C-SVPALL-2C.json"
+            ]
+        },
+        "68": {
+            "elementComponents": [
+                "25_X2C-SVPALL-2C.json"
+            ]
+        },
+        "69": {
+            "elementComponents": [
+                "25_X2C-SVPALL-2C.json"
+            ]
+        },
+        "70": {
+            "elementComponents": [
+                "25_X2C-SVPALL-2C.json"
+            ]
+        },
+        "71": {
+            "elementComponents": [
+                "25_X2C-SVPALL-2C.json"
+            ]
+        },
+        "72": {
+            "elementComponents": [
+                "25_X2C-SVPALL-2C.json"
+            ]
+        },
+        "73": {
+            "elementComponents": [
+                "25_X2C-SVPALL-2C.json"
+            ]
+        },
+        "74": {
+            "elementComponents": [
+                "25_X2C-SVPALL-2C.json"
+            ]
+        },
+        "75": {
+            "elementComponents": [
+                "25_X2C-SVPALL-2C.json"
+            ]
+        },
+        "76": {
+            "elementComponents": [
+                "25_X2C-SVPALL-2C.json"
+            ]
+        },
+        "77": {
+            "elementComponents": [
+                "25_X2C-SVPALL-2C.json"
+            ]
+        },
+        "78": {
+            "elementComponents": [
+                "25_X2C-SVPALL-2C.json"
+            ]
+        },
+        "79": {
+            "elementComponents": [
+                "25_X2C-SVPALL-2C.json"
+            ]
+        },
+        "80": {
+            "elementComponents": [
+                "25_X2C-SVPALL-2C.json"
+            ]
+        },
+        "81": {
+            "elementComponents": [
+                "25_X2C-SVPALL-2C.json"
+            ]
+        },
+        "82": {
+            "elementComponents": [
+                "25_X2C-SVPALL-2C.json"
+            ]
+        },
+        "83": {
+            "elementComponents": [
+                "25_X2C-SVPALL-2C.json"
+            ]
+        },
+        "84": {
+            "elementComponents": [
+                "25_X2C-SVPALL-2C.json"
+            ]
+        },
+        "85": {
+            "elementComponents": [
+                "25_X2C-SVPALL-2C.json"
+            ]
+        },
+        "86": {
+            "elementComponents": [
+                "25_X2C-SVPALL-2C.json"
+            ]
+        }
+    }
+}

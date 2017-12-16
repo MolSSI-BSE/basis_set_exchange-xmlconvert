@@ -1,0 +1,177 @@
+{
+    "molssi_bse_magic": 1,
+    "basisSetName": "Ahlrichs TZV",
+    "basisSetDescription": "VTZ     Valence Triple Zeta: 3 Funct.'s/Valence AO",
+    "basisSetElements": {
+        "3": {
+            "elementComponents": [
+                "AHLRICHS_TZV.json"
+            ]
+        },
+        "4": {
+            "elementComponents": [
+                "AHLRICHS_TZV.json"
+            ]
+        },
+        "5": {
+            "elementComponents": [
+                "AHLRICHS_TZV.json"
+            ]
+        },
+        "6": {
+            "elementComponents": [
+                "AHLRICHS_TZV.json"
+            ]
+        },
+        "7": {
+            "elementComponents": [
+                "AHLRICHS_TZV.json"
+            ]
+        },
+        "8": {
+            "elementComponents": [
+                "AHLRICHS_TZV.json"
+            ]
+        },
+        "9": {
+            "elementComponents": [
+                "AHLRICHS_TZV.json"
+            ]
+        },
+        "10": {
+            "elementComponents": [
+                "AHLRICHS_TZV.json"
+            ]
+        },
+        "11": {
+            "elementComponents": [
+                "AHLRICHS_TZV.json"
+            ]
+        },
+        "12": {
+            "elementComponents": [
+                "AHLRICHS_TZV.json"
+            ]
+        },
+        "13": {
+            "elementComponents": [
+                "AHLRICHS_TZV.json"
+            ]
+        },
+        "14": {
+            "elementComponents": [
+                "AHLRICHS_TZV.json"
+            ]
+        },
+        "15": {
+            "elementComponents": [
+                "AHLRICHS_TZV.json"
+            ]
+        },
+        "16": {
+            "elementComponents": [
+                "AHLRICHS_TZV.json"
+            ]
+        },
+        "17": {
+            "elementComponents": [
+                "AHLRICHS_TZV.json"
+            ]
+        },
+        "18": {
+            "elementComponents": [
+                "AHLRICHS_TZV.json"
+            ]
+        },
+        "19": {
+            "elementComponents": [
+                "AHLRICHS_TZV.json"
+            ]
+        },
+        "20": {
+            "elementComponents": [
+                "AHLRICHS_TZV.json"
+            ]
+        },
+        "21": {
+            "elementComponents": [
+                "AHLRICHS_TZV.json"
+            ]
+        },
+        "22": {
+            "elementComponents": [
+                "AHLRICHS_TZV.json"
+            ]
+        },
+        "23": {
+            "elementComponents": [
+                "AHLRICHS_TZV.json"
+            ]
+        },
+        "24": {
+            "elementComponents": [
+                "AHLRICHS_TZV.json"
+            ]
+        },
+        "25": {
+            "elementComponents": [
+                "AHLRICHS_TZV.json"
+            ]
+        },
+        "26": {
+            "elementComponents": [
+                "AHLRICHS_TZV.json"
+            ]
+        },
+        "27": {
+            "elementComponents": [
+                "AHLRICHS_TZV.json"
+            ]
+        },
+        "28": {
+            "elementComponents": [
+                "AHLRICHS_TZV.json"
+            ]
+        },
+        "29": {
+            "elementComponents": [
+                "AHLRICHS_TZV.json"
+            ]
+        },
+        "30": {
+            "elementComponents": [
+                "AHLRICHS_TZV.json"
+            ]
+        },
+        "31": {
+            "elementComponents": [
+                "AHLRICHS_TZV.json"
+            ]
+        },
+        "32": {
+            "elementComponents": [
+                "AHLRICHS_TZV.json"
+            ]
+        },
+        "33": {
+            "elementComponents": [
+                "AHLRICHS_TZV.json"
+            ]
+        },
+        "34": {
+            "elementComponents": [
+                "AHLRICHS_TZV.json"
+            ]
+        },
+        "35": {
+            "elementComponents": [
+                "AHLRICHS_TZV.json"
+            ]
+        },
+        "36": {
+            "elementComponents": [
+                "AHLRICHS_TZV.json"
+            ]
+        }
+    }
+}

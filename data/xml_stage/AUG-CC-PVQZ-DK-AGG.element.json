@@ -1,0 +1,211 @@
+{
+    "molssi_bse_magic": 1,
+    "basisSetName": "aug-cc-pVQZ-DK",
+    "basisSetDescription": "VQZPD   All-electron Douglas-Kroll Valence Quadruple Zeta + Polarization",
+    "basisSetElements": {
+        "1": {
+            "elementComponents": [
+                "CC-PVQZ-DK.json",
+                "AUG-CC-PVQZ-DK.json"
+            ]
+        },
+        "2": {
+            "elementComponents": [
+                "CC-PVQZ-DK.json",
+                "AUG-CC-PVQZ-DK.json"
+            ]
+        },
+        "3": {
+            "elementComponents": [
+                "CC-PVQZ-DK.json",
+                "AUG-CC-PVQZ-DK.json"
+            ]
+        },
+        "4": {
+            "elementComponents": [
+                "CC-PVQZ-DK.json",
+                "AUG-CC-PVQZ-DK.json"
+            ]
+        },
+        "5": {
+            "elementComponents": [
+                "CC-PVQZ-DK.json",
+                "AUG-CC-PVQZ-DK.json"
+            ]
+        },
+        "6": {
+            "elementComponents": [
+                "CC-PVQZ-DK.json",
+                "AUG-CC-PVQZ-DK.json"
+            ]
+        },
+        "7": {
+            "elementComponents": [
+                "CC-PVQZ-DK.json",
+                "AUG-CC-PVQZ-DK.json"
+            ]
+        },
+        "8": {
+            "elementComponents": [
+                "CC-PVQZ-DK.json",
+                "AUG-CC-PVQZ-DK.json"
+            ]
+        },
+        "9": {
+            "elementComponents": [
+                "CC-PVQZ-DK.json",
+                "AUG-CC-PVQZ-DK.json"
+            ]
+        },
+        "10": {
+            "elementComponents": [
+                "CC-PVQZ-DK.json",
+                "AUG-CC-PVQZ-DK.json"
+            ]
+        },
+        "11": {
+            "elementComponents": [
+                "CC-PVQZ-DK.json",
+                "AUG-CC-PVQZ-DK.json"
+            ]
+        },
+        "12": {
+            "elementComponents": [
+                "CC-PVQZ-DK.json",
+                "AUG-CC-PVQZ-DK.json"
+            ]
+        },
+        "13": {
+            "elementComponents": [
+                "CC-PVQZ-DK.json",
+                "AUG-CC-PVQZ-DK.json"
+            ]
+        },
+        "14": {
+            "elementComponents": [
+                "CC-PVQZ-DK.json",
+                "AUG-CC-PVQZ-DK.json"
+            ]
+        },
+        "15": {
+            "elementComponents": [
+                "CC-PVQZ-DK.json",
+                "AUG-CC-PVQZ-DK.json"
+            ]
+        },
+        "16": {
+            "elementComponents": [
+                "CC-PVQZ-DK.json",
+                "AUG-CC-PVQZ-DK.json"
+            ]
+        },
+        "17": {
+            "elementComponents": [
+                "CC-PVQZ-DK.json",
+                "AUG-CC-PVQZ-DK.json"
+            ]
+        },
+        "18": {
+            "elementComponents": [
+                "CC-PVQZ-DK.json",
+                "AUG-CC-PVQZ-DK.json"
+            ]
+        },
+        "21": {
+            "elementComponents": [
+                "CC-PVQZ-DK.json",
+                "AUG-CC-PVQZ-DK.json"
+            ]
+        },
+        "22": {
+            "elementComponents": [
+                "CC-PVQZ-DK.json",
+                "AUG-CC-PVQZ-DK.json"
+            ]
+        },
+        "23": {
+            "elementComponents": [
+                "CC-PVQZ-DK.json",
+                "AUG-CC-PVQZ-DK.json"
+            ]
+        },
+        "24": {
+            "elementComponents": [
+                "CC-PVQZ-DK.json",
+                "AUG-CC-PVQZ-DK.json"
+            ]
+        },
+        "25": {
+            "elementComponents": [
+                "CC-PVQZ-DK.json",
+                "AUG-CC-PVQZ-DK.json"
+            ]
+        },
+        "26": {
+            "elementComponents": [
+                "CC-PVQZ-DK.json",
+                "AUG-CC-PVQZ-DK.json"
+            ]
+        },
+        "27": {
+            "elementComponents": [
+                "CC-PVQZ-DK.json",
+                "AUG-CC-PVQZ-DK.json"
+            ]
+        },
+        "28": {
+            "elementComponents": [
+                "CC-PVQZ-DK.json",
+                "AUG-CC-PVQZ-DK.json"
+            ]
+        },
+        "29": {
+            "elementComponents": [
+                "CC-PVQZ-DK.json",
+                "AUG-CC-PVQZ-DK.json"
+            ]
+        },
+        "30": {
+            "elementComponents": [
+                "CC-PVQZ-DK.json",
+                "AUG-CC-PVQZ-DK.json"
+            ]
+        },
+        "31": {
+            "elementComponents": [
+                "CC-PVQZ-DK.json",
+                "AUG-CC-PVQZ-DK.json"
+            ]
+        },
+        "32": {
+            "elementComponents": [
+                "CC-PVQZ-DK.json",
+                "AUG-CC-PVQZ-DK.json"
+            ]
+        },
+        "33": {
+            "elementComponents": [
+                "CC-PVQZ-DK.json",
+                "AUG-CC-PVQZ-DK.json"
+            ]
+        },
+        "34": {
+            "elementComponents": [
+                "CC-PVQZ-DK.json",
+                "AUG-CC-PVQZ-DK.json"
+            ]
+        },
+        "35": {
+            "elementComponents": [
+                "CC-PVQZ-DK.json",
+                "AUG-CC-PVQZ-DK.json"
+            ]
+        },
+        "36": {
+            "elementComponents": [
+                "CC-PVQZ-DK.json",
+                "AUG-CC-PVQZ-DK.json"
+            ]
+        }
+    }
+}

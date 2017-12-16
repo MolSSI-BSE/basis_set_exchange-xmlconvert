@@ -1,0 +1,43 @@
+{
+    "molssi_bse_magic": 1,
+    "basisSetName": "SV + Rydberg (Dunning-Hay)",
+    "basisSetDescription": "VDZ1R   Valence Double Zeta + Diffuse Rydberg Functions",
+    "basisSetElements": {
+        "5": {
+            "elementComponents": [
+                "DUNHAYSV.json",
+                "RYD-DUNNING.json"
+            ]
+        },
+        "6": {
+            "elementComponents": [
+                "DUNHAYSV.json",
+                "RYD-DUNNING.json"
+            ]
+        },
+        "7": {
+            "elementComponents": [
+                "DUNHAYSV.json",
+                "RYD-DUNNING.json"
+            ]
+        },
+        "8": {
+            "elementComponents": [
+                "DUNHAYSV.json",
+                "RYD-DUNNING.json"
+            ]
+        },
+        "9": {
+            "elementComponents": [
+                "DUNHAYSV.json",
+                "RYD-DUNNING.json"
+            ]
+        },
+        "10": {
+            "elementComponents": [
+                "DUNHAYSV.json",
+                "RYD-DUNNING.json"
+            ]
+        }
+    }
+}

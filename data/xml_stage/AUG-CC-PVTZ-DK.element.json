@@ -1,0 +1,217 @@
+{
+    "molssi_bse_magic": 1,
+    "basisSetName": "aug-cc-pVTZ-DK Diffuse",
+    "basisSetDescription": "aug-cc-pVTZ-DK Diffuse",
+    "basisSetElements": {
+        "1": {
+            "elementComponents": [
+                "AUG-CC-PVTZ-DK.json"
+            ]
+        },
+        "2": {
+            "elementComponents": [
+                "AUG-CC-PVTZ-DK.json"
+            ]
+        },
+        "3": {
+            "elementComponents": [
+                "AUG-CC-PVTZ-DK.json"
+            ]
+        },
+        "4": {
+            "elementComponents": [
+                "AUG-CC-PVTZ-DK.json"
+            ]
+        },
+        "5": {
+            "elementComponents": [
+                "AUG-CC-PVTZ-DK.json"
+            ]
+        },
+        "6": {
+            "elementComponents": [
+                "AUG-CC-PVTZ-DK.json"
+            ]
+        },
+        "7": {
+            "elementComponents": [
+                "AUG-CC-PVTZ-DK.json"
+            ]
+        },
+        "8": {
+            "elementComponents": [
+                "AUG-CC-PVTZ-DK.json"
+            ]
+        },
+        "9": {
+            "elementComponents": [
+                "AUG-CC-PVTZ-DK.json"
+            ]
+        },
+        "10": {
+            "elementComponents": [
+                "AUG-CC-PVTZ-DK.json"
+            ]
+        },
+        "11": {
+            "elementComponents": [
+                "AUG-CC-PVTZ-DK.json"
+            ]
+        },
+        "12": {
+            "elementComponents": [
+                "AUG-CC-PVTZ-DK.json"
+            ]
+        },
+        "13": {
+            "elementComponents": [
+                "AUG-CC-PVTZ-DK.json"
+            ]
+        },
+        "14": {
+            "elementComponents": [
+                "AUG-CC-PVTZ-DK.json"
+            ]
+        },
+        "15": {
+            "elementComponents": [
+                "AUG-CC-PVTZ-DK.json"
+            ]
+        },
+        "16": {
+            "elementComponents": [
+                "AUG-CC-PVTZ-DK.json"
+            ]
+        },
+        "17": {
+            "elementComponents": [
+                "AUG-CC-PVTZ-DK.json"
+            ]
+        },
+        "18": {
+            "elementComponents": [
+                "AUG-CC-PVTZ-DK.json"
+            ]
+        },
+        "21": {
+            "elementComponents": [
+                "AUG-CC-PVTZ-DK.json"
+            ]
+        },
+        "22": {
+            "elementComponents": [
+                "AUG-CC-PVTZ-DK.json"
+            ]
+        },
+        "23": {
+            "elementComponents": [
+                "AUG-CC-PVTZ-DK.json"
+            ]
+        },
+        "24": {
+            "elementComponents": [
+                "AUG-CC-PVTZ-DK.json"
+            ]
+        },
+        "25": {
+            "elementComponents": [
+                "AUG-CC-PVTZ-DK.json"
+            ]
+        },
+        "26": {
+            "elementComponents": [
+                "AUG-CC-PVTZ-DK.json"
+            ]
+        },
+        "27": {
+            "elementComponents": [
+                "AUG-CC-PVTZ-DK.json"
+            ]
+        },
+        "28": {
+            "elementComponents": [
+                "AUG-CC-PVTZ-DK.json"
+            ]
+        },
+        "29": {
+            "elementComponents": [
+                "AUG-CC-PVTZ-DK.json"
+            ]
+        },
+        "30": {
+            "elementComponents": [
+                "AUG-CC-PVTZ-DK.json"
+            ]
+        },
+        "31": {
+            "elementComponents": [
+                "AUG-CC-PVTZ-DK.json"
+            ]
+        },
+        "32": {
+            "elementComponents": [
+                "AUG-CC-PVTZ-DK.json"
+            ]
+        },
+        "33": {
+            "elementComponents": [
+                "AUG-CC-PVTZ-DK.json"
+            ]
+        },
+        "34": {
+            "elementComponents": [
+                "AUG-CC-PVTZ-DK.json"
+            ]
+        },
+        "35": {
+            "elementComponents": [
+                "AUG-CC-PVTZ-DK.json"
+            ]
+        },
+        "36": {
+            "elementComponents": [
+                "AUG-CC-PVTZ-DK.json"
+            ]
+        },
+        "39": {
+            "elementComponents": [
+                "AUG-CC-PVTZ-DK.json"
+            ]
+        },
+        "40": {
+            "elementComponents": [
+                "AUG-CC-PVTZ-DK.json"
+            ]
+        },
+        "41": {
+            "elementComponents": [
+                "AUG-CC-PVTZ-DK.json"
+            ]
+        },
+        "42": {
+            "elementComponents": [
+                "AUG-CC-PVTZ-DK.json"
+            ]
+        },
+        "43": {
+            "elementComponents": [
+                "AUG-CC-PVTZ-DK.json"
+            ]
+        },
+        "44": {
+            "elementComponents": [
+                "AUG-CC-PVTZ-DK.json"
+            ]
+        },
+        "45": {
+            "elementComponents": [
+                "AUG-CC-PVTZ-DK.json"
+            ]
+        },
+        "46": {
+            "elementComponents": [
+                "AUG-CC-PVTZ-DK.json"
+            ]
+        }
+    }
+}

@@ -1,0 +1,97 @@
+{
+    "molssi_bse_magic": 1,
+    "basisSetName": "6ZaPa-NR",
+    "basisSetDescription": "6ZaPa-NR",
+    "basisSetElements": {
+        "1": {
+            "elementComponents": [
+                "6ZAPA-NR.json"
+            ]
+        },
+        "2": {
+            "elementComponents": [
+                "6ZAPA-NR.json"
+            ]
+        },
+        "3": {
+            "elementComponents": [
+                "6ZAPA-NR.json"
+            ]
+        },
+        "4": {
+            "elementComponents": [
+                "6ZAPA-NR.json"
+            ]
+        },
+        "5": {
+            "elementComponents": [
+                "6ZAPA-NR.json"
+            ]
+        },
+        "6": {
+            "elementComponents": [
+                "6ZAPA-NR.json"
+            ]
+        },
+        "7": {
+            "elementComponents": [
+                "6ZAPA-NR.json"
+            ]
+        },
+        "8": {
+            "elementComponents": [
+                "6ZAPA-NR.json"
+            ]
+        },
+        "9": {
+            "elementComponents": [
+                "6ZAPA-NR.json"
+            ]
+        },
+        "10": {
+            "elementComponents": [
+                "6ZAPA-NR.json"
+            ]
+        },
+        "11": {
+            "elementComponents": [
+                "6ZAPA-NR.json"
+            ]
+        },
+        "12": {
+            "elementComponents": [
+                "6ZAPA-NR.json"
+            ]
+        },
+        "13": {
+            "elementComponents": [
+                "6ZAPA-NR.json"
+            ]
+        },
+        "14": {
+            "elementComponents": [
+                "6ZAPA-NR.json"
+            ]
+        },
+        "15": {
+            "elementComponents": [
+                "6ZAPA-NR.json"
+            ]
+        },
+        "16": {
+            "elementComponents": [
+                "6ZAPA-NR.json"
+            ]
+        },
+        "17": {
+            "elementComponents": [
+                "6ZAPA-NR.json"
+            ]
+        },
+        "18": {
+            "elementComponents": [
+                "6ZAPA-NR.json"
+            ]
+        }
+    }
+}

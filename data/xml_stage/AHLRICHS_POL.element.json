@@ -1,0 +1,187 @@
+{
+    "molssi_bse_magic": 1,
+    "basisSetName": "Ahlrichs Polarization",
+    "basisSetDescription": "1P      Polarization functions",
+    "basisSetElements": {
+        "1": {
+            "elementComponents": [
+                "AHLRICHS_POL.json"
+            ]
+        },
+        "2": {
+            "elementComponents": [
+                "AHLRICHS_POL.json"
+            ]
+        },
+        "3": {
+            "elementComponents": [
+                "AHLRICHS_POL.json"
+            ]
+        },
+        "4": {
+            "elementComponents": [
+                "AHLRICHS_POL.json"
+            ]
+        },
+        "5": {
+            "elementComponents": [
+                "AHLRICHS_POL.json"
+            ]
+        },
+        "6": {
+            "elementComponents": [
+                "AHLRICHS_POL.json"
+            ]
+        },
+        "7": {
+            "elementComponents": [
+                "AHLRICHS_POL.json"
+            ]
+        },
+        "8": {
+            "elementComponents": [
+                "AHLRICHS_POL.json"
+            ]
+        },
+        "9": {
+            "elementComponents": [
+                "AHLRICHS_POL.json"
+            ]
+        },
+        "10": {
+            "elementComponents": [
+                "AHLRICHS_POL.json"
+            ]
+        },
+        "11": {
+            "elementComponents": [
+                "AHLRICHS_POL.json"
+            ]
+        },
+        "12": {
+            "elementComponents": [
+                "AHLRICHS_POL.json"
+            ]
+        },
+        "13": {
+            "elementComponents": [
+                "AHLRICHS_POL.json"
+            ]
+        },
+        "14": {
+            "elementComponents": [
+                "AHLRICHS_POL.json"
+            ]
+        },
+        "15": {
+            "elementComponents": [
+                "AHLRICHS_POL.json"
+            ]
+        },
+        "16": {
+            "elementComponents": [
+                "AHLRICHS_POL.json"
+            ]
+        },
+        "17": {
+            "elementComponents": [
+                "AHLRICHS_POL.json"
+            ]
+        },
+        "18": {
+            "elementComponents": [
+                "AHLRICHS_POL.json"
+            ]
+        },
+        "19": {
+            "elementComponents": [
+                "AHLRICHS_POL.json"
+            ]
+        },
+        "20": {
+            "elementComponents": [
+                "AHLRICHS_POL.json"
+            ]
+        },
+        "21": {
+            "elementComponents": [
+                "AHLRICHS_POL.json"
+            ]
+        },
+        "22": {
+            "elementComponents": [
+                "AHLRICHS_POL.json"
+            ]
+        },
+        "23": {
+            "elementComponents": [
+                "AHLRICHS_POL.json"
+            ]
+        },
+        "24": {
+            "elementComponents": [
+                "AHLRICHS_POL.json"
+            ]
+        },
+        "25": {
+            "elementComponents": [
+                "AHLRICHS_POL.json"
+            ]
+        },
+        "26": {
+            "elementComponents": [
+                "AHLRICHS_POL.json"
+            ]
+        },
+        "27": {
+            "elementComponents": [
+                "AHLRICHS_POL.json"
+            ]
+        },
+        "28": {
+            "elementComponents": [
+                "AHLRICHS_POL.json"
+            ]
+        },
+        "29": {
+            "elementComponents": [
+                "AHLRICHS_POL.json"
+            ]
+        },
+        "30": {
+            "elementComponents": [
+                "AHLRICHS_POL.json"
+            ]
+        },
+        "31": {
+            "elementComponents": [
+                "AHLRICHS_POL.json"
+            ]
+        },
+        "32": {
+            "elementComponents": [
+                "AHLRICHS_POL.json"
+            ]
+        },
+        "33": {
+            "elementComponents": [
+                "AHLRICHS_POL.json"
+            ]
+        },
+        "34": {
+            "elementComponents": [
+                "AHLRICHS_POL.json"
+            ]
+        },
+        "35": {
+            "elementComponents": [
+                "AHLRICHS_POL.json"
+            ]
+        },
+        "36": {
+            "elementComponents": [
+                "AHLRICHS_POL.json"
+            ]
+        }
+    }
+}

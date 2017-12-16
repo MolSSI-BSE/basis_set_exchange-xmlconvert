@@ -1,0 +1,87 @@
+{
+    "molssi_bse_magic": 1,
+    "basisSetName": "5ZaPa-NR_CV",
+    "basisSetDescription": "5ZaPa-NR_CV",
+    "basisSetElements": {
+        "3": {
+            "elementComponents": [
+                "5ZAPA-NR_CV.json"
+            ]
+        },
+        "4": {
+            "elementComponents": [
+                "5ZAPA-NR_CV.json"
+            ]
+        },
+        "5": {
+            "elementComponents": [
+                "5ZAPA-NR_CV.json"
+            ]
+        },
+        "6": {
+            "elementComponents": [
+                "5ZAPA-NR_CV.json"
+            ]
+        },
+        "7": {
+            "elementComponents": [
+                "5ZAPA-NR_CV.json"
+            ]
+        },
+        "8": {
+            "elementComponents": [
+                "5ZAPA-NR_CV.json"
+            ]
+        },
+        "9": {
+            "elementComponents": [
+                "5ZAPA-NR_CV.json"
+            ]
+        },
+        "10": {
+            "elementComponents": [
+                "5ZAPA-NR_CV.json"
+            ]
+        },
+        "11": {
+            "elementComponents": [
+                "5ZAPA-NR_CV.json"
+            ]
+        },
+        "12": {
+            "elementComponents": [
+                "5ZAPA-NR_CV.json"
+            ]
+        },
+        "13": {
+            "elementComponents": [
+                "5ZAPA-NR_CV.json"
+            ]
+        },
+        "14": {
+            "elementComponents": [
+                "5ZAPA-NR_CV.json"
+            ]
+        },
+        "15": {
+            "elementComponents": [
+                "5ZAPA-NR_CV.json"
+            ]
+        },
+        "16": {
+            "elementComponents": [
+                "5ZAPA-NR_CV.json"
+            ]
+        },
+        "17": {
+            "elementComponents": [
+                "5ZAPA-NR_CV.json"
+            ]
+        },
+        "18": {
+            "elementComponents": [
+                "5ZAPA-NR_CV.json"
+            ]
+        }
+    }
+}

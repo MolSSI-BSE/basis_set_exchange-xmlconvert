@@ -1,0 +1,73 @@
+{
+    "molssi_bse_magic": 1,
+    "basisSetName": "DZ + Double Rydberg (Dunning-Hay)",
+    "basisSetDescription": "DZ2R    Double Zeta + Double Rydberg Functions",
+    "basisSetElements": {
+        "5": {
+            "elementComponents": [
+                "DUNNINGDZ.json",
+                "RYD2-DUNNING.json"
+            ]
+        },
+        "6": {
+            "elementComponents": [
+                "DUNNINGDZ.json",
+                "RYD2-DUNNING.json"
+            ]
+        },
+        "7": {
+            "elementComponents": [
+                "DUNNINGDZ.json",
+                "RYD2-DUNNING.json"
+            ]
+        },
+        "8": {
+            "elementComponents": [
+                "DUNNINGDZ.json",
+                "RYD2-DUNNING.json"
+            ]
+        },
+        "9": {
+            "elementComponents": [
+                "DUNNINGDZ.json",
+                "RYD2-DUNNING.json"
+            ]
+        },
+        "10": {
+            "elementComponents": [
+                "DUNNINGDZ.json",
+                "RYD2-DUNNING.json"
+            ]
+        },
+        "13": {
+            "elementComponents": [
+                "DUNNINGDZ.json",
+                "RYD2-DUNNING.json"
+            ]
+        },
+        "14": {
+            "elementComponents": [
+                "DUNNINGDZ.json",
+                "RYD2-DUNNING.json"
+            ]
+        },
+        "15": {
+            "elementComponents": [
+                "DUNNINGDZ.json",
+                "RYD2-DUNNING.json"
+            ]
+        },
+        "16": {
+            "elementComponents": [
+                "DUNNINGDZ.json",
+                "RYD2-DUNNING.json"
+            ]
+        },
+        "17": {
+            "elementComponents": [
+                "DUNNINGDZ.json",
+                "RYD2-DUNNING.json"
+            ]
+        }
+    }
+}

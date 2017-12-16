@@ -1,0 +1,119 @@
+{
+    "molssi_bse_magic": 1,
+    "basisSetName": "aug-cc-pCVQZ",
+    "basisSetDescription": "QZ3PD   Quadruple Zeta + Polarization +Diffuse on All Atoms",
+    "basisSetElements": {
+        "3": {
+            "elementComponents": [
+                "CC-PVQZ.json",
+                "CC-PCVQZ.json",
+                "AUG-CC-PVQZ.json"
+            ]
+        },
+        "4": {
+            "elementComponents": [
+                "CC-PVQZ.json",
+                "CC-PCVQZ.json",
+                "AUG-CC-PVQZ.json"
+            ]
+        },
+        "5": {
+            "elementComponents": [
+                "CC-PVQZ.json",
+                "CC-PCVQZ.json",
+                "AUG-CC-PVQZ.json"
+            ]
+        },
+        "6": {
+            "elementComponents": [
+                "CC-PVQZ.json",
+                "CC-PCVQZ.json",
+                "AUG-CC-PVQZ.json"
+            ]
+        },
+        "7": {
+            "elementComponents": [
+                "CC-PVQZ.json",
+                "CC-PCVQZ.json",
+                "AUG-CC-PVQZ.json"
+            ]
+        },
+        "8": {
+            "elementComponents": [
+                "CC-PVQZ.json",
+                "CC-PCVQZ.json",
+                "AUG-CC-PVQZ.json"
+            ]
+        },
+        "9": {
+            "elementComponents": [
+                "CC-PVQZ.json",
+                "CC-PCVQZ.json",
+                "AUG-CC-PVQZ.json"
+            ]
+        },
+        "10": {
+            "elementComponents": [
+                "CC-PVQZ.json",
+                "CC-PCVQZ.json",
+                "AUG-CC-PVQZ.json"
+            ]
+        },
+        "11": {
+            "elementComponents": [
+                "CC-PVQZ.json",
+                "CC-PCVQZ.json",
+                "AUG-CC-PVQZ.json"
+            ]
+        },
+        "12": {
+            "elementComponents": [
+                "CC-PVQZ.json",
+                "CC-PCVQZ.json",
+                "AUG-CC-PVQZ.json"
+            ]
+        },
+        "13": {
+            "elementComponents": [
+                "CC-PVQZ.json",
+                "CC-PCVQZ.json",
+                "AUG-CC-PVQZ.json"
+            ]
+        },
+        "14": {
+            "elementComponents": [
+                "CC-PVQZ.json",
+                "CC-PCVQZ.json",
+                "AUG-CC-PVQZ.json"
+            ]
+        },
+        "15": {
+            "elementComponents": [
+                "CC-PVQZ.json",
+                "CC-PCVQZ.json",
+                "AUG-CC-PVQZ.json"
+            ]
+        },
+        "16": {
+            "elementComponents": [
+                "CC-PVQZ.json",
+                "CC-PCVQZ.json",
+                "AUG-CC-PVQZ.json"
+            ]
+        },
+        "17": {
+            "elementComponents": [
+                "CC-PVQZ.json",
+                "CC-PCVQZ.json",
+                "AUG-CC-PVQZ.json"
+            ]
+        },
+        "18": {
+            "elementComponents": [
+                "CC-PVQZ.json",
+                "CC-PCVQZ.json",
+                "AUG-CC-PVQZ.json"
+            ]
+        }
+    }
+}
