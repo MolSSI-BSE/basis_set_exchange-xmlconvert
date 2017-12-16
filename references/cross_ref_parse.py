@@ -57,6 +57,8 @@ def query_crossref(query):
             crossref_cache[query_key] = None
         else:
             crossref_cache[query_key] = r.text
+    else:
+        print("   ... Cached")
 
     rtext = crossref_cache[query_key]
     if rtext is None:
@@ -335,7 +337,7 @@ def parse_ref_file(infile):
     ret["original"] = data
 
     if len(cit_list) == 0:
-        raise KeyError("No citations for %s" % infile)
+        return None
 
     citations = []
     for atoms, cit in cit_list:
@@ -350,7 +352,11 @@ def parse_ref_file(infile):
 
 failures = 0
 success = 0
+blank = 0
 for infile in glob.glob("../data/xml_stage/*REF.xml"):
+    # Skip two basis sets that end in REF
+    if 'EMD-REF' in infile:
+        continue
 #for infile in glob.glob("../data/xml_stage/6-31PGSS-BS-REF.xml"):
 #for infile in glob.glob("../data/xml/*REF.xml"):
 #for infile in glob.glob("../data/xml/CC-PVQZ-DK-BS-REF.xml"):
@@ -360,6 +366,10 @@ for infile in glob.glob("../data/xml_stage/*REF.xml"):
 #    raise Exception()
     try:
         json_data = parse_ref_file(infile)
+        if json_data == None:
+            print("File %s was blank" % infile)
+            blank += 1
+            continue
         json_data["valid"] = True
         #print(json.dumps(json_data, indent=4, sort_keys=True))
         success += 1
@@ -385,6 +395,7 @@ for infile in glob.glob("../data/xml_stage/*REF.xml"):
 #    raise
 
 print("Success %d, Failures %d,  Ratio %3.2f" % (success, failures, success / (failures + success)))
+print("%d Refernce files did not contain citations" % blank)
 print("Found CR matches %d" % found_cr_matches) 
 print("Saving CROSSREF_CACHE.json")
 with open('CROSSREF_CACHE.json', 'w') as f:

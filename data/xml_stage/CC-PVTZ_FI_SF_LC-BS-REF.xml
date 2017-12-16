@@ -10,16 +10,13 @@
   <volume/>
   <pages/>
   <notes>
-Original cc- basis sets:
-T.H. Dunning, Jr. J. Chem. Phys. 90, 1007 (1989).
-D.E. Woon and T.H. Dunning, Jr. J. Chem. Phys. 100, 2975 (1994).
-T.H. Dunning, Jr. J. Chem. Phys. 90, 1007 (1989).
-D.E. Woon and T.H. Dunning, Jr.  (to be published)
-D.E. Woon and T.H. Dunning, Jr.  J. Chem. Phys. 98, 1358 (1993).
-
-Recontraction:
-K. G. Dyall, in preparation.
-
+H      : T.H. Dunning, Jr. J. Chem. Phys. 90, 1007 (1989).
+He     : D.E. Woon and T.H. Dunning, Jr. J. Chem. Phys. 100, 2975 (1994).
+B  - Ne: T.H. Dunning, Jr. J. Chem. Phys. 90, 1007 (1989).
+Al - Ar: D.E. Woon and T.H. Dunning, Jr.  J. Chem. Phys. 98, 1358 (1993).
+Ca     : J. Koput and K.A. Peterson, J. Phys. Chem. A, 106, 9595 (2002).
+Sc - Zn: N.B. Balabanov and K.A. Peterson, J. Chem. Phys., 123, 064107 (2005)
+Ga - Kr: A.K. Wilson, D.E. Woon,K.A. Peterson, T.H.Dunning, Jr., J. Chem. Phys. 110, 7667 (1999)
   </notes>
 </reference>
 

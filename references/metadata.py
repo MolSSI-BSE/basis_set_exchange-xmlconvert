@@ -5,7 +5,8 @@ valid_journals = [
     "J. Chem. Phys.", "J. Chem. Theory Comput.", "J. Comput. Chem.", "J. Mol. Model.",
     "J. Mol. Struct. THEOCHEM", "J. Phys. B", "J. Phys. Chem.", "J. Phys. Chem. A",
     "Magn. Res. Chem.", "Mol. Phys.", "Phys. Chem. Chem. Phys.", "Theor. Chem. Acc.",
-    "Theor. Chim. Acta"
+    "Theor. Chim. Acta", "Int. J. Quant. Chem.", "Collec. Czech. Chem. Commun.",
+    "Inorg. Chem.", "TURBOMOLE basis set library", "J. Phys. B"
 ]
 
 journal_translators = {
@@ -37,9 +38,17 @@ journal_translators = {
     "Journal of Molecular Structure: THEOCHEM": "J. Mol. Struct. THEOCHEM",
     "Journal of Chemical Physics": " J. Chem. Phys.",
     "Theoretica Chimica Acta": "Theor. Chim. Acta",
+    "Theoretical Chemistry Accounts: Theory, Computation, and Modeling (Theoretica Chimica Acta)": "Theor. Chim. Acta",
+    "Canadian Journal of Chemistry" : "Can. J. Chem.",
+    "Inorganic Chemistry": "Inorg. Chem.",
+    "Collection of Czechoslovak Chemical Communications": "Collec. Czech. Chem. Commun.",
     "Journal of the American Chemical Society": "J. Am. Chem. Soc.",
     "The Journal of Physical Chemistry A": "J. Phys. Chem. A",
     "The Journal of Physical Chemistry": "J. Phys. Chem.",
+    "Computational and Theoretical Chemistry": "Comput. Theor. Chem.",
+    "International Journal of Quantum Chemistry": "Int. J. Quant. Chem.",
+    "Chemical Physics": "J. Chem. Phys.",
+    "Journal of Physics B: Atomic and Molecular Physics": 'J. Phys. B'
 }
 
 author_translators = {
@@ -62,6 +71,7 @@ author_translators = {
     "C. W. Bauschlicher": "C. W. Bauschlicher, Jr.",
     "Dmitrij Rappoport": "D. Rappoport",
     "F. Furche": "F. Furche",
+    "Christof Hattig": "C. Hattig",
 
     # Valid!
     #['G. A. Petersson', 'K. A. Peterson']

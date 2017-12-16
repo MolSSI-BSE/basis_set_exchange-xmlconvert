@@ -164,6 +164,7 @@ for name, data in results.items():
             new_citations.append(cit)
             if cit["valid"] is False:
                 bad_articles += 1
+                print("Invalid: {}".format(name))
                 print(json.dumps(cit, indent=4))
 
             articles_found += 1
