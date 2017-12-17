@@ -1,0 +1,31 @@
+{
+    "citations": [
+        {
+            "DOI": "10.1063/1.2962973",
+            "Z": [
+                1,
+                2,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10
+            ],
+            "authors": [
+                "Udo Benedikt",
+                "Alexander A. Auer",
+                "Frank Jensen"
+            ],
+            "journal": "The Journal of Chemical Physics",
+            "original": "Udo Benedikt, Alexander A. Auer, Frank Jensen, Optimization of Augmentation Functions for Correlated Calculations of Spin-Spin Coupling Constants and Related Properties, J. Chem. Phys. 129, 064111 (2008).  ",
+            "page": "064111",
+            "title": "Optimization of augmentation functions for correlated calculations of spin-spin coupling constants and related properties",
+            "valid": true,
+            "volume": "129",
+            "year": 2008
+        }
+    ],
+    "original": "Elements                             References\n--------                             ----------\nH He B C N O F Ne: Udo Benedikt, Alexander A. Auer, Frank Jensen, Optimization of Augmentation Functions for Correlated Calculations of Spin-Spin Coupling Constants and Related Properties, J. Chem. Phys. 129, 064111 (2008).\n\n\n",
+    "valid": true
+}

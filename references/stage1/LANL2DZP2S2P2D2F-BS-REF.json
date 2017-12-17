@@ -1,0 +1,24 @@
+{
+    "citations": [
+        {
+            "DOI": "10.1002/jcc.23034",
+            "Z": [
+                45
+            ],
+            "authors": [
+                "Otello M. Roscioni",
+                "Edmond P. F. Lee",
+                "John M. Dyke"
+            ],
+            "journal": "Journal of Computational Chemistry",
+            "original": "Otello M. Roscioni, Edmond P. F. Lee, John M. Dyke, Journal of Computational Chemistry, 33, 2049 (2012).  ",
+            "page": "2049-2057",
+            "title": "Development and testing of a compact basis set for use in effective core potential calculations on rhodium complexes",
+            "valid": true,
+            "volume": "33",
+            "year": 2012
+        }
+    ],
+    "original": "Elements                             References\n--------                             ----------\nRh: Otello M. Roscioni, Edmond P. F. Lee, John M. Dyke, Journal of Computational Chemistry, 33, 2049 (2012).\n\n\n",
+    "valid": true
+}

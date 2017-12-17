@@ -1,0 +1,33 @@
+{
+    "citations": [
+        {
+            "DOI": "10.1063/1.447079",
+            "Z": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10
+            ],
+            "authors": [
+                "Michael J. Frisch",
+                "John A. Pople",
+                "J. Stephen Binkley"
+            ],
+            "journal": "The Journal of Chemical Physics",
+            "original": "M.J. Frisch, J.A. Pople and J.S. Binkley, J. Chem. Phys. 80, 3265 (1984)  ",
+            "page": "3265-3269",
+            "title": "Self\u2010consistent molecular orbital methods 25. Supplementary functions for Gaussian basis sets",
+            "valid": true,
+            "volume": "80",
+            "year": 1984
+        }
+    ],
+    "original": "\nElements                             References\n--------                             ----------\nH-Ne: M.J. Frisch, J.A. Pople and J.S. Binkley, J. Chem. Phys. 80, 3265 (1984)\n\n  ",
+    "valid": true
+}

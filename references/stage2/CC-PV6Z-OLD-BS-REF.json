@@ -1,0 +1,20 @@
+{
+    "citations": [
+        {
+            "Z": [
+                6
+            ],
+            "article": "pradhan:1994a",
+            "original": "A.D. Pradhan, H. Partridge and C.W. Bauschlicher, Jr., J. Chem. Phys. 101, 3857 (1994)"
+        },
+        {
+            "Z": [
+                7
+            ],
+            "article": "bauschlicher:1994a",
+            "original": "C.W. Bauschlicher, Jr. and H. Partridge, J. Chem. Phys. 100, 4329 (1994).  "
+        }
+    ],
+    "original": "\nElements                             References\n--------                             ----------\nC:         A.D. Pradhan, H. Partridge and C.W. Bauschlicher, Jr., J. Chem.\n           Phys. 101, 3857 (1994)\nN:         C.W. Bauschlicher, Jr. and H. Partridge, J. Chem. Phys. 100,\n           4329 (1994).\n\n  ",
+    "valid": true
+}

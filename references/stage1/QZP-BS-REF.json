@@ -1,0 +1,93 @@
+{
+    "citations": [
+        {
+            "DOI": "10.1080/00268970600899018",
+            "Z": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18
+            ],
+            "authors": [
+                "P. L. Barbieri",
+                "P. A. Fantin",
+                "F. E. Jorge"
+            ],
+            "journal": "Molecular Physics",
+            "original": "P. L. Barbieri, P. A. Fantin, and F. E. Jorge, Gaussian basis sets of triple and quadruple zeta valence quality for correlated wave functions, Mol. Phys. 104, 2945 (2006).",
+            "page": "2945-2954",
+            "title": "Gaussian basis sets of triple and quadruple zeta valence quality for correlated wave functions",
+            "valid": true,
+            "volume": "104",
+            "year": 2006
+        },
+        {
+            "Z": [
+                19,
+                20,
+                21,
+                22,
+                23,
+                24,
+                25,
+                26,
+                27,
+                28,
+                29,
+                30,
+                31,
+                32,
+                33,
+                34,
+                35,
+                36,
+                37,
+                38,
+                39,
+                40,
+                41,
+                42,
+                43,
+                44,
+                45,
+                46,
+                47,
+                48,
+                49,
+                50,
+                51,
+                52,
+                53,
+                54
+            ],
+            "authors": [
+                "G. A. Ceolin",
+                "R. C. de Berr\u00eado",
+                "F. E. Jorge"
+            ],
+            "journal": "Theor. Chem. Acc.",
+            "original": "G. A. Ceolin, R. C. de Berr\u00eado and F. E. Jorge, Gaussian basis sets of quadruple zeta quality for potassium through xenon: application in CCSD(T) atomic and molecular property calculations, Theor. Chem. Acc. 132, 1339 (2013).",
+            "page": 1339,
+            "title": "Gaussian basis sets of quadruple zeta quality for potassium through xenon: application in CCSD(T) atomic and molecular property calculations",
+            "valid": true,
+            "volume": 132,
+            "year": 2013
+        }
+    ],
+    "original": "Elements                             References\n--------                             ----------\nH He Li Be B C N O F Ne Na Mg Al Si P S Cl Ar: P. L. Barbieri, P. A. Fantin, and F. E. Jorge, Gaussian basis sets of triple and quadruple zeta valence quality for correlated wave functions, Mol. Phys. 104, 2945 (2006).\nK Ca Sc Ti V Cr Mn Fe Co Ni Cu Zn Ga Ge As Se Br Kr Rb Sr Y Zr Nb Mo Tc Ru Rh Pd Ag Cd In Sn Sb Te I Xe: G. A. Ceolin, R. C. de Berr\u00eado and F. E. Jorge, Gaussian basis sets of quadruple zeta quality for potassium through xenon: application in CCSD(T) atomic and molecular property calculations, Theor. Chem. Acc. 132, 1339 (2013).\n\n\n",
+    "valid": true
+}

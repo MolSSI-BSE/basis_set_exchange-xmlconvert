@@ -1,0 +1,116 @@
+{
+    "citations": [
+        {
+            "DOI": "10.1021/ct800047t",
+            "Z": [
+                72,
+                73,
+                74,
+                75,
+                76,
+                77,
+                78,
+                79,
+                80
+            ],
+            "authors": [
+                "Dimitrios A. Pantazis",
+                "Xian-Yang Chen",
+                "Clark R. Landis",
+                "Frank Neese"
+            ],
+            "journal": "Journal of Chemical Theory and Computation",
+            "original": "Dimitrios A. Pantazis, Xian-Yang Chen, Clark R. Landis, Frank Neese, All-electron scalar relativistic basis sets for third-row transition metal atoms, J. Chem. Theory Comput. 4, 908 (2008).",
+            "page": "908-919",
+            "title": "All-Electron Scalar Relativistic Basis Sets for Third-Row Transition Metal Atoms",
+            "valid": true,
+            "volume": "4",
+            "year": 2008
+        },
+        {
+            "DOI": "10.1021/ct900090f",
+            "Z": [
+                57,
+                58,
+                59,
+                60,
+                61,
+                62,
+                63,
+                64,
+                65,
+                66,
+                67,
+                68,
+                69,
+                70,
+                71
+            ],
+            "authors": [
+                "Dimitrios A. Pantazis",
+                "Frank Neese"
+            ],
+            "journal": "Journal of Chemical Theory and Computation",
+            "original": "Dimitrios A. Pantazis, Frank Neese, All-electron scalar relativistic basis sets for the lanthanides, J. Chem. Theory Comput. 5, 2229 (2009).",
+            "page": "2229-2238",
+            "title": "All-Electron Scalar Relativistic Basis Sets for the Lanthanides",
+            "valid": true,
+            "volume": "5",
+            "year": 2009
+        },
+        {
+            "DOI": "10.1021/ct100736b",
+            "Z": [
+                89,
+                90,
+                91,
+                92,
+                93,
+                94,
+                95,
+                96,
+                97,
+                98,
+                99,
+                100,
+                101,
+                102,
+                103
+            ],
+            "authors": [
+                "Dimitrios A. Pantazis",
+                "Frank Neese"
+            ],
+            "journal": "Journal of Chemical Theory and Computation",
+            "original": "Dimitrios A. Pantazis, Frank Neese, All-electron scalar relativistic basis sets for the actinides, J. Chem. Theory Comput. 7, 677 (2011). ",
+            "page": "677-684",
+            "title": "All-Electron Scalar Relativistic Basis Sets for the Actinides",
+            "valid": true,
+            "volume": "7",
+            "year": 2011
+        },
+        {
+            "Z": [
+                81,
+                82,
+                83,
+                84,
+                85,
+                86
+            ],
+            "authors": [
+                "Dimitrios A. Pantazis",
+                "Frank Neese"
+            ],
+            "journal": "Theor. Chem. Acc.",
+            "original": "Dimitrios A. Pantazis and Frank Neese, All-electron scalar relativistic basis sets for the 6p elements, Theor. Chem. Acc. 131, 1292 (2012).",
+            "page": 1292,
+            "title": "All-electron scalar relativistic basis sets for the 6p elements",
+            "valid": true,
+            "volume": 131,
+            "year": 2012
+        }
+    ],
+    "original": "Elements                             References\n--------                             ----------\nHf Ta W Re Os Ir Pt Au Hg: Dimitrios A. Pantazis, Xian-Yang Chen, Clark R. Landis, Frank Neese, All-electron scalar relativistic basis sets for third-row transition metal atoms, J. Chem. Theory Comput. 4, 908 (2008).\nLa Ce Pr Nd Pm Sm Eu Gd Tb Dy Ho Er Tm Yb Lu: Dimitrios A. Pantazis, Frank Neese, All-electron scalar relativistic basis sets for the lanthanides, J. Chem. Theory Comput. 5, 2229 (2009).\nAc Th Pa U Np Pu Am Cm Bk Cf Es Fm Md No Lr: Dimitrios A. Pantazis, Frank Neese, All-electron scalar relativistic basis sets for the actinides, J. Chem. Theory Comput. 7, 677 (2011).\n\nTl Pb Bi Po At Rn: Dimitrios A. Pantazis and Frank Neese, All-electron scalar relativistic basis sets for the 6p elements, Theor. Chem. Acc. 131, 1292 (2012).\n\n\n",
+    "valid": true
+}

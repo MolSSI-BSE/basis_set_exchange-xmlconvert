@@ -1,0 +1,59 @@
+{
+    "citations": [
+        {
+            "DOI": "10.1063/1.1672392",
+            "Z": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10
+            ],
+            "authors": [
+                "W. J. Hehre",
+                "R. F. Stewart",
+                "J. A. Pople"
+            ],
+            "journal": "The Journal of Chemical Physics",
+            "original": "W.J. Hehre, R.F. Stewart and J.A. Pople, J. Chem. Phys. 51, 2657 (1969).",
+            "page": "2657-2664",
+            "title": "Self\u2010Consistent Molecular\u2010Orbital Methods. I. Use of Gaussian Expansions of Slater\u2010Type Atomic Orbitals",
+            "valid": true,
+            "volume": "51",
+            "year": 1969
+        },
+        {
+            "DOI": "10.1063/1.1673374",
+            "Z": [
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18
+            ],
+            "authors": [
+                "W. J. Hehre",
+                "R. Ditchfield",
+                "R. F. Stewart",
+                "J. A. Pople"
+            ],
+            "journal": "The Journal of Chemical Physics",
+            "original": "W.J. Hehre, R. Ditchfield, R.F. Stewart and J.A. Pople, J. Chem. Phys. 52, 2769 (1970).  ",
+            "page": "2769-2773",
+            "title": "Self\u2010Consistent Molecular Orbital Methods. IV. Use of Gaussian Expansions of Slater\u2010Type Orbitals. Extension to Second\u2010Row Molecules",
+            "valid": true,
+            "volume": "52",
+            "year": 1970
+        }
+    ],
+    "original": "Elements                             References\n--------                             ----------\nH - Ne:  W.J. Hehre, R.F. Stewart and J.A. Pople, J. Chem. Phys. 51, 2657\n(1969).\nNa - Ar:  W.J. Hehre, R. Ditchfield, R.F. Stewart and J.A. Pople,\nJ. Chem. Phys. 52, 2769 (1970).\n\n\n",
+    "valid": true
+}

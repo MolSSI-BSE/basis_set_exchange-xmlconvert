@@ -1,0 +1,150 @@
+{
+    "citations": [
+        {
+            "DOI": "10.1063/1.1622923",
+            "Z": [
+                31,
+                32,
+                33,
+                49,
+                50,
+                51,
+                81,
+                82,
+                83
+            ],
+            "authors": [
+                "Kirk A. Peterson"
+            ],
+            "journal": "The Journal of Chemical Physics",
+            "original": "K.A. Peterson, J. Chem. Phys. 119, 11099 (2003).",
+            "page": "11099-11112",
+            "title": "Systematically convergent basis sets with relativistic pseudopotentials. I. Correlation consistent basis sets for the post-d group 13\u201315 elements",
+            "valid": true,
+            "volume": "119",
+            "year": 2003
+        },
+        {
+            "DOI": "10.1063/1.1622924",
+            "Z": [
+                34,
+                35,
+                36,
+                52,
+                53,
+                54,
+                84,
+                85,
+                86
+            ],
+            "authors": [
+                "Kirk A. Peterson",
+                "Detlev Figgen",
+                "Erich Goll",
+                "Hermann Stoll",
+                "Michael Dolg"
+            ],
+            "journal": "The Journal of Chemical Physics",
+            "original": "K.A. Peterson, D. Figgen, E. Goll, H. Stoll, and M. Dolg, J. Chem. Phys. 119, 11113 (2003).",
+            "page": "11113-11123",
+            "title": "Systematically convergent basis sets with relativistic pseudopotentials. II. Small-core pseudopotentials and correlation consistent basis sets for the post-d group 16\u201318 elements",
+            "valid": true,
+            "volume": "119",
+            "year": 2003
+        },
+        {
+            "DOI": "10.1007/s00214-005-0681-9",
+            "Z": [
+                29,
+                30,
+                46,
+                47,
+                79,
+                80
+            ],
+            "authors": [
+                "Kirk A Peterson",
+                "Cristina Puzzarini"
+            ],
+            "journal": "Theoretical Chemistry Accounts",
+            "original": "K.A. Peterson and C. Puzzarini, Theor. Chem. Acc., 114, 283 (2005)",
+            "page": "283-296",
+            "title": "Systematically convergent basis sets for transition metals. II. Pseudopotential-based correlation consistent basis sets for the group 11 (Cu, Ag, Au) and 12 (Zn, Cd, Hg) elements",
+            "valid": true,
+            "volume": "114",
+            "year": 2005
+        },
+        {
+            "DOI": "10.1063/1.2647019",
+            "Z": [
+                39,
+                40,
+                41,
+                42,
+                43,
+                44,
+                45,
+                46
+            ],
+            "authors": [
+                "Kirk A. Peterson",
+                "Detlev Figgen",
+                "Michael Dolg",
+                "Hermann Stoll"
+            ],
+            "journal": "The Journal of Chemical Physics",
+            "original": "K.A. Peterson, D. Figgen, M. Dolg, H. Stoll, Energy-consistent relativistic pseudopotentials and correlation consistent basis sets for the 4d elements Y-Pd, Journal of Chemical Physics 126, 124101 (2007).",
+            "page": "124101",
+            "title": "Energy-consistent relativistic pseudopotentials and correlation consistent basis sets for the 4d elements Y\u2013Pd",
+            "valid": true,
+            "volume": "126",
+            "year": 2007
+        },
+        {
+            "DOI": "10.1021/jp065887l",
+            "Z": [
+                53
+            ],
+            "authors": [
+                "Kirk A. Peterson",
+                "Benjamin C. Shepler",
+                "Detlev Figgen",
+                "Hermann Stoll"
+            ],
+            "journal": "The Journal of Physical Chemistry A",
+            "original": "K. A. Peterson, B. C. Shepler, D. Figgen, H. Stoll, On the spectroscopic and thermochemical properties of ClO, BrO, IO, and their anions, Journal of Physical Chemistry A 110, 13877 (2006). ",
+            "page": "13877-13883",
+            "title": "On the Spectroscopic and Thermochemical Properties of ClO, BrO, IO, and Their Anions",
+            "valid": true,
+            "volume": "110",
+            "year": 2006
+        },
+        {
+            "DOI": "10.1063/1.3119665",
+            "Z": [
+                72,
+                73,
+                74,
+                75,
+                76,
+                77,
+                78
+            ],
+            "authors": [
+                "Detlev Figgen",
+                "Kirk A. Peterson",
+                "Michael Dolg",
+                "Hermann Stoll"
+            ],
+            "journal": "The Journal of Chemical Physics",
+            "original": "D. Figgen, K.A. Peterson, M. Dolg, and H. Stoll, Energy-consistent pseudopotentials and correlation consistent basis sets for the 5d elements Hf-Pt, Journal of Chemical Physics 130, 164108 (2009).  ",
+            "page": "164108",
+            "title": "Energy-consistent pseudopotentials and correlation consistent basis sets for the 5d elements Hf\u2013Pt",
+            "valid": true,
+            "volume": "130",
+            "year": 2009
+        }
+    ],
+    "original": "Elements                             References\n--------                             ----------\nGa-As,In-Sb, Tl-Bi   : K.A. Peterson, J. Chem. Phys. 119, 11099 (2003).\nSe-Kr, Te-Xe, Po-Rn  : K.A. Peterson, D. Figgen, E. Goll, H. Stoll, and\nM. Dolg, J. Chem. Phys. 119, 11113 (2003).\nCu, Zn, Pd, Ag, Au, Hg: K.A. Peterson and C. Puzzarini, Theor. Chem. Acc., 114, 283 (2005)\nY Zr Nb Mo Tc Ru Rh Pd     : K.A. Peterson, D. Figgen, M. Dolg, H. Stoll, Energy-consistent relativistic pseudopotentials and correlation consistent basis sets for the 4d elements Y-Pd, Journal of Chemical Physics 126, 124101 (2007).\nI: K. A. Peterson, B. C. Shepler, D. Figgen, H. Stoll, On the spectroscopic and thermochemical properties of ClO, BrO, IO, and their anions, Journal of Physical Chemistry A 110, 13877 (2006).\n\nHf Ta W Re Os Ir Pt: D. Figgen, K.A. Peterson, M. Dolg, and H. Stoll, Energy-consistent pseudopotentials and correlation consistent basis sets for the 5d elements Hf-Pt, Journal of Chemical Physics 130, 164108 (2009).\n\n\n",
+    "valid": true
+}

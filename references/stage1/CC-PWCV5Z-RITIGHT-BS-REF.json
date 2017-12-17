@@ -1,0 +1,32 @@
+{
+    "citations": [
+        {
+            "Z": [
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18
+            ],
+            "authors": [
+                "Christof Hattig"
+            ],
+            "journal": "Phys. Chem. Chem. Phys.",
+            "original": "Christof Hattig,  Phys. Chem. Chem. Phys., 7, 59 (2005).",
+            "page": 59,
+            "title": false,
+            "valid": true,
+            "volume": 7,
+            "year": 2005
+        }
+    ],
+    "original": "Elements                             References\n--------                             ----------\nB C N O F Ne Al Si P S Cl Ar : Christof Hattig,  Phys. Chem. Chem. Phys., 7, 59 (2005).\n\n\n",
+    "valid": true
+}

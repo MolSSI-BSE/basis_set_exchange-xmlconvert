@@ -70,14 +70,13 @@ def query_crossref_doi(doi):
         return ret
 
 def print_cr_result(query, result):
-    print("Query: ", query)
     print("    " + result['title'])
     print('    Authors: ')
     for a in result['author']:
         print('        {}'.format(a))
 
     if 'volume' in result:
-        print('    {}, v{} ({}), pp {}'.format(result['journal'], result['volume'], result['year'], result['page']))
+        print('    {}, v{} ({}), pp {}'.format(result['journal'], result['volume'], result['year'], result['page'] if 'page' in result else ""))
     else:
         print('    {}, ({})'.format(result['journal'], result['year']))
     print("    DOI: ", result['DOI'])
@@ -111,6 +110,7 @@ for k,v in refdata.items():
             continue
         elif ok == 'y':
             refdata[k]['DOI'] = res['DOI']
+            bse.write_references(reffile + ".new", refdata)
         elif ok == 'n':
             doi = input("    --> Input DOI: ")
             res = query_crossref_doi(doi)
@@ -123,6 +123,6 @@ for k,v in refdata.items():
                 raise RuntimeError("You are on your own")
 
             refdata[k]['DOI'] = res['DOI']
+            bse.write_references(reffile + ".new", refdata)
                 
 
-bse.write_references(reffile + ".new", refdata)

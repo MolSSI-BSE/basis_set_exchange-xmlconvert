@@ -1,0 +1,76 @@
+{
+    "citations": [
+        {
+            "Z": [
+                1,
+                6,
+                7,
+                8,
+                9
+            ],
+            "article": "jensen:2001a",
+            "original": "Frank Jensen, Polarization consistent basis sets: Principles, J. Chem. Phys. 115, 9113 (2001)."
+        },
+        {
+            "Z": [
+                1,
+                6,
+                7,
+                8,
+                9
+            ],
+            "article": "jensen:2002a",
+            "original": "Frank Jensen, Polarization consistent basis sets. II. Estimating the Kohn-Sham basis set limit, J. Chem. Phys. 116, 7372 (2002)."
+        },
+        {
+            "Z": [
+                14,
+                15,
+                16,
+                17
+            ],
+            "article": "jensen:2004a",
+            "original": "Frank Jensen, Trygve Helgaker, Polarization consistent basis sets. V. The elements Si-Cl, J. Chem. Phys. 121, 3463 (2004)."
+        },
+        {
+            "Z": [
+                2,
+                3,
+                4,
+                5,
+                10,
+                11,
+                12,
+                13,
+                18
+            ],
+            "article": "jensen:2007a",
+            "original": "Frank Jensen, Polarization consistent basis sets. VI. The elements He, Li, Be, B, Ne, Na, Mg, Al, Ar, J. Phys. Chem. A 111, 11198 -11204, 2007 "
+        },
+        {
+            "Z": [
+                19,
+                20,
+                31,
+                32,
+                33,
+                34,
+                35,
+                36
+            ],
+            "authors": [
+                "F. Jensen",
+                false
+            ],
+            "journal": "J. Chem. Phys.",
+            "original": "Frank Jensen, Polarization Consistent Basis Sets. VII. The Elements K, Ca, Ga, Ge, As, Se, Br and Kr, J. Chem. Phys. 136, 094110 (2012).",
+            "page": 94110,
+            "title": "Ca, Ga, Ge, As, Se, Br and Kr",
+            "valid": true,
+            "volume": 136,
+            "year": 2012
+        }
+    ],
+    "original": "Elements                             References\n--------                             ----------\nH C N O F: Frank Jensen, Polarization consistent basis sets: Principles, J. Chem. Phys. 115, 9113 (2001).\nH C N O F: Frank Jensen, Polarization consistent basis sets. II. Estimating the Kohn-Sham basis set limit, J. Chem. Phys. 116, 7372 (2002).\nSi P S Cl: Frank Jensen, Trygve Helgaker, Polarization consistent basis sets. V. The elements Si-Cl, J. Chem. Phys. 121, 3463 (2004).\nHe Li Be B Ne Na Mg Al Ar: Frank Jensen, Polarization consistent basis sets. VI. The elements He, Li, Be, B, Ne, Na, Mg, Al, Ar, J. Phys. Chem. A 111, 11198 -11204, 2007\n\nK Ca Ga Ge As Se Br Kr: Frank Jensen, Polarization Consistent Basis Sets. VII. The Elements K, Ca, Ga, Ge, As, Se, Br and Kr, J. Chem. Phys. 136, 094110 (2012).\n\n\n",
+    "valid": true
+}

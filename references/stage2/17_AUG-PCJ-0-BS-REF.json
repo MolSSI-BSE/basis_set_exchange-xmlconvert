@@ -1,0 +1,26 @@
+{
+    "citations": [
+        {
+            "Z": [
+                1,
+                2,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18
+            ],
+            "article": "jensen:2006a",
+            "original": "Frank Jensen, The Basis Set Convergence of Spin-Spin Coupling Constants Calculated by Density Functional Methods, J. Chem. Theo. Comp. 2, 1360 (2006).  "
+        }
+    ],
+    "original": "Elements                             References\n--------                             ----------\nH He B C N O F Ne Al Si P S Cl Ar: Frank Jensen, The Basis Set Convergence of Spin-Spin Coupling Constants Calculated by Density Functional Methods, J. Chem. Theo. Comp. 2, 1360 (2006).\n\n\n",
+    "valid": true
+}

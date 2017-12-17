@@ -72,6 +72,16 @@ author_translators = {
     "Dmitrij Rappoport": "D. Rappoport",
     "F. Furche": "F. Furche",
     "Christof Hattig": "C. Hattig",
+    "Valera Veryazov": "V. Veryazov",
+    "Vitaly Rassolov" : "Vitaly A. Rassolov",
+    "W. C. ERMLER" : "Walter C. Ermler",
+    "W. C. Ermler": "Walter C. Ermler", 
+    "Thom H. Dunning": "T. H. Dunning",
+    "T. H. DUNNING": "T. H. Dunning",
+    "R. B. ROSS": "R. B. Ross",
+    "Per-�ke Malmqvist" : "Per-Åke Malmqvist",
+    "Heinzwerner Preuß" : "Heinzwerner Preuss",
+    "H. Preu�" : "Heinzwerner Preuss",
 
     # Valid!
     #['G. A. Petersson', 'K. A. Peterson']

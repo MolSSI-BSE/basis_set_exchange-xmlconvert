@@ -1,0 +1,37 @@
+{
+    "citations": [
+        {
+            "DOI": "10.1063/1.4959280",
+            "Z": [
+                57,
+                58,
+                59,
+                60,
+                61,
+                62,
+                63,
+                64,
+                65,
+                66,
+                67,
+                68,
+                69,
+                70,
+                71
+            ],
+            "authors": [
+                "Qing Lu",
+                "Kirk A. Peterson"
+            ],
+            "journal": "The Journal of Chemical Physics",
+            "original": "Q. Lu and K.A. Peterson, Correlation consistent basis sets for lanthanides: The atoms La-Lu, J. Chem. Phys. 145, 054111 (2016).  ",
+            "page": "054111",
+            "title": "Correlation consistent basis sets for lanthanides: The atoms La\u2013Lu",
+            "valid": true,
+            "volume": "145",
+            "year": 2016
+        }
+    ],
+    "original": "Elements                             References\n--------                             ----------\nLa Ce Pr Nd Pm Sm Eu Gd Tb Dy Ho Er Tm Yb Lu: Q. Lu and K.A. Peterson, Correlation consistent basis sets for lanthanides: The atoms La-Lu, J. Chem. Phys. 145, 054111 (2016).\n\n\n",
+    "valid": true
+}

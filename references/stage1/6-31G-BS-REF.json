@@ -1,0 +1,124 @@
+{
+    "citations": [
+        {
+            "DOI": "10.1063/1.1677527",
+            "Z": [
+                1
+            ],
+            "authors": [
+                "W. J. Hehre",
+                "R. Ditchfield",
+                "J. A. Pople"
+            ],
+            "journal": "The Journal of Chemical Physics",
+            "original": "W.J. Hehre, R. Ditchfield and J.A. Pople, J. Chem. Phys. 56, 2257 (1972)",
+            "page": "2257-2261",
+            "title": "Self\u2014Consistent Molecular Orbital Methods. XII. Further Extensions of Gaussian\u2014Type Basis Sets for Use in Molecular Orbital Studies of Organic Molecules",
+            "valid": true,
+            "volume": "56",
+            "year": 1972
+        },
+        {
+            "DOI": "10.1063/1.430801",
+            "Z": [
+                3,
+                4,
+                5
+            ],
+            "authors": [
+                "James D. Dill",
+                "John A. Pople"
+            ],
+            "journal": "The Journal of Chemical Physics",
+            "original": "J.D. Dill and J.A. Pople, J. Chem. Phys. 62, 2921 (1975).",
+            "page": "2921-2923",
+            "title": "Self\u2010consistent molecular orbital methods. XV. Extended Gaussian\u2010type basis sets for lithium, beryllium, and boron",
+            "valid": true,
+            "volume": "62",
+            "year": 1975
+        },
+        {
+            "DOI": "10.1063/1.1677527",
+            "Z": [
+                6,
+                7,
+                8,
+                9,
+                10
+            ],
+            "authors": [
+                "W. J. Hehre",
+                "R. Ditchfield",
+                "J. A. Pople"
+            ],
+            "journal": "The Journal of Chemical Physics",
+            "original": "W.J. Hehre, R. Ditchfield and J.A. Pople, J. Chem. Phys. 56, 2257 (1972)",
+            "page": "2257-2261",
+            "title": "Self\u2014Consistent Molecular Orbital Methods. XII. Further Extensions of Gaussian\u2014Type Basis Sets for Use in Molecular Orbital Studies of Organic Molecules",
+            "valid": true,
+            "volume": "56",
+            "year": 1972
+        },
+        {
+            "DOI": "10.1063/1.444267",
+            "Z": [
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18
+            ],
+            "authors": [
+                "Michelle M. Francl",
+                "William J. Pietro",
+                "Warren J. Hehre",
+                "J. Stephen Binkley",
+                "Mark S. Gordon",
+                "Douglas J. DeFrees",
+                "John A. Pople"
+            ],
+            "journal": "The Journal of Chemical Physics",
+            "original": "M.M. Francl, W.J. Petro, W.J. Hehre, J.S. Binkley, M.S. Gordon, D.J. DeFrees and J.A. Pople, J. Chem. Phys. 77, 3654 (1982)",
+            "page": "3654-3665",
+            "title": "Self\u2010consistent molecular orbital methods. XXIII. A polarization\u2010type basis set for second\u2010row elements",
+            "valid": true,
+            "volume": "77",
+            "year": 1982
+        },
+        {
+            "DOI": "10.1063/1.476673",
+            "Z": [
+                19,
+                20,
+                21,
+                22,
+                23,
+                24,
+                25,
+                26,
+                27,
+                28,
+                29,
+                30
+            ],
+            "authors": [
+                "Vitaly A. Rassolov",
+                "John A. Pople",
+                "Mark A. Ratner",
+                "Theresa L. Windus"
+            ],
+            "journal": "The Journal of Chemical Physics",
+            "original": "V. Rassolov, J.A. Pople, M. Ratner and T.L. Windus, J. Chem. Phys. 109, 1223 (1998)  ",
+            "page": "1223-1229",
+            "title": "6-31G* basis set for atoms K through Zn",
+            "valid": true,
+            "volume": "109",
+            "year": 1998
+        }
+    ],
+    "original": "Elements                             References\n--------                             ----------\n\nH:  W.J. Hehre, R. Ditchfield and J.A. Pople, J. Chem. Phys. 56, 2257 (1972)\nLi - B: J.D. Dill and J.A. Pople, J. Chem. Phys. 62, 2921 (1975).\nC - Ne:  W.J. Hehre, R. Ditchfield and J.A. Pople, J. Chem. Phys. 56, 2257 (1972)\nNa - Ar: M.M. Francl, W.J. Petro, W.J. Hehre, J.S. Binkley, M.S. Gordon,\n         D.J. DeFrees and J.A. Pople, J. Chem. Phys. 77, 3654 (1982)\nK  - Zn: V. Rassolov, J.A. Pople, M. Ratner and T.L. Windus, J. Chem. Phys.\n         109, 1223 (1998)\n\n\n",
+    "valid": true
+}

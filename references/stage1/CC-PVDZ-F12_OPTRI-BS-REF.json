@@ -1,0 +1,55 @@
+{
+    "citations": [
+        {
+            "DOI": "10.1063/1.3009271",
+            "Z": [
+                1,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18
+            ],
+            "authors": [
+                "Kazim E. Yousaf",
+                "Kirk A. Peterson"
+            ],
+            "journal": "The Journal of Chemical Physics",
+            "original": "K.E. Yousaf and K.A. Peterson, Optimized auxiliary basis sets for explicitly correlated methods, Journal of Chemical Physics 129, 184108 (2008).",
+            "page": "184108",
+            "title": "Optimized auxiliary basis sets for explicitly correlated methods",
+            "valid": true,
+            "volume": "129",
+            "year": 2008
+        },
+        {
+            "DOI": "10.1039/c0cp00020e",
+            "Z": [
+                3,
+                4,
+                11,
+                12
+            ],
+            "authors": [
+                "J. Grant Hill",
+                "Kirk A. Peterson"
+            ],
+            "journal": "Physical Chemistry Chemical Physics",
+            "original": "J. Grant Hill and Kirk A. Peterson, Correlation consistent basis sets for explicitly correlated wavefunctions: valence and core?valence basis sets for Li, Be, Na, and Mg, Physical Chemistry Chemical Physics 12, 10460 (2010).  ",
+            "page": "10460",
+            "title": "Correlation consistent basis sets for explicitly correlated wavefunctions: valence and core\u2013valence basis sets for Li, Be, Na, and Mg",
+            "valid": true,
+            "volume": "12",
+            "year": 2010
+        }
+    ],
+    "original": "Elements                             References\n--------                             ----------\nH B C N O F Ne Al Si P S Cl Ar: K.E. Yousaf and K.A. Peterson, Optimized auxiliary basis sets for explicitly correlated methods, Journal of Chemical Physics 129, 184108 (2008).\nLi Be Na Mg: J. Grant Hill and Kirk A. Peterson, Correlation consistent basis sets for explicitly correlated wavefunctions: valence and core?valence basis sets for Li, Be, Na, and Mg, Physical Chemistry Chemical Physics 12, 10460 (2010).\n\n\n",
+    "valid": true
+}

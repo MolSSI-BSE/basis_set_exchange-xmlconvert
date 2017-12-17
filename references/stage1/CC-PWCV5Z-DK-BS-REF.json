@@ -1,0 +1,32 @@
+{
+    "citations": [
+        {
+            "DOI": "10.1063/1.1998907",
+            "Z": [
+                21,
+                22,
+                23,
+                24,
+                25,
+                26,
+                27,
+                28,
+                29,
+                30
+            ],
+            "authors": [
+                "Nikolai B. Balabanov",
+                "Kirk A. Peterson"
+            ],
+            "journal": "The Journal of Chemical Physics",
+            "original": "N. Balabanov and K.A. Peterson, J. Chem. Phys. 123, 064107 (2005)  ",
+            "page": "064107",
+            "title": "Systematically convergent basis sets for transition metals. I. All-electron correlation consistent basis sets for the 3d elements Sc\u2013Zn",
+            "valid": true,
+            "volume": "123",
+            "year": 2005
+        }
+    ],
+    "original": "Elements                             References\n--------                             ----------\nSc - Zn: N. Balabanov and K.A. Peterson, J. Chem. Phys. 123, 064107 (2005)\n\n\n",
+    "valid": true
+}

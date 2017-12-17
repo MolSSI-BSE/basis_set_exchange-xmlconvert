@@ -1,0 +1,65 @@
+{
+    "citations": [
+        {
+            "DOI": "10.1080/00268979300103121",
+            "Z": [
+                19
+            ],
+            "authors": [
+                "Andreas Bergner",
+                "Michael Dolg",
+                "Wolfgang K\u00fcchle",
+                "Hermann Stoll",
+                "Heinzwerner Preu\u00df"
+            ],
+            "journal": "Molecular Physics",
+            "original": "A. Bergner, M. Dolg, W. Kuechle, H. Stoll, H. Preuss, Mol. Phys. 80, 1431 (1993).",
+            "page": "1431-1441",
+            "title": "Ab initio energy-adjusted pseudopotentials for elements of groups 13\u201317",
+            "valid": true,
+            "volume": "80",
+            "year": 1993
+        },
+        {
+            "DOI": "10.1063/1.459993",
+            "Z": [
+                20
+            ],
+            "authors": [
+                "M. Kaupp",
+                "P. v. R. Schleyer",
+                "H. Stoll",
+                "H. Preuss"
+            ],
+            "journal": "The Journal of Chemical Physics",
+            "original": "M. Kaupp, P. v. R. Schleyer, H. Stoll, H. Preuss, J. Chem. Phys. 94, 1360 (1991).",
+            "page": "1360-1366",
+            "title": "Pseudopotential approaches to Ca, Sr, and Ba hydrides. Why are some alkaline earth MX2compounds bent?",
+            "valid": true,
+            "volume": "94",
+            "year": 1991
+        },
+        {
+            "DOI": "10.1021/j100124a012",
+            "Z": [
+                104,
+                105
+            ],
+            "authors": [
+                "Michael Dolg",
+                "Hermann Stoll",
+                "Heinzwerner Preuss",
+                "Russell M. Pitzer"
+            ],
+            "journal": "The Journal of Physical Chemistry",
+            "original": "M. Dolg, H. Stoll, H. Preuss, R.M. Pitzer, J. Phys. Chem. 97, 5852 (1993).  ",
+            "page": "5852-5859",
+            "title": "Relativistic and correlation effects for element 105 (hahnium, Ha): a comparative study of M and MO (M = Nb, Ta, Ha) using energy-adjusted ab initio pseudopotentials",
+            "valid": true,
+            "volume": "97",
+            "year": 1993
+        }
+    ],
+    "original": "Elements                             References\n--------                             ----------\nK      : A. Bergner, M. Dolg, W. Kuechle, H. Stoll, H. Preuss, Mol. Phys. 80,\n1431 (1993).\nCa     : M. Kaupp, P. v. R. Schleyer, H. Stoll, H. Preuss, J. Chem. Phys. 94,\n1360 (1991).\nRf - Db:  M. Dolg, H. Stoll, H. Preuss, R.M. Pitzer, J. Phys. Chem. 97, 5852\n(1993).\n\n\n",
+    "valid": true
+}

@@ -1,0 +1,68 @@
+{
+    "citations": [
+        {
+            "Z": [
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10
+            ],
+            "authors": [
+                "T.H. Dunning"
+            ],
+            "journal": "J. Chem. Phys.",
+            "original": "T.H. Dunning, Jr. J. Chem. Phys. 90, 1007 (1989)",
+            "page": 1007,
+            "title": false,
+            "valid": true,
+            "volume": 90,
+            "year": 1989
+        },
+        {
+            "Z": [
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10
+            ],
+            "authors": [
+                "D. E. Woon",
+                "T.H. Dunning"
+            ],
+            "journal": "J. Chem. Phys.",
+            "original": "D. E. Woon and T.H. Dunning, Jr. J. Chem. Phys. 103, 4572 (1995).",
+            "page": 4572,
+            "title": false,
+            "valid": true,
+            "volume": 103,
+            "year": 1995
+        },
+        {
+            "DOI": "10.1021/jp026283u",
+            "Z": [
+                20
+            ],
+            "authors": [
+                "Jacek Koput",
+                "Kirk A. Peterson"
+            ],
+            "journal": "The Journal of Physical Chemistry A",
+            "original": "J. Koput and K.A. Peterson, J. Phys. Chem. A, 106, 9595 (2002).  ",
+            "page": "9595-9599",
+            "title": "Ab Initio Potential Energy Surface and Vibrational\u2212Rotational Energy Levels of X2\u03a3+CaOH",
+            "valid": true,
+            "volume": "106",
+            "year": 2002
+        }
+    ],
+    "original": "Elements                             References\n--------                             ----------\nLi - Ne: T.H. Dunning, Jr. J. Chem. Phys. 90, 1007 (1989)\nLi - Ne: D. E. Woon and T.H. Dunning, Jr. J. Chem. Phys. 103, 4572 (1995).\nCa     : J. Koput and K.A. Peterson, J. Phys. Chem. A, 106, 9595 (2002).\n\n\n",
+    "valid": true
+}

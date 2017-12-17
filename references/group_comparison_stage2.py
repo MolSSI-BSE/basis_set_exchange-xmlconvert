@@ -225,7 +225,7 @@ print("")
 print("Total number of articles found %d" % articles_found)
 print("Total number of unique articles found %d" % len(articles_dict))
 print("Total number of bad articles found %d" % bad_articles)
-missing_doi = sum(True for k, v in articles_dict.items() if "DOI" not in k)
+missing_doi = sum(True for k, v in articles_dict.items() if "DOI" not in v)
 print("Total number of missing DOI %d" % missing_doi)
 
 

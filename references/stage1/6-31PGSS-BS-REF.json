@@ -1,0 +1,272 @@
+{
+    "citations": [
+        {
+            "DOI": "10.1063/1.1677527",
+            "Z": [
+                1,
+                2
+            ],
+            "authors": [
+                "W. J. Hehre",
+                "R. Ditchfield",
+                "J. A. Pople"
+            ],
+            "journal": "The Journal of Chemical Physics",
+            "original": "W.J. Hehre, R. Ditchfield and J.A. Pople, \"Self-Consistent Molecular Orbital Methods. XII. Further Extensions of Gaussian-Type Basis Sets for Use in Molecular Orbital Studies of Organic Molecules\", J. Chem. Phys. 56, 2257 (1972). DOI: 10.1063/1.1677527.",
+            "page": "2257-2261",
+            "title": "Self\u2014Consistent Molecular Orbital Methods. XII. Further Extensions of Gaussian\u2014Type Basis Sets for Use in Molecular Orbital Studies of Organic Molecules",
+            "valid": true,
+            "volume": "56",
+            "year": 1972
+        },
+        {
+            "DOI": "10.1063/1.430801",
+            "Z": [
+                3
+            ],
+            "authors": [
+                "James D. Dill",
+                "John A. Pople"
+            ],
+            "journal": "The Journal of Chemical Physics",
+            "original": "J.D. Dill and J.A. Pople, \"Self-consistent molecular orbital methods. XV. Extended Gaussian-type basis sets for lithium, beryllium, and boron\", J. Chem. Phys. 62, 2921 (1975). DOI: 10.1063/1.430801.",
+            "page": "2921-2923",
+            "title": "Self\u2010consistent molecular orbital methods. XV. Extended Gaussian\u2010type basis sets for lithium, beryllium, and boron",
+            "valid": true,
+            "volume": "62",
+            "year": 1975
+        },
+        {
+            "DOI": "10.1002/jcc.540040303",
+            "Z": [
+                3
+            ],
+            "authors": [
+                "Timothy Clark",
+                "Jayaraman Chandrasekhar",
+                "G\ufffdnther W. Spitznagel",
+                "Paul Von Ragu\ufffd Schleyer"
+            ],
+            "journal": "Journal of Computational Chemistry",
+            "original": "T. Clark, J. Chandrasekhar, G. W. Spitznagel, and P. v. R. Schleyer, \"Efficient diffuse function-augmented basis-sets for anion calculations. 3. The 3-21+G basis set for 1st-row elements, Li-F,\" J. Comp. Chem., 4, 294-301 (1983). DOI: 10.1002/jcc.540040303.",
+            "page": "294-301",
+            "title": "Efficient diffuse function-augmented basis sets for anion calculations. III. The 3-21+G basis set for first-row elements, Li-F",
+            "valid": true,
+            "volume": "4",
+            "year": 1983
+        },
+        {
+            "DOI": "10.1063/1.1677527",
+            "Z": [
+                4
+            ],
+            "authors": [
+                "W. J. Hehre",
+                "R. Ditchfield",
+                "J. A. Pople"
+            ],
+            "journal": "The Journal of Chemical Physics",
+            "original": "W.J. Hehre, R. Ditchfield and J.A. Pople, \"Self-Consistent Molecular Orbital Methods. XII. Further Extensions of Gaussian-Type Basis Sets for Use in Molecular Orbital Studies of Organic Molecules\", J. Chem. Phys. 56, 2257 (1972). DOI: 10.1063/1.1677527.",
+            "page": "2257-2261",
+            "title": "Self\u2014Consistent Molecular Orbital Methods. XII. Further Extensions of Gaussian\u2014Type Basis Sets for Use in Molecular Orbital Studies of Organic Molecules",
+            "valid": true,
+            "volume": "56",
+            "year": 1972
+        },
+        {
+            "DOI": "10.1002/jcc.540040303",
+            "Z": [
+                4
+            ],
+            "authors": [
+                "Timothy Clark",
+                "Jayaraman Chandrasekhar",
+                "G\ufffdnther W. Spitznagel",
+                "Paul Von Ragu\ufffd Schleyer"
+            ],
+            "journal": "Journal of Computational Chemistry",
+            "original": "T. Clark, J. Chandrasekhar, G. W. Spitznagel, and P. v. R. Schleyer, \"Efficient diffuse function-augmented basis-sets for anion calculations. 3. The 3-21+G basis set for 1st-row elements, Li-F,\" J. Comp. Chem., 4, 294-301 (1983). DOI: 10.1002/jcc.540040303.",
+            "page": "294-301",
+            "title": "Efficient diffuse function-augmented basis sets for anion calculations. III. The 3-21+G basis set for first-row elements, Li-F",
+            "valid": true,
+            "volume": "4",
+            "year": 1983
+        },
+        {
+            "DOI": "10.1063/1.430801",
+            "Z": [
+                5
+            ],
+            "authors": [
+                "James D. Dill",
+                "John A. Pople"
+            ],
+            "journal": "The Journal of Chemical Physics",
+            "original": "J.D. Dill and J.A. Pople, \"Self-consistent molecular orbital methods. XV. Extended Gaussian-type basis sets for lithium, beryllium, and boron\", J. Chem. Phys. 62, 2921 (1975). DOI: 10.1063/1.430801.",
+            "page": "2921-2923",
+            "title": "Self\u2010consistent molecular orbital methods. XV. Extended Gaussian\u2010type basis sets for lithium, beryllium, and boron",
+            "valid": true,
+            "volume": "62",
+            "year": 1975
+        },
+        {
+            "DOI": "10.1002/jcc.540040303",
+            "Z": [
+                5
+            ],
+            "authors": [
+                "Timothy Clark",
+                "Jayaraman Chandrasekhar",
+                "G\ufffdnther W. Spitznagel",
+                "Paul Von Ragu\ufffd Schleyer"
+            ],
+            "journal": "Journal of Computational Chemistry",
+            "original": "T. Clark, J. Chandrasekhar, G. W. Spitznagel, and P. v. R. Schleyer, \"Efficient diffuse function-augmented basis-sets for anion calculations. 3. The 3-21+G basis set for 1st-row elements, Li-F,\" J. Comp. Chem., 4, 294-301 (1983). DOI: 10.1002/jcc.540040303.",
+            "page": "294-301",
+            "title": "Efficient diffuse function-augmented basis sets for anion calculations. III. The 3-21+G basis set for first-row elements, Li-F",
+            "valid": true,
+            "volume": "4",
+            "year": 1983
+        },
+        {
+            "DOI": "10.1063/1.1677527",
+            "Z": [
+                6,
+                7,
+                8,
+                9,
+                10
+            ],
+            "authors": [
+                "W. J. Hehre",
+                "R. Ditchfield",
+                "J. A. Pople"
+            ],
+            "journal": "The Journal of Chemical Physics",
+            "original": "W.J. Hehre, R. Ditchfield and J.A. Pople, \"Self-Consistent Molecular Orbital Methods. XII. Further Extensions of Gaussian-Type Basis Sets for Use in Molecular Orbital Studies of Organic Molecules\", J. Chem. Phys. 56, 2257 (1972). DOI: 10.1063/1.1677527.",
+            "page": "2257-2261",
+            "title": "Self\u2014Consistent Molecular Orbital Methods. XII. Further Extensions of Gaussian\u2014Type Basis Sets for Use in Molecular Orbital Studies of Organic Molecules",
+            "valid": true,
+            "volume": "56",
+            "year": 1972
+        },
+        {
+            "DOI": "10.1002/jcc.540040303",
+            "Z": [
+                6,
+                7,
+                8,
+                9,
+                10
+            ],
+            "authors": [
+                "Timothy Clark",
+                "Jayaraman Chandrasekhar",
+                "G\ufffdnther W. Spitznagel",
+                "Paul Von Ragu\ufffd Schleyer"
+            ],
+            "journal": "Journal of Computational Chemistry",
+            "original": "T. Clark, J. Chandrasekhar, G. W. Spitznagel, and P. v. R. Schleyer, \"Efficient diffuse function-augmented basis-sets for anion calculations. 3. The 3-21+G basis set for 1st-row elements, Li-F,\" J. Comp. Chem., 4, 294-301 (1983). DOI: 10.1002/jcc.540040303.",
+            "page": "294-301",
+            "title": "Efficient diffuse function-augmented basis sets for anion calculations. III. The 3-21+G basis set for first-row elements, Li-F",
+            "valid": true,
+            "volume": "4",
+            "year": 1983
+        },
+        {
+            "DOI": "10.1063/1.444267",
+            "Z": [
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18
+            ],
+            "authors": [
+                "Michelle M. Francl",
+                "William J. Pietro",
+                "Warren J. Hehre",
+                "J. Stephen Binkley",
+                "Mark S. Gordon",
+                "Douglas J. DeFrees",
+                "John A. Pople"
+            ],
+            "journal": "The Journal of Chemical Physics",
+            "original": "M.M. Francl, W.J. Petro, W.J. Hehre, J.S. Binkley, M.S. Gordon, D.J. DeFrees and J.A. Pople, \"Self-consistent molecular orbital methods. XXIII. A polarization-type basis set for second-row elements\", J. Chem. Phys. 77, 3654 (1982). DOI: 10.1063/1.444267.",
+            "page": "3654-3665",
+            "title": "Self\u2010consistent molecular orbital methods. XXIII. A polarization\u2010type basis set for second\u2010row elements",
+            "valid": true,
+            "volume": "77",
+            "year": 1982
+        },
+        {
+            "DOI": "10.1063/1.447079",
+            "Z": [
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18
+            ],
+            "authors": [
+                "Michael J. Frisch",
+                "John A. Pople",
+                "J. Stephen Binkley"
+            ],
+            "journal": "The Journal of Chemical Physics",
+            "original": "M. J. Frisch, J. A. Pople, and J. S. Binkley, \"Self-Consistent Molecular Orbital Methods. 25. Supplementary Functions for Gaussian Basis Sets,\" J. Chem. Phys., 80, 3265-69 (1984). DOI: 10.1063/1.447079.",
+            "page": "3265-3269",
+            "title": "Self\u2010consistent molecular orbital methods 25. Supplementary functions for Gaussian basis sets",
+            "valid": true,
+            "volume": "80",
+            "year": 1984
+        },
+        {
+            "DOI": "10.1063/1.476673",
+            "Z": [
+                19,
+                20
+            ],
+            "authors": [
+                "Vitaly A. Rassolov",
+                "John A. Pople",
+                "Mark A. Ratner",
+                "Theresa L. Windus"
+            ],
+            "journal": "The Journal of Chemical Physics",
+            "original": "V. Rassolov, J.A. Pople, M. Ratner and T.L. Windus, \"6-31G* basis set for atoms K through Zn\", J. Chem. Phys. 109, 1223 (1998). DOI: 10.1063/1.476673.",
+            "page": "1223-1229",
+            "title": "6-31G* basis set for atoms K through Zn",
+            "valid": true,
+            "volume": "109",
+            "year": 1998
+        },
+        {
+            "DOI": "10.1063/1.447079",
+            "Z": [
+                19,
+                20
+            ],
+            "authors": [
+                "Michael J. Frisch",
+                "John A. Pople",
+                "J. Stephen Binkley"
+            ],
+            "journal": "The Journal of Chemical Physics",
+            "original": "M. J. Frisch, J. A. Pople, and J. S. Binkley, \"Self-Consistent Molecular Orbital Methods. 25. Supplementary Functions for Gaussian Basis Sets,\" J. Chem. Phys., 80, 3265-69 (1984). DOI: 10.1063/1.447079.  ",
+            "page": "3265-3269",
+            "title": "Self\u2010consistent molecular orbital methods 25. Supplementary functions for Gaussian basis sets",
+            "valid": true,
+            "volume": "80",
+            "year": 1984
+        }
+    ],
+    "original": "Elements                             References\n--------                             ----------\nH He                 : W.J. Hehre, R. Ditchfield and J.A. Pople, \"Self-Consistent Molecular Orbital Methods. XII. Further Extensions of Gaussian-Type Basis Sets for Use in Molecular Orbital Studies of Organic Molecules\", J. Chem. Phys. 56, 2257 (1972). DOI: 10.1063/1.1677527.\nLi                   : J.D. Dill and J.A. Pople, \"Self-consistent molecular orbital methods. XV. Extended Gaussian-type basis sets for lithium, beryllium, and boron\", J. Chem. Phys. 62, 2921 (1975). DOI: 10.1063/1.430801.\nLi                   : T. Clark, J. Chandrasekhar, G. W. Spitznagel, and P. v. R. Schleyer, \"Efficient diffuse function-augmented basis-sets for anion calculations. 3. The 3-21+G basis set for 1st-row elements, Li-F,\" J. Comp. Chem., 4, 294-301 (1983). DOI: 10.1002/jcc.540040303.\nBe                   : W.J. Hehre, R. Ditchfield and J.A. Pople, \"Self-Consistent Molecular Orbital Methods. XII. Further Extensions of Gaussian-Type Basis Sets for Use in Molecular Orbital Studies of Organic Molecules\", J. Chem. Phys. 56, 2257 (1972). DOI: 10.1063/1.1677527.\nBe                   : T. Clark, J. Chandrasekhar, G. W. Spitznagel, and P. v. R. Schleyer, \"Efficient diffuse function-augmented basis-sets for anion calculations. 3. The 3-21+G basis set for 1st-row elements, Li-F,\" J. Comp. Chem., 4, 294-301 (1983). DOI: 10.1002/jcc.540040303.\nB                    : J.D. Dill and J.A. Pople, \"Self-consistent molecular orbital methods. XV. Extended Gaussian-type basis sets for lithium, beryllium, and boron\", J. Chem. Phys. 62, 2921 (1975). DOI: 10.1063/1.430801.\nB                    : T. Clark, J. Chandrasekhar, G. W. Spitznagel, and P. v. R. Schleyer, \"Efficient diffuse function-augmented basis-sets for anion calculations. 3. The 3-21+G basis set for 1st-row elements, Li-F,\" J. Comp. Chem., 4, 294-301 (1983). DOI: 10.1002/jcc.540040303.\nC N O F Ne           : W.J. Hehre, R. Ditchfield and J.A. Pople, \"Self-Consistent Molecular Orbital Methods. XII. Further Extensions of Gaussian-Type Basis Sets for Use in Molecular Orbital Studies of Organic Molecules\", J. Chem. Phys. 56, 2257 (1972). DOI: 10.1063/1.1677527.\nC N O F Ne           : T. Clark, J. Chandrasekhar, G. W. Spitznagel, and P. v. R. Schleyer, \"Efficient diffuse function-augmented basis-sets for anion calculations. 3. The 3-21+G basis set for 1st-row elements, Li-F,\" J. Comp. Chem., 4, 294-301 (1983). DOI: 10.1002/jcc.540040303.\nNa Mg Al Si P S Cl Ar: M.M. Francl, W.J. Petro, W.J. Hehre, J.S. Binkley, M.S. Gordon, D.J. DeFrees and J.A. Pople, \"Self-consistent molecular orbital methods. XXIII. A polarization-type basis set for second-row elements\", J. Chem. Phys. 77, 3654 (1982). DOI: 10.1063/1.444267.\nNa Mg Al Si P S Cl Ar: M. J. Frisch, J. A. Pople, and J. S. Binkley, \"Self-Consistent Molecular Orbital Methods. 25. Supplementary Functions for Gaussian Basis Sets,\" J. Chem. Phys., 80, 3265-69 (1984). DOI: 10.1063/1.447079.\nK Ca                 : V. Rassolov, J.A. Pople, M. Ratner and T.L. Windus, \"6-31G* basis set for atoms K through Zn\", J. Chem. Phys. 109, 1223 (1998). DOI: 10.1063/1.476673.\nK Ca                 : M. J. Frisch, J. A. Pople, and J. S. Binkley, \"Self-Consistent Molecular Orbital Methods. 25. Supplementary Functions for Gaussian Basis Sets,\" J. Chem. Phys., 80, 3265-69 (1984). DOI: 10.1063/1.447079.\n\n\n",
+    "valid": true
+}

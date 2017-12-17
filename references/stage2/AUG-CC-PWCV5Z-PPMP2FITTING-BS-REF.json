@@ -1,0 +1,20 @@
+{
+    "citations": [
+        {
+            "Z": [
+                39,
+                40,
+                41,
+                42,
+                43,
+                44,
+                45,
+                46
+            ],
+            "article": "hill:2013a",
+            "original": "J. Grant Hill, Auxiliary basis sets for density-fitting second-order M\u00f8ller-Plesset perturbation theory: weighted core-valence correlation consistent basis sets for the 4 elements Y-Pd, Journal of Computational Chemistry 34, 2168 (2013).  "
+        }
+    ],
+    "original": "Elements                             References\n--------                             ----------\nY Zr Nb Mo Tc Ru Rh Pd: J. Grant Hill, Auxiliary basis sets for density-fitting second-order M\u00f8ller-Plesset perturbation theory: weighted core-valence correlation consistent basis sets for the 4 elements Y-Pd, Journal of Computational Chemistry 34, 2168 (2013).\n\n\n",
+    "valid": true
+}

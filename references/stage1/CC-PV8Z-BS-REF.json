@@ -1,0 +1,32 @@
+{
+    "citations": [
+        {
+            "Z": [
+                1
+            ],
+            "original": "S. L. Mielke and K. A. Peterson, to be published.",
+            "valid": "unpublished"
+        },
+        {
+            "DOI": "10.1063/1.1532314",
+            "Z": [
+                10
+            ],
+            "authors": [
+                "David Feller",
+                "Kirk A. Peterson",
+                "Wibe A. de Jong",
+                "David A. Dixon"
+            ],
+            "journal": "The Journal of Chemical Physics",
+            "original": "D. Feller, K. A. Peterson, W. A. de Jong and D. A. Dixon, J. Chem. Phys. 118, 3510 (2003)  ",
+            "page": "3510-3522",
+            "title": "Performance of coupled cluster theory in thermochemical calculations of small halogenated compounds",
+            "valid": true,
+            "volume": "118",
+            "year": 2003
+        }
+    ],
+    "original": "Elements                             References\n--------                             ----------\nH    : S. L. Mielke and K. A. Peterson, to be published.\nNe   : D. Feller, K. A. Peterson, W. A. de Jong and D. A. Dixon,\nJ. Chem. Phys. 118, 3510 (2003)\n\n\n",
+    "valid": true
+}

@@ -1,0 +1,58 @@
+{
+    "citations": [
+        {
+            "DOI": "10.1016/0009-2614(96)00713-0",
+            "Z": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10
+            ],
+            "authors": [
+                "Alexander V. Mitin",
+                "Gerhard Hirsch",
+                "Robert J. Buenker"
+            ],
+            "journal": "Chemical Physics Letters",
+            "original": "A.V. Mitin, G. Hirsch, R. J. Buenker, Chem. Phys. Lett. 259, 151 (1996)",
+            "page": "151-158",
+            "title": "Accurate small split-valence 3-21SP and 4-22SP basis sets for the first-row atoms",
+            "valid": true,
+            "volume": "259",
+            "year": 1996
+        },
+        {
+            "DOI": "10.1002/(sici)1096-987x(19970715)18:9<1200::aid-jcc8>3.0.co;2-v",
+            "Z": [
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18
+            ],
+            "authors": [
+                "Alexander V. Mitin",
+                "Gerhard Hirsch",
+                "Robert J. Buenker"
+            ],
+            "journal": "Journal of Computational Chemistry",
+            "original": "A.V. Mitin, G. Hirsch, R. J. Buenker, J. Comp. Chem. 18, 1200 (1997).   ",
+            "page": "1200-1210",
+            "title": "Accurate atomic Gaussian basis functions for second-row atoms: Small split-valence 3-21SP and 4-22SP basis sets",
+            "valid": true,
+            "volume": "18",
+            "year": 1997
+        }
+    ],
+    "original": "\nElements                             References\n--------                             ----------\n H - Ne: A.V. Mitin, G. Hirsch, R. J. Buenker, Chem. Phys. Lett. 259, 151 (1996)\nNa - Ar: A.V. Mitin, G. Hirsch, R. J. Buenker, J. Comp. Chem. 18, 1200 (1997).\n\n\n  ",
+    "valid": true
+}

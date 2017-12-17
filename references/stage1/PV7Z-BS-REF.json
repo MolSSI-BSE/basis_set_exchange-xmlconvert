@@ -1,0 +1,48 @@
+{
+    "citations": [
+        {
+            "DOI": "10.1063/1.478747",
+            "Z": [
+                6,
+                7,
+                8,
+                9,
+                16
+            ],
+            "authors": [
+                "David Feller",
+                "Kirk A. Peterson"
+            ],
+            "journal": "The Journal of Chemical Physics",
+            "original": "D. Feller and K.A. Peterson, J. Chem. Phys. 110, 8384 (1999)",
+            "page": "8384-8396",
+            "title": "Re-examination of atomization energies for the Gaussian-2 set of molecules",
+            "valid": true,
+            "volume": "110",
+            "year": 1999
+        },
+        {
+            "DOI": "10.1063/1.481827",
+            "Z": [
+                6,
+                7,
+                8,
+                9,
+                16
+            ],
+            "authors": [
+                "David Feller",
+                "Jose A. Sordo"
+            ],
+            "journal": "The Journal of Chemical Physics",
+            "original": "D. Feller and J.A. Sordo, J. Chem. Phys. 113, 485 (2000)  ",
+            "page": "485-493",
+            "title": "Performance of CCSDT for diatomic dissociation energies",
+            "valid": true,
+            "volume": "113",
+            "year": 2000
+        }
+    ],
+    "original": "Elements                             References\n--------                             ----------\nC - F, S:  D. Feller and K.A. Peterson, J. Chem. Phys. 110, 8384 (1999)\nC - F, S: D. Feller and J.A. Sordo, J. Chem. Phys. 113, 485 (2000)\n\n\n",
+    "valid": true
+}

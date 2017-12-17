@@ -1,0 +1,41 @@
+{
+    "citations": [
+        {
+            "Z": [
+                13,
+                14,
+                15,
+                16,
+                17,
+                18
+            ],
+            "article": "woon:1993b",
+            "original": "D.E. Woon and T.H. Dunning, Jr., Gaussian basis sets for use in correlated molecular calculations. III. The atoms aluminum through argon, J. Chem. Phys. 98, 1358 (1993)."
+        },
+        {
+            "Z": [
+                13,
+                14,
+                15,
+                16,
+                17
+            ],
+            "article": "yockel:2008a",
+            "original": "S. Yockel and A. K. Wilson, Core-valence correlation consistent basis sets for second-row atoms (Al-Ar) revisited, Theor. Chem. Acc. 120, 119 (2008)."
+        },
+        {
+            "Z": [
+                13,
+                14,
+                15,
+                16,
+                17,
+                18
+            ],
+            "article": "peterson:2002a",
+            "original": "K.A. Peterson and T.H. Dunning, Jr., Accurate correlation consistent basis sets for molecular core?valence correlation effects: The second row atoms Al?Ar, and the first row atoms B?Ne revisited, J. Chem. Phys. 117, 10548 (2002).  "
+        }
+    ],
+    "original": "Elements                             References\n--------                             ----------\nAl - Ar: D.E. Woon and T.H. Dunning, Jr., Gaussian basis sets for use in correlated molecular calculations. III. The atoms aluminum through argon, J. Chem. Phys. 98, 1358 (1993).\nAl - Cl: S. Yockel and A. K. Wilson, Core-valence correlation consistent basis sets for second-row atoms (Al-Ar) revisited, Theor. Chem. Acc. 120, 119 (2008).\nAl - Ar: K.A. Peterson and T.H. Dunning, Jr., Accurate correlation consistent basis sets for molecular core?valence correlation effects: The second row atoms Al?Ar, and the first row atoms B?Ne revisited, J. Chem. Phys. 117, 10548 (2002).\n\n\n",
+    "valid": true
+}

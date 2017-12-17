@@ -1,0 +1,156 @@
+{
+    "citations": [
+        {
+            "Z": [
+                1,
+                6,
+                7,
+                8,
+                9
+            ],
+            "authors": [
+                "Frank Jensen"
+            ],
+            "journal": "J. Chem. Phys.",
+            "original": "Frank Jensen, J. Chem. Phys. 115, 9113 (2001).",
+            "page": 9113,
+            "title": false,
+            "valid": true,
+            "volume": 115,
+            "year": 2001
+        },
+        {
+            "DOI": "10.1063/1.1465405",
+            "Z": [
+                1,
+                6,
+                7,
+                8,
+                9
+            ],
+            "authors": [
+                "Frank Jensen"
+            ],
+            "journal": "The Journal of Chemical Physics",
+            "original": "Frank Jensen, J. Chem. Phys. 116, 7372 (2002).",
+            "page": "7372-7379",
+            "title": "Polarization consistent basis sets. II. Estimating the Kohn\u2013Sham basis set limit",
+            "valid": true,
+            "volume": "116",
+            "year": 2002
+        },
+        {
+            "DOI": "10.1063/1.1515484",
+            "Z": [
+                1,
+                6,
+                7,
+                8,
+                9
+            ],
+            "authors": [
+                "Frank Jensen"
+            ],
+            "journal": "The Journal of Chemical Physics",
+            "original": "Frank Jensen, J. Chem. Phys. 117, 9234 (2002).",
+            "page": "9234-9240",
+            "title": "Polarization consistent basis sets. III. The importance of diffuse functions",
+            "valid": true,
+            "volume": "117",
+            "year": 2002
+        },
+        {
+            "DOI": "10.1063/1.1756866",
+            "Z": [
+                14,
+                15,
+                16,
+                17
+            ],
+            "authors": [
+                "Frank Jensen",
+                "Trygve Helgaker"
+            ],
+            "journal": "The Journal of Chemical Physics",
+            "original": "Frank Jensen, J. Chem. Phys. 121, 3463 (2004).",
+            "page": "3463-3470",
+            "title": "Polarization consistent basis sets. V. The elements Si\u2013Cl",
+            "valid": true,
+            "volume": "121",
+            "year": 2004
+        },
+        {
+            "DOI": "10.1021/jp068677h",
+            "Z": [
+                2,
+                3,
+                4,
+                5,
+                10,
+                11,
+                12,
+                13,
+                18
+            ],
+            "authors": [
+                "Frank Jensen"
+            ],
+            "journal": "The Journal of Physical Chemistry A",
+            "original": "Frank Jensen, J. Phys. Chem. A 111, 11198 (2007).",
+            "page": "11198-11204",
+            "title": "Polarization Consistent Basis Sets. 4:\u00a0 The Elements He, Li, Be, B, Ne, Na, Mg, Al, and Ar\u2020",
+            "valid": true,
+            "volume": "111",
+            "year": 2007
+        },
+        {
+            "Z": [
+                19,
+                20,
+                31,
+                32,
+                33,
+                34,
+                35,
+                36
+            ],
+            "authors": [
+                "Frank Jensen"
+            ],
+            "journal": "J. Chem. Phys.",
+            "original": "Frank Jensen, J. Chem. Phys. 136, 094110 (2012).",
+            "page": 94110,
+            "title": false,
+            "valid": true,
+            "volume": 136,
+            "year": 2012
+        },
+        {
+            "DOI": "10.1063/1.4773017",
+            "Z": [
+                21,
+                22,
+                23,
+                24,
+                25,
+                26,
+                27,
+                28,
+                29,
+                30
+            ],
+            "authors": [
+                "Frank Jensen"
+            ],
+            "journal": "The Journal of Chemical Physics",
+            "original": "Frank Jensen, J. Chem. Phys. 138, 014107 (2013).  ",
+            "page": "014107",
+            "title": "Polarization consistent basis sets. VIII. The transition metals Sc-Zn",
+            "valid": true,
+            "volume": "138",
+            "year": 2013
+        }
+    ],
+    "original": "Elements                             References\n--------                             ----------\nH C N O F: Frank Jensen, J. Chem. Phys. 115, 9113 (2001).\nH C N O F: Frank Jensen, J. Chem. Phys. 116, 7372 (2002).\nH C N O F: Frank Jensen, J. Chem. Phys. 117, 9234 (2002).\nSi P S Cl: Frank Jensen, J. Chem. Phys. 121, 3463 (2004).\nHe Li Be B Ne Na Mg Al Ar: Frank Jensen, J. Phys. Chem. A 111, 11198 (2007).\nK Ca Ga Ge As Se Br Kr: Frank Jensen, J. Chem. Phys. 136, 094110 (2012).\nSc Ti V Cr Mn Fe Co Ni Cu Zn: Frank Jensen, J. Chem. Phys. 138, 014107 (2013).\n\n\n",
+    "valid": true
+}

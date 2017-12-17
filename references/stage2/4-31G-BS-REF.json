@@ -1,0 +1,31 @@
+{
+    "citations": [
+        {
+            "Z": [
+                1,
+                6,
+                7,
+                8,
+                9
+            ],
+            "article": "ditchfield:1971a",
+            "original": "R. Ditchfield, W.J. Hehre and J.A. Pople, J. Chem. Phys. 54, 724 (1971)."
+        },
+        {
+            "Z": [
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18
+            ],
+            "article": "gordon:1983a",
+            "original": "M.S. Gordon, J.S. Binkley, J.A. Pople, W.J. Pietro and W.J. Hehre, J. Am. Chem. Soc. 104, 2797 (1983)."
+        }
+    ],
+    "original": "\nElements                             References\n--------                             ----------\nH, C-F: R. Ditchfield, W.J. Hehre and J.A. Pople, J. Chem. Phys. 54, 724 \n          (1971).\nNa - Ar:  M.S. Gordon, J.S. Binkley, J.A. Pople, W.J. Pietro and W.J. Hehre,\n          J. Am. Chem. Soc. 104, 2797 (1983).\n\n  ",
+    "valid": true
+}

@@ -1,0 +1,32 @@
+{
+    "citations": [
+        {
+            "DOI": "10.1063/1.476732",
+            "Z": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10
+            ],
+            "authors": [
+                "David E. Bernholdt",
+                "Robert J. Harrison"
+            ],
+            "journal": "The Journal of Chemical Physics",
+            "original": "D.E. Bernholdt and R.J. Harrison, J. Chem. Phys. 109, 1593 (1998)  ",
+            "page": "1593-1600",
+            "title": "Fitting basis sets for the RI-MP2 approximate second-order many-body perturbation theory method",
+            "valid": true,
+            "volume": "109",
+            "year": 1998
+        }
+    ],
+    "original": "\nElements                             References\n--------                             ----------\nH - Ne: D.E. Bernholdt and R.J. Harrison, J. Chem. Phys. 109, 1593 (1998)\n\n  ",
+    "valid": true
+}

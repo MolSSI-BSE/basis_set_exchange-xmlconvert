@@ -1,0 +1,88 @@
+{
+    "citations": [
+        {
+            "Z": [
+                81
+            ],
+            "article": "metz:2000b",
+            "original": "B. Metz, M. Schweizer, H. Stoll, M. Dolg, W. Liu, Theor. Chem. Acc. 104, 22 (2000)."
+        },
+        {
+            "Z": [
+                31,
+                32,
+                33,
+                49,
+                50,
+                51,
+                82,
+                83
+            ],
+            "article": "metz:2000a",
+            "original": "B. Metz, H. Stoll, M. Dolg, J. Chem. Phys. 113, 2563 (2000)."
+        },
+        {
+            "Z": [
+                34,
+                35,
+                36,
+                52,
+                53,
+                54,
+                84,
+                85,
+                86
+            ],
+            "article": "peterson:2003c",
+            "original": "K.A. Peterson, D. Figgen, E. Goll, H. Stoll, and M. Dolg, J. Chem. Phys., 199, 11113 (2003)"
+        },
+        {
+            "Z": [
+                29,
+                30,
+                47,
+                48,
+                79,
+                80
+            ],
+            "article": "figgen:2005a",
+            "original": "D. Figgen, G. Rauhut, M. Dolg, and H. Stoll, J. Chem. Phys. 311, 227 (2005)."
+        },
+        {
+            "Z": [
+                39,
+                40,
+                41,
+                42,
+                43,
+                44,
+                45,
+                46
+            ],
+            "article": "peterson:2007a",
+            "original": "K.A. Peterson, D. Figgen, M. Dolg, H. Stoll, Energy-consistent relativistic pseudopotentials and correlation consistent basis sets for the 4d elements Y-Pd, J. Chem. Phys. 126, 124101 (2007)."
+        },
+        {
+            "Z": [
+                53
+            ],
+            "article": "peterson:2006a",
+            "original": "K. A. Peterson, B. C. Shepler, D. Figgen, H. Stoll, On the spectroscopic and thermochemical properties of ClO, BrO, IO, and their anions, Journal of Physical Chemistry A 110, 13877 (2006)."
+        },
+        {
+            "Z": [
+                72,
+                73,
+                74,
+                75,
+                76,
+                77,
+                78
+            ],
+            "article": "figgen:2009a",
+            "original": "D. Figgen, K.A. Peterson, M. Dolg, and H. Stoll, Energy-consistent pseudopotentials and correlation consistent basis sets for the 5d elements Hf-Pt, J. Chem. Phys. 130, 164108 (2009).  "
+        }
+    ],
+    "original": "ELEMENTS                      REFERENCES\n---------                       ----------\nTl: B. Metz, M. Schweizer, H. Stoll, M. Dolg, W. Liu, Theor. Chem. Acc. 104, 22 (2000).\nGa-As, In-Sb, Pb-Bi: B. Metz, H. Stoll, M. Dolg, J. Chem. Phys. 113, 2563 (2000).\nSe-Kr, Te-Xe, Po-Rn: K.A. Peterson, D. Figgen, E. Goll, H. Stoll, and M. Dolg, J. Chem. Phys., 199, 11113 (2003)\nCu, Zn, Ag, Cd, Au, Hg: D. Figgen, G. Rauhut, M. Dolg, and H. Stoll, J. Chem. Phys. 311, 227 (2005).\nY Zr Nb Mo Tc Ru Rh Pd : K.A. Peterson, D. Figgen, M. Dolg, H. Stoll, Energy-consistent relativistic pseudopotentials and correlation consistent basis sets for the 4d elements Y-Pd, J. Chem. Phys. 126, 124101 (2007).\nI: K. A. Peterson, B. C. Shepler, D. Figgen, H. Stoll, On the spectroscopic and thermochemical properties of ClO, BrO, IO, and their anions, Journal of Physical Chemistry A 110, 13877 (2006).\nHf Ta W Re Os Ir Pt: D. Figgen, K.A. Peterson, M. Dolg, and H. Stoll, Energy-consistent pseudopotentials and correlation consistent basis sets for the 5d elements Hf-Pt, J. Chem. Phys. 130, 164108 (2009).\n\n\n",
+    "valid": true
+}

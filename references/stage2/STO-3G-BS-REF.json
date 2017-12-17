@@ -1,0 +1,80 @@
+{
+    "citations": [
+        {
+            "Z": [
+                1,
+                2
+            ],
+            "article": "hehre:1969a",
+            "original": "W.J. Hehre, R.F. Stewart, J.A. Pople, J. Chem. Phys. 51, 2657 (1969)."
+        },
+        {
+            "Z": [
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18
+            ],
+            "article": "hehre:1970b",
+            "original": "W.J. Hehre, R. Ditchfield, R.F. Stewart, J.A. Pople, J. Chem. Phys. 51, 2769 (1970)."
+        },
+        {
+            "Z": [
+                19,
+                20
+            ],
+            "article": "pietro:1980a",
+            "original": "W.J. Pietro, B.A. Levy, W.J. Hehre and R.F. Stewart, J. Am. Chem. Soc. 19, 2225 (1980)."
+        },
+        {
+            "Z": [
+                31,
+                32,
+                33,
+                34,
+                35,
+                36
+            ],
+            "article": "pietro:1980a",
+            "original": "W.J. Pietro, B.A. Levy, W.J. Hehre and R.F. Stewart, J. Am. Chem. Soc. 19, 2225 (1980)."
+        },
+        {
+            "Z": [
+                21,
+                22,
+                23,
+                24,
+                25,
+                26,
+                27,
+                28,
+                29,
+                30
+            ],
+            "article": "pietro:1983a",
+            "original": "W.J. Pietro and W.J. Hehre, J. Comp. Chem. 4, 241 (1983)."
+        },
+        {
+            "Z": [
+                39,
+                40,
+                41,
+                42,
+                43,
+                44,
+                45,
+                46,
+                47,
+                48
+            ],
+            "article": "pietro:1983a",
+            "original": "W.J. Pietro and W.J. Hehre, J. Comp. Chem. 4, 241 (1983)."
+        }
+    ],
+    "original": "\nElements                             References\n--------                             ----------\nH - He: W.J. Hehre, R.F. Stewart, J.A. Pople, J. Chem. Phys. 51, 2657 (1969).\nNa - Ar: W.J. Hehre, R. Ditchfield, R.F. Stewart, J.A. Pople,\n         J. Chem. Phys. 51, 2769 (1970).\nK-Ca : W.J. Pietro, B.A. Levy, W.J. Hehre and R.F. Stewart, J. Am. Chem. Soc. 19, 2225 (1980).\nGa - Kr : W.J. Pietro, B.A. Levy, W.J. Hehre and R.F. Stewart, J. Am. Chem. Soc. 19, 2225 (1980).\nSc - Zn: W.J. Pietro and W.J. Hehre, J. Comp. Chem. 4, 241 (1983).\n Y - Cd: W.J. Pietro and W.J. Hehre, J. Comp. Chem. 4, 241 (1983).\n\n  ",
+    "valid": true
+}

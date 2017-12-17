@@ -1,0 +1,39 @@
+{
+    "citations": [
+        {
+            "DOI": "10.1063/1.4935972",
+            "Z": [
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18
+            ],
+            "authors": [
+                "Duminda S. Ranasinghe",
+                "Michael J. Frisch",
+                "George A. Petersson"
+            ],
+            "journal": "The Journal of Chemical Physics",
+            "original": "D. Ranasinghe, M. J. Frisch, and G. A. Petersson, Core-core and core-valence correlation energy atomic and molecular benchmarks for Li through Ar, Journal of Chemical Physics 143, 214110 (2015).  ",
+            "page": "214110",
+            "title": "Core-core and core-valence correlation energy atomic and molecular benchmarks for Li through Ar",
+            "valid": true,
+            "volume": "143",
+            "year": 2015
+        }
+    ],
+    "original": "Elements                             References\n--------                             ----------\nLi Be B C N O F Ne Na Mg Al Si P S Cl Ar: D. Ranasinghe, M. J. Frisch, and G. A. Petersson, Core-core and core-valence correlation energy atomic and molecular benchmarks for Li through Ar, Journal of Chemical Physics 143, 214110 (2015).\n\n\n",
+    "valid": true
+}

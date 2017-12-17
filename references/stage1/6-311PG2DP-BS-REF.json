@@ -1,0 +1,182 @@
+{
+    "citations": [
+        {
+            "DOI": "10.1063/1.438955",
+            "Z": [
+                1,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10
+            ],
+            "authors": [
+                "R. Krishnan",
+                "J. S. Binkley",
+                "R. Seeger",
+                "J. A. Pople"
+            ],
+            "journal": "The Journal of Chemical Physics",
+            "original": "R. Krishnan, J.S. Binkley, R. Seeger and J.A. Pople, J. Chem. Phys. 72, 650 (1980)",
+            "page": "650-654",
+            "title": "Self\u2010consistent molecular orbital methods. XX. A basis set for correlated wave functions",
+            "valid": true,
+            "volume": "72",
+            "year": 1980
+        },
+        {
+            "DOI": "10.1063/1.438980",
+            "Z": [
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18
+            ],
+            "authors": [
+                "A. D. McLean",
+                "G. S. Chandler"
+            ],
+            "journal": "The Journal of Chemical Physics",
+            "original": "A.D. McLean and G.S. Chandler, J. Chem. Phys. 72, 5639, (1980).",
+            "page": "5639-5648",
+            "title": "Contracted Gaussian basis sets for molecular calculations. I. Second row atoms, Z=11\u201318",
+            "valid": true,
+            "volume": "72",
+            "year": 1980
+        },
+        {
+            "DOI": "10.1063/1.474865",
+            "Z": [
+                19,
+                20
+            ],
+            "authors": [
+                "Jean-Philippe Blaudeau",
+                "Mark P. McGrath",
+                "Larry A. Curtiss",
+                "Leo Radom"
+            ],
+            "journal": "The Journal of Chemical Physics",
+            "original": "J-P. Blaudeau, M. P. McGrath, L.A. Curtiss and L. Radom, J. Chem. Phys. 107, 5016 (1997).",
+            "page": "5016-5021",
+            "title": "Extension of Gaussian-2 (G2) theory to molecules containing third-row atoms K and Ca",
+            "valid": true,
+            "volume": "107",
+            "year": 1997
+        },
+        {
+            "DOI": "10.1063/1.470438",
+            "Z": [
+                31,
+                32,
+                33,
+                34,
+                35,
+                36
+            ],
+            "authors": [
+                "Larry A. Curtiss",
+                "Mark P. McGrath",
+                "Jean\u2010Philippe Blaudeau",
+                "Nancy E. Davis",
+                "Robert C. Binning",
+                "Leo Radom"
+            ],
+            "journal": "The Journal of Chemical Physics",
+            "original": "L. A. Curtiss, M. P. McGrath, J-P. Blandeau, N. E. Davis, R. C. Binning, Jr. L. Radom, J. Chem. Phys. 103, 6104 (1995).",
+            "page": "6104-6113",
+            "title": "Extension of Gaussian\u20102 theory to molecules containing third\u2010row atoms Ga\u2013Kr",
+            "valid": true,
+            "volume": "103",
+            "year": 1995
+        },
+        {
+            "Z": [
+                53
+            ],
+            "authors": [
+                "M.N. Glukhovstev",
+                "A. pross",
+                "M.P. McGrath",
+                "L. Radom"
+            ],
+            "journal": "J. Chem. Phys.",
+            "original": "M.N. Glukhovstev, A. pross, M.P. McGrath, L. Radom, J. Chem. Phys. 103, 1878 (1995)",
+            "page": 1878,
+            "title": false,
+            "valid": true,
+            "volume": 103,
+            "year": 1995
+        },
+        {
+            "DOI": "10.1063/1.447079",
+            "Z": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10
+            ],
+            "authors": [
+                "Michael J. Frisch",
+                "John A. Pople",
+                "J. Stephen Binkley"
+            ],
+            "journal": "The Journal of Chemical Physics",
+            "original": "M.J. Frisch, J.A. Pople and J.S. Binkley, J. Chem. Phys. 80, 3265 (1984)",
+            "page": "3265-3269",
+            "title": "Self\u2010consistent molecular orbital methods 25. Supplementary functions for Gaussian basis sets",
+            "valid": true,
+            "volume": "80",
+            "year": 1984
+        },
+        {
+            "DOI": "10.1002/jcc.540040303",
+            "Z": [
+                1,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17
+            ],
+            "authors": [
+                "Timothy Clark",
+                "Jayaraman Chandrasekhar",
+                "G\ufffdnther W. Spitznagel",
+                "Paul Von Ragu\ufffd Schleyer"
+            ],
+            "journal": "Journal of Computational Chemistry",
+            "original": "T. Clark, J. Chandrasekhar,  G.W. Spitznagel, P.V.R. Schleyer, J. Comp. Chem. 4, 294 (1983).  ",
+            "page": "294-301",
+            "title": "Efficient diffuse function-augmented basis sets for anion calculations. III. The 3-21+G basis set for first-row elements, Li-F",
+            "valid": true,
+            "volume": "4",
+            "year": 1983
+        }
+    ],
+    "original": "Elements                             References\n--------                             ----------\nH, Li - Ne: R. Krishnan, J.S. Binkley, R. Seeger and J.A. Pople,\nJ. Chem. Phys. 72, 650 (1980)\nNa - Ar:    A.D. McLean and G.S. Chandler, J. Chem. Phys. 72, 5639, (1980).\nK  - Ca:    J-P. Blaudeau, M. P. McGrath, L.A. Curtiss and L. Radom,\nJ. Chem. Phys. 107, 5016 (1997).\nGa - Kr:    L. A. Curtiss, M. P. McGrath, J-P. Blandeau, N. E. Davis,\nR. C. Binning, Jr. L. Radom, J. Chem. Phys. 103, 6104 (1995).\nI      :    M.N. Glukhovstev, A. pross, M.P. McGrath, L. Radom, J. Chem. Phys.\n103, 1878 (1995)\nH-Ne: M.J. Frisch, J.A. Pople and J.S. Binkley, J. Chem. Phys. 80, 3265 (1984)\nH, Li-Cl: T. Clark, J. Chandrasekhar,  G.W. Spitznagel, P.V.R. Schleyer,\nJ. Comp. Chem. 4, 294 (1983).\n\n\n",
+    "valid": true
+}

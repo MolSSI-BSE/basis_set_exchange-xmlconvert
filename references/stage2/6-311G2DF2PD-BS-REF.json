@@ -1,0 +1,22 @@
+{
+    "citations": [
+        {
+            "Z": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10
+            ],
+            "article": "frisch:1984a",
+            "original": "M.J. Frisch, J.A. Pople and J.S. Binkley, J. Chem. Phys. 80, 3265 (1984)  "
+        }
+    ],
+    "original": "Elements                             References\n--------                             ----------\nH-Ne: M.J. Frisch, J.A. Pople and J.S. Binkley, J. Chem. Phys. 80, 3265 (1984)\n\n\n",
+    "valid": true
+}

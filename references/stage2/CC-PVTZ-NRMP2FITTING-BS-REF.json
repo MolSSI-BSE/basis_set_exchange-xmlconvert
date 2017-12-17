@@ -1,0 +1,22 @@
+{
+    "citations": [
+        {
+            "Z": [
+                21,
+                22,
+                23,
+                24,
+                25,
+                26,
+                27,
+                28,
+                29,
+                30
+            ],
+            "article": "hill:2008b",
+            "original": "J. Grant Hill and James A. Platts, Auxiliary basis sets for density fitting-MP2 calculations: Non-relativistic triple-? all-electron correlation consistent basis sets for the 3d elements Sc-Zn, J. Chem. Phys. 128, 044104 (2008).  "
+        }
+    ],
+    "original": "Elements                             References\n--------                             ----------\nSc Ti V Cr Mn Fe Co Ni Cu Zn: J. Grant Hill and James A. Platts, Auxiliary basis sets for density fitting-MP2 calculations: Non-relativistic triple-? all-electron correlation consistent basis sets for the 3d elements Sc-Zn, J. Chem. Phys. 128, 044104 (2008).\n\n\n",
+    "valid": true
+}

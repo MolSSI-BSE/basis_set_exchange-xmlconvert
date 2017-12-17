@@ -1,0 +1,29 @@
+{
+    "citations": [
+        {
+            "DOI": "10.1080/0026897031000094498",
+            "Z": [
+                3,
+                4,
+                11,
+                12,
+                19,
+                20
+            ],
+            "authors": [
+                "MARK A. IRON",
+                "MIKHAL OREN",
+                "JAN M. L. MARTIN"
+            ],
+            "journal": "Molecular Physics",
+            "original": "M. A. Iron, M. Oren, J. M. L. Martin, Alkali and Alkaline Earth Metal Compounds : Core-Valence Basis Sets and Importance of Subvalence, Mol. Phys. 101, 1345 (2003).  ",
+            "page": "1345-1361",
+            "title": "Alkali and alkaline earth metal compounds: core\u2014valence basis sets and importance of subvalence correlation",
+            "valid": true,
+            "volume": "101",
+            "year": 2003
+        }
+    ],
+    "original": "Elements                             References\n--------                             ----------\nLi Be Na Mg K Ca : M. A. Iron, M. Oren, J. M. L. Martin, Alkali and Alkaline Earth Metal Compounds : Core-Valence Basis Sets and Importance of Subvalence, Mol. Phys. 101, 1345 (2003).\n\n\n",
+    "valid": true
+}

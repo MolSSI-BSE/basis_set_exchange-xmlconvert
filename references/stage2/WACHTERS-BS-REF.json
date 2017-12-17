@@ -1,0 +1,36 @@
+{
+    "citations": [
+        {
+            "Z": [
+                21,
+                22,
+                23,
+                24,
+                25,
+                26,
+                27,
+                28,
+                29
+            ],
+            "article": "wachters:1970a",
+            "original": "A. J. H. Wachters, J. Chem. Phys. 52, 1033 (1970)."
+        },
+        {
+            "Z": [
+                21,
+                22,
+                23,
+                24,
+                25,
+                26,
+                27,
+                28,
+                29
+            ],
+            "article": "bauschlicher:1989a",
+            "original": "C. W. Bauschlicher, Jr. S. R. Langhoff and L. A. Barnes, J. Chem. Phys. 91, 2399 (1989).  "
+        }
+    ],
+    "original": "\nElements                             References\n--------                             ----------\nSc - Cu: A. J. H. Wachters, J. Chem. Phys. 52, 1033 (1970).\nSc - Cu: C. W. Bauschlicher, Jr. S. R. Langhoff and L. A. Barnes, J. Chem. Phys. 91, 2399 (1989).\n\n  ",
+    "valid": true
+}

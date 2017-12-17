@@ -1,0 +1,41 @@
+{
+    "citations": [
+        {
+            "DOI": "10.1021/jp021590l",
+            "Z": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18
+            ],
+            "authors": [
+                "Benjamin J. Lynch",
+                "Yan Zhao",
+                "Donald G. Truhlar"
+            ],
+            "journal": "The Journal of Physical Chemistry A",
+            "original": "Lynch, B.J.; Zhao, Y.; Truhlar, D.G., Effectiveness of Diffuse Basis Functions for Calculating Relative Energies by Density Functional Theory, J. Phys. Chem. A 107, 1384-1388 (2003).  ",
+            "page": "1384-1388",
+            "title": "Effectiveness of Diffuse Basis Functions for Calculating Relative Energies by Density Functional Theory",
+            "valid": true,
+            "volume": "107",
+            "year": 2003
+        }
+    ],
+    "original": "Elements                             References\n--------                             ----------\nH He Li Be B C N O F Ne Na Mg Al Si P S Cl Ar: Lynch, B.J.; Zhao, Y.; Truhlar, D.G., Effectiveness of Diffuse Basis Functions for Calculating Relative Energies by Density Functional Theory, J. Phys. Chem. A 107, 1384-1388 (2003).\n\n\n",
+    "valid": true
+}

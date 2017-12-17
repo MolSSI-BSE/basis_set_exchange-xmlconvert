@@ -1,0 +1,211 @@
+{
+    "citations": [
+        {
+            "DOI": "10.1007/bf01120130",
+            "Z": [
+                1,
+                2
+            ],
+            "authors": [
+                "Per-Olof Widmark",
+                "Per-\ufffdke Malmqvist",
+                "Bj\ufffdrn O. Roos"
+            ],
+            "journal": "Theoretica Chimica Acta",
+            "original": "P.-O. Widmark, P.-\u00c5. Malmqvist, and B. O. Roos, Density-matrix averaged atomic natural orbital (ANO) basis-sets for correlated molecular wave-functions 1: 1st row atoms., Theor. Chim. Acta 77, 291-306 (1990).",
+            "page": "291-306",
+            "title": "Density matrix averaged atomic natural orbital (ANO) basis sets for correlated molecular wave functions",
+            "valid": true,
+            "volume": "77",
+            "year": 1990
+        },
+        {
+            "Z": [
+                3,
+                4,
+                11,
+                12,
+                19,
+                20,
+                37,
+                38,
+                55,
+                56,
+                87,
+                88
+            ],
+            "authors": [
+                "O. Roos",
+                "V. Veryazov",
+                "P.-O. Widmark"
+            ],
+            "journal": "Theor. Chem. Acc.",
+            "original": "O. Roos, V. Veryazov and P.-O. Widmark, Relativistic atomic natural orbital type basis sets for the alkaline and alkaline-earth atoms applied to the ground-state potentials for the corresponding dimers., Theor. Chem. Acc. 111, 345-351 (2003).",
+            "page": 345,
+            "title": "Relativistic atomic natural orbital type basis sets for the alkaline and alkaline-earth atoms applied to the ground-state potentials for the corresponding dimers.",
+            "valid": true,
+            "volume": 111,
+            "year": 2003
+        },
+        {
+            "Z": [
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                31,
+                32,
+                33,
+                34,
+                35,
+                36,
+                49,
+                50,
+                51,
+                52,
+                53,
+                54,
+                81,
+                82,
+                83,
+                84,
+                85,
+                86
+            ],
+            "authors": [
+                "B. O. Roos",
+                "R. Lindh",
+                "P.-\u00c5. Malmqvist",
+                "V. Veryazov",
+                "P.-O. Widmark"
+            ],
+            "journal": "J. Phys. Chem. A",
+            "original": "B. O. Roos, R. Lindh, P.-\u00c5. Malmqvist, V. Veryazov, and P.-O. Widmark, Main group atoms and dimers studied with a new relativistic ANO basis set, J. Phys. Chem. A 108, 2851 (2005).",
+            "page": 2851,
+            "title": "Main group atoms and dimers studied with a new relativistic ANO basis set",
+            "valid": true,
+            "volume": 108,
+            "year": 2005
+        },
+        {
+            "DOI": "10.1021/jp0581126",
+            "Z": [
+                21,
+                22,
+                23,
+                24,
+                25,
+                26,
+                27,
+                28,
+                29,
+                30,
+                39,
+                40,
+                41,
+                42,
+                43,
+                44,
+                45,
+                46,
+                47,
+                48,
+                72,
+                73,
+                74,
+                75,
+                76,
+                77,
+                78,
+                79,
+                80
+            ],
+            "authors": [
+                "Bj\u00f6rn O. Roos",
+                "Roland Lindh",
+                "Per-\u00c5ke Malmqvist",
+                "Valera Veryazov",
+                "Per-Olof Widmark"
+            ],
+            "journal": "The Journal of Physical Chemistry A",
+            "original": ". O. Roos, R. Lindh and P.-\u00c5. Malmqvist, V. Veryazov and P.-O. Widmark, New relativistic ANO basis sets for transition metal atoms, J. Phys. Chem. A 109, 6575-6579 (2005).",
+            "page": "6575-6579",
+            "title": "New Relativistic ANO Basis Sets for Transition Metal Atoms",
+            "valid": true,
+            "volume": "109",
+            "year": 2005
+        },
+        {
+            "DOI": "10.1016/j.cplett.2005.05.011",
+            "Z": [
+                89,
+                90,
+                91,
+                92,
+                93,
+                94,
+                95,
+                96
+            ],
+            "authors": [
+                "Bj\u00f6rn O. Roos",
+                "Roland Lindh",
+                "Per-\u00c5ke Malmqvist",
+                "Valera Veryazov",
+                "Per-Olof Widmark"
+            ],
+            "journal": "Chemical Physics Letters",
+            "original": "B.O. Roos, R. Lindh, P.-\u00c5. Malmqvist, V. Veryazov, and P.-O. Widmark, New relativistic ANO basis sets for actinide atoms, Chem. Phys. Letters 409, 295-299 (2005).",
+            "page": "295-299",
+            "title": "New relativistic ANO basis sets for actinide atoms",
+            "valid": true,
+            "volume": "409",
+            "year": 2005
+        },
+        {
+            "DOI": "10.1021/jp803213j",
+            "Z": [
+                57,
+                58,
+                59,
+                60,
+                61,
+                62,
+                63,
+                64,
+                65,
+                66,
+                67,
+                68,
+                69,
+                70,
+                71
+            ],
+            "authors": [
+                "Bjo\u0308rn O. Roos",
+                "Roland Lindh",
+                "Per-\u00c5ke Malmqvist",
+                "Valera Veryazov",
+                "Per-Olof Widmark",
+                "Antonio Carlos Borin"
+            ],
+            "journal": "The Journal of Physical Chemistry A",
+            "original": "B. O. Roos, R. Lindh, P.-\u00c5. Malmqvist, V. Veryazov, and P.-O. Widmark, New Relativistic atomic natural orbital basis sets for lanthanide atoms with applications to the Ce diatomic abd LuF3, J. Phys. Chem. A 112, 11431-11435 (2008).  ",
+            "page": "11431-11435",
+            "title": "New Relativistic Atomic Natural Orbital Basis Sets for Lanthanide Atoms with Applications to the Ce Diatom and LuF3",
+            "valid": true,
+            "volume": "112",
+            "year": 2008
+        }
+    ],
+    "original": "Elements                             References\n--------                             ----------\nH He: P.-O. Widmark, P.-\u00c5. Malmqvist, and B. O. Roos, Density-matrix averaged atomic natural orbital (ANO) basis-sets for correlated molecular wave-functions 1: 1st row atoms., Theor. Chim. Acta 77, 291-306 (1990).\nLi Be Na Mg K Ca Rb Sr Cs Ba Fr Ra: O. Roos, V. Veryazov and P.-O. Widmark, Relativistic atomic natural orbital type basis sets for the alkaline and alkaline-earth atoms applied to the ground-state potentials for the corresponding dimers., Theor. Chem. Acc. 111, 345-351 (2003).\nB C N O F Ne Al Si P S Cl Ar Ga Ge As Se Br Kr In Sn Sb Te I Xe Tl Pb Bi Po At Rn: B. O. Roos, R. Lindh, P.-\u00c5. Malmqvist, V. Veryazov, and P.-O. Widmark, Main group atoms and dimers studied with a new relativistic ANO basis set, J. Phys. Chem. A 108, 2851 (2005).\nSc Ti V Cr Mn Fe Co Ni Cu Zn Y Zr Nb Mo Tc Ru Rh Pd Ag Cd Hf Ta W Re Os Ir Pt Au Hg: . O. Roos, R. Lindh and P.-\u00c5. Malmqvist, V. Veryazov and P.-O. Widmark, New relativistic ANO basis sets for transition metal atoms, J. Phys. Chem. A 109, 6575-6579 (2005).\nAc Th Pa U Np Pu Am Cm: B.O. Roos, R. Lindh, P.-\u00c5. Malmqvist, V. Veryazov, and P.-O. Widmark, New relativistic ANO basis sets for actinide atoms, Chem. Phys. Letters 409, 295-299 (2005).\nLa Ce Pr Nd Pm Sm Eu Gd Tb Dy Ho Er Tm Yb Lu: B. O. Roos, R. Lindh, P.-\u00c5. Malmqvist, V. Veryazov, and P.-O. Widmark, New Relativistic atomic natural orbital basis sets for lanthanide atoms with applications to the Ce diatomic abd LuF3, J. Phys. Chem. A 112, 11431-11435 (2008).\n\n\n",
+    "valid": true
+}

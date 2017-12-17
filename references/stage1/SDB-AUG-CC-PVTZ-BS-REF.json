@@ -1,0 +1,28 @@
+{
+    "citations": [
+        {
+            "DOI": "10.1063/1.1337864",
+            "Z": [
+                31,
+                32,
+                33,
+                34,
+                35,
+                36
+            ],
+            "authors": [
+                "Jan M. L. Martin",
+                "Andreas Sundermann"
+            ],
+            "journal": "The Journal of Chemical Physics",
+            "original": "J.M.L. Martin and A. Sundermann, J. Chem. Phys. 114, 3408 (2001).  ",
+            "page": "3408-3420",
+            "title": "Correlation consistent valence basis sets for use with the Stuttgart\u2013Dresden\u2013Bonn relativistic effective core potentials: The atoms Ga\u2013Kr and In\u2013Xe",
+            "valid": true,
+            "volume": "114",
+            "year": 2001
+        }
+    ],
+    "original": "\nElements                             References\n--------                             ---------\nGa - Kr: J.M.L. Martin and A. Sundermann, J. Chem. Phys. 114, 3408 (2001).\n\n  ",
+    "valid": true
+}

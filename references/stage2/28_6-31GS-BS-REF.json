@@ -1,0 +1,78 @@
+{
+    "citations": [
+        {
+            "Z": [
+                1,
+                2
+            ],
+            "article": "hariharan:1973a",
+            "original": "P.C. Hariharan and J.A. Pople, Theoret. Chimica Acta 28, 213 (1973)."
+        },
+        {
+            "Z": [
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10
+            ],
+            "article": "hariharan:1973a",
+            "original": "P.C. Hariharan and J.A. Pople, Theoret. Chimica Acta 28, 213 (1973)."
+        },
+        {
+            "Z": [
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18
+            ],
+            "article": "francl:1982a",
+            "original": "M.M. Francl, W.J. Petro, W.J. Hehre, J.S. Binkley, M.S. Gordon, D.J. DeFrees and J.A.  Pople, J. Chem. Phys. 77, 3654 (1982)."
+        },
+        {
+            "Z": [
+                19,
+                20
+            ],
+            "article": "rassolov:1998a",
+            "original": "V. Rassolov, J.A. Pople, M. Ratner and T.L. Windus, J. Chem. Phys.  109, 1223 (1998)."
+        },
+        {
+            "Z": [
+                21,
+                22,
+                23,
+                24,
+                25,
+                26,
+                27,
+                28,
+                29,
+                30
+            ],
+            "article": "rassolov:1998a",
+            "original": "V. Rassolov, J.A. Pople, M. Ratner and T.L. Windus, J. Chem. Phys.  109, 1223 (1998)."
+        },
+        {
+            "Z": [
+                31,
+                32,
+                33,
+                34,
+                35,
+                36
+            ],
+            "article": "rassolov:2001a",
+            "original": "V. Rassolov, J.A. Pople, M. Ratner, P.C. Redfern, L.A. Curtiss, J. Comp. Chem. 22, 976 (2001), DOI: 10.1002/jcc.1058 "
+        }
+    ],
+    "original": "Elements                             References\n--------                             ----------\nElements      Contraction                       References\nH - He:  P.C. Hariharan and J.A. Pople, Theoret. Chimica Acta 28, 213 (1973).\nLi - Ne: P.C. Hariharan and J.A. Pople, Theoret. Chimica Acta 28, 213 (1973).\nNa - Ar:   M.M. Francl, W.J. Petro, W.J. Hehre, J.S. Binkley, M.S. Gordon, D.J. DeFrees and J.A.  Pople, J. Chem. Phys. 77, 3654 (1982).\nK  - Ca: V. Rassolov, J.A. Pople, M. Ratner and T.L. Windus, J. Chem. Phys.  109, 1223 (1998).\nSc - Zn: V. Rassolov, J.A. Pople, M. Ratner and T.L. Windus, J. Chem. Phys.  109, 1223 (1998).\nGa - Kr: V. Rassolov, J.A. Pople, M. Ratner, P.C. Redfern, L.A. Curtiss, J. Comp. Chem. 22, 976 (2001), DOI: 10.1002/jcc.1058\n\n",
+    "valid": true
+}

@@ -1,0 +1,135 @@
+{
+    "citations": [
+        {
+            "DOI": "10.1063/1.2647019",
+            "Z": [
+                21,
+                22,
+                23,
+                24,
+                25,
+                26,
+                27,
+                28,
+                29,
+                30
+            ],
+            "authors": [
+                "Kirk A. Peterson",
+                "Detlev Figgen",
+                "Michael Dolg",
+                "Hermann Stoll"
+            ],
+            "journal": "The Journal of Chemical Physics",
+            "original": "K.A. Peterson, D. Figgen, M. Dolg, H. Stoll, J. Chem. Phys. 126, 124101 (2007).",
+            "page": "124101",
+            "title": "Energy-consistent relativistic pseudopotentials and correlation consistent basis sets for the 4d elements Y\u2013Pd",
+            "valid": true,
+            "volume": "126",
+            "year": 2007
+        },
+        {
+            "DOI": "10.1063/1.3119665",
+            "Z": [
+                39,
+                40,
+                41,
+                42,
+                43,
+                44,
+                45,
+                46,
+                47,
+                48
+            ],
+            "authors": [
+                "Detlev Figgen",
+                "Kirk A. Peterson",
+                "Michael Dolg",
+                "Hermann Stoll"
+            ],
+            "journal": "The Journal of Chemical Physics",
+            "original": "D. Figgen, K.A. Peterson, M. Dolg, H. Stoll, J. Chem. Phys. 130, 164108 (2009).",
+            "page": "164108",
+            "title": "Energy-consistent pseudopotentials and correlation consistent basis sets for the 5d elements Hf\u2013Pt",
+            "valid": true,
+            "volume": "130",
+            "year": 2009
+        },
+        {
+            "DOI": "10.1063/1.1856451",
+            "Z": [
+                37,
+                38,
+                39,
+                40,
+                41,
+                42,
+                43,
+                44,
+                45,
+                46,
+                47,
+                48,
+                49,
+                50,
+                51,
+                52,
+                53,
+                54,
+                55
+            ],
+            "authors": [
+                "Ivan S. Lim",
+                "Peter Schwerdtfeger",
+                "Bernhard Metz",
+                "Hermann Stoll"
+            ],
+            "journal": "The Journal of Chemical Physics",
+            "original": "I.S. Lim, P. Schwerdtfeger, B. Metz, H. Stoll, J. Chem. Phys. 122, 104103 (2005).",
+            "page": "104103",
+            "title": "All-electron and relativistic pseudopotential studies for the group 1 element polarizabilities from K to element 119",
+            "valid": true,
+            "volume": "122",
+            "year": 2005
+        },
+        {
+            "DOI": "10.1063/1.2148945",
+            "Z": [
+                38,
+                39,
+                40,
+                41,
+                42,
+                43,
+                44,
+                45,
+                46,
+                47,
+                48,
+                49,
+                50,
+                51,
+                52,
+                53,
+                54,
+                55,
+                56
+            ],
+            "authors": [
+                "Ivan S. Lim",
+                "Hermann Stoll",
+                "Peter Schwerdtfeger"
+            ],
+            "journal": "The Journal of Chemical Physics",
+            "original": "I.S. Lim, H. Stoll, P. Schwerdtfeger, J. Chem. Phys. 124, 034107 (2006).  ",
+            "page": "034107",
+            "title": "Relativistic small-core energy-consistent pseudopotentials for the alkaline-earth elements from Ca to Ra",
+            "valid": true,
+            "volume": "124",
+            "year": 2006
+        }
+    ],
+    "original": "Elements                             References\n--------                             ----------\nSc-Zn:    K.A. Peterson, D. Figgen, M. Dolg, H. Stoll, J. Chem. Phys. 126, 124101 (2007).\nY-Cd:    D. Figgen, K.A. Peterson, M. Dolg, H. Stoll, J. Chem. Phys. 130, 164108 (2009).\nRb-Cs: I.S. Lim, P. Schwerdtfeger, B. Metz, H. Stoll, J. Chem. Phys. 122, 104103 (2005).\nSr-Ba: I.S. Lim, H. Stoll, P. Schwerdtfeger, J. Chem. Phys. 124, 034107 (2006).\n\n\n",
+    "valid": true
+}

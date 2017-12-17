@@ -1,0 +1,26 @@
+{
+    "citations": [
+        {
+            "Z": [
+                1,
+                2,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18
+            ],
+            "article": "yousaf:2009a",
+            "original": "K.E. Yousaf and K.A. Peterson, Optimized complementary auxiliary basis sets for explicitly correlated methods: aug-cc-pVnZ orbital basis sets, Chemical Physics Letters 476, 303 (2009).  "
+        }
+    ],
+    "original": "Elements                             References\n--------                             ----------\nH He B C N O F Ne Al Si P S Cl Ar: K.E. Yousaf and K.A. Peterson, Optimized complementary auxiliary basis sets for explicitly correlated methods: aug-cc-pVnZ orbital basis sets, Chemical Physics Letters 476, 303 (2009).\n\n\n",
+    "valid": true
+}

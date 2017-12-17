@@ -1,0 +1,26 @@
+{
+    "citations": [
+        {
+            "DOI": "10.1063/1.474865",
+            "Z": [
+                19,
+                20
+            ],
+            "authors": [
+                "Jean-Philippe Blaudeau",
+                "Mark P. McGrath",
+                "Larry A. Curtiss",
+                "Leo Radom"
+            ],
+            "journal": "The Journal of Chemical Physics",
+            "original": "J-P. Blaudeau, M. P. McGrath, L.A. Curtiss and L. Radom, J. Chem. Phys. 107, 5016 (1997)  ",
+            "page": "5016-5021",
+            "title": "Extension of Gaussian-2 (G2) theory to molecules containing third-row atoms K and Ca",
+            "valid": true,
+            "volume": "107",
+            "year": 1997
+        }
+    ],
+    "original": "\nElements                             References\n--------                             ----------\nK  - Ca: J-P. Blaudeau, M. P. McGrath, L.A. Curtiss and L. Radom, J. Chem. Phys.\n         107, 5016 (1997)\n\n  ",
+    "valid": true
+}

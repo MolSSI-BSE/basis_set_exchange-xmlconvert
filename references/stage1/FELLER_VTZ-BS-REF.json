@@ -1,0 +1,25 @@
+{
+    "citations": [
+        {
+            "DOI": "10.1063/1.470237",
+            "Z": [
+                19
+            ],
+            "authors": [
+                "David Feller",
+                "Eric D. Glendening",
+                "David E. Woon",
+                "Martin W. Feyereisen"
+            ],
+            "journal": "The Journal of Chemical Physics",
+            "original": "(s,p) exponents from A. Schafer, H. Horn and R. Ahlrichs, J. Chem. Phys. 97, 2571 (1992). Polarization and core/valence exponents from D. Feller, E.D. Glendening, D.E. Woon and M.W. Feyereisen, J. Chem. Phys. 103, 3526 (1995).  ",
+            "page": "3526-3542",
+            "title": "An extended basis set ab initio study of alkali metal cation\u2013water clusters",
+            "valid": true,
+            "volume": "103",
+            "year": 1995
+        }
+    ],
+    "original": "\nElements                             References\n--------                             ----------\nK : (s,p) exponents from A. Schafer, H. Horn and R. Ahlrichs, J. Chem. Phys.\n    97, 2571 (1992). Polarization and core/valence exponents from D. Feller, \n    E.D. Glendening, D.E. Woon and M.W. Feyereisen, J. Chem. Phys. 103, 3526 \n    (1995).\n\n  ",
+    "valid": true
+}

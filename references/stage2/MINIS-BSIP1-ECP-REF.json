@@ -1,0 +1,20 @@
+{
+    "citations": [
+        {
+            "Z": [
+                1,
+                6,
+                7,
+                8,
+                9,
+                15,
+                16,
+                17
+            ],
+            "article": "otero-de-la-roza:2017a",
+            "original": "Alberto Otero-de-la-Roza and Gino A. DiLabio, Transferable Atom-Centered Potentials for the Correction of Basis Set Incompleteness Errors in Density-Functional Theory, J. Chem. Theory Comput. 13, 3505 (2017).  "
+        }
+    ],
+    "original": "Elements                             References\n--------                             ----------\nH C N O F P S Cl: Alberto Otero-de-la-Roza and Gino A. DiLabio, Transferable Atom-Centered Potentials for the Correction of Basis Set Incompleteness Errors in Density-Functional Theory, J. Chem. Theory Comput. 13, 3505 (2017).\n\n\n",
+    "valid": true
+}

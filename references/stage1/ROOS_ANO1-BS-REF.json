@@ -1,0 +1,87 @@
+{
+    "citations": [
+        {
+            "DOI": "10.1007/bf01120130",
+            "Z": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10
+            ],
+            "authors": [
+                "Per-Olof Widmark",
+                "Per-\ufffdke Malmqvist",
+                "Bj\ufffdrn O. Roos"
+            ],
+            "journal": "Theoretica Chimica Acta",
+            "original": "P.O. Widmark, P.A. Malmqvist, B. Roos, Theor. Chim. Acta, 77, 291 (1990).",
+            "page": "291-306",
+            "title": "Density matrix averaged atomic natural orbital (ANO) basis sets for correlated molecular wave functions",
+            "valid": true,
+            "volume": "77",
+            "year": 1990
+        },
+        {
+            "DOI": "10.1007/bf01112569",
+            "Z": [
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18
+            ],
+            "authors": [
+                "Per-Olof Widmark",
+                "B. Joakim Persson",
+                "Bj\ufffdrn O. Roos"
+            ],
+            "journal": "Theoretica Chimica Acta",
+            "original": "P.O. Widmark, B. J. Persson and B. Roos, Theor. Chim. Acta, 79, 419 (1991).",
+            "page": "419-432",
+            "title": "Density matrix averaged atomic natural orbital (ANO) basis sets for correlated molecular wave functions",
+            "valid": true,
+            "volume": "79",
+            "year": 1991
+        },
+        {
+            "DOI": "10.1007/s002140050119",
+            "Z": [
+                21,
+                22,
+                23,
+                24,
+                25,
+                26,
+                27,
+                28,
+                29,
+                30
+            ],
+            "authors": [
+                "Rosendo Pou-Am\u00e9rigo",
+                "Manuela Merch\u00e1n",
+                "Ignacio Nebot-Gil",
+                "Per-Olof Widmark",
+                "Bj\u00f6rn O. Roos"
+            ],
+            "journal": "Theoretica Chimica Acta",
+            "original": "R. Pou-Amerigo, M. Merchan, I. Nebot-Gil, P.O. Widmark and B. Roos, Theor. Chim. Acta, 92, 149 (1995).  ",
+            "page": "149",
+            "title": "Density matrix averaged atomic natural orbital (ANO) basis sets for correlated molecular wave functions",
+            "valid": true,
+            "volume": "92",
+            "year": 1995
+        }
+    ],
+    "original": "\nElements                             References\n--------                             ----------\nH - Ne:  P.O. Widmark, P.A. Malmqvist, B. Roos, Theor. Chim. Acta, 77, \n         291 (1990).\nNa - Ar: P.O. Widmark, B. J. Persson and B. Roos, Theor. Chim. Acta, 79, \n         419 (1991).\nSc - Zn: R. Pou-Amerigo, M. Merchan, I. Nebot-Gil, P.O. Widmark and B. Roos,\n         Theor. Chim. Acta, 92, 149 (1995).\n\n  ",
+    "valid": true
+}

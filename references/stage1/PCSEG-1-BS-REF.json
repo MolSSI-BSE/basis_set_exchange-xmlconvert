@@ -1,0 +1,57 @@
+{
+    "citations": [
+        {
+            "DOI": "10.1021/ct401026a",
+            "Z": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19,
+                20,
+                21,
+                22,
+                23,
+                24,
+                25,
+                26,
+                27,
+                28,
+                29,
+                30,
+                31,
+                32,
+                33,
+                34,
+                35,
+                36
+            ],
+            "authors": [
+                "Frank Jensen"
+            ],
+            "journal": "Journal of Chemical Theory and Computation",
+            "original": "Frank Jensen, Unifying General and Segmented Contracted Basis Sets. Segmented Polarization Consistent Basis Sets., Journal of Chemical Theory and Computation 10, 1074-1085 (2014) DOI: 10.1021/ct401026a.  ",
+            "page": "1074-1085",
+            "title": "Unifying General and Segmented Contracted Basis Sets. Segmented Polarization Consistent Basis Sets",
+            "valid": true,
+            "volume": "10",
+            "year": 2014
+        }
+    ],
+    "original": "Elements                             References\n--------                             ----------\nH He Li Be B C N O F Ne Na Mg Al Si P S Cl Ar K Ca Sc Ti V Cr Mn Fe Co Ni Cu Zn Ga Ge As Se Br Kr: Frank Jensen, Unifying General and Segmented Contracted Basis Sets. Segmented Polarization Consistent Basis Sets., Journal of Chemical Theory and Computation 10, 1074-1085 (2014) DOI: 10.1021/ct401026a.\n\n\n",
+    "valid": true
+}

@@ -1,0 +1,41 @@
+{
+    "citations": [
+        {
+            "DOI": "10.1016/j.cplett.2006.10.026",
+            "Z": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18
+            ],
+            "authors": [
+                "F.E. Jorge",
+                "P.S. Sagrillo",
+                "A.R. de Oliveira"
+            ],
+            "journal": "Chemical Physics Letters",
+            "original": "F. E. Jorge, P. S. Sagrillo, and A. R. de Oliveira, Gaussian basis sets of 5 zeta valence quality for correlated wave functions, Chem. Phys. Lett. 432, 558 (2006).  ",
+            "page": "558-563",
+            "title": "Gaussian basis sets of 5 zeta valence quality for correlated wave functions",
+            "valid": true,
+            "volume": "432",
+            "year": 2006
+        }
+    ],
+    "original": "Elements                             References\n--------                             ----------\nH He Li Be B C N O F Ne Na Mg Al Si P S Cl Ar: F. E. Jorge, P. S. Sagrillo, and A. R. de Oliveira, Gaussian basis sets of 5 zeta valence quality for correlated wave functions, Chem. Phys. Lett. 432, 558 (2006).\n\n\n",
+    "valid": true
+}

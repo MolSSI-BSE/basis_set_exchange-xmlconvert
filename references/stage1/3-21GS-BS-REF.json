@@ -1,0 +1,34 @@
+{
+    "citations": [
+        {
+            "DOI": "10.1021/ja00383a007",
+            "Z": [
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18
+            ],
+            "authors": [
+                "W. J. Pietro",
+                "M. M. Francl",
+                "W. J. Hehre",
+                "D. J. DeFrees",
+                "J. A. Pople",
+                "J. S. Binkley"
+            ],
+            "journal": "Journal of the American Chemical Society",
+            "original": "W.J. Pietro, M.M. Francl, W.J. Hehre, D.J. DeFrees, J.A. Pople and J.S. Binkley, J. Am. Chem. Soc. 104, 5039 (1982)  ",
+            "page": "5039-5048",
+            "title": "Self-consistent molecular orbital methods. 24. Supplemented small split-valence basis sets for second-row elements",
+            "valid": true,
+            "volume": "104",
+            "year": 1982
+        }
+    ],
+    "original": "\nElements                             Reference\n--------                             ----------\nNa - Ar:  W.J. Pietro, M.M. Francl, W.J. Hehre, D.J. DeFrees, J.A. Pople and \n          J.S. Binkley, J. Am. Chem. Soc. 104, 5039 (1982)\n\n  ",
+    "valid": true
+}

@@ -1,0 +1,47 @@
+{
+    "citations": [
+        {
+            "DOI": "10.1063/1.475855",
+            "Z": [
+                1,
+                6,
+                7,
+                8
+            ],
+            "authors": [
+                "Mark E. Casida",
+                "Christine Jamorski",
+                "Kim C. Casida",
+                "Dennis R. Salahub"
+            ],
+            "journal": "The Journal of Chemical Physics",
+            "original": "Mark E. Casida, Christine Jamorski, Kim C. Casida, and Dennis R. Salahub, Molecular excitation energies to high-lying bound states from time-dependent density-functionalresponse theory: Characterization and correction of the time-dependent local density approximation ionization threshold, The Journal of Chemical Physics 108, 4439 (1998).",
+            "page": "4439-4449",
+            "title": "Molecular excitation energies to high-lying bound states from time-dependent\u2009density-functional\u2009response\u2009theory: Characterization\u2009and correction\u2009of\u2009the\u2009time-dependent\u2009local\u2009density\u2009approximation ionization threshold",
+            "valid": true,
+            "volume": "108",
+            "year": 1998
+        },
+        {
+            "DOI": "10.1007/bf01127101",
+            "Z": [
+                1,
+                6,
+                7,
+                8
+            ],
+            "authors": [
+                "Andrzej J. Sadlej"
+            ],
+            "journal": "Theoretica Chimica Acta",
+            "original": "Andrzej J. Sadlej, Medium-size polarized basis sets for high-level-correlated calculations of molecular electric properties, Theoretica Chimica Acta 79, 123 (1991).  ",
+            "page": "123-140",
+            "title": "Medium-size polarized basis sets for high-level-correlated calculations of molecular electric properties",
+            "valid": true,
+            "volume": "79",
+            "year": 1991
+        }
+    ],
+    "original": "Elements                             References\n--------                             ----------\nH C N O: Mark E. Casida, Christine Jamorski, Kim C. Casida, and Dennis R. Salahub, Molecular excitation energies to high-lying bound states from time-dependent density-functionalresponse theory: Characterization and correction of the time-dependent local density approximation ionization threshold, The Journal of Chemical Physics 108, 4439 (1998).\nH C N O: Andrzej J. Sadlej, Medium-size polarized basis sets for high-level-correlated calculations of molecular electric properties, Theoretica Chimica Acta 79, 123 (1991).\n\n\n",
+    "valid": true
+}

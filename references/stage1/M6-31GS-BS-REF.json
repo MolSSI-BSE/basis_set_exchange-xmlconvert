@@ -1,0 +1,32 @@
+{
+    "citations": [
+        {
+            "DOI": "10.1063/1.1563619",
+            "Z": [
+                21,
+                22,
+                23,
+                24,
+                25,
+                26,
+                27,
+                28,
+                29
+            ],
+            "authors": [
+                "Alexander V. Mitin",
+                "Jon Baker",
+                "Peter Pulay"
+            ],
+            "journal": "The Journal of Chemical Physics",
+            "original": "A.V. Mitin, J. Baker, P. Pulay, An improved 6-31G* basis set for first-row transition metals, J. Chem. Phys. 118, 7775 (2003). ",
+            "page": "7775-7782",
+            "title": "An improved 6-31G* basis set for first-row transition metals",
+            "valid": true,
+            "volume": "118",
+            "year": 2003
+        }
+    ],
+    "original": "Elements                             References\n--------                             ----------\nSc, Ti, V, Cr, Mn, Fe, Co, Ni, Cu : A.V. Mitin, J. Baker, P. Pulay, An improved 6-31G* basis set for first-row transition metals, J. Chem. Phys. 118, 7775 (2003).\n\n",
+    "valid": true
+}

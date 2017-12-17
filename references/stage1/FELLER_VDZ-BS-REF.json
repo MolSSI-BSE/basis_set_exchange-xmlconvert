@@ -1,0 +1,43 @@
+{
+    "citations": [
+        {
+            "DOI": "10.1063/1.463096",
+            "Z": [
+                19
+            ],
+            "authors": [
+                "Ansgar Sch\u00e4fer",
+                "Hans Horn",
+                "Reinhart Ahlrichs"
+            ],
+            "journal": "The Journal of Chemical Physics",
+            "original": "A. Schafer, H. Horn and R. Ahlrichs, J. Chem. Phys. 97, 2571 (1992)",
+            "page": "2571-2577",
+            "title": "Fully optimized contracted Gaussian basis sets for atoms Li to Kr",
+            "valid": true,
+            "volume": "97",
+            "year": 1992
+        },
+        {
+            "DOI": "10.1063/1.470237",
+            "Z": [
+                19
+            ],
+            "authors": [
+                "David Feller",
+                "Eric D. Glendening",
+                "David E. Woon",
+                "Martin W. Feyereisen"
+            ],
+            "journal": "The Journal of Chemical Physics",
+            "original": "D. Feller, E.D. Glendening, D.E. Woon and M.W. Feyereisen, J. Chem. Phys. 103, 3526 (1995).  ",
+            "page": "3526-3542",
+            "title": "An extended basis set ab initio study of alkali metal cation\u2013water clusters",
+            "valid": true,
+            "volume": "103",
+            "year": 1995
+        }
+    ],
+    "original": "\nElements                             References\n--------                             ----------\nK : A. Schafer, H. Horn and R. Ahlrichs, J. Chem. Phys. 97, 2571 (1992)\nK:  D. Feller, E.D. Glendening, D.E. Woon and M.W. Feyereisen, J. Chem. Phys. 103, 3526 (1995).\n\n  ",
+    "valid": true
+}

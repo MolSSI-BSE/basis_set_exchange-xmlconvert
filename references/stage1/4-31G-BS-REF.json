@@ -1,0 +1,54 @@
+{
+    "citations": [
+        {
+            "DOI": "10.1063/1.1674902",
+            "Z": [
+                1,
+                6,
+                7,
+                8,
+                9
+            ],
+            "authors": [
+                "R. Ditchfield",
+                "W. J. Hehre",
+                "J. A. Pople"
+            ],
+            "journal": "The Journal of Chemical Physics",
+            "original": "R. Ditchfield, W.J. Hehre and J.A. Pople, J. Chem. Phys. 54, 724 (1971).",
+            "page": "724-728",
+            "title": "Self\u2010Consistent Molecular\u2010Orbital Methods. IX. An Extended Gaussian\u2010Type Basis for Molecular\u2010Orbital Studies of Organic Molecules",
+            "valid": true,
+            "volume": "54",
+            "year": 1971
+        },
+        {
+            "Z": [
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18
+            ],
+            "authors": [
+                "M.S. Gordon",
+                "J.S. Binkley",
+                "J.A. Pople",
+                "W.J. Pietro",
+                "W.J. Hehre"
+            ],
+            "journal": "J. Am. Chem. Soc.",
+            "original": "M.S. Gordon, J.S. Binkley, J.A. Pople, W.J. Pietro and W.J. Hehre, J. Am. Chem. Soc. 104, 2797 (1983).",
+            "page": 2797,
+            "title": false,
+            "valid": true,
+            "volume": 104,
+            "year": 1983
+        }
+    ],
+    "original": "\nElements                             References\n--------                             ----------\nH, C-F: R. Ditchfield, W.J. Hehre and J.A. Pople, J. Chem. Phys. 54, 724 \n          (1971).\nNa - Ar:  M.S. Gordon, J.S. Binkley, J.A. Pople, W.J. Pietro and W.J. Hehre,\n          J. Am. Chem. Soc. 104, 2797 (1983).\n\n  ",
+    "valid": true
+}

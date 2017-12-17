@@ -1,0 +1,42 @@
+{
+    "citations": [
+        {
+            "DOI": "10.1063/1.3613639",
+            "Z": [
+                16,
+                17
+            ],
+            "authors": [
+                "David Feller",
+                "Kirk A. Peterson",
+                "J. Grant Hill"
+            ],
+            "journal": "The Journal of Chemical Physics",
+            "original": "D. Feller, K. A. Peterson, and J. G. Hill, On the effectiveness of CCSD(T) complete basis set extrapolations for atomization energies, Journal of Chemical Physics 135, 044102 (2011).",
+            "page": "044102",
+            "title": "On the effectiveness of CCSD(T) complete basis set extrapolations for atomization energies",
+            "valid": true,
+            "volume": "135",
+            "year": 2011
+        },
+        {
+            "DOI": "10.1063/1.4791560",
+            "Z": [
+                14,
+                15
+            ],
+            "authors": [
+                "David Feller"
+            ],
+            "journal": "The Journal of Chemical Physics",
+            "original": "D. Feller, Benchmarks of improved complete basis set extrapolation schemes designed for standard CCSD(T) atomization energies, Journal of Chemical Physics 138, 074103 (2013).  ",
+            "page": "074103",
+            "title": "Benchmarks of improved complete basis set extrapolation schemes designed for standard CCSD(T) atomization energies",
+            "valid": true,
+            "volume": "138",
+            "year": 2013
+        }
+    ],
+    "original": "Elements                             References\n--------                             ----------\nS Cl: D. Feller, K. A. Peterson, and J. G. Hill, On the effectiveness of CCSD(T) complete basis set extrapolations for atomization energies, Journal of Chemical Physics 135, 044102 (2011).\nSi P: D. Feller, Benchmarks of improved complete basis set extrapolation schemes designed for standard CCSD(T) atomization energies, Journal of Chemical Physics 138, 074103 (2013).\n\n\n",
+    "valid": true
+}

@@ -1,0 +1,96 @@
+{
+    "citations": [
+        {
+            "DOI": "10.1007/bf00533485",
+            "Z": [
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10
+            ],
+            "authors": [
+                "P. C. Hariharan",
+                "J. A. Pople"
+            ],
+            "journal": "Theoretica Chimica Acta",
+            "original": "P.C. Hariharan and J.A. Pople, Theoret. Chimica Acta 28, 213 (1973).",
+            "page": "213-222",
+            "title": "The influence of polarization functions on molecular orbital hydrogenation energies",
+            "valid": true,
+            "volume": "28",
+            "year": 1973
+        },
+        {
+            "DOI": "10.1063/1.444267",
+            "Z": [
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18
+            ],
+            "authors": [
+                "Michelle M. Francl",
+                "William J. Pietro",
+                "Warren J. Hehre",
+                "J. Stephen Binkley",
+                "Mark S. Gordon",
+                "Douglas J. DeFrees",
+                "John A. Pople"
+            ],
+            "journal": "The Journal of Chemical Physics",
+            "original": "M.M. Francl, W.J. Petro, W.J. Hehre, J.S. Binkley, M.S. Gordon, D.J. DeFrees and J.A. Pople, J. Chem. Phys. 77, 3654 (1982).",
+            "page": "3654-3665",
+            "title": "Self\u2010consistent molecular orbital methods. XXIII. A polarization\u2010type basis set for second\u2010row elements",
+            "valid": true,
+            "volume": "77",
+            "year": 1982
+        },
+        {
+            "DOI": "10.1063/1.476673",
+            "Z": [
+                19,
+                20,
+                21,
+                22,
+                23,
+                24,
+                25,
+                26,
+                27,
+                28,
+                29,
+                30
+            ],
+            "authors": [
+                "Vitaly A. Rassolov",
+                "John A. Pople",
+                "Mark A. Ratner",
+                "Theresa L. Windus"
+            ],
+            "journal": "The Journal of Chemical Physics",
+            "original": "V. Rassolov, J.A. Pople, M. Ratner and T.L. Windus, J. Chem. Phys. 109, 1223 (1998) ",
+            "page": "1223-1229",
+            "title": "6-31G* basis set for atoms K through Zn",
+            "valid": true,
+            "volume": "109",
+            "year": 1998
+        },
+        {
+            "Z": [
+                -1
+            ],
+            "original": "He and Ne are unpublished basis sets taken from Gaussian.",
+            "valid": "unpublished"
+        }
+    ],
+    "original": "\nElements                             References\n--------                             ----------\nLi - Ne: P.C. Hariharan and J.A. Pople, Theoret. Chimica Acta 28, 213 (1973).\nNa - Ar: M.M. Francl, W.J. Petro, W.J. Hehre, J.S. Binkley, M.S. Gordon, D.J.\n         DeFrees and J.A. Pople, J. Chem. Phys. 77, 3654 (1982).\nK  - Zn: V. Rassolov, J.A. Pople, M. Ratner and T.L. Windus, J. Chem. Phys. \n         109, 1223 (1998) \n         \n         Note: He and Ne are unpublished basis sets taken from Gaussian.\n\n  ",
+    "valid": true
+}

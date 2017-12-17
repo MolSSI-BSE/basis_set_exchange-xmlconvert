@@ -1,0 +1,222 @@
+{
+    "citations": [
+        {
+            "DOI": "10.1007/bf00533485",
+            "Z": [
+                1
+            ],
+            "authors": [
+                "P. C. Hariharan",
+                "J. A. Pople"
+            ],
+            "journal": "Theoretica Chimica Acta",
+            "original": "P.C. Hariharan and J.A. Pople, Theoret. Chimica Acta 28, 213 (1973).",
+            "page": "213-222",
+            "title": "The influence of polarization functions on molecular orbital hydrogenation energies",
+            "valid": true,
+            "volume": "28",
+            "year": 1973
+        },
+        {
+            "DOI": "10.1063/1.444267",
+            "Z": [
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9
+            ],
+            "authors": [
+                "Michelle M. Francl",
+                "William J. Pietro",
+                "Warren J. Hehre",
+                "J. Stephen Binkley",
+                "Mark S. Gordon",
+                "Douglas J. DeFrees",
+                "John A. Pople"
+            ],
+            "journal": "The Journal of Chemical Physics",
+            "original": "M.M. Francl, W.J. Petro, W.J. Hehre, J.S. Binkley, M.S. Gordon, D.J. DeFrees and J.A. Pople, J. Chem. Phys. 77, 3654 (1982)",
+            "page": "3654-3665",
+            "title": "Self\u2010consistent molecular orbital methods. XXIII. A polarization\u2010type basis set for second\u2010row elements",
+            "valid": true,
+            "volume": "77",
+            "year": 1982
+        },
+        {
+            "DOI": "10.1063/1.444267",
+            "Z": [
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18
+            ],
+            "authors": [
+                "Michelle M. Francl",
+                "William J. Pietro",
+                "Warren J. Hehre",
+                "J. Stephen Binkley",
+                "Mark S. Gordon",
+                "Douglas J. DeFrees",
+                "John A. Pople"
+            ],
+            "journal": "The Journal of Chemical Physics",
+            "original": "M.M. Francl, W.J. Petro, W.J. Hehre, J.S. Binkley, M.S. Gordon, D.J. DeFrees and J.A. Pople, J. Chem. Phys. 77, 3654 (1982) ",
+            "page": "3654-3665",
+            "title": "Self\u2010consistent molecular orbital methods. XXIII. A polarization\u2010type basis set for second\u2010row elements",
+            "valid": true,
+            "volume": "77",
+            "year": 1982
+        },
+        {
+            "DOI": "10.1002/jcc.540040303",
+            "Z": [
+                1
+            ],
+            "authors": [
+                "Timothy Clark",
+                "Jayaraman Chandrasekhar",
+                "G\ufffdnther W. Spitznagel",
+                "Paul Von Ragu\ufffd Schleyer"
+            ],
+            "journal": "Journal of Computational Chemistry",
+            "original": "T. Clark, J. Chandrasekhar, G.W. Spitznagel and P. von R. Schleyer, J. Comp. Chem. 4, 294 (1983).",
+            "page": "294-301",
+            "title": "Efficient diffuse function-augmented basis sets for anion calculations. III. The 3-21+G basis set for first-row elements, Li-F",
+            "valid": true,
+            "volume": "4",
+            "year": 1983
+        },
+        {
+            "DOI": "10.1002/jcc.540040303",
+            "Z": [
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10
+            ],
+            "authors": [
+                "Timothy Clark",
+                "Jayaraman Chandrasekhar",
+                "G\ufffdnther W. Spitznagel",
+                "Paul Von Ragu\ufffd Schleyer"
+            ],
+            "journal": "Journal of Computational Chemistry",
+            "original": "T. Clark, J. Chandrasekhar, G.W. Spitznagel and P. von R. Schleyer, J. Comp. Chem. 4, 294 (1983).",
+            "page": "294-301",
+            "title": "Efficient diffuse function-augmented basis sets for anion calculations. III. The 3-21+G basis set for first-row elements, Li-F",
+            "valid": true,
+            "volume": "4",
+            "year": 1983
+        },
+        {
+            "DOI": "10.1063/1.438955",
+            "Z": [
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18
+            ],
+            "authors": [
+                "R. Krishnan",
+                "J. S. Binkley",
+                "R. Seeger",
+                "J. A. Pople"
+            ],
+            "journal": "The Journal of Chemical Physics",
+            "original": "R. Krishnam, J.S. Binkley, R. Seeger, J.A. Pople, J. Chem. Phys. 72, 650 (1980). ",
+            "page": "650-654",
+            "title": "Self\u2010consistent molecular orbital methods. XX. A basis set for correlated wave functions",
+            "valid": true,
+            "volume": "72",
+            "year": 1980
+        },
+        {
+            "DOI": "10.1002/jcc.540040303",
+            "Z": [
+                1
+            ],
+            "authors": [
+                "Timothy Clark",
+                "Jayaraman Chandrasekhar",
+                "G\ufffdnther W. Spitznagel",
+                "Paul Von Ragu\ufffd Schleyer"
+            ],
+            "journal": "Journal of Computational Chemistry",
+            "original": "T. Clark, J. Chandrasekhar, G.W. Spitznagel and P. von R. Schleyer, J. Comp. Chem. 4, 294 (1983).",
+            "page": "294-301",
+            "title": "Efficient diffuse function-augmented basis sets for anion calculations. III. The 3-21+G basis set for first-row elements, Li-F",
+            "valid": true,
+            "volume": "4",
+            "year": 1983
+        },
+        {
+            "DOI": "10.1002/jcc.540040303",
+            "Z": [
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10
+            ],
+            "authors": [
+                "Timothy Clark",
+                "Jayaraman Chandrasekhar",
+                "G\ufffdnther W. Spitznagel",
+                "Paul Von Ragu\ufffd Schleyer"
+            ],
+            "journal": "Journal of Computational Chemistry",
+            "original": "T. Clark, J. Chandrasekhar, G.W. Spitznagel and P. von R. Schleyer, J. Comp. Chem. 4, 294 (1983).",
+            "page": "294-301",
+            "title": "Efficient diffuse function-augmented basis sets for anion calculations. III. The 3-21+G basis set for first-row elements, Li-F",
+            "valid": true,
+            "volume": "4",
+            "year": 1983
+        },
+        {
+            "DOI": "10.1063/1.438955",
+            "Z": [
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18
+            ],
+            "authors": [
+                "R. Krishnan",
+                "J. S. Binkley",
+                "R. Seeger",
+                "J. A. Pople"
+            ],
+            "journal": "The Journal of Chemical Physics",
+            "original": "R. Krishnam, J.S. Binkley, R. Seeger, J.A. Pople, J. Chem. Phys. 72, 650 (1980). ",
+            "page": "650-654",
+            "title": "Self\u2010consistent molecular orbital methods. XX. A basis set for correlated wave functions",
+            "valid": true,
+            "volume": "72",
+            "year": 1980
+        }
+    ],
+    "original": "Elements                             References\n--------                             ----------\nH: P.C. Hariharan and J.A. Pople, Theoret. Chimica Acta 28, 213 (1973).\nLi - F: M.M. Francl, W.J. Petro, W.J. Hehre, J.S.\n        Binkley, M.S. Gordon, D.J. DeFrees and J.A.\n        Pople, J. Chem. Phys. 77, 3654 (1982)\nNa - Ar: M.M. Francl, W.J. Petro, W.J. Hehre, J.S.\n         Binkley, M.S. Gordon, D.J. DeFrees and J.A.\n         Pople, J. Chem. Phys. 77, 3654 (1982)\n\nH: T. Clark, J. Chandrasekhar, G.W. Spitznagel and P. von R. Schleyer, J. Comp. Chem. 4, 294 (1983).\nLi - Ne: T. Clark, J. Chandrasekhar, G.W. Spitznagel and P. von R. Schleyer, J. Comp. Chem. 4, 294 (1983).\nNa - Ar: R. Krishnam, J.S. Binkley, R. Seeger, J.A. Pople,\n         J. Chem. Phys. 72, 650 (1980).\n\nH: T. Clark, J. Chandrasekhar, G.W. Spitznagel and P. von R. Schleyer, J. Comp. Chem. 4, 294 (1983).\nLi - Ne: T. Clark, J. Chandrasekhar, G.W. Spitznagel and P. von R. Schleyer, J. Comp. Chem. 4, 294 (1983).\nNa - Ar: R. Krishnam, J.S. Binkley, R. Seeger, J.A. Pople,\n         J. Chem. Phys. 72, 650 (1980).\n\n",
+    "valid": true
+}

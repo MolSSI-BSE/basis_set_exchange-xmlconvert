@@ -1,0 +1,102 @@
+{
+    "citations": [
+        {
+            "Z": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19,
+                20,
+                21,
+                22,
+                23,
+                24,
+                25,
+                26,
+                27,
+                28,
+                29,
+                30,
+                31,
+                32,
+                33,
+                34,
+                35,
+                36
+            ],
+            "article": "jorge:2009a",
+            "original": "F. E. Jorge, A. Canal Neto, G. G. Camiletti, and S. F. Machado, Contracted Gaussian basis sets for Douglas?Kroll?Hess calculations: Estimating scalar relativistic effects of some atomic and molecular properties, Journal of Chemical Physics 130, 064108 (2009)."
+        },
+        {
+            "Z": [
+                55,
+                56,
+                57,
+                72,
+                73,
+                74,
+                75,
+                76,
+                77,
+                79,
+                80,
+                81,
+                82,
+                83,
+                84,
+                85,
+                86
+            ],
+            "article": "neto:2013a",
+            "original": "A. Canal Neto and F. E. Jorge, All-electron double zeta basis sets for the most fifth-row atoms: Application in DFT spectroscopic constant calculations, Chemical Physics Letters 582, 158 (2013)."
+        },
+        {
+            "Z": [
+                78
+            ],
+            "article": "berr\u00eado:2010a",
+            "original": "R. C. de Berr\u00eado, and F. E. Jorge, All-electron double zeta basis sets for platinum: Estimating scalar relativistic effects on platinum(II) anticancer drugs, Journal of Molecular Structure: THEOCHEM 961, 107 (2010)."
+        },
+        {
+            "Z": [
+                37,
+                38,
+                39,
+                40,
+                41,
+                42,
+                43,
+                44,
+                45,
+                46,
+                47,
+                48,
+                49,
+                50,
+                51,
+                52,
+                53,
+                54
+            ],
+            "article": "barros:2010a",
+            "original": "C. L. Barros, P. J. P. de Oliveira, F. E. Jorge, A. Canal Neto, and M. Campos, Gaussian basis set of double zeta quality for atoms Rb through Xe: application in non-relativistic and relativistic calculations of atomic and molecular properties Gaussian basis set of double zeta quality for atoms Rb through Xe: application in non-relativistic and relativistic calculations of atomic and molecular properties, Molecular Physics 108, 1965 (2010).  "
+        }
+    ],
+    "original": "Elements                             References\n--------                             ----------\nH He Li Be B C N O F Ne Na Mg Al Si P S Cl Ar K Ca Sc Ti V Cr Mn Fe Co Ni Cu Zn Ga Ge As Se Br Kr: F. E. Jorge, A. Canal Neto, G. G. Camiletti, and S. F. Machado, Contracted Gaussian basis sets for Douglas?Kroll?Hess calculations: Estimating scalar relativistic effects of some atomic and molecular properties, Journal of Chemical Physics 130, 064108 (2009).\nCs Ba La Hf Ta W Re Os Ir Au Hg Tl Pb Bi Po At Rn: A. Canal Neto and F. E. Jorge, All-electron double zeta basis sets for the most fifth-row atoms: Application in DFT spectroscopic constant calculations, Chemical Physics Letters 582, 158 (2013).\nPt: R. C. de Berr\u00eado, and F. E. Jorge, All-electron double zeta basis sets for platinum: Estimating scalar relativistic effects on platinum(II) anticancer drugs, Journal of Molecular Structure: THEOCHEM 961, 107 (2010).\nRb Sr Y Zr Nb Mo Tc Ru Rh Pd Ag Cd In Sn Sb Te I Xe: C. L. Barros, P. J. P. de Oliveira, F. E. Jorge, A. Canal Neto, and M. Campos, Gaussian basis set of double zeta quality for atoms Rb through Xe: application in non-relativistic and relativistic calculations of atomic and molecular properties Gaussian basis set of double zeta quality for atoms Rb through Xe: application in non-relativistic and relativistic calculations of atomic and molecular properties, Molecular Physics 108, 1965 (2010).\n\n\n",
+    "valid": true
+}

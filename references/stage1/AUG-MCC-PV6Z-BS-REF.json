@@ -1,0 +1,24 @@
+{
+    "citations": [
+        {
+            "DOI": "10.1063/1.479683",
+            "Z": [
+                1
+            ],
+            "authors": [
+                "Steven L. Mielke",
+                "Bruce C. Garrett",
+                "Kirk A. Peterson"
+            ],
+            "journal": "The Journal of Chemical Physics",
+            "original": "S.L. Mielke, B.C. Garrett and K.A. Peterson, J. Chem. Phys. 111, 3806 (1999).  ",
+            "page": "3806-3811",
+            "title": "The utility of many-body decompositions for the accurate basis set extrapolation of ab initio data",
+            "valid": true,
+            "volume": "111",
+            "year": 1999
+        }
+    ],
+    "original": "Elements                             References\n--------                             ---------\nH    : S.L. Mielke, B.C. Garrett and K.A. Peterson, J. Chem. Phys. 111, 3806\n(1999).\n\n\n",
+    "valid": true
+}

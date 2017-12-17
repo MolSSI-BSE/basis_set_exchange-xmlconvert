@@ -1,0 +1,32 @@
+{
+    "citations": [
+        {
+            "DOI": "10.1021/jp0539223",
+            "Z": [
+                39,
+                40,
+                41,
+                42,
+                43,
+                44,
+                45,
+                46,
+                47
+            ],
+            "authors": [
+                "Nathan E. Schultz",
+                "Yan Zhao",
+                "Donald G. Truhlar"
+            ],
+            "journal": "The Journal of Physical Chemistry A",
+            "original": "T N. E. Schultz, Y. Zhao, and D. G. Truhlar, Density Functionals for Inorganometallic and Organometallic Chemistry, Journal of Physical Chemistry A 109, 11127-11143 (2005).  ",
+            "page": "11127-11143",
+            "title": "Density Functionals for Inorganometallic and Organometallic Chemistry",
+            "valid": true,
+            "volume": "109",
+            "year": 2005
+        }
+    ],
+    "original": "Elements                             References\n--------                             ----------\nY Zr Nb Mo Tc Ru Rh Pd Ag : T N. E. Schultz, Y. Zhao, and D. G. Truhlar, Density Functionals for Inorganometallic and Organometallic Chemistry, Journal of Physical Chemistry A 109, 11127-11143 (2005).\n\n\n",
+    "valid": true
+}

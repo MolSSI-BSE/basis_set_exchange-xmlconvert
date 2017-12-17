@@ -1,0 +1,57 @@
+{
+    "citations": [
+        {
+            "DOI": "10.1063/1.3495681",
+            "Z": [
+                37,
+                38,
+                39,
+                40,
+                41,
+                42,
+                43,
+                44,
+                45,
+                46,
+                47,
+                48,
+                49,
+                50,
+                51,
+                52,
+                53,
+                54,
+                55,
+                56,
+                72,
+                73,
+                74,
+                75,
+                76,
+                77,
+                78,
+                79,
+                80,
+                81,
+                82,
+                83,
+                84,
+                85,
+                86
+            ],
+            "authors": [
+                "Florian Weigend",
+                "Alexander Baldes"
+            ],
+            "journal": "The Journal of Chemical Physics",
+            "original": "Florian Weigend and Alexander Baldes, Segmented contracted basis sets for one- and two-component Dirac?Fock effective core potentials, J. Chem. Phys. 133, 174102 (2010).  ",
+            "page": "174102",
+            "title": "Segmented contracted basis sets for one- and two-component Dirac\u2013Fock effective core potentials",
+            "valid": true,
+            "volume": "133",
+            "year": 2010
+        }
+    ],
+    "original": "Elements                             References\n--------                             ----------\nRb Sr Y Zr Nb Mo Tc Ru Rh Pd Ag Cd In Sn Sb Te I Xe Cs Ba Hf Ta W Re Os Ir Pt Au Hg Tl Pb Bi Po At Rn: Florian Weigend and Alexander Baldes, Segmented contracted basis sets for one- and two-component Dirac?Fock effective core potentials, J. Chem. Phys. 133, 174102 (2010).\n\n\n",
+    "valid": true
+}

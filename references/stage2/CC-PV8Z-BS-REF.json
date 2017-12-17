@@ -1,0 +1,20 @@
+{
+    "citations": [
+        {
+            "Z": [
+                1
+            ],
+            "original": "S. L. Mielke and K. A. Peterson, to be published.",
+            "valid": "unpublished"
+        },
+        {
+            "Z": [
+                10
+            ],
+            "article": "feller:2003a",
+            "original": "D. Feller, K. A. Peterson, W. A. de Jong and D. A. Dixon, J. Chem. Phys. 118, 3510 (2003)  "
+        }
+    ],
+    "original": "Elements                             References\n--------                             ----------\nH    : S. L. Mielke and K. A. Peterson, to be published.\nNe   : D. Feller, K. A. Peterson, W. A. de Jong and D. A. Dixon,\nJ. Chem. Phys. 118, 3510 (2003)\n\n\n",
+    "valid": true
+}

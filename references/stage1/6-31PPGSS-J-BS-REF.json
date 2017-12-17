@@ -1,0 +1,89 @@
+{
+    "citations": [
+        {
+            "DOI": "10.1063/1.1677527",
+            "Z": [
+                1,
+                6,
+                7,
+                8
+            ],
+            "authors": [
+                "W. J. Hehre",
+                "R. Ditchfield",
+                "J. A. Pople"
+            ],
+            "journal": "The Journal of Chemical Physics",
+            "original": "W. J. Hehre, R. Ditchfield and J. A. Pople, Self?Consistent Molecular Orbital Methods. XII. Further Extensions of Gaussian?Type Basis Sets for Use in Molecular Orbital Studies of Organic Molecules, J. Chem. Phys. 56, 2257-2261 (1972).",
+            "page": "2257-2261",
+            "title": "Self\u2014Consistent Molecular Orbital Methods. XII. Further Extensions of Gaussian\u2014Type Basis Sets for Use in Molecular Orbital Studies of Organic Molecules",
+            "valid": true,
+            "volume": "56",
+            "year": 1972
+        },
+        {
+            "DOI": "10.1007/bf00533485",
+            "Z": [
+                1,
+                6,
+                7,
+                8
+            ],
+            "authors": [
+                "P. C. Hariharan",
+                "J. A. Pople"
+            ],
+            "journal": "Theoretica Chimica Acta",
+            "original": "P.C. Hariharan and J.A. Pople, The Influence of Polarization Functions on Molecular Orbital Hydrogenation Energies, Theoret. Chimica Acta 28, 213-222 (1973).",
+            "page": "213-222",
+            "title": "The influence of polarization functions on molecular orbital hydrogenation energies",
+            "valid": true,
+            "volume": "28",
+            "year": 1973
+        },
+        {
+            "DOI": "10.1002/jcc.540040303",
+            "Z": [
+                1,
+                6,
+                7,
+                8
+            ],
+            "authors": [
+                "Timothy Clark",
+                "Jayaraman Chandrasekhar",
+                "G\ufffdnther W. Spitznagel",
+                "Paul Von Ragu\ufffd Schleyer"
+            ],
+            "journal": "Journal of Computational Chemistry",
+            "original": "T. Clark, J. Chandrasekhar, G.W. Spitznagel and P. von R. Schleyer, Efficient Diffuse Function- Augmented Basis Sets for Anion Calculations. III.* The 3-21+G Basis Set for First-Row Elements, Li-F, J. Comp. Chem. 4, 294-301 (1983).",
+            "page": "294-301",
+            "title": "Efficient diffuse function-augmented basis sets for anion calculations. III. The 3-21+G basis set for first-row elements, Li-F",
+            "valid": true,
+            "volume": "4",
+            "year": 1983
+        },
+        {
+            "DOI": "10.1021/ct200546q",
+            "Z": [
+                1,
+                6,
+                7,
+                8
+            ],
+            "authors": [
+                "Hanna Kj\u00e6r",
+                "Stephan P. A. Sauer"
+            ],
+            "journal": "Journal of Chemical Theory and Computation",
+            "original": "H. Kj\u00e6r and S. P. A. Sauer, Pople style basis sets for the calculation of NMR spin-spin coupling constants: the 6-31G-J and 6-311G-J basis sets, J. Chem. Theory Comput. 7, 4070-4076 (2011).  ",
+            "page": "4070-4076",
+            "title": "Pople Style Basis Sets for the Calculation of NMR Spin\u2013Spin Coupling Constants: the 6-31G-J and 6-311G-J Basis Sets",
+            "valid": true,
+            "volume": "7",
+            "year": 2011
+        }
+    ],
+    "original": "Elements                             References\n--------                             ----------\nH C N O: W. J. Hehre, R. Ditchfield and J. A. Pople, Self?Consistent Molecular Orbital Methods. XII. Further Extensions of Gaussian?Type Basis Sets for Use in Molecular Orbital Studies of Organic Molecules, J. Chem. Phys. 56, 2257-2261 (1972).\nH C N O: P.C. Hariharan and J.A. Pople, The Influence of Polarization Functions on Molecular Orbital Hydrogenation Energies, Theoret. Chimica Acta 28, 213-222 (1973).\nH C N O: T. Clark, J. Chandrasekhar, G.W. Spitznagel and P. von R. Schleyer, Efficient Diffuse Function- Augmented Basis Sets for Anion Calculations. III.* The 3-21+G Basis Set for First-Row Elements, Li-F, J. Comp. Chem. 4, 294-301 (1983).\nH C N O: H. Kj\u00e6r and S. P. A. Sauer, Pople style basis sets for the calculation of NMR spin-spin coupling constants: the 6-31G-J and 6-311G-J basis sets, J. Chem. Theory Comput. 7, 4070-4076 (2011).\n\n\n",
+    "valid": true
+}

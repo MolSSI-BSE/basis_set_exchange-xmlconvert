@@ -1,0 +1,48 @@
+{
+    "citations": [
+        {
+            "Z": [
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18
+            ],
+            "article": "krishnan:1980a",
+            "original": "R. Krishnan, J.S. Binkley, R. Seeger, J.A. Pople, J. Chem. Phys. 72, 650 (1980)."
+        },
+        {
+            "Z": [
+                19,
+                20
+            ],
+            "article": "blaudeau:1997a",
+            "original": "J-P. Blaudeau, M. P. McGrath, L.A. Curtiss and L. Radom, J. Chem. Phys. 107, 5016 (1997)."
+        },
+        {
+            "Z": [
+                31,
+                32,
+                33,
+                34,
+                35,
+                36
+            ],
+            "article": "curtiss:1995a",
+            "original": "L. A. Curtiss, M. P. McGrath, J-P. Blandeau, N. E. Davis, R. C. Binning, Jr., L. Radom, J. Chem. Phys. 103, 6104 (1995)  "
+        }
+    ],
+    "original": "\nElements                             References\n--------                             ----------\nLi - Ar: R. Krishnan, J.S. Binkley, R. Seeger, J.A. Pople, J. Chem. Phys. 72,\n         650 (1980).\nK  - Ca: J-P. Blaudeau, M. P. McGrath, L.A. Curtiss\n                                   and L. Radom, J. Chem. Phys. 107, 5016\n                                   (1997).\nGa - Kr: L. A. Curtiss, M. P. McGrath, J-P. Blandeau, N. E. Davis, R. C. \n         Binning, Jr., L. Radom, J. Chem. Phys. 103, 6104 (1995)\n\n  ",
+    "valid": true
+}

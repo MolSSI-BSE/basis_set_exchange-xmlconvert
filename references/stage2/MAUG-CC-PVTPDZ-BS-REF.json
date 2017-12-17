@@ -1,0 +1,95 @@
+{
+    "citations": [
+        {
+            "Z": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18
+            ],
+            "article": "papajak:2009a",
+            "original": "E. Papajak, H. R. Leverentz, J. Zheng, and D. G. Truhlar, Efficient Diffuse Basis Sets: cc-pVxZ+ and maug-cc-pVxZ, Journal of Chemical Theory and Computation 5, 1197-1202 (2009)."
+        },
+        {
+            "Z": [
+                1,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10
+            ],
+            "article": "dunning:1989a",
+            "original": "T.H. Dunning, Jr., J. Chem. Phys. 90, 1007 (1989)."
+        },
+        {
+            "Z": [
+                2
+            ],
+            "article": "woon:1994a",
+            "original": "D.E. Woon and T.H. Dunning, Jr., J. Chem. Phys. 100, 2975 (1994)."
+        },
+        {
+            "Z": [
+                5,
+                6,
+                7,
+                8,
+                9
+            ],
+            "article": "kendall:1992a",
+            "original": "R.A. Kendall, T.H. Dunning, Jr. and R.J. Harrison, J. Chem. Phys. 96, 6796 (1992)."
+        },
+        {
+            "Z": [
+                11,
+                12
+            ],
+            "original": "D.E. Woon and T.H. Dunning, Jr., to be published .",
+            "valid": "unpublished"
+        },
+        {
+            "Z": [
+                13,
+                14,
+                15,
+                16,
+                17,
+                18
+            ],
+            "article": "woon:1993a",
+            "original": "D.E. Woon and T.H. Dunning, Jr., J. Chem. Phys. 98, 1358 (1993)."
+        },
+        {
+            "Z": [
+                13,
+                14,
+                15,
+                16,
+                17,
+                18
+            ],
+            "article": "dunning:2001a",
+            "original": "T.H. Dunning, Jr., K.A. Peterson and A.K. Wilson, J. Chem. Phys. 114, 9244 (2001)."
+        }
+    ],
+    "original": "Elements                             References\n--------                             ----------\nH-Ar: E. Papajak, H. R. Leverentz, J. Zheng, and D. G. Truhlar, Efficient Diffuse Basis Sets: cc-pVxZ+ and maug-cc-pVxZ, Journal of Chemical Theory and Computation 5, 1197-1202 (2009).\nH, Li-Ne: T.H. Dunning, Jr., J. Chem. Phys. 90, 1007 (1989).\nHe: D.E. Woon and T.H. Dunning, Jr., J. Chem. Phys. 100, 2975 (1994).\nB - F: R.A. Kendall, T.H. Dunning, Jr. and R.J. Harrison, J. Chem. Phys. 96, 6796 (1992).\nNa - Mg: D.E. Woon and T.H. Dunning, Jr., to be published .\nAl - Ar: D.E. Woon and T.H. Dunning, Jr., J. Chem. Phys. 98, 1358 (1993).\nAl - Ar: T.H. Dunning, Jr., K.A. Peterson and A.K. Wilson, J. Chem. Phys. 114, 9244 (2001).\n\n\n",
+    "valid": true
+}

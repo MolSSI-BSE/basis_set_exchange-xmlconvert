@@ -1,0 +1,26 @@
+{
+    "citations": [
+        {
+            "DOI": "10.1002/jcc.23061",
+            "Z": [
+                78
+            ],
+            "authors": [
+                "Diego Paschoal",
+                "Bruna L. Marcial",
+                "Juliana Fedoce Lopes",
+                "Wagner B. De Almeida",
+                "H\u00e9lio F. Dos Santos"
+            ],
+            "journal": "Journal of Computational Chemistry",
+            "original": "D. Paschoal, B. L. Marcial, J. Fedoce-Lopes, W. B. De Almeida, H. F. Dos Santos, The Role of the Basis Set and the Level of Quantum Mechanical Theory in the Prediction of the Structure and Reactivity of Cisplatin, Journal of Computational Chemistry 33, 2292-2302 (2012).  ",
+            "page": "2292-2302",
+            "title": "The role of the basis set and the level of quantum mechanical theory in the prediction of the structure and reactivity of cisplatin",
+            "valid": true,
+            "volume": "33",
+            "year": 2012
+        }
+    ],
+    "original": "Elements                             References\n--------                             ----------\nPt: D. Paschoal, B. L. Marcial, J. Fedoce-Lopes, W. B. De Almeida, H. F. Dos Santos, The Role of the Basis Set and the Level of Quantum Mechanical Theory in the Prediction of the Structure and Reactivity of Cisplatin, Journal of Computational Chemistry 33, 2292-2302 (2012).\n\n\n",
+    "valid": true
+}

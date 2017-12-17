@@ -1,0 +1,59 @@
+{
+    "citations": [
+        {
+            "DOI": "10.1063/1.463096",
+            "Z": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19,
+                20,
+                21,
+                22,
+                23,
+                24,
+                25,
+                26,
+                27,
+                28,
+                29,
+                30,
+                31,
+                32,
+                33,
+                34,
+                35,
+                36
+            ],
+            "authors": [
+                "Ansgar Sch\u00e4fer",
+                "Hans Horn",
+                "Reinhart Ahlrichs"
+            ],
+            "journal": "The Journal of Chemical Physics",
+            "original": "A. Schafer, H. Horn and R. Ahlrichs, J. Chem. Phys. 97, 2571 (1992).  ",
+            "page": "2571-2577",
+            "title": "Fully optimized contracted Gaussian basis sets for atoms Li to Kr",
+            "valid": true,
+            "volume": "97",
+            "year": 1992
+        }
+    ],
+    "original": "\nElements                             References\n--------                             ----------\nH - Kr: A. Schafer, H. Horn and R. Ahlrichs, J. Chem. Phys. 97, 2571 (1992).\n\n  ",
+    "valid": true
+}

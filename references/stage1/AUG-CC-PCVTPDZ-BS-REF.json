@@ -1,0 +1,71 @@
+{
+    "citations": [
+        {
+            "DOI": "10.1063/1.464303",
+            "Z": [
+                13,
+                14,
+                15,
+                16,
+                17,
+                18
+            ],
+            "authors": [
+                "David E. Woon",
+                "Thom H. Dunning"
+            ],
+            "journal": "The Journal of Chemical Physics",
+            "original": "D.E. Woon and T.H. Dunning, Jr., Gaussian basis sets for use in correlated molecular calculations. III. The atoms aluminum through argon, J. Chem. Phys. 98, 1358 (1993).",
+            "page": "1358-1371",
+            "title": "Gaussian basis sets for use in correlated molecular calculations. III. The atoms aluminum through argon",
+            "valid": true,
+            "volume": "98",
+            "year": 1993
+        },
+        {
+            "DOI": "10.1007/s00214-007-0309-3",
+            "Z": [
+                13,
+                14,
+                15,
+                16,
+                17
+            ],
+            "authors": [
+                "Scott Yockel",
+                "Angela K. Wilson"
+            ],
+            "journal": "Theoretical Chemistry Accounts",
+            "original": "S. Yockel and A. K. Wilson, Core-valence correlation consistent basis sets for second-row atoms (Al-Ar) revisited, Theor. Chem. Acc. 120, 119 (2008).",
+            "page": "119-131",
+            "title": "Core-valence correlation consistent basis sets for second-row atoms (Al\u2013Ar) revisited",
+            "valid": true,
+            "volume": "120",
+            "year": 2008
+        },
+        {
+            "DOI": "10.1063/1.1520138",
+            "Z": [
+                13,
+                14,
+                15,
+                16,
+                17,
+                18
+            ],
+            "authors": [
+                "Kirk A. Peterson",
+                "Thom H. Dunning"
+            ],
+            "journal": "The Journal of Chemical Physics",
+            "original": "K.A. Peterson and T.H. Dunning, Jr., Accurate correlation consistent basis sets for molecular core?valence correlation effects: The second row atoms Al?Ar, and the first row atoms B?Ne revisited, J. Chem. Phys. 117, 10548 (2002).  ",
+            "page": "10548-10560",
+            "title": "Accurate correlation consistent basis sets for molecular core\u2013valence correlation effects: The second row atoms Al\u2013Ar, and the first row atoms B\u2013Ne revisited",
+            "valid": true,
+            "volume": "117",
+            "year": 2002
+        }
+    ],
+    "original": "Elements                             References\n--------                             ----------\nAl - Ar: D.E. Woon and T.H. Dunning, Jr., Gaussian basis sets for use in correlated molecular calculations. III. The atoms aluminum through argon, J. Chem. Phys. 98, 1358 (1993).\nAl - Cl: S. Yockel and A. K. Wilson, Core-valence correlation consistent basis sets for second-row atoms (Al-Ar) revisited, Theor. Chem. Acc. 120, 119 (2008).\nAl - Ar: K.A. Peterson and T.H. Dunning, Jr., Accurate correlation consistent basis sets for molecular core?valence correlation effects: The second row atoms Al?Ar, and the first row atoms B?Ne revisited, J. Chem. Phys. 117, 10548 (2002).\n\n\n",
+    "valid": true
+}

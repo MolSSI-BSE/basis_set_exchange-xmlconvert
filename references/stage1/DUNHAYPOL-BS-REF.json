@@ -1,0 +1,26 @@
+{
+    "citations": [
+        {
+            "DOI": "10.1063/1.449647",
+            "Z": [
+                14,
+                15,
+                16,
+                17
+            ],
+            "authors": [
+                "Eric Magnusson",
+                "Henry F. Schaefer"
+            ],
+            "journal": "The Journal of Chemical Physics",
+            "original": "E. MAGNUSSON AND H.F. SCHAEFER III, J. Chem. Phys., 83, 5721 (1985).  ",
+            "page": "5721-5726",
+            "title": "Multiple d\u2010type basis functions for molecules containing second row atoms",
+            "valid": true,
+            "volume": "83",
+            "year": 1985
+        }
+    ],
+    "original": "\n  Si - Cl:    E. MAGNUSSON AND H.F. SCHAEFER III, J. Chem. Phys., 83, 5721 (1985).\n\n  ",
+    "valid": true
+}

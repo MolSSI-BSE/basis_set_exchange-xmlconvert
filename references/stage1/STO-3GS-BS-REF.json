@@ -1,0 +1,32 @@
+{
+    "citations": [
+        {
+            "DOI": "10.1063/1.432189",
+            "Z": [
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18
+            ],
+            "authors": [
+                "John B. Collins",
+                "Paul von R. Schleyer",
+                "J. Stephen Binkley",
+                "John A. Pople"
+            ],
+            "journal": "The Journal of Chemical Physics",
+            "original": "J.B. Collins, P.R. Schleyer, J.S. Binkley, J.A. Pople, J. Chem. Phys. 64, 5142 (1976)  ",
+            "page": "5142-5151",
+            "title": "Self\u2010consistent molecular orbital methods. XVII. Geometries and binding energies of second\u2010row molecules. A comparison of three basis sets",
+            "valid": true,
+            "volume": "64",
+            "year": 1976
+        }
+    ],
+    "original": "\nElements                             Reference\n--------                             ----------\nNa - Ar:  J.B. Collins, P.R. Schleyer, J.S. Binkley, J.A. Pople, J. Chem. \n          Phys. 64, 5142 (1976)\n\n  ",
+    "valid": true
+}

@@ -1,0 +1,168 @@
+{
+    "citations": [
+        {
+            "DOI": "10.1021/ja00523a008",
+            "Z": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10
+            ],
+            "authors": [
+                "J. Stephen Binkley",
+                "John A. Pople",
+                "Warren J. Hehre"
+            ],
+            "journal": "Journal of the American Chemical Society",
+            "original": "J.S. Binkley, J.A. Pople, W.J. Hehre, J. Am. Chem. Soc 102 939 (1980)",
+            "page": "939-947",
+            "title": "Self-consistent molecular orbital methods. 21. Small split-valence basis sets for first-row elements",
+            "valid": true,
+            "volume": "102",
+            "year": 1980
+        },
+        {
+            "Z": [
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18
+            ],
+            "authors": [
+                "M.S. Gordon",
+                "J.S. Binkley",
+                "J.A. Pople",
+                "W.J. Pietro",
+                "W.J. Hehre"
+            ],
+            "journal": "J. Am. Chem. Soc.",
+            "original": "M.S. Gordon, J.S. Binkley, J.A. Pople, W.J. Pietro and W.J. Hehre, J. Am. Chem. Soc. 104, 2797 (1983).",
+            "page": 2797,
+            "title": false,
+            "valid": true,
+            "volume": 104,
+            "year": 1983
+        },
+        {
+            "DOI": "10.1002/jcc.540070313",
+            "Z": [
+                19,
+                20
+            ],
+            "authors": [
+                "K. D. Dobbs",
+                "W. J. Hehre"
+            ],
+            "journal": "Journal of Computational Chemistry",
+            "original": "K.D. Dobbs, W.J. Hehre, J. Comput. Chem. 7, 359 (1986).",
+            "page": "359-378",
+            "title": "Molecular orbital theory of the properties of inorganic and organometallic compounds 4. Extended basis sets for third-and fourth-row, main-group elements",
+            "valid": true,
+            "volume": "7",
+            "year": 1986
+        },
+        {
+            "DOI": "10.1002/jcc.540070313",
+            "Z": [
+                31,
+                32,
+                33,
+                34,
+                35,
+                36
+            ],
+            "authors": [
+                "K. D. Dobbs",
+                "W. J. Hehre"
+            ],
+            "journal": "Journal of Computational Chemistry",
+            "original": "K.D. Dobbs, W.J. Hehre, J. Comput. Chem. 7, 359 (1986).",
+            "page": "359-378",
+            "title": "Molecular orbital theory of the properties of inorganic and organometallic compounds 4. Extended basis sets for third-and fourth-row, main-group elements",
+            "valid": true,
+            "volume": "7",
+            "year": 1986
+        },
+        {
+            "DOI": "10.1002/jcc.540080614",
+            "Z": [
+                21,
+                22,
+                23,
+                24,
+                25,
+                26,
+                27,
+                28,
+                29,
+                30
+            ],
+            "authors": [
+                "K. D. Dobbs",
+                "W. J. Hehre"
+            ],
+            "journal": "Journal of Computational Chemistry",
+            "original": "K.D. Dobbs, W.J. Hehre, J. Comput. Chem. 8, 861 (1987).",
+            "page": "861-879",
+            "title": "Molecular orbital theory of the properties of inorganic and organometallic compounds 5. Extended basis sets for first-row transition metals",
+            "valid": true,
+            "volume": "8",
+            "year": 1987
+        },
+        {
+            "DOI": "10.1002/jcc.540080615",
+            "Z": [
+                39,
+                40,
+                41,
+                42,
+                43,
+                44,
+                45,
+                46,
+                47,
+                48
+            ],
+            "authors": [
+                "K. D. Dobbs",
+                "W. J. Hehre"
+            ],
+            "journal": "Journal of Computational Chemistry",
+            "original": "K.D. Dobbs, W.J. Hehre, J. Comput. Chem. 8, 880 (1987).",
+            "page": "880-893",
+            "title": "Molecular orbital theory of the properties of inorganic and organometallic compounds. 6. Extended basis sets for second-row transition metals",
+            "valid": true,
+            "volume": "8",
+            "year": 1987
+        },
+        {
+            "DOI": "10.1021/j100010a015",
+            "Z": [
+                55
+            ],
+            "authors": [
+                "Eric D. Glendening",
+                "David Feller"
+            ],
+            "journal": "The Journal of Physical Chemistry",
+            "original": "A 3-21G quality set derived from the Huzinage MIDI basis sets. E.D. Glendening and D. Feller, J. Phys. Chem. 99, 3060 (1995)  ",
+            "page": "3060-3067",
+            "title": "Cation-Water Interactions: The M+(H2O)n Clusters for Alkali Metals, M = Li, Na, K, Rb, and Cs",
+            "valid": true,
+            "volume": "99",
+            "year": 1995
+        }
+    ],
+    "original": "Elements                             References\n--------                             ----------\nH - Ne: J.S. Binkley, J.A. Pople, W.J. Hehre, J. Am. Chem. Soc 102 939 (1980)\nNa - Ar: M.S. Gordon, J.S. Binkley, J.A. Pople, W.J. Pietro and W.J. Hehre,\nJ. Am. Chem. Soc. 104, 2797 (1983).\nK - Ca: K.D. Dobbs, W.J. Hehre, J. Comput. Chem. 7, 359 (1986).\nGa - Kr: K.D. Dobbs, W.J. Hehre, J. Comput. Chem. 7, 359 (1986).\nSc - Zn: K.D. Dobbs, W.J. Hehre, J. Comput. Chem. 8, 861 (1987).\nY - Cd: K.D. Dobbs, W.J. Hehre, J. Comput. Chem. 8, 880 (1987).\nCs     : A 3-21G quality set derived from the Huzinage MIDI basis sets.\nE.D. Glendening and D. Feller, J. Phys. Chem. 99, 3060 (1995)\n\n\n",
+    "valid": true
+}

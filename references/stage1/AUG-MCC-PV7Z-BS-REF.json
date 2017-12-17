@@ -1,0 +1,24 @@
+{
+    "citations": [
+        {
+            "DOI": "10.1063/1.1432319",
+            "Z": [
+                1
+            ],
+            "authors": [
+                "Steven L. Mielke",
+                "Bruce C. Garrett",
+                "Kirk A. Peterson"
+            ],
+            "journal": "The Journal of Chemical Physics",
+            "original": "S.L. Mielke, B.C. Garrett and K.A. Peterson, J. Chem. Phys. 116, 4142 (2002).  ",
+            "page": "4142-4161",
+            "title": "A hierarchical family of global analytic Born\u2013Oppenheimer potential energy surfaces for the H+H2 reaction ranging in quality from double-zeta to the complete basis set limit",
+            "valid": true,
+            "volume": "116",
+            "year": 2002
+        }
+    ],
+    "original": "Elements                             References\n--------                             ---------\nH    : S.L. Mielke, B.C. Garrett and K.A. Peterson, J. Chem. Phys. 116, 4142\n(2002).\n\n\n",
+    "valid": true
+}
