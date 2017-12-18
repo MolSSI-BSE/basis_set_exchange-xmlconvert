@@ -10,7 +10,7 @@
         "page": "4070-4077",
         "title": "General contraction of Gaussian basis sets. I. Atomic natural orbitals for first\u2010 and second\u2010row atoms",
         "volume": "86",
-        "year": 1987
+        "year": "1987"
     },
     "amin:75a": {
         "authors": [
@@ -22,7 +22,7 @@
         "page": "75-85",
         "title": "Zn Coordination Chemistry:\u00a0 Development of Benchmark Suites for Geometries, Dipole Moments, and Bond Dissociation Energies and Their Use To Test and Validate Density Functionals and Molecular Orbital Theory",
         "volume": "4",
-        "year": 2008,
+        "year": "2008",
         "DOI": "10.1021/ct700205n"
     },
     "andrae:1990a": {
@@ -39,7 +39,7 @@
         "page": "123-141",
         "title": "Energy-adjustedab initio pseudopotentials for the second and third row transition elements",
         "volume": "77",
-        "year": 1990
+        "year": "1990"
     },
     "aravena:2016a": {
         "DOI": "10.1021/acs.jctc.5b01048",
@@ -53,7 +53,7 @@
         "page": "1148-1156",
         "title": "Improved Segmented All-Electron Relativistically Contracted Basis Sets for the Lanthanides",
         "volume": "12",
-        "year": 2016
+        "year": "2016"
     },
     "balabanov:2005a": {
         "DOI": "10.1063/1.1998907",
@@ -66,7 +66,7 @@
         "page": "064107",
         "title": "Systematically convergent basis sets for transition metals. I. All-electron correlation consistent basis sets for the 3d elements Sc\u2013Zn",
         "volume": "123",
-        "year": 2005
+        "year": "2005"
     },
     "balabanov:2006a": {
         "DOI": "10.1063/1.2335444",
@@ -79,7 +79,7 @@
         "page": "074110",
         "title": "Basis set limit electronic excitation energies, ionization potentials, and electron affinities for the 3d transition metal atoms: Coupled cluster and multireference methods",
         "volume": "125",
-        "year": 2006
+        "year": "2006"
     },
     "barbieri:2006a": {
         "DOI": "10.1080/00268970600899018",
@@ -93,7 +93,7 @@
         "page": "2945-2954",
         "title": "Gaussian basis sets of triple and quadruple zeta valence quality for correlated wave functions",
         "volume": "104",
-        "year": 2006
+        "year": "2006"
     },
     "barone:2003a": {
         "DOI": "10.1021/jp0300851",
@@ -110,7 +110,7 @@
         "page": "4748-4754",
         "title": "Substituent Effects on Scalar2J(19F,19F) and3J(19F,19F) NMR Couplings:\u00a0 A Comparison of SOPPA and DFT Methods",
         "volume": "107",
-        "year": 2003
+        "year": "2003"
     },
     "barros:2010a": {
         "DOI": "10.1080/00268976.2010.499377",
@@ -126,7 +126,7 @@
         "page": "1965-1972",
         "title": "Gaussian basis set of double zeta quality for atoms Rb through Xe: application in non-relativistic and relativistic calculations of atomic and molecular properties",
         "volume": "108",
-        "year": 2010
+        "year": "2010"
     },
     "bauschlicher:1989a": {
         "DOI": "10.1063/1.456998",
@@ -141,7 +141,7 @@
         "page": "2399-2411",
         "title": "Theoretical studies of the first\u2010 and second\u2010row transition\u2010metal methyls and their positive ions",
         "volume": "91",
-        "year": 1989
+        "year": "1989"
     },
     "bauschlicher:1990a": {
         "DOI": "10.1007/bf01116550",
@@ -155,7 +155,7 @@
         "page": "263-279",
         "title": "The calculation of the dipole moments of NiH, TiO, and FeO",
         "volume": "77",
-        "year": 1990
+        "year": "1990"
     },
     "bauschlicher:1994a": {
         "DOI": "10.1063/1.466315",
@@ -168,7 +168,7 @@
         "page": "4329-4335",
         "title": "How large is the effect of 1s correlation on the De, \u03c9e, and re of N2?",
         "volume": "100",
-        "year": 1994
+        "year": "1994"
     },
     "bauschlicher:1995a": {
         "DOI": "10.1007/s002140050120",
@@ -180,7 +180,7 @@
         "page": "183",
         "title": "Large atomic natural orbital basis sets for the first transition row atoms",
         "volume": "92",
-        "year": 1995
+        "year": "1995"
     },
     "bauschlicher:1999a": {
         "authors": [
@@ -191,7 +191,7 @@
         "page": "141-145",
         "title": "TiCl, TiH, and TiH + bond energies: a test of a correlation-consistent Ti basis set",
         "volume": "103",
-        "year": 1999,
+        "year": "1999",
         "DOI": "10.1007/s002140050524"
     },
     "benedikt:2008a": {
@@ -206,7 +206,7 @@
         "page": "064111",
         "title": "Optimization of augmentation functions for correlated calculations of spin-spin coupling constants and related properties",
         "volume": "129",
-        "year": 2008
+        "year": "2008"
     },
     "bergner:1993a": {
         "DOI": "10.1080/00268979300103121",
@@ -222,7 +222,7 @@
         "page": "1431-1441",
         "title": "Ab initio energy-adjusted pseudopotentials for elements of groups 13\u201317",
         "volume": "80",
-        "year": 1993
+        "year": "1993"
     },
     "bernholdt:1998a": {
         "DOI": "10.1063/1.476732",
@@ -235,7 +235,7 @@
         "page": "1593-1600",
         "title": "Fitting basis sets for the RI-MP2 approximate second-order many-body perturbation theory method",
         "volume": "109",
-        "year": 1998
+        "year": "1998"
     },
     "berreado:2010a": {
         "DOI": "10.1016/j.theochem.2010.09.007",
@@ -248,7 +248,7 @@
         "page": "107-112",
         "title": "All-electron double zeta basis sets for platinum: Estimating scalar relativistic effects on platinum(II) anticancer drugs",
         "volume": "961",
-        "year": 2010
+        "year": "2010"
     },
     "berreado:2011a": {
         "DOI": "10.1016/j.comptc.2011.02.007",
@@ -263,7 +263,7 @@
         "page": "236-239",
         "title": "An augmented Gaussian basis set for calculations of molecular polarizabilities on platinum compounds",
         "volume": "965",
-        "year": 2011
+        "year": "2011"
     },
     "binkley:1980a": {
         "DOI": "10.1021/ja00523a008",
@@ -277,7 +277,7 @@
         "page": "939-947",
         "title": "Self-consistent molecular orbital methods. 21. Small split-valence basis sets for first-row elements",
         "volume": "102",
-        "year": 1980
+        "year": "1980"
     },
     "binning:1990a": {
         "DOI": "10.1002/jcc.540111013",
@@ -290,7 +290,7 @@
         "page": "1206-1216",
         "title": "Compact contracted basis sets for third-row atoms: Ga-Kr",
         "volume": "11",
-        "year": 1990
+        "year": "1990"
     },
     "blaudeau:1997a": {
         "DOI": "10.1063/1.474865",
@@ -305,7 +305,7 @@
         "page": "5016-5021",
         "title": "Extension of Gaussian-2 (G2) theory to molecules containing third-row atoms K and Ca",
         "volume": "107",
-        "year": 1997
+        "year": "1997"
     },
     "bross:2013a": {
         "DOI": "10.1063/1.4818725",
@@ -320,7 +320,7 @@
         "page": "094302",
         "title": "Explicitly correlated composite thermochemistry of transition metal species",
         "volume": "139",
-        "year": 2013
+        "year": "2013"
     },
     "camiletti:2008a": {
         "DOI": "10.1002/jcc.20996",
@@ -334,7 +334,7 @@
         "page": "2434-2444",
         "title": "Gaussian basis set of double zeta quality for atoms K through Kr: Application in DFT calculations of molecular properties",
         "volume": "29",
-        "year": 2008
+        "year": "2008"
     },
     "camiletti:2009a": {
         "DOI": "10.1016/j.theochem.2009.06.024",
@@ -349,7 +349,7 @@
         "page": "122-125",
         "title": "Augmented Gaussian basis sets of double and triple zeta valence qualities for the atoms K and Sc\u2013Kr: Applications in HF, MP2, and DFT calculations of molecular electric properties",
         "volume": "910",
-        "year": 2009
+        "year": "2009"
     },
     "campos:2011a": {
         "DOI": "10.1016/j.cplett.2011.09.073",
@@ -365,7 +365,7 @@
         "page": "125-130",
         "title": "Gaussian basis set of sextuple zeta quality for hydrogen through argon",
         "volume": "516",
-        "year": 2011
+        "year": "2011"
     },
     "campos:2013a": {
         "DOI": "10.1080/00268976.2012.709282",
@@ -378,7 +378,7 @@
         "page": "167-173",
         "title": "Triple zeta quality basis sets for atoms Rb through Xe: application in CCSD(T) atomic and molecular property calculations",
         "volume": "111",
-        "year": 2013
+        "year": "2013"
     },
     "casida:1998a": {
         "DOI": "10.1063/1.475855",
@@ -393,7 +393,7 @@
         "page": "4439-4449",
         "title": "Molecular excitation energies to high-lying bound states from time-dependent\u2009density-functional\u2009response\u2009theory: Characterization\u2009and correction\u2009of\u2009the\u2009time-dependent\u2009local\u2009density\u2009approximation ionization threshold",
         "volume": "108",
-        "year": 1998
+        "year": "1998"
     },
     "castro:1998a": {
         "DOI": "10.1063/1.475959",
@@ -406,7 +406,7 @@
         "page": "5225-5229",
         "title": "Accurate universal Gaussian basis set for all atoms of the Periodic Table",
         "volume": "108",
-        "year": 1998
+        "year": "1998"
     },
     "ceolin:2013a": {
         "authors": [
@@ -416,10 +416,10 @@
         ],
         "journal": "Theoretical Chemistry Accounts",
         "original": "G. A. Ceolin, R. C. de Berr\u00eado and F. E. Jorge, Gaussian basis sets of quadruple zeta quality for potassium through xenon: application in CCSD(T) atomic and molecular property calculations, Theor. Chem. Acc. 132, 1339 (2013).",
-        "page": 1339,
+        "page": "1339",
         "title": "Gaussian basis sets of quadruple zeta quality for potassium through xenon: application in CCSD(T) atomic and molecular property calculations",
         "volume": "132",
-        "year": 2013,
+        "year": "2013",
         "DOI": "10.1007/s00214-013-1339-7"
     },
     "check:2001a": {
@@ -437,7 +437,7 @@
         "page": "8111-8116",
         "title": "Addition of Polarization and Diffuse Functions to the LANL2DZ Basis Set for P-Block Elements",
         "volume": "105",
-        "year": 2001
+        "year": "2001"
     },
     "clark:1983a": {
         "DOI": "10.1002/jcc.540040303",
@@ -452,7 +452,7 @@
         "page": "294-301",
         "title": "Efficient diffuse function-augmented basis sets for anion calculations. III. The 3-21+G basis set for first-row elements, Li-F",
         "volume": "4",
-        "year": 1983
+        "year": "1983"
     },
     "collins:1976a": {
         "DOI": "10.1063/1.432189",
@@ -467,7 +467,7 @@
         "page": "5142-5151",
         "title": "Self\u2010consistent molecular orbital methods. XVII. Geometries and binding energies of second\u2010row molecules. A comparison of three basis sets",
         "volume": "64",
-        "year": 1976
+        "year": "1976"
     },
     "couty:1996a": {
         "DOI": "10.1002/(sici)1096-987x(199608)17:11<1359::aid-jcc9>3.3.co;2-z",
@@ -480,7 +480,7 @@
         "page": "1359-1370",
         "title": "Basis sets for transition metals: Optimized outer p functions",
         "volume": "17",
-        "year": 1996
+        "year": "1996"
     },
     "cundari:1993a": {
         "DOI": "10.1063/1.464902",
@@ -493,7 +493,7 @@
         "page": "5555-5565",
         "title": "Effective core potential methods for the lanthanides",
         "volume": "98",
-        "year": 1993
+        "year": "1993"
     },
     "curtiss:1995a": {
         "DOI": "10.1063/1.470438",
@@ -510,7 +510,7 @@
         "page": "6104-6113",
         "title": "Extension of Gaussian\u20102 theory to molecules containing third\u2010row atoms Ga\u2013Kr",
         "volume": "103",
-        "year": 1995
+        "year": "1995"
     },
     "curtiss:1998a": {
         "DOI": "10.1063/1.477422",
@@ -526,7 +526,7 @@
         "page": "7764-7776",
         "title": "Gaussian-3 (G3) theory for molecules containing first and second-row atoms",
         "volume": "109",
-        "year": 1998
+        "year": "1998"
     },
     "curtiss:1999a": {
         "DOI": "10.1063/1.478385",
@@ -542,7 +542,7 @@
         "page": "4703-4709",
         "title": "Gaussian-3 theory using reduced Mo/ller-Plesset order",
         "volume": "110",
-        "year": 1999
+        "year": "1999"
     },
     "curtiss:2007a": {
         "DOI": "10.1063/1.2436888",
@@ -556,7 +556,7 @@
         "page": "084108",
         "title": "Gaussian-4 theory",
         "volume": "126",
-        "year": 2007
+        "year": "2007"
     },
     "curtiss:2007b": {
         "DOI": "10.1063/1.2770701",
@@ -570,7 +570,7 @@
         "page": "124105",
         "title": "Gaussian-4 theory using reduced order perturbation theory",
         "volume": "127",
-        "year": 2007
+        "year": "2007"
     },
     "dill:1975a": {
         "DOI": "10.1063/1.430801",
@@ -583,7 +583,7 @@
         "page": "2921-2923",
         "title": "Self\u2010consistent molecular orbital methods. XV. Extended Gaussian\u2010type basis sets for lithium, beryllium, and boron",
         "volume": "62",
-        "year": 1975
+        "year": "1975"
     },
     "ditchfield:1971a": {
         "DOI": "10.1063/1.1674902",
@@ -597,7 +597,7 @@
         "page": "724-728",
         "title": "Self\u2010Consistent Molecular\u2010Orbital Methods. IX. An Extended Gaussian\u2010Type Basis for Molecular\u2010Orbital Studies of Organic Molecules",
         "volume": "54",
-        "year": 1971
+        "year": "1971"
     },
     "dobbs:1986a": {
         "DOI": "10.1002/jcc.540070313",
@@ -610,7 +610,7 @@
         "page": "359-378",
         "title": "Molecular orbital theory of the properties of inorganic and organometallic compounds 4. Extended basis sets for third-and fourth-row, main-group elements",
         "volume": "7",
-        "year": 1986
+        "year": "1986"
     },
     "dobbs:1987a": {
         "DOI": "10.1002/jcc.540080614",
@@ -623,7 +623,7 @@
         "page": "861-879",
         "title": "Molecular orbital theory of the properties of inorganic and organometallic compounds 5. Extended basis sets for first-row transition metals",
         "volume": "8",
-        "year": 1987
+        "year": "1987"
     },
     "dobbs:1987b": {
         "DOI": "10.1002/jcc.540080615",
@@ -636,7 +636,7 @@
         "page": "880-893",
         "title": "Molecular orbital theory of the properties of inorganic and organometallic compounds. 6. Extended basis sets for second-row transition metals",
         "volume": "8",
-        "year": 1987
+        "year": "1987"
     },
     "dolg:1993a": {
         "DOI": "10.1021/j100124a012",
@@ -651,7 +651,7 @@
         "page": "5852-5859",
         "title": "Relativistic and correlation effects for element 105 (hahnium, Ha): a comparative study of M and MO (M = Nb, Ta, Ha) using energy-adjusted ab initio pseudopotentials",
         "volume": "97",
-        "year": 1993
+        "year": "1993"
     },
     "dolg:2011a": {
         "DOI": "10.1021/ct200504u",
@@ -663,7 +663,7 @@
         "page": "3131-3142",
         "title": "Segmented Contracted Douglas\u2013Kroll\u2013Hess Adapted Basis Sets for Lanthanides",
         "volume": "7",
-        "year": 2011
+        "year": "2011"
     },
     "dunning:1970a": {
         "authors": [
@@ -674,7 +674,7 @@
         "page": "2823-2833",
         "title": "Gaussian Basis Functions for Use in Molecular Calculations. I. Contraction of (9s5p) Atomic Basis Sets for the First\u2010Row Atoms",
         "volume": "53",
-        "year": 1970,
+        "year": "1970",
         "DOI": "10.1063/1.1674408"
     },
     "dunning:1971a": {
@@ -686,7 +686,7 @@
         "page": "716-723",
         "title": "Gaussian Basis Functions for Use in Molecular Calculations. III. Contraction of (10s6p) Atomic Basis Sets for the First\u2010Row Atoms",
         "volume": "55",
-        "year": 1971,
+        "year": "1971",
         "DOI": "10.1063/1.1676139"
     },
     "dunning:1977a": {
@@ -699,7 +699,7 @@
         "page": "1382-1383",
         "title": "Gaussian basis sets for the atoms gallium through krypton",
         "volume": "66",
-        "year": 1977
+        "year": "1977"
     },
     "dunning:1989a": {
         "authors": [
@@ -710,7 +710,7 @@
         "page": "1007-1023",
         "title": "Gaussian basis sets for use in correlated molecular calculations. I. The atoms boron through neon and hydrogen",
         "volume": "90",
-        "year": 1989,
+        "year": "1989",
         "DOI": "10.1063/1.456153"
     },
     "dunning:2001a": {
@@ -725,7 +725,7 @@
         "page": "9244-9253",
         "title": "Gaussian basis sets for use in correlated molecular calculations. X. The atoms aluminum through argon revisited",
         "volume": "114",
-        "year": 2001
+        "year": "2001"
     },
     "easton:1996a": {
         "DOI": "10.1007/s002140050153",
@@ -741,7 +741,7 @@
         "page": "281",
         "title": "The MIDI! basis set for quantum mechanical calculations of molecular geometries and partial charges",
         "volume": "93",
-        "year": 1996
+        "year": "1996"
     },
     "ehlers:1993a": {
         "DOI": "10.1016/0009-2614(93)80086-5",
@@ -762,7 +762,7 @@
         "page": "111-114",
         "title": "A set of f-polarization functions for pseudo-potential basis sets of the transition metals Sc\ue5f8Cu, Y\ue5f8Ag and La\ue5f8Au",
         "volume": "208",
-        "year": 1993
+        "year": "1993"
     },
     "eichkorn:1995a": {
         "authors": [
@@ -777,7 +777,7 @@
         "page": "283-290",
         "title": "Auxiliary basis sets to approximate Coulomb potentials",
         "volume": "240",
-        "year": 1995,
+        "year": "1995",
         "DOI": "10.1016/0009-2614(95)00621-a"
     },
     "eichkorn:1997a": {
@@ -793,7 +793,7 @@
         "page": "119-124",
         "title": "Auxiliary basis sets for main row atoms and transition metals and their use to approximate Coulomb potentials",
         "volume": "97",
-        "year": 1997
+        "year": "1997"
     },
     "enevoldsen:1998a": {
         "DOI": "10.1007/s002140050388",
@@ -807,7 +807,7 @@
         "page": "275-284",
         "title": "Correlated calculations of indirect nuclear spin-spin coupling constants using second-order polarization propagator approximations: SOPPA and SOPPA(CCSD)",
         "volume": "100",
-        "year": 1998
+        "year": "1998"
     },
     "ermler:1991a": {
         "DOI": "10.1002/qua.560400611",
@@ -821,7 +821,7 @@
         "page": "829-846",
         "title": "Ab initio relativistic effective potentials with spin-orbit operators. VI. Fr through Pu",
         "volume": "40",
-        "year": 1991
+        "year": "1991"
     },
     "fantin:2007a": {
         "DOI": "10.1016/j.theochem.2007.02.003",
@@ -836,7 +836,7 @@
         "page": "103-111",
         "title": "Augmented Gaussian basis sets of triple and quadruple zeta valence quality for the atoms H and from Li to Ar: Applications in HF, MP2, and DFT calculations of molecular dipole moment and dipole (hyper)polarizability",
         "volume": "810",
-        "year": 2007
+        "year": "2007"
     },
     "feller:1995a": {
         "DOI": "10.1063/1.470237",
@@ -851,7 +851,7 @@
         "page": "3526-3542",
         "title": "An extended basis set ab initio study of alkali metal cation\u2013water clusters",
         "volume": "103",
-        "year": 1995
+        "year": "1995"
     },
     "feller:1999a": {
         "DOI": "10.1063/1.478747",
@@ -864,7 +864,7 @@
         "page": "8384-8396",
         "title": "Re-examination of atomization energies for the Gaussian-2 set of molecules",
         "volume": "110",
-        "year": 1999
+        "year": "1999"
     },
     "feller:2000a": {
         "DOI": "10.1063/1.481827",
@@ -877,7 +877,7 @@
         "page": "485-493",
         "title": "Performance of CCSDT for diatomic dissociation energies",
         "volume": "113",
-        "year": 2000
+        "year": "2000"
     },
     "feller:2003a": {
         "DOI": "10.1063/1.1532314",
@@ -892,7 +892,7 @@
         "page": "3510-3522",
         "title": "Performance of coupled cluster theory in thermochemical calculations of small halogenated compounds",
         "volume": "118",
-        "year": 2003
+        "year": "2003"
     },
     "feller:2011a": {
         "DOI": "10.1063/1.3613639",
@@ -906,7 +906,7 @@
         "page": "044102",
         "title": "On the effectiveness of CCSD(T) complete basis set extrapolations for atomization energies",
         "volume": "135",
-        "year": 2011
+        "year": "2011"
     },
     "feller:2013a": {
         "DOI": "10.1063/1.4791560",
@@ -918,7 +918,7 @@
         "page": "074103",
         "title": "Benchmarks of improved complete basis set extrapolation schemes designed for standard CCSD(T) atomization energies",
         "volume": "138",
-        "year": 2013
+        "year": "2013"
     },
     "figgen:2005a": {
         "DOI": "10.1016/j.chemphys.2004.10.005",
@@ -933,7 +933,7 @@
         "page": "227-244",
         "title": "Energy-consistent pseudopotentials for group 11 and 12 atoms: adjustment to multi-configuration Dirac\u2013Hartree\u2013Fock data",
         "volume": "311",
-        "year": 2005
+        "year": "2005"
     },
     "figgen:2009a": {
         "DOI": "10.1063/1.3119665",
@@ -948,7 +948,7 @@
         "page": "164108",
         "title": "Energy-consistent pseudopotentials and correlation consistent basis sets for the 5d elements Hf\u2013Pt",
         "volume": "130",
-        "year": 2009
+        "year": "2009"
     },
     "francl:1982a": {
         "DOI": "10.1063/1.444267",
@@ -966,7 +966,7 @@
         "page": "3654-3665",
         "title": "Self\u2010consistent molecular orbital methods. XXIII. A polarization\u2010type basis set for second\u2010row elements",
         "volume": "77",
-        "year": 1982
+        "year": "1982"
     },
     "frisch:1984a": {
         "DOI": "10.1063/1.447079",
@@ -980,7 +980,7 @@
         "page": "3265-3269",
         "title": "Self\u2010consistent molecular orbital methods 25. Supplementary functions for Gaussian basis sets",
         "volume": "80",
-        "year": 1984
+        "year": "1984"
     },
     "fuentealba:1982a": {
         "DOI": "10.1016/0009-2614(82)80012-2",
@@ -995,7 +995,7 @@
         "page": "418-422",
         "title": "A proper account of core-polarization with pseudopotentials: single valence-electron alkali compounds",
         "volume": "89",
-        "year": 1982
+        "year": "1982"
     },
     "fuentealba:1985a": {
         "DOI": "10.1088/0022-3700/18/7/010",
@@ -1010,7 +1010,7 @@
         "page": "1287-1296",
         "title": "Pseudopotential calculations for alkaline-earth atoms",
         "volume": "18",
-        "year": 1985
+        "year": "1985"
     },
     "gill:1992a": {
         "DOI": "10.1016/0009-2614(92)85807-m",
@@ -1025,7 +1025,7 @@
         "page": "499-505",
         "title": "The performance of the Becke\u2014Lee\u2014Yang\u2014Parr (B\u2014LYP) density functional theory with various basis sets",
         "volume": "197",
-        "year": 1992
+        "year": "1992"
     },
     "glendening:1995a": {
         "DOI": "10.1021/j100010a015",
@@ -1038,7 +1038,7 @@
         "page": "3060-3067",
         "title": "Cation-Water Interactions: The M+(H2O)n Clusters for Alkali Metals, M = Li, Na, K, Rb, and Cs",
         "volume": "99",
-        "year": 1995
+        "year": "1995"
     },
     "glukhovstev:1995a": {
         "authors": [
@@ -1052,7 +1052,7 @@
         "page": "1878-1885",
         "title": "Extension of Gaussian\u20102 (G2) theory to bromine\u2010 and iodine\u2010containing molecules: Use of effective core potentials",
         "volume": "103",
-        "year": 1995,
+        "year": "1995",
         "DOI": "10.1063/1.469712"
     },
     "godbout:1992a": {
@@ -1068,7 +1068,7 @@
         "page": "560-571",
         "title": "Optimization of Gaussian-type basis sets for local spin density functional calculations. Part I. Boron through neon, optimization technique and validation",
         "volume": "70",
-        "year": 1992
+        "year": "1992"
     },
     "gordon:1983a": {
         "authors": [
@@ -1083,7 +1083,7 @@
         "page": "2797-2803",
         "title": "Self-consistent molecular-orbital methods. 22. Small split-valence basis sets for second-row elements",
         "volume": "104",
-        "year": 1982,
+        "year": "1982",
         "DOI": "10.1021/ja00374a017"
     },
     "hariharan:1973a": {
@@ -1097,7 +1097,7 @@
         "page": "213-222",
         "title": "The influence of polarization functions on molecular orbital hydrogenation energies",
         "volume": "28",
-        "year": 1973
+        "year": "1973"
     },
     "hattig:2005a": {
         "authors": [
@@ -1108,7 +1108,7 @@
         "page": "59-66",
         "title": "Optimization of auxiliary basis sets for RI-MP2 and RI-CC2 calculations: Core\u2013valence and quintuple-\u03b6 basis sets for H to Ar and QZVPP basis sets for Li to Kr",
         "volume": "7",
-        "year": 2005,
+        "year": "2005",
         "DOI": "10.1039/b415208e"
     },
     "hay:1985a": {
@@ -1122,7 +1122,7 @@
         "page": "299-310",
         "title": "Ab initio effective core potentials for molecular calculations. Potentials for K to Au including the outermost core orbitals",
         "volume": "82",
-        "year": 1985
+        "year": "1985"
     },
     "hay:1985b": {
         "DOI": "10.1063/1.448799",
@@ -1135,7 +1135,7 @@
         "page": "270-283",
         "title": "Ab initio effective core potentials for molecular calculations. Potentials for the transition metal atoms Sc to Hg",
         "volume": "82",
-        "year": 1985
+        "year": "1985"
     },
     "hedegard:2011a": {
         "DOI": "10.1021/ct200587k",
@@ -1149,7 +1149,7 @@
         "page": "4077-4087",
         "title": "Optimized Basis Sets for Calculation of Electron Paramagnetic Resonance Hyperfine Coupling Constants: aug-cc-pVTZ-J for the 3d Atoms Sc\u2013Zn",
         "volume": "7",
-        "year": 2011
+        "year": "2011"
     },
     "hehre:1969a": {
         "DOI": "10.1063/1.1672392",
@@ -1163,7 +1163,7 @@
         "page": "2657-2664",
         "title": "Self\u2010Consistent Molecular\u2010Orbital Methods. I. Use of Gaussian Expansions of Slater\u2010Type Atomic Orbitals",
         "volume": "51",
-        "year": 1969
+        "year": "1969"
     },
     "hehre:1970a": {
         "authors": [
@@ -1177,7 +1177,7 @@
         "page": "2769-2773",
         "title": "Self\u2010Consistent Molecular Orbital Methods. IV. Use of Gaussian Expansions of Slater\u2010Type Orbitals. Extension to Second\u2010Row Molecules",
         "volume": "52",
-        "year": 1970,
+        "year": "1970",
         "DOI": "10.1063/1.1673374"
     },
     "hehre:1972a": {
@@ -1192,7 +1192,7 @@
         "page": "2257-2261",
         "title": "Self\u2014Consistent Molecular Orbital Methods. XII. Further Extensions of Gaussian\u2014Type Basis Sets for Use in Molecular Orbital Studies of Organic Molecules",
         "volume": "56",
-        "year": 1972
+        "year": "1972"
     },
     "hill:2008a": {
         "DOI": "10.1063/1.2982790",
@@ -1205,7 +1205,7 @@
         "page": "134101",
         "title": "Calculating interaction energies in transition metal complexes with local electron correlation methods",
         "volume": "129",
-        "year": 2008
+        "year": "2008"
     },
     "hill:2008b": {
         "DOI": "10.1063/1.2826348",
@@ -1218,7 +1218,7 @@
         "page": "044104",
         "title": "Auxiliary basis sets for density fitting\u2013MP2 calculations: Nonrelativistic triple-\u03b6 all-electron correlation consistent basis sets for the 3d elements Sc\u2013Zn",
         "volume": "128",
-        "year": 2008
+        "year": "2008"
     },
     "hill:2009a": {
         "DOI": "10.1021/ct8005584",
@@ -1231,7 +1231,7 @@
         "page": "500-505",
         "title": "Auxiliary Basis Sets for Density-Fitted MP2 Calculations: Correlation-Consistent Basis Sets for the 4d Elements",
         "volume": "5",
-        "year": 2009
+        "year": "2009"
     },
     "hill:2010a": {
         "DOI": "10.1063/1.3308483",
@@ -1245,7 +1245,7 @@
         "page": "054108",
         "title": "Correlation consistent basis sets for molecular core-valence effects with explicitly correlated wave functions: The atoms B\u2013Ne and Al\u2013Ar",
         "volume": "132",
-        "year": 2010
+        "year": "2010"
     },
     "hill:2010b": {
         "DOI": "10.1039/c0cp00020e",
@@ -1258,7 +1258,7 @@
         "page": "10460",
         "title": "Correlation consistent basis sets for explicitly correlated wavefunctions: valence and core\u2013valence basis sets for Li, Be, Na, and Mg",
         "volume": "12",
-        "year": 2010
+        "year": "2010"
     },
     "hill:2011a": {
         "DOI": "10.1063/1.3615062",
@@ -1270,7 +1270,7 @@
         "page": "044105",
         "title": "Auxiliary basis sets for density fitting second-order M\u00f8ller-Plesset perturbation theory: Correlation consistent basis sets for the 5d elements Hf-Pt",
         "volume": "135",
-        "year": 2011
+        "year": "2011"
     },
     "hill:2012a": {
         "DOI": "10.1021/ct200856f",
@@ -1283,7 +1283,7 @@
         "page": "518-526",
         "title": "Explicitly Correlated Coupled Cluster Calculations for Molecules Containing Group 11 (Cu, Ag, Au) and 12 (Zn, Cd, Hg) Elements: Optimized Complementary Auxiliary Basis Sets for Valence and Core\u2013Valence Basis Sets",
         "volume": "8",
-        "year": 2012
+        "year": "2012"
     },
     "hill:2013a": {
         "DOI": "10.1002/jcc.23372",
@@ -1295,7 +1295,7 @@
         "page": "2168-2177",
         "title": "Auxiliary basis sets for density-fitting second-order M\u00f8ller-Plesset perturbation theory: Weighted core-valence correlation consistent basis sets for the 4delements Y-Pd",
         "volume": "34",
-        "year": 2013
+        "year": "2013"
     },
     "hurley:1986a": {
         "DOI": "10.1063/1.450689",
@@ -1311,7 +1311,7 @@
         "page": "6840-6853",
         "title": "Ab initio relativistic effective potentials with spin\u2010orbit operators. II. K through Kr",
         "volume": "84",
-        "year": 1986
+        "year": "1986"
     },
     "huzinaga:1990a": {
         "DOI": "10.1016/0009-2614(90)80112-q",
@@ -1324,7 +1324,7 @@
         "page": "289-291",
         "title": "A comparison of the geometrical sequence formula and the well-tempered formulas for generating GTO basis orbital exponents",
         "volume": "175",
-        "year": 1990
+        "year": "1990"
     },
     "huzinaga:1993a": {
         "DOI": "10.1016/0009-2614(93)89323-a",
@@ -1337,7 +1337,7 @@
         "page": "260-264",
         "title": "Well-tempered Gaussian basis sets for the calculation of matrix Hartree\u2014Fock wavefunctions",
         "volume": "212",
-        "year": 1993
+        "year": "1993"
     },
     "igel-mann:1988a": {
         "DOI": "10.1080/00268978800101811",
@@ -1351,7 +1351,7 @@
         "page": "1321-1328",
         "title": "Pseudopotentials for main group elements (IIIa through VIIa)",
         "volume": "65",
-        "year": 1988
+        "year": "1988"
     },
     "iron:2003a": {
         "DOI": "10.1080/0026897031000094498",
@@ -1365,7 +1365,7 @@
         "page": "1345-1361",
         "title": "Alkali and alkaline earth metal compounds: core\u2014valence basis sets and importance of subvalence correlation",
         "volume": "101",
-        "year": 2003
+        "year": "2003"
     },
     "jensen:2001a": {
         "authors": [
@@ -1376,7 +1376,7 @@
         "page": "9113-9125",
         "title": "Polarization consistent basis sets: Principles",
         "volume": "115",
-        "year": 2001,
+        "year": "2001",
         "DOI": "10.1063/1.1413524"
     },
     "jensen:2002a": {
@@ -1389,7 +1389,7 @@
         "page": "7372-7379",
         "title": "Polarization consistent basis sets. II. Estimating the Kohn\u2013Sham basis set limit",
         "volume": "116",
-        "year": 2002
+        "year": "2002"
     },
     "jensen:2002b": {
         "DOI": "10.1063/1.1515484",
@@ -1401,7 +1401,7 @@
         "page": "9234-9240",
         "title": "Polarization consistent basis sets. III. The importance of diffuse functions",
         "volume": "117",
-        "year": 2002
+        "year": "2002"
     },
     "jensen:2004a": {
         "DOI": "10.1063/1.1756866",
@@ -1414,7 +1414,7 @@
         "page": "3463-3470",
         "title": "Polarization consistent basis sets. V. The elements Si\u2013Cl",
         "volume": "121",
-        "year": 2004
+        "year": "2004"
     },
     "jensen:2006a": {
         "DOI": "10.1021/ct600166u",
@@ -1426,7 +1426,7 @@
         "page": "1360-1369",
         "title": "The Basis Set Convergence of Spin\u2212Spin Coupling Constants Calculated by Density Functional Methods",
         "volume": "2",
-        "year": 2006
+        "year": "2006"
     },
     "jensen:2007a": {
         "DOI": "10.1021/jp068677h",
@@ -1438,7 +1438,7 @@
         "page": "11198-11204",
         "title": "Polarization Consistent Basis Sets. 4:\u00a0 The Elements He, Li, Be, B, Ne, Na, Mg, Al, and Ar\u2020",
         "volume": "111",
-        "year": 2007
+        "year": "2007"
     },
     "jensen:2008a": {
         "DOI": "10.1021/ct800013z",
@@ -1450,7 +1450,7 @@
         "page": "719-727",
         "title": "Basis Set Convergence of Nuclear Magnetic Shielding Constants Calculated by Density Functional Methods",
         "volume": "4",
-        "year": 2008
+        "year": "2008"
     },
     "jensen:2010a": {
         "DOI": "10.1007/s00214-009-0699-5",
@@ -1462,7 +1462,7 @@
         "page": "371-382",
         "title": "The optimum contraction of basis sets for calculating spin\u2013spin coupling constants",
         "volume": "126",
-        "year": 2010
+        "year": "2010"
     },
     "jensen:2012a": {
         "authors": [
@@ -1473,7 +1473,7 @@
         "page": "114107",
         "title": "Polarization consistent basis sets. VII. The elements K, Ca, Ga, Ge, As, Se, Br, and Kr",
         "volume": "136",
-        "year": 2012,
+        "year": "2012",
         "DOI": "10.1063/1.3690460"
     },
     "jensen:2013a": {
@@ -1486,7 +1486,7 @@
         "page": "014107",
         "title": "Polarization consistent basis sets. VIII. The transition metals Sc-Zn",
         "volume": "138",
-        "year": 2013
+        "year": "2013"
     },
     "jensen:2014a": {
         "DOI": "10.1021/ct401026a",
@@ -1498,7 +1498,7 @@
         "page": "1074-1085",
         "title": "Unifying General and Segmented Contracted Basis Sets. Segmented Polarization Consistent Basis Sets",
         "volume": "10",
-        "year": 2014
+        "year": "2014"
     },
     "jensen:2015a": {
         "DOI": "10.1021/ct5009526",
@@ -1510,7 +1510,7 @@
         "page": "132-138",
         "title": "Segmented Contracted Basis Sets Optimized for Nuclear Magnetic Shielding",
         "volume": "11",
-        "year": 2015
+        "year": "2015"
     },
     "jong:2001a": {
         "DOI": "10.1063/1.1329891",
@@ -1524,7 +1524,7 @@
         "page": "48",
         "title": "Parallel Douglas\u2013Kroll energy and gradients in NWChem: Estimating scalar relativistic effects using Douglas\u2013Kroll contracted basis sets",
         "volume": "114",
-        "year": 2001
+        "year": "2001"
     },
     "jorge:2006a": {
         "DOI": "10.1016/j.cplett.2006.10.026",
@@ -1538,7 +1538,7 @@
         "page": "558-563",
         "title": "Gaussian basis sets of 5 zeta valence quality for correlated wave functions",
         "volume": "432",
-        "year": 2006
+        "year": "2006"
     },
     "jorge:2009a": {
         "DOI": "10.1063/1.3072360",
@@ -1553,7 +1553,7 @@
         "page": "064108",
         "title": "Contracted Gaussian basis sets for Douglas\u2013Kroll\u2013Hess calculations: Estimating scalar relativistic effects of some atomic and molecular properties",
         "volume": "130",
-        "year": 2009
+        "year": "2009"
     },
     "kaupp:1991a": {
         "DOI": "10.1063/1.459993",
@@ -1568,7 +1568,7 @@
         "page": "1360-1366",
         "title": "Pseudopotential approaches to Ca, Sr, and Ba hydrides. Why are some alkaline earth MX2compounds bent?",
         "volume": "94",
-        "year": 1991
+        "year": "1991"
     },
     "kendall:1992a": {
         "DOI": "10.1063/1.462569",
@@ -1582,7 +1582,7 @@
         "page": "6796-6806",
         "title": "Electron affinities of the first\u2010row atoms revisited. Systematic basis sets and wave functions",
         "volume": "96",
-        "year": 1992
+        "year": "1992"
     },
     "kjaer:2011a": {
         "DOI": "10.1021/ct200546q",
@@ -1595,7 +1595,7 @@
         "page": "4070-4076",
         "title": "Pople Style Basis Sets for the Calculation of NMR Spin\u2013Spin Coupling Constants: the 6-31G-J and 6-311G-J Basis Sets",
         "volume": "7",
-        "year": 2011
+        "year": "2011"
     },
     "koput:2002a": {
         "DOI": "10.1021/jp026283u",
@@ -1608,7 +1608,7 @@
         "page": "9595-9599",
         "title": "Ab Initio Potential Energy Surface and Vibrational\u2212Rotational Energy Levels of X2\u03a3+CaOH",
         "volume": "106",
-        "year": 2002
+        "year": "2002"
     },
     "krishnan:1980a": {
         "DOI": "10.1063/1.438955",
@@ -1623,7 +1623,7 @@
         "page": "650-654",
         "title": "Self\u2010consistent molecular orbital methods. XX. A basis set for correlated wave functions",
         "volume": "72",
-        "year": 1980
+        "year": "1980"
     },
     "kritikou:2015a": {
         "DOI": "10.1021/acs.jctc.5b00816",
@@ -1636,7 +1636,7 @@
         "page": "5269-5276",
         "title": "Auxiliary Basis Sets for Density Fitting in Explicitly Correlated Calculations: The Atoms H\u2013Ar",
         "volume": "11",
-        "year": 2015
+        "year": "2015"
     },
     "kuchle:1991a": {
         "DOI": "10.1080/00268979100102941",
@@ -1651,7 +1651,7 @@
         "page": "1245-1263",
         "title": "Ab initiopseudopotentials for Hg through Rn",
         "volume": "74",
-        "year": 1991
+        "year": "1991"
     },
     "labello:2006a": {
         "DOI": "10.1002/qua.21129",
@@ -1665,7 +1665,7 @@
         "page": "3140-3148",
         "title": "Correlated, relativistic, and basis set limit molecular polarizability calculations to evaluate an augmented effective core potential basis set",
         "volume": "106",
-        "year": 2006
+        "year": "2006"
     },
     "lajohn:1987a": {
         "DOI": "10.1063/1.453069",
@@ -1681,7 +1681,7 @@
         "page": "2812-2824",
         "title": "Abinitiorelativistic effective potentials with spin\u2013orbit operators. III. Rb through Xe",
         "volume": "87",
-        "year": 1987
+        "year": "1987"
     },
     "lehtola:2012a": {
         "DOI": "10.1063/1.4749272",
@@ -1696,7 +1696,7 @@
         "page": "104105",
         "title": "Completeness-optimized basis sets: Application to ground-state electron momentum densities",
         "volume": "137",
-        "year": 2012
+        "year": "2012"
     },
     "lehtola:2013a": {
         "DOI": "10.1063/1.4788635",
@@ -1711,7 +1711,7 @@
         "page": "044109",
         "title": "Contraction of completeness-optimized basis sets: Application to ground-state electron momentum densities",
         "volume": "138",
-        "year": 2013
+        "year": "2013"
     },
     "leininger:1996a": {
         "DOI": "10.1016/0009-2614(96)00382-x",
@@ -1728,7 +1728,7 @@
         "page": "274-280",
         "title": "The accuracy of the pseudopotential approximation: non-frozen-core effects for spectroscopic constants of alkali fluorides XF (X = K, Rb, Cs)",
         "volume": "255",
-        "year": 1996
+        "year": "1996"
     },
     "lim:2005a": {
         "DOI": "10.1063/1.1856451",
@@ -1743,7 +1743,7 @@
         "page": "104103",
         "title": "All-electron and relativistic pseudopotential studies for the group 1 element polarizabilities from K to element 119",
         "volume": "122",
-        "year": 2005
+        "year": "2005"
     },
     "lim:2006a": {
         "DOI": "10.1063/1.2148945",
@@ -1757,7 +1757,7 @@
         "page": "034107",
         "title": "Relativistic small-core energy-consistent pseudopotentials for the alkaline-earth elements from Ca to Ra",
         "volume": "124",
-        "year": 2006
+        "year": "2006"
     },
     "lu:2016a": {
         "DOI": "10.1063/1.4959280",
@@ -1770,7 +1770,7 @@
         "page": "054111",
         "title": "Correlation consistent basis sets for lanthanides: The atoms La\u2013Lu",
         "volume": "145",
-        "year": 2016
+        "year": "2016"
     },
     "lynch:2003a": {
         "DOI": "10.1021/jp021590l",
@@ -1784,7 +1784,7 @@
         "page": "1384-1388",
         "title": "Effectiveness of Diffuse Basis Functions for Calculating Relative Energies by Density Functional Theory",
         "volume": "107",
-        "year": 2003
+        "year": "2003"
     },
     "machado:2009a": {
         "DOI": "10.1080/00268970903042258",
@@ -1800,7 +1800,7 @@
         "page": "1713-1727",
         "title": "Gaussian basis set of triple zeta valence quality for the atoms from K to Kr: Application in DFT and CCSD(T) calculations of molecular properties",
         "volume": "107",
-        "year": 2009
+        "year": "2009"
     },
     "magnusson:1985a": {
         "DOI": "10.1063/1.449647",
@@ -1813,7 +1813,7 @@
         "page": "5721-5726",
         "title": "Multiple d\u2010type basis functions for molecules containing second row atoms",
         "volume": "83",
-        "year": 1985
+        "year": "1985"
     },
     "martin:2001a": {
         "DOI": "10.1063/1.1337864",
@@ -1826,7 +1826,7 @@
         "page": "3408-3420",
         "title": "Correlation consistent valence basis sets for use with the Stuttgart\u2013Dresden\u2013Bonn relativistic effective core potentials: The atoms Ga\u2013Kr and In\u2013Xe",
         "volume": "114",
-        "year": 2001
+        "year": "2001"
     },
     "martins:2013a": {
         "DOI": "10.1016/j.comptc.2013.03.004",
@@ -1843,7 +1843,7 @@
         "page": "62-69",
         "title": "Augmented Gaussian basis sets for the elements K, Sc\u2013Kr, Rb, and Y\u2013Xe: Application in HF, MP2, and DFT calculations of molecular electric properties",
         "volume": "1013",
-        "year": 2013
+        "year": "2013"
     },
     "mclean:1980a": {
         "DOI": "10.1063/1.438980",
@@ -1856,7 +1856,7 @@
         "page": "5639-5648",
         "title": "Contracted Gaussian basis sets for molecular calculations. I. Second row atoms, Z=11\u201318",
         "volume": "72",
-        "year": 1980
+        "year": "1980"
     },
     "metz:2000a": {
         "DOI": "10.1063/1.1305880",
@@ -1870,7 +1870,7 @@
         "page": "2563-2569",
         "title": "Small-core multiconfiguration-Dirac\u2013Hartree\u2013Fock-adjusted pseudopotentials for post-d main group elements: Application to PbH and PbO",
         "volume": "113",
-        "year": 2000
+        "year": "2000"
     },
     "metz:2000b": {
         "DOI": "10.1007/s002149900101",
@@ -1886,7 +1886,7 @@
         "page": "22-28",
         "title": "A small-core multiconfiguration Dirac-Hartree-Fock-adjusted pseudopotential for Tl - application to Tl X ( X = F, Cl, Br, I)",
         "volume": "104",
-        "year": 2000
+        "year": "2000"
     },
     "mielke:1999a": {
         "DOI": "10.1063/1.479683",
@@ -1900,7 +1900,7 @@
         "page": "3806-3811",
         "title": "The utility of many-body decompositions for the accurate basis set extrapolation of ab initio data",
         "volume": "111",
-        "year": 1999
+        "year": "1999"
     },
     "mielke:2002a": {
         "DOI": "10.1063/1.1432319",
@@ -1914,7 +1914,7 @@
         "page": "4142-4161",
         "title": "A hierarchical family of global analytic Born\u2013Oppenheimer potential energy surfaces for the H+H2 reaction ranging in quality from double-zeta to the complete basis set limit",
         "volume": "116",
-        "year": 2002
+        "year": "2002"
     },
     "mielke:2005a": {
         "DOI": "10.1063/1.1917838",
@@ -1928,7 +1928,7 @@
         "page": "224313",
         "title": "Benchmark calculations of the complete configuration-interaction limit of Born\u2013Oppenheimer diagonal corrections to the saddle points of isotopomers of the H+H2 reaction",
         "volume": "122",
-        "year": 2005
+        "year": "2005"
     },
     "mitin:1996a": {
         "DOI": "10.1016/0009-2614(96)00713-0",
@@ -1942,7 +1942,7 @@
         "page": "151-158",
         "title": "Accurate small split-valence 3-21SP and 4-22SP basis sets for the first-row atoms",
         "volume": "259",
-        "year": 1996
+        "year": "1996"
     },
     "mitin:1997a": {
         "DOI": "10.1002/(sici)1096-987x(19970715)18:9<1200::aid-jcc8>3.0.co;2-v",
@@ -1956,7 +1956,7 @@
         "page": "1200-1210",
         "title": "Accurate atomic Gaussian basis functions for second-row atoms: Small split-valence 3-21SP and 4-22SP basis sets",
         "volume": "18",
-        "year": 1997
+        "year": "1997"
     },
     "mitin:2003a": {
         "DOI": "10.1063/1.1563619",
@@ -1970,7 +1970,7 @@
         "page": "7775-7782",
         "title": "An improved 6-31G* basis set for first-row transition metals",
         "volume": "118",
-        "year": 2003
+        "year": "2003"
     },
     "nash:1997a": {
         "authors": [
@@ -1983,7 +1983,7 @@
         "page": "5133-5142",
         "title": "Ab initio relativistic effective potentials with spin-orbit operators. VII. Am through element 118",
         "volume": "106",
-        "year": 1997,
+        "year": "1997",
         "DOI": "10.1063/1.473992"
     },
     "nash:1999a": {
@@ -1998,7 +1998,7 @@
         "page": "2347-2347",
         "title": "Erratum: \u201cAb initio relativistic effective potentials with spin-orbit operators. VII. Am through element 118\u201d [J. Chem. Phys. 106, 5133 (1997)]",
         "volume": "111",
-        "year": 1999
+        "year": "1999"
     },
     "neto:2005a": {
         "DOI": "10.1016/j.theochem.2004.11.037",
@@ -2013,7 +2013,7 @@
         "page": "219-224",
         "title": "Gaussian basis sets for correlated wave functions. Hydrogen, helium, first- and second-row atoms",
         "volume": "718",
-        "year": 2005
+        "year": "2005"
     },
     "neto:2013a": {
         "DOI": "10.1016/j.cplett.2013.07.045",
@@ -2026,7 +2026,7 @@
         "page": "158-162",
         "title": "All-electron double zeta basis sets for the most fifth-row atoms: Application in DFT spectroscopic constant calculations",
         "volume": "582",
-        "year": 2013
+        "year": "2013"
     },
     "oliveira:2008a": {
         "DOI": "10.1016/j.cplett.2008.08.004",
@@ -2039,7 +2039,7 @@
         "page": "235-239",
         "title": "Augmented Gaussian basis set of quintuple zeta valence quality for H and from Li to Ar: Applications in DFT calculations of molecular electric properties",
         "volume": "463",
-        "year": 2008
+        "year": "2008"
     },
     "oliveira:2010a": {
         "DOI": "10.1016/j.theochem.2010.02.017",
@@ -2055,7 +2055,7 @@
         "page": "43-46",
         "title": "Augmented Gaussian basis set of double zeta valence quality for the atoms Rb and Y\u2013Xe: Application in DFT calculations of molecular electric properties",
         "volume": "948",
-        "year": 2010
+        "year": "2010"
     },
     "otero-de-la-roza:2017a": {
         "DOI": "10.1021/acs.jctc.7b00300",
@@ -2068,7 +2068,7 @@
         "page": "3505-3524",
         "title": "Transferable Atom-Centered Potentials for the Correction of Basis Set Incompleteness Errors in Density-Functional Theory",
         "volume": "13",
-        "year": 2017
+        "year": "2017"
     },
     "pacios:1985a": {
         "DOI": "10.1063/1.448263",
@@ -2081,7 +2081,7 @@
         "page": "2664-2671",
         "title": "Ab initio relativistic effective potentials with spin\u2010orbit operators. I. Li through Ar",
         "volume": "82",
-        "year": 1985
+        "year": "1985"
     },
     "pantazis:2008a": {
         "DOI": "10.1021/ct800047t",
@@ -2096,7 +2096,7 @@
         "page": "908-919",
         "title": "All-Electron Scalar Relativistic Basis Sets for Third-Row Transition Metal Atoms",
         "volume": "4",
-        "year": 2008
+        "year": "2008"
     },
     "pantazis:2009a": {
         "DOI": "10.1021/ct900090f",
@@ -2109,7 +2109,7 @@
         "page": "2229-2238",
         "title": "All-Electron Scalar Relativistic Basis Sets for the Lanthanides",
         "volume": "5",
-        "year": 2009
+        "year": "2009"
     },
     "pantazis:2011a": {
         "DOI": "10.1021/ct100736b",
@@ -2122,7 +2122,7 @@
         "page": "677-684",
         "title": "All-Electron Scalar Relativistic Basis Sets for the Actinides",
         "volume": "7",
-        "year": 2011
+        "year": "2011"
     },
     "pantazis:2012a": {
         "authors": [
@@ -2131,10 +2131,10 @@
         ],
         "journal": "Theoretical Chemistry Accounts",
         "original": "Dimitrios A. Pantazis and Frank Neese, All-electron scalar relativistic basis sets for the 6p elements, Theor. Chem. Acc. 131, 1292 (2012).",
-        "page": 1292,
+        "page": "1292",
         "title": "All-electron scalar relativistic basis sets for the 6p elements",
         "volume": "131",
-        "year": 2012,
+        "year": "2012",
         "DOI": "10.1007/s00214-012-1292-x"
     },
     "papajak:2009a": {
@@ -2150,7 +2150,7 @@
         "page": "1197-1202",
         "title": "Efficient Diffuse Basis Sets: cc-pVxZ+ and maug-cc-pVxZ",
         "volume": "5",
-        "year": 2009
+        "year": "2009"
     },
     "papajak:2010a": {
         "DOI": "10.1021/ct900566x",
@@ -2163,7 +2163,7 @@
         "page": "597-601",
         "title": "Efficient Diffuse Basis Sets for Density Functional Theory",
         "volume": "6",
-        "year": 2010
+        "year": "2010"
     },
     "papajak:2011a": {
         "DOI": "10.1021/ct1005533",
@@ -2176,7 +2176,7 @@
         "page": "10-18",
         "title": "Convergent Partially Augmented Basis Sets for Post-Hartree\u2212Fock Calculations of Molecular Properties and Reaction Barrier Heights",
         "volume": "7",
-        "year": 2011
+        "year": "2011"
     },
     "partridge:1987a": {
         "DOI": "10.1063/1.453450",
@@ -2188,7 +2188,7 @@
         "page": "6643-6647",
         "title": "Near Hartree\u2013Fock quality GTO basis sets for the second\u2010row atoms",
         "volume": "87",
-        "year": 1987
+        "year": "1987"
     },
     "partridge:1989a": {
         "DOI": "10.1063/1.456157",
@@ -2200,7 +2200,7 @@
         "page": "1043-1047",
         "title": "Near Hartree\u2013Fock quality GTO basis sets for the first\u2010 and third\u2010row atoms",
         "volume": "90",
-        "year": 1989
+        "year": "1989"
     },
     "paschoal:2012a": {
         "DOI": "10.1002/jcc.23061",
@@ -2216,7 +2216,7 @@
         "page": "2292-2302",
         "title": "The role of the basis set and the level of quantum mechanical theory in the prediction of the structure and reactivity of cisplatin",
         "volume": "33",
-        "year": 2012
+        "year": "2012"
     },
     "paschoal:2013a": {
         "DOI": "10.1007/s00894-012-1644-4",
@@ -2229,7 +2229,7 @@
         "page": "2079-2090",
         "title": "Assessing the quantum mechanical level of theory for prediction of linear and nonlinear optical properties of push-pull organic molecules",
         "volume": "19",
-        "year": 2013
+        "year": "2013"
     },
     "paschoal:2016a": {
         "DOI": "10.1002/jcc.24461",
@@ -2245,7 +2245,7 @@
         "page": "2360-2373",
         "title": "Predicting Pt-195 NMR chemical shift using new relativistic all-electron basis set",
         "volume": "37",
-        "year": 2016
+        "year": "2016"
     },
     "peterson:2002a": {
         "DOI": "10.1063/1.1520138",
@@ -2258,7 +2258,7 @@
         "page": "10548-10560",
         "title": "Accurate correlation consistent basis sets for molecular core\u2013valence correlation effects: The second row atoms Al\u2013Ar, and the first row atoms B\u2013Ne revisited",
         "volume": "117",
-        "year": 2002
+        "year": "2002"
     },
     "peterson:2003a": {
         "DOI": "10.1063/1.1622923",
@@ -2270,7 +2270,7 @@
         "page": "11099-11112",
         "title": "Systematically convergent basis sets with relativistic pseudopotentials. I. Correlation consistent basis sets for the post-d group 13\u201315 elements",
         "volume": "119",
-        "year": 2003
+        "year": "2003"
     },
     "peterson:2003b": {
         "DOI": "10.1063/1.1622924",
@@ -2286,7 +2286,7 @@
         "page": "11113-11123",
         "title": "Systematically convergent basis sets with relativistic pseudopotentials. II. Small-core pseudopotentials and correlation consistent basis sets for the post-d group 16\u201318 elements",
         "volume": "119",
-        "year": 2003
+        "year": "2003"
     },
     "peterson:2005a": {
         "DOI": "10.1007/s00214-005-0681-9",
@@ -2299,7 +2299,7 @@
         "page": "283-296",
         "title": "Systematically convergent basis sets for transition metals. II. Pseudopotential-based correlation consistent basis sets for the group 11 (Cu, Ag, Au) and 12 (Zn, Cd, Hg) elements",
         "volume": "114",
-        "year": 2005
+        "year": "2005"
     },
     "peterson:2006a": {
         "DOI": "10.1021/jp065887l",
@@ -2314,7 +2314,7 @@
         "page": "13877-13883",
         "title": "On the Spectroscopic and Thermochemical Properties of ClO, BrO, IO, and Their Anions",
         "volume": "110",
-        "year": 2006
+        "year": "2006"
     },
     "peterson:2007a": {
         "DOI": "10.1063/1.2647019",
@@ -2329,7 +2329,7 @@
         "page": "124101",
         "title": "Energy-consistent relativistic pseudopotentials and correlation consistent basis sets for the 4d elements Y\u2013Pd",
         "volume": "126",
-        "year": 2007
+        "year": "2007"
     },
     "peterson:2008a": {
         "DOI": "10.1063/1.2831537",
@@ -2343,7 +2343,7 @@
         "page": "084102",
         "title": "Systematically convergent basis sets for explicitly correlated wavefunctions: The atoms H, He, B\u2013Ne, and Al\u2013Ar",
         "volume": "128",
-        "year": 2008
+        "year": "2008"
     },
     "peterson:2010a": {
         "DOI": "10.1063/1.3503659",
@@ -2356,7 +2356,7 @@
         "page": "174116",
         "title": "Molecular core-valence correlation effects involving the post-d elements Ga\u2013Rn: Benchmarks and new pseudopotential-based correlation consistent basis sets",
         "volume": "133",
-        "year": 2010
+        "year": "2010"
     },
     "pietro:1980a": {
         "DOI": "10.1021/ic50210a005",
@@ -2371,7 +2371,7 @@
         "page": "2225-2229",
         "title": "Molecular orbital theory of the properties of inorganic and organometallic compounds. 1. STO-NG basis sets for third-row main-group elements",
         "volume": "19",
-        "year": 1980
+        "year": "1980"
     },
     "pietro:1982a": {
         "DOI": "10.1021/ja00383a007",
@@ -2388,7 +2388,7 @@
         "page": "5039-5048",
         "title": "Self-consistent molecular orbital methods. 24. Supplemented small split-valence basis sets for second-row elements",
         "volume": "104",
-        "year": 1982
+        "year": "1982"
     },
     "pietro:1983a": {
         "authors": [
@@ -2400,7 +2400,7 @@
         "page": "241-251",
         "title": "Molecular orbital theory of the properties of inorganic and organometallic compounds. 3.STO-3G basis sets for first- and second-row transition metals",
         "volume": "4",
-        "year": 1983,
+        "year": "1983",
         "DOI": "10.1002/jcc.540040215"
     },
     "pollak:2017a": {
@@ -2414,7 +2414,7 @@
         "page": "3696-3705",
         "title": "Segmented Contracted Error-Consistent Basis Sets of Double- and Triple-\u03b6 Valence Quality for One- and Two-Component Relativistic All-Electron Calculations",
         "volume": "13",
-        "year": 2017
+        "year": "2017"
     },
     "pou-amerigo:1995a": {
         "DOI": "10.1007/s002140050119",
@@ -2430,7 +2430,7 @@
         "page": "149",
         "title": "Density matrix averaged atomic natural orbital (ANO) basis sets for correlated molecular wave functions",
         "volume": "92",
-        "year": 1995
+        "year": "1995"
     },
     "pradhan:1994a": {
         "DOI": "10.1063/1.467503",
@@ -2444,7 +2444,7 @@
         "page": "3857-3861",
         "title": "The dissociation energy of CN and C2",
         "volume": "101",
-        "year": 1994
+        "year": "1994"
     },
     "provasi:2001a": {
         "DOI": "10.1063/1.1379331",
@@ -2458,7 +2458,7 @@
         "page": "1324-1334",
         "title": "The effect of lone pairs and electronegativity on the indirect nuclear spin\u2013spin coupling constants in CH2X (X=CH2, NH, O, S):Ab initiocalculations using optimized contracted basis sets",
         "volume": "115",
-        "year": 2001
+        "year": "2001"
     },
     "provasi:2010a": {
         "DOI": "10.1063/1.3465553",
@@ -2471,7 +2471,7 @@
         "page": "054308",
         "title": "Optimized basis sets for the calculation of indirect nuclear spin-spin coupling constants involving the atoms B, Al, Si, P, and Cl",
         "volume": "133",
-        "year": 2010
+        "year": "2010"
     },
     "ranasinghe:2013a": {
         "DOI": "10.1063/1.4798707",
@@ -2484,7 +2484,7 @@
         "page": "144104",
         "title": "CCSD(T)/CBS atomic and molecular benchmarks for H through Ar",
         "volume": "138",
-        "year": 2013
+        "year": "2013"
     },
     "ranasinghe:2015a": {
         "DOI": "10.1063/1.4935972",
@@ -2498,7 +2498,7 @@
         "page": "214110",
         "title": "Core-core and core-valence correlation energy atomic and molecular benchmarks for Li through Ar",
         "volume": "143",
-        "year": 2015
+        "year": "2015"
     },
     "rappoport:2010a": {
         "DOI": "10.1063/1.3484283",
@@ -2511,7 +2511,7 @@
         "page": "134105",
         "title": "Property-optimized Gaussian basis sets for molecular response calculations",
         "volume": "133",
-        "year": 2010
+        "year": "2010"
     },
     "rassolov:1998a": {
         "DOI": "10.1063/1.476673",
@@ -2526,7 +2526,7 @@
         "page": "1223-1229",
         "title": "6-31G* basis set for atoms K through Zn",
         "volume": "109",
-        "year": 1998
+        "year": "1998"
     },
     "rassolov:2001a": {
         "DOI": "10.1002/jcc.1058.abs",
@@ -2542,7 +2542,7 @@
         "page": "976-984",
         "title": "6\u201031G* basis set for third\u2010row atoms",
         "volume": "22",
-        "year": 2001
+        "year": "2001"
     },
     "ricca:2001a": {
         "authors": [
@@ -2554,7 +2554,7 @@
         "page": "314-318",
         "title": "A correlation-consistent basis set for Fe",
         "volume": "106",
-        "year": 2001,
+        "year": "2001",
         "DOI": "10.1007/s002140100279"
     },
     "roos:2003a": {
@@ -2568,7 +2568,7 @@
         "page": "345-351",
         "title": "Relativistic atomic natural orbital type basis sets for the alkaline and alkaline-earth atoms applied to the ground-state potentials for the corresponding dimers",
         "volume": "111",
-        "year": 2004,
+        "year": "2004",
         "DOI": "10.1007/s00214-003-0537-0"
     },
     "roos:2005a": {
@@ -2584,7 +2584,7 @@
         "page": "2851-2858",
         "title": "Main Group Atoms and Dimers Studied with a New Relativistic ANO Basis Set",
         "volume": "108",
-        "year": 2004,
+        "year": "2004",
         "DOI": "10.1021/jp031064+"
     },
     "roos:2005b": {
@@ -2601,7 +2601,7 @@
         "page": "6575-6579",
         "title": "New Relativistic ANO Basis Sets for Transition Metal Atoms",
         "volume": "109",
-        "year": 2005
+        "year": "2005"
     },
     "roos:2005c": {
         "DOI": "10.1016/j.cplett.2005.05.011",
@@ -2617,7 +2617,7 @@
         "page": "295-299",
         "title": "New relativistic ANO basis sets for actinide atoms",
         "volume": "409",
-        "year": 2005
+        "year": "2005"
     },
     "roos:2008a": {
         "DOI": "10.1021/jp803213j",
@@ -2634,7 +2634,7 @@
         "page": "11431-11435",
         "title": "New Relativistic Atomic Natural Orbital Basis Sets for Lanthanide Atoms with Applications to the Ce Diatom and LuF3",
         "volume": "112",
-        "year": 2008
+        "year": "2008"
     },
     "roscioni:2012a": {
         "DOI": "10.1002/jcc.23034",
@@ -2648,7 +2648,7 @@
         "page": "2049-2057",
         "title": "Development and testing of a compact basis set for use in effective core potential calculations on rhodium complexes",
         "volume": "33",
-        "year": 2012
+        "year": "2012"
     },
     "ross:1990a": {
         "authors": [
@@ -2664,7 +2664,7 @@
         "page": "6654-6670",
         "title": "Abinitiorelativistic effective potentials with spin\u2013orbit operators. IV. Cs through Rn",
         "volume": "93",
-        "year": 1990,
+        "year": "1990",
         "DOI": "10.1063/1.458934"
     },
     "roy:2008a": {
@@ -2679,7 +2679,7 @@
         "page": "1029-1031",
         "title": "Revised Basis Sets for the LANL Effective Core Potentials",
         "volume": "4",
-        "year": 2008
+        "year": "2008"
     },
     "rusakov:2010a": {
         "authors": [
@@ -2693,8 +2693,8 @@
         "original": "Se: Y. Yu. Rusakov, L. B. Krivdin, S. P. A. Sauer, E. P. Levanova and G. G. Levkovskaya, Structural trends of 77Se-1H spin-spin coupling constants and conformational behavior of 2-substituted selenophenes, Magn. Res. Chem. 48, 44-52 (2010)",
         "page": "44-52",
         "title": "Structural trends of77Se\uf8ff1H spin-spin coupling constants and conformational behavior of 2-substituted selenophenes",
-        "volume": 48,
-        "year": 2010,
+        "volume": "48",
+        "year": "2010",
         "DOI": "10.1002/mrc.2537"
     },
     "sadlej:1988a": {
@@ -2707,7 +2707,7 @@
         "page": "1995-2016",
         "title": "Medium-size polarized basis sets for high-level correlated calculations of molecular electric properties",
         "volume": "53",
-        "year": 1988
+        "year": "1988"
     },
     "sadlej:1991a": {
         "DOI": "10.1016/0166-1280(91)89010-x",
@@ -2720,7 +2720,7 @@
         "page": "147-171",
         "title": "Medium-size polarized basis sets for high-level-correlated calculations of molecular electric properties",
         "volume": "234",
-        "year": 1991
+        "year": "1991"
     },
     "sadlej:1991b": {
         "authors": [
@@ -2731,7 +2731,7 @@
         "page": "123-140",
         "title": "Medium-size polarized basis sets for high-level-correlated calculations of molecular electric properties",
         "volume": "79",
-        "year": 1991,
+        "year": "1991",
         "DOI": "10.1007/bf01127101"
     },
     "sadlej:1991c": {
@@ -2743,7 +2743,7 @@
         "page": "45-63",
         "title": "Medium-size polarized basis sets for high-level-correlated calculations of molecular electric properties",
         "volume": "81",
-        "year": 1991,
+        "year": "1991",
         "DOI": "10.1007/bf01113377"
     },
     "sadlej:1992a": {
@@ -2755,7 +2755,7 @@
         "page": "339-354",
         "title": "Medium-size polarized basis sets for high-level-correlated calculations of molecular electric properties",
         "volume": "81",
-        "year": 1992,
+        "year": "1992",
         "DOI": "10.1007/bf01118573"
     },
     "sauer:2000a": {
@@ -2769,7 +2769,7 @@
         "page": "3121-3129",
         "title": "Unexpected differential sensitivity of nuclear spin\u2013spin-coupling constants to bond stretching in BH4\u2212,\u2002NH4+, and SiH4",
         "volume": "113",
-        "year": 2000
+        "year": "2000"
     },
     "sauer:2001a": {
         "DOI": "10.1063/1.1398091",
@@ -2783,7 +2783,7 @@
         "page": "5994-6006",
         "title": "Nuclear spin\u2013spin coupling in silane and its isotopomers: Ab initio calculation and experimental investigation",
         "volume": "115",
-        "year": 2001
+        "year": "2001"
     },
     "schafer:1992a": {
         "DOI": "10.1063/1.463096",
@@ -2797,7 +2797,7 @@
         "page": "2571-2577",
         "title": "Fully optimized contracted Gaussian basis sets for atoms Li to Kr",
         "volume": "97",
-        "year": 1992
+        "year": "1992"
     },
     "schafer:1994a": {
         "DOI": "10.1063/1.467146",
@@ -2811,7 +2811,7 @@
         "page": "5829-5835",
         "title": "Fully optimized contracted Gaussian basis sets of triple zeta valence quality for atoms Li to Kr",
         "volume": "100",
-        "year": 1994
+        "year": "1994"
     },
     "schultz:2005a": {
         "DOI": "10.1021/jp0539223",
@@ -2825,7 +2825,7 @@
         "page": "11127-11143",
         "title": "Density Functionals for Inorganometallic and Organometallic Chemistry",
         "volume": "109",
-        "year": 2005
+        "year": "2005"
     },
     "stevens:1984a": {
         "DOI": "10.1063/1.447604",
@@ -2839,7 +2839,7 @@
         "page": "6026-6033",
         "title": "Compact effective potentials and efficient shared\u2010exponent basis sets for the first\u2010 and second\u2010row atoms",
         "volume": "81",
-        "year": 1984
+        "year": "1984"
     },
     "stevens:1992a": {
         "DOI": "10.1139/v92-085",
@@ -2854,7 +2854,7 @@
         "page": "612-630",
         "title": "Relativistic compact effective potentials and efficient, shared-exponent basis sets for the third-, fourth-, and fifth-row atoms",
         "volume": "70",
-        "year": 1992
+        "year": "1992"
     },
     "swart:2010a": {
         "DOI": "10.1021/jp102712z",
@@ -2869,7 +2869,7 @@
         "page": "7191-7197",
         "title": "Spin-State-Corrected Gaussian-Type Orbital Basis Sets",
         "volume": "114",
-        "year": 2010
+        "year": "2010"
     },
     "vidal:2012a": {
         "authors": [
@@ -2878,10 +2878,10 @@
         ],
         "journal": "Theoretical Chemistry Accounts",
         "original": "Luciano N. Vidal and Pedro A. M. Vazquez, Electrically polarized valence basis sets for the SBKJC effective core potential developed for calculations of dynamic polarizabilities and Raman intensities., Theoretical Chemistry Accounts 131, 1111 (2012).",
-        "page": 1111,
+        "page": "1111",
         "title": "Electrically polarized valence basis sets for the SBKJC effective core potential developed for calculations of dynamic polarizabilities and Raman intensities",
         "volume": "131",
-        "year": 2012,
+        "year": "2012",
         "DOI": "10.1007/s00214-012-1111-4"
     },
     "wachters:1970a": {
@@ -2893,7 +2893,7 @@
         "page": "1033-1036",
         "title": "Gaussian Basis Set for Molecular Wavefunctions Containing Third\u2010Row Atoms",
         "volume": "52",
-        "year": 1970,
+        "year": "1970",
         "DOI": "10.1063/1.1673095"
     },
     "wadt:1985a": {
@@ -2907,7 +2907,7 @@
         "page": "284-298",
         "title": "Ab initio effective core potentials for molecular calculations. Potentials for main group elements Na to Bi",
         "volume": "82",
-        "year": 1985
+        "year": "1985"
     },
     "weigend:2002a": {
         "DOI": "10.1063/1.1445115",
@@ -2921,7 +2921,7 @@
         "page": "3175-3183",
         "title": "Efficient use of the correlation consistent basis sets in resolution of the identity MP2 calculations",
         "volume": "116",
-        "year": 2002
+        "year": "2002"
     },
     "weigend:2005a": {
         "DOI": "10.1039/b508541a",
@@ -2934,7 +2934,7 @@
         "page": "3297",
         "title": "Balanced basis sets of split valence, triple zeta valence and quadruple zeta valence quality for H to Rn: Design and assessment of accuracy",
         "volume": "7",
-        "year": 2005
+        "year": "2005"
     },
     "weigend:2006a": {
         "DOI": "10.1039/b515623h",
@@ -2946,7 +2946,7 @@
         "page": "1057",
         "title": "Accurate Coulomb-fitting basis sets for H to Rn",
         "volume": "8",
-        "year": 2006
+        "year": "2006"
     },
     "weigend:2010a": {
         "DOI": "10.1063/1.3495681",
@@ -2959,7 +2959,7 @@
         "page": "174102",
         "title": "Segmented contracted basis sets for one- and two-component Dirac\u2013Fock effective core potentials",
         "volume": "133",
-        "year": 2010
+        "year": "2010"
     },
     "widmark:1990a": {
         "DOI": "10.1007/bf01120130",
@@ -2973,7 +2973,7 @@
         "page": "291-306",
         "title": "Density matrix averaged atomic natural orbital (ANO) basis sets for correlated molecular wave functions",
         "volume": "77",
-        "year": 1990
+        "year": "1990"
     },
     "widmark:1991a": {
         "DOI": "10.1007/bf01112569",
@@ -2987,7 +2987,7 @@
         "page": "419-432",
         "title": "Density matrix averaged atomic natural orbital (ANO) basis sets for correlated molecular wave functions",
         "volume": "79",
-        "year": 1991
+        "year": "1991"
     },
     "wilson:1997a": {
         "authors": [
@@ -3000,7 +3000,7 @@
         "page": "339-349",
         "title": "Gaussian basis sets for use in correlated molecular calculations. VI. Sextuple zeta correlation consistent basis sets for boron through neon",
         "volume": "388",
-        "year": 1996,
+        "year": "1996",
         "DOI": "10.1016/s0166-1280(96)80048-0"
     },
     "wilson:1999a": {
@@ -3016,7 +3016,7 @@
         "page": "7667-7676",
         "title": "Gaussian basis sets for use in correlated molecular calculations. IX. The atoms gallium through krypton",
         "volume": "110",
-        "year": 1999
+        "year": "1999"
     },
     "woon:1993a": {
         "DOI": "10.1063/1.464303",
@@ -3029,7 +3029,7 @@
         "page": "1358-1371",
         "title": "Gaussian basis sets for use in correlated molecular calculations. III. The atoms aluminum through argon",
         "volume": "98",
-        "year": 1993
+        "year": "1993"
     },
     "woon:1994a": {
         "DOI": "10.1063/1.466439",
@@ -3042,7 +3042,7 @@
         "page": "2975-2988",
         "title": "Gaussian basis sets for use in correlated molecular calculations. IV. Calculation of static electrical response properties",
         "volume": "100",
-        "year": 1994
+        "year": "1994"
     },
     "woon:1995a": {
         "authors": [
@@ -3054,7 +3054,7 @@
         "page": "4572-4585",
         "title": "Gaussian basis sets for use in correlated molecular calculations. V. Core\u2010valence basis sets for boron through neon",
         "volume": "103",
-        "year": 1995,
+        "year": "1995",
         "DOI": "10.1063/1.470645"
     },
     "yockel:2008a": {
@@ -3068,7 +3068,7 @@
         "page": "119-131",
         "title": "Core-valence correlation consistent basis sets for second-row atoms (Al\u2013Ar) revisited",
         "volume": "120",
-        "year": 2008
+        "year": "2008"
     },
     "yousaf:2008a": {
         "DOI": "10.1063/1.3009271",
@@ -3081,7 +3081,7 @@
         "page": "184108",
         "title": "Optimized auxiliary basis sets for explicitly correlated methods",
         "volume": "129",
-        "year": 2008
+        "year": "2008"
     },
     "yousaf:2009a": {
         "DOI": "10.1016/j.cplett.2009.06.003",
@@ -3094,6 +3094,6 @@
         "page": "303-307",
         "title": "Optimized complementary auxiliary basis sets for explicitly correlated methods: aug-cc-pVnZ orbital basis sets",
         "volume": "476",
-        "year": 2009
+        "year": "2009"
     }
 }
