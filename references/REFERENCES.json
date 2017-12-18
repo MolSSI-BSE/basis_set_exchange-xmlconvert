@@ -12,7 +12,7 @@
         "volume": "86",
         "year": "1987"
     },
-    "amin:75a": {
+    "amin:2008a": {
         "authors": [
             "Elizabeth A. Amin",
             "Donald G. Truhlar"
@@ -1070,7 +1070,7 @@
         "volume": "70",
         "year": "1992"
     },
-    "gordon:1983a": {
+    "gordon:1982a": {
         "authors": [
             "Mark S. Gordon",
             "J. Stephen Binkley",
@@ -2557,7 +2557,7 @@
         "year": "2001",
         "DOI": "10.1007/s002140100279"
     },
-    "roos:2003a": {
+    "roos:2004a": {
         "authors": [
             "Valera Veryazov",
             "Per-Olof Widmark",
@@ -2571,7 +2571,7 @@
         "year": "2004",
         "DOI": "10.1007/s00214-003-0537-0"
     },
-    "roos:2005a": {
+    "roos:2004b": {
         "authors": [
             "Bj\u00f6rn O. Roos",
             "Roland Lindh",
@@ -2587,7 +2587,7 @@
         "year": "2004",
         "DOI": "10.1021/jp031064+"
     },
-    "roos:2005b": {
+    "roos:2005a": {
         "DOI": "10.1021/jp0581126",
         "authors": [
             "Bj\u00f6rn O. Roos",
@@ -2603,7 +2603,7 @@
         "volume": "109",
         "year": "2005"
     },
-    "roos:2005c": {
+    "roos:2005b": {
         "DOI": "10.1016/j.cplett.2005.05.011",
         "authors": [
             "Bj\u00f6rn O. Roos",
@@ -2989,7 +2989,7 @@
         "volume": "79",
         "year": "1991"
     },
-    "wilson:1997a": {
+    "wilson:1996a": {
         "authors": [
             "Angela K. Wilson",
             "Tanja van Mourik",
