@@ -1,0 +1,97 @@
+{
+    "molssi_bse_magic": 1,
+    "basisSetName": "cc-pV5Z-RI",
+    "basisSetDescription": "cc-pV5Z-RI",
+    "basisSetElements": {
+        "1": {
+            "elementComponents": [
+                "CC-PV5Z-RI.json"
+            ]
+        },
+        "2": {
+            "elementComponents": [
+                "CC-PV5Z-RI.json"
+            ]
+        },
+        "3": {
+            "elementComponents": [
+                "CC-PV5Z-RI.json"
+            ]
+        },
+        "4": {
+            "elementComponents": [
+                "CC-PV5Z-RI.json"
+            ]
+        },
+        "5": {
+            "elementComponents": [
+                "CC-PV5Z-RI.json"
+            ]
+        },
+        "6": {
+            "elementComponents": [
+                "CC-PV5Z-RI.json"
+            ]
+        },
+        "7": {
+            "elementComponents": [
+                "CC-PV5Z-RI.json"
+            ]
+        },
+        "8": {
+            "elementComponents": [
+                "CC-PV5Z-RI.json"
+            ]
+        },
+        "9": {
+            "elementComponents": [
+                "CC-PV5Z-RI.json"
+            ]
+        },
+        "10": {
+            "elementComponents": [
+                "CC-PV5Z-RI.json"
+            ]
+        },
+        "11": {
+            "elementComponents": [
+                "CC-PV5Z-RI.json"
+            ]
+        },
+        "12": {
+            "elementComponents": [
+                "CC-PV5Z-RI.json"
+            ]
+        },
+        "13": {
+            "elementComponents": [
+                "CC-PV5Z-RI.json"
+            ]
+        },
+        "14": {
+            "elementComponents": [
+                "CC-PV5Z-RI.json"
+            ]
+        },
+        "15": {
+            "elementComponents": [
+                "CC-PV5Z-RI.json"
+            ]
+        },
+        "16": {
+            "elementComponents": [
+                "CC-PV5Z-RI.json"
+            ]
+        },
+        "17": {
+            "elementComponents": [
+                "CC-PV5Z-RI.json"
+            ]
+        },
+        "18": {
+            "elementComponents": [
+                "CC-PV5Z-RI.json"
+            ]
+        }
+    }
+}

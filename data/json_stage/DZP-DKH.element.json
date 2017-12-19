@@ -1,0 +1,367 @@
+{
+    "molssi_bse_magic": 1,
+    "basisSetName": "DZP-DKH",
+    "basisSetDescription": "DZP-DKH",
+    "basisSetElements": {
+        "1": {
+            "elementComponents": [
+                "DZP-DKH.json"
+            ]
+        },
+        "2": {
+            "elementComponents": [
+                "DZP-DKH.json"
+            ]
+        },
+        "3": {
+            "elementComponents": [
+                "DZP-DKH.json"
+            ]
+        },
+        "4": {
+            "elementComponents": [
+                "DZP-DKH.json"
+            ]
+        },
+        "5": {
+            "elementComponents": [
+                "DZP-DKH.json"
+            ]
+        },
+        "6": {
+            "elementComponents": [
+                "DZP-DKH.json"
+            ]
+        },
+        "7": {
+            "elementComponents": [
+                "DZP-DKH.json"
+            ]
+        },
+        "8": {
+            "elementComponents": [
+                "DZP-DKH.json"
+            ]
+        },
+        "9": {
+            "elementComponents": [
+                "DZP-DKH.json"
+            ]
+        },
+        "10": {
+            "elementComponents": [
+                "DZP-DKH.json"
+            ]
+        },
+        "11": {
+            "elementComponents": [
+                "DZP-DKH.json"
+            ]
+        },
+        "12": {
+            "elementComponents": [
+                "DZP-DKH.json"
+            ]
+        },
+        "13": {
+            "elementComponents": [
+                "DZP-DKH.json"
+            ]
+        },
+        "14": {
+            "elementComponents": [
+                "DZP-DKH.json"
+            ]
+        },
+        "15": {
+            "elementComponents": [
+                "DZP-DKH.json"
+            ]
+        },
+        "16": {
+            "elementComponents": [
+                "DZP-DKH.json"
+            ]
+        },
+        "17": {
+            "elementComponents": [
+                "DZP-DKH.json"
+            ]
+        },
+        "18": {
+            "elementComponents": [
+                "DZP-DKH.json"
+            ]
+        },
+        "19": {
+            "elementComponents": [
+                "DZP-DKH.json"
+            ]
+        },
+        "20": {
+            "elementComponents": [
+                "DZP-DKH.json"
+            ]
+        },
+        "21": {
+            "elementComponents": [
+                "DZP-DKH.json"
+            ]
+        },
+        "22": {
+            "elementComponents": [
+                "DZP-DKH.json"
+            ]
+        },
+        "23": {
+            "elementComponents": [
+                "DZP-DKH.json"
+            ]
+        },
+        "24": {
+            "elementComponents": [
+                "DZP-DKH.json"
+            ]
+        },
+        "25": {
+            "elementComponents": [
+                "DZP-DKH.json"
+            ]
+        },
+        "26": {
+            "elementComponents": [
+                "DZP-DKH.json"
+            ]
+        },
+        "27": {
+            "elementComponents": [
+                "DZP-DKH.json"
+            ]
+        },
+        "28": {
+            "elementComponents": [
+                "DZP-DKH.json"
+            ]
+        },
+        "29": {
+            "elementComponents": [
+                "DZP-DKH.json"
+            ]
+        },
+        "30": {
+            "elementComponents": [
+                "DZP-DKH.json"
+            ]
+        },
+        "31": {
+            "elementComponents": [
+                "DZP-DKH.json"
+            ]
+        },
+        "32": {
+            "elementComponents": [
+                "DZP-DKH.json"
+            ]
+        },
+        "33": {
+            "elementComponents": [
+                "DZP-DKH.json"
+            ]
+        },
+        "34": {
+            "elementComponents": [
+                "DZP-DKH.json"
+            ]
+        },
+        "35": {
+            "elementComponents": [
+                "DZP-DKH.json"
+            ]
+        },
+        "36": {
+            "elementComponents": [
+                "DZP-DKH.json"
+            ]
+        },
+        "37": {
+            "elementComponents": [
+                "DZP-DKH.json"
+            ]
+        },
+        "38": {
+            "elementComponents": [
+                "DZP-DKH.json"
+            ]
+        },
+        "39": {
+            "elementComponents": [
+                "DZP-DKH.json"
+            ]
+        },
+        "40": {
+            "elementComponents": [
+                "DZP-DKH.json"
+            ]
+        },
+        "41": {
+            "elementComponents": [
+                "DZP-DKH.json"
+            ]
+        },
+        "42": {
+            "elementComponents": [
+                "DZP-DKH.json"
+            ]
+        },
+        "43": {
+            "elementComponents": [
+                "DZP-DKH.json"
+            ]
+        },
+        "44": {
+            "elementComponents": [
+                "DZP-DKH.json"
+            ]
+        },
+        "45": {
+            "elementComponents": [
+                "DZP-DKH.json"
+            ]
+        },
+        "46": {
+            "elementComponents": [
+                "DZP-DKH.json"
+            ]
+        },
+        "47": {
+            "elementComponents": [
+                "DZP-DKH.json"
+            ]
+        },
+        "48": {
+            "elementComponents": [
+                "DZP-DKH.json"
+            ]
+        },
+        "49": {
+            "elementComponents": [
+                "DZP-DKH.json"
+            ]
+        },
+        "50": {
+            "elementComponents": [
+                "DZP-DKH.json"
+            ]
+        },
+        "51": {
+            "elementComponents": [
+                "DZP-DKH.json"
+            ]
+        },
+        "52": {
+            "elementComponents": [
+                "DZP-DKH.json"
+            ]
+        },
+        "53": {
+            "elementComponents": [
+                "DZP-DKH.json"
+            ]
+        },
+        "54": {
+            "elementComponents": [
+                "DZP-DKH.json"
+            ]
+        },
+        "55": {
+            "elementComponents": [
+                "DZP-DKH.json"
+            ]
+        },
+        "56": {
+            "elementComponents": [
+                "DZP-DKH.json"
+            ]
+        },
+        "57": {
+            "elementComponents": [
+                "DZP-DKH.json"
+            ]
+        },
+        "72": {
+            "elementComponents": [
+                "DZP-DKH.json"
+            ]
+        },
+        "73": {
+            "elementComponents": [
+                "DZP-DKH.json"
+            ]
+        },
+        "74": {
+            "elementComponents": [
+                "DZP-DKH.json"
+            ]
+        },
+        "75": {
+            "elementComponents": [
+                "DZP-DKH.json"
+            ]
+        },
+        "76": {
+            "elementComponents": [
+                "DZP-DKH.json"
+            ]
+        },
+        "77": {
+            "elementComponents": [
+                "DZP-DKH.json"
+            ]
+        },
+        "78": {
+            "elementComponents": [
+                "DZP-DKH.json"
+            ]
+        },
+        "79": {
+            "elementComponents": [
+                "DZP-DKH.json"
+            ]
+        },
+        "80": {
+            "elementComponents": [
+                "DZP-DKH.json"
+            ]
+        },
+        "81": {
+            "elementComponents": [
+                "DZP-DKH.json"
+            ]
+        },
+        "82": {
+            "elementComponents": [
+                "DZP-DKH.json"
+            ]
+        },
+        "83": {
+            "elementComponents": [
+                "DZP-DKH.json"
+            ]
+        },
+        "84": {
+            "elementComponents": [
+                "DZP-DKH.json"
+            ]
+        },
+        "85": {
+            "elementComponents": [
+                "DZP-DKH.json"
+            ]
+        },
+        "86": {
+            "elementComponents": [
+                "DZP-DKH.json"
+            ]
+        }
+    }
+}

@@ -1,0 +1,85 @@
+{
+    "molssi_bse_magic": 1,
+    "basisSetName": "DZP (Dunning)",
+    "basisSetDescription": "DZP     Double Zeta + Polarization on All Atoms",
+    "basisSetElements": {
+        "1": {
+            "elementComponents": [
+                "DUNNINGDZ.json",
+                "DUNHAYPOL.json"
+            ]
+        },
+        "3": {
+            "elementComponents": [
+                "DUNNINGDZ.json",
+                "DUNHAYPOL.json"
+            ]
+        },
+        "5": {
+            "elementComponents": [
+                "DUNNINGDZ.json",
+                "DUNHAYPOL.json"
+            ]
+        },
+        "6": {
+            "elementComponents": [
+                "DUNNINGDZ.json",
+                "DUNHAYPOL.json"
+            ]
+        },
+        "7": {
+            "elementComponents": [
+                "DUNNINGDZ.json",
+                "DUNHAYPOL.json"
+            ]
+        },
+        "8": {
+            "elementComponents": [
+                "DUNNINGDZ.json",
+                "DUNHAYPOL.json"
+            ]
+        },
+        "9": {
+            "elementComponents": [
+                "DUNNINGDZ.json",
+                "DUNHAYPOL.json"
+            ]
+        },
+        "10": {
+            "elementComponents": [
+                "DUNNINGDZ.json",
+                "DUNHAYPOL.json"
+            ]
+        },
+        "13": {
+            "elementComponents": [
+                "DUNNINGDZ.json",
+                "DUNHAYPOL.json"
+            ]
+        },
+        "14": {
+            "elementComponents": [
+                "DUNNINGDZ.json",
+                "DUNHAYPOL.json"
+            ]
+        },
+        "15": {
+            "elementComponents": [
+                "DUNNINGDZ.json",
+                "DUNHAYPOL.json"
+            ]
+        },
+        "16": {
+            "elementComponents": [
+                "DUNNINGDZ.json",
+                "DUNHAYPOL.json"
+            ]
+        },
+        "17": {
+            "elementComponents": [
+                "DUNNINGDZ.json",
+                "DUNHAYPOL.json"
+            ]
+        }
+    }
+}

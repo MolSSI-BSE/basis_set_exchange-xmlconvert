@@ -1,0 +1,22 @@
+{
+    "molssi_bse_magic": 1,
+    "basisSetName": "Glendening Polarization",
+    "basisSetDescription": "1P      Polarization functions",
+    "basisSetElements": {
+        "19": {
+            "elementComponents": [
+                "GLENDENING_POL.json"
+            ]
+        },
+        "37": {
+            "elementComponents": [
+                "GLENDENING_POL.json"
+            ]
+        },
+        "55": {
+            "elementComponents": [
+                "GLENDENING_POL.json"
+            ]
+        }
+    }
+}

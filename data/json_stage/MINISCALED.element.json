@@ -1,0 +1,107 @@
+{
+    "molssi_bse_magic": 1,
+    "basisSetName": "MINI (Scaled)",
+    "basisSetDescription": "MB      Minimal Basis: 1 Function/AO",
+    "basisSetElements": {
+        "1": {
+            "elementComponents": [
+                "MINISCALED.json"
+            ]
+        },
+        "2": {
+            "elementComponents": [
+                "MINISCALED.json"
+            ]
+        },
+        "3": {
+            "elementComponents": [
+                "MINISCALED.json"
+            ]
+        },
+        "4": {
+            "elementComponents": [
+                "MINISCALED.json"
+            ]
+        },
+        "5": {
+            "elementComponents": [
+                "MINISCALED.json"
+            ]
+        },
+        "6": {
+            "elementComponents": [
+                "MINISCALED.json"
+            ]
+        },
+        "7": {
+            "elementComponents": [
+                "MINISCALED.json"
+            ]
+        },
+        "8": {
+            "elementComponents": [
+                "MINISCALED.json"
+            ]
+        },
+        "9": {
+            "elementComponents": [
+                "MINISCALED.json"
+            ]
+        },
+        "10": {
+            "elementComponents": [
+                "MINISCALED.json"
+            ]
+        },
+        "11": {
+            "elementComponents": [
+                "MINISCALED.json"
+            ]
+        },
+        "12": {
+            "elementComponents": [
+                "MINISCALED.json"
+            ]
+        },
+        "13": {
+            "elementComponents": [
+                "MINISCALED.json"
+            ]
+        },
+        "14": {
+            "elementComponents": [
+                "MINISCALED.json"
+            ]
+        },
+        "15": {
+            "elementComponents": [
+                "MINISCALED.json"
+            ]
+        },
+        "16": {
+            "elementComponents": [
+                "MINISCALED.json"
+            ]
+        },
+        "17": {
+            "elementComponents": [
+                "MINISCALED.json"
+            ]
+        },
+        "18": {
+            "elementComponents": [
+                "MINISCALED.json"
+            ]
+        },
+        "19": {
+            "elementComponents": [
+                "MINISCALED.json"
+            ]
+        },
+        "20": {
+            "elementComponents": [
+                "MINISCALED.json"
+            ]
+        }
+    }
+}

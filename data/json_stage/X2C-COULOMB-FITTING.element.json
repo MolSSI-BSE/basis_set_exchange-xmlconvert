@@ -1,0 +1,437 @@
+{
+    "molssi_bse_magic": 1,
+    "basisSetName": "x2c-coulomb-fitting",
+    "basisSetDescription": "x2c-coulomb-fitting",
+    "basisSetElements": {
+        "1": {
+            "elementComponents": [
+                "X2C-COULOMB-FITTING.json"
+            ]
+        },
+        "2": {
+            "elementComponents": [
+                "X2C-COULOMB-FITTING.json"
+            ]
+        },
+        "3": {
+            "elementComponents": [
+                "X2C-COULOMB-FITTING.json"
+            ]
+        },
+        "4": {
+            "elementComponents": [
+                "X2C-COULOMB-FITTING.json"
+            ]
+        },
+        "5": {
+            "elementComponents": [
+                "X2C-COULOMB-FITTING.json"
+            ]
+        },
+        "6": {
+            "elementComponents": [
+                "X2C-COULOMB-FITTING.json"
+            ]
+        },
+        "7": {
+            "elementComponents": [
+                "X2C-COULOMB-FITTING.json"
+            ]
+        },
+        "8": {
+            "elementComponents": [
+                "X2C-COULOMB-FITTING.json"
+            ]
+        },
+        "9": {
+            "elementComponents": [
+                "X2C-COULOMB-FITTING.json"
+            ]
+        },
+        "10": {
+            "elementComponents": [
+                "X2C-COULOMB-FITTING.json"
+            ]
+        },
+        "11": {
+            "elementComponents": [
+                "X2C-COULOMB-FITTING.json"
+            ]
+        },
+        "12": {
+            "elementComponents": [
+                "X2C-COULOMB-FITTING.json"
+            ]
+        },
+        "13": {
+            "elementComponents": [
+                "X2C-COULOMB-FITTING.json"
+            ]
+        },
+        "14": {
+            "elementComponents": [
+                "X2C-COULOMB-FITTING.json"
+            ]
+        },
+        "15": {
+            "elementComponents": [
+                "X2C-COULOMB-FITTING.json"
+            ]
+        },
+        "16": {
+            "elementComponents": [
+                "X2C-COULOMB-FITTING.json"
+            ]
+        },
+        "17": {
+            "elementComponents": [
+                "X2C-COULOMB-FITTING.json"
+            ]
+        },
+        "18": {
+            "elementComponents": [
+                "X2C-COULOMB-FITTING.json"
+            ]
+        },
+        "19": {
+            "elementComponents": [
+                "X2C-COULOMB-FITTING.json"
+            ]
+        },
+        "20": {
+            "elementComponents": [
+                "X2C-COULOMB-FITTING.json"
+            ]
+        },
+        "21": {
+            "elementComponents": [
+                "X2C-COULOMB-FITTING.json"
+            ]
+        },
+        "22": {
+            "elementComponents": [
+                "X2C-COULOMB-FITTING.json"
+            ]
+        },
+        "23": {
+            "elementComponents": [
+                "X2C-COULOMB-FITTING.json"
+            ]
+        },
+        "24": {
+            "elementComponents": [
+                "X2C-COULOMB-FITTING.json"
+            ]
+        },
+        "25": {
+            "elementComponents": [
+                "X2C-COULOMB-FITTING.json"
+            ]
+        },
+        "26": {
+            "elementComponents": [
+                "X2C-COULOMB-FITTING.json"
+            ]
+        },
+        "27": {
+            "elementComponents": [
+                "X2C-COULOMB-FITTING.json"
+            ]
+        },
+        "28": {
+            "elementComponents": [
+                "X2C-COULOMB-FITTING.json"
+            ]
+        },
+        "29": {
+            "elementComponents": [
+                "X2C-COULOMB-FITTING.json"
+            ]
+        },
+        "30": {
+            "elementComponents": [
+                "X2C-COULOMB-FITTING.json"
+            ]
+        },
+        "31": {
+            "elementComponents": [
+                "X2C-COULOMB-FITTING.json"
+            ]
+        },
+        "32": {
+            "elementComponents": [
+                "X2C-COULOMB-FITTING.json"
+            ]
+        },
+        "33": {
+            "elementComponents": [
+                "X2C-COULOMB-FITTING.json"
+            ]
+        },
+        "34": {
+            "elementComponents": [
+                "X2C-COULOMB-FITTING.json"
+            ]
+        },
+        "35": {
+            "elementComponents": [
+                "X2C-COULOMB-FITTING.json"
+            ]
+        },
+        "36": {
+            "elementComponents": [
+                "X2C-COULOMB-FITTING.json"
+            ]
+        },
+        "37": {
+            "elementComponents": [
+                "X2C-COULOMB-FITTING.json"
+            ]
+        },
+        "38": {
+            "elementComponents": [
+                "X2C-COULOMB-FITTING.json"
+            ]
+        },
+        "39": {
+            "elementComponents": [
+                "X2C-COULOMB-FITTING.json"
+            ]
+        },
+        "40": {
+            "elementComponents": [
+                "X2C-COULOMB-FITTING.json"
+            ]
+        },
+        "41": {
+            "elementComponents": [
+                "X2C-COULOMB-FITTING.json"
+            ]
+        },
+        "42": {
+            "elementComponents": [
+                "X2C-COULOMB-FITTING.json"
+            ]
+        },
+        "43": {
+            "elementComponents": [
+                "X2C-COULOMB-FITTING.json"
+            ]
+        },
+        "44": {
+            "elementComponents": [
+                "X2C-COULOMB-FITTING.json"
+            ]
+        },
+        "45": {
+            "elementComponents": [
+                "X2C-COULOMB-FITTING.json"
+            ]
+        },
+        "46": {
+            "elementComponents": [
+                "X2C-COULOMB-FITTING.json"
+            ]
+        },
+        "47": {
+            "elementComponents": [
+                "X2C-COULOMB-FITTING.json"
+            ]
+        },
+        "48": {
+            "elementComponents": [
+                "X2C-COULOMB-FITTING.json"
+            ]
+        },
+        "49": {
+            "elementComponents": [
+                "X2C-COULOMB-FITTING.json"
+            ]
+        },
+        "50": {
+            "elementComponents": [
+                "X2C-COULOMB-FITTING.json"
+            ]
+        },
+        "51": {
+            "elementComponents": [
+                "X2C-COULOMB-FITTING.json"
+            ]
+        },
+        "52": {
+            "elementComponents": [
+                "X2C-COULOMB-FITTING.json"
+            ]
+        },
+        "53": {
+            "elementComponents": [
+                "X2C-COULOMB-FITTING.json"
+            ]
+        },
+        "54": {
+            "elementComponents": [
+                "X2C-COULOMB-FITTING.json"
+            ]
+        },
+        "55": {
+            "elementComponents": [
+                "X2C-COULOMB-FITTING.json"
+            ]
+        },
+        "56": {
+            "elementComponents": [
+                "X2C-COULOMB-FITTING.json"
+            ]
+        },
+        "57": {
+            "elementComponents": [
+                "X2C-COULOMB-FITTING.json"
+            ]
+        },
+        "58": {
+            "elementComponents": [
+                "X2C-COULOMB-FITTING.json"
+            ]
+        },
+        "59": {
+            "elementComponents": [
+                "X2C-COULOMB-FITTING.json"
+            ]
+        },
+        "60": {
+            "elementComponents": [
+                "X2C-COULOMB-FITTING.json"
+            ]
+        },
+        "61": {
+            "elementComponents": [
+                "X2C-COULOMB-FITTING.json"
+            ]
+        },
+        "62": {
+            "elementComponents": [
+                "X2C-COULOMB-FITTING.json"
+            ]
+        },
+        "63": {
+            "elementComponents": [
+                "X2C-COULOMB-FITTING.json"
+            ]
+        },
+        "64": {
+            "elementComponents": [
+                "X2C-COULOMB-FITTING.json"
+            ]
+        },
+        "65": {
+            "elementComponents": [
+                "X2C-COULOMB-FITTING.json"
+            ]
+        },
+        "66": {
+            "elementComponents": [
+                "X2C-COULOMB-FITTING.json"
+            ]
+        },
+        "67": {
+            "elementComponents": [
+                "X2C-COULOMB-FITTING.json"
+            ]
+        },
+        "68": {
+            "elementComponents": [
+                "X2C-COULOMB-FITTING.json"
+            ]
+        },
+        "69": {
+            "elementComponents": [
+                "X2C-COULOMB-FITTING.json"
+            ]
+        },
+        "70": {
+            "elementComponents": [
+                "X2C-COULOMB-FITTING.json"
+            ]
+        },
+        "71": {
+            "elementComponents": [
+                "X2C-COULOMB-FITTING.json"
+            ]
+        },
+        "72": {
+            "elementComponents": [
+                "X2C-COULOMB-FITTING.json"
+            ]
+        },
+        "73": {
+            "elementComponents": [
+                "X2C-COULOMB-FITTING.json"
+            ]
+        },
+        "74": {
+            "elementComponents": [
+                "X2C-COULOMB-FITTING.json"
+            ]
+        },
+        "75": {
+            "elementComponents": [
+                "X2C-COULOMB-FITTING.json"
+            ]
+        },
+        "76": {
+            "elementComponents": [
+                "X2C-COULOMB-FITTING.json"
+            ]
+        },
+        "77": {
+            "elementComponents": [
+                "X2C-COULOMB-FITTING.json"
+            ]
+        },
+        "78": {
+            "elementComponents": [
+                "X2C-COULOMB-FITTING.json"
+            ]
+        },
+        "79": {
+            "elementComponents": [
+                "X2C-COULOMB-FITTING.json"
+            ]
+        },
+        "80": {
+            "elementComponents": [
+                "X2C-COULOMB-FITTING.json"
+            ]
+        },
+        "81": {
+            "elementComponents": [
+                "X2C-COULOMB-FITTING.json"
+            ]
+        },
+        "82": {
+            "elementComponents": [
+                "X2C-COULOMB-FITTING.json"
+            ]
+        },
+        "83": {
+            "elementComponents": [
+                "X2C-COULOMB-FITTING.json"
+            ]
+        },
+        "84": {
+            "elementComponents": [
+                "X2C-COULOMB-FITTING.json"
+            ]
+        },
+        "85": {
+            "elementComponents": [
+                "X2C-COULOMB-FITTING.json"
+            ]
+        },
+        "86": {
+            "elementComponents": [
+                "X2C-COULOMB-FITTING.json"
+            ]
+        }
+    }
+}

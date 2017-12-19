@@ -1,0 +1,187 @@
+{
+    "molssi_bse_magic": 1,
+    "basisSetName": "G3MP2LargeXP",
+    "basisSetDescription": "G3MP2LargeXP",
+    "basisSetElements": {
+        "1": {
+            "elementComponents": [
+                "G3MP2LARGEXP.json"
+            ]
+        },
+        "2": {
+            "elementComponents": [
+                "G3MP2LARGEXP.json"
+            ]
+        },
+        "3": {
+            "elementComponents": [
+                "G3MP2LARGEXP.json"
+            ]
+        },
+        "4": {
+            "elementComponents": [
+                "G3MP2LARGEXP.json"
+            ]
+        },
+        "5": {
+            "elementComponents": [
+                "G3MP2LARGEXP.json"
+            ]
+        },
+        "6": {
+            "elementComponents": [
+                "G3MP2LARGEXP.json"
+            ]
+        },
+        "7": {
+            "elementComponents": [
+                "G3MP2LARGEXP.json"
+            ]
+        },
+        "8": {
+            "elementComponents": [
+                "G3MP2LARGEXP.json"
+            ]
+        },
+        "9": {
+            "elementComponents": [
+                "G3MP2LARGEXP.json"
+            ]
+        },
+        "10": {
+            "elementComponents": [
+                "G3MP2LARGEXP.json"
+            ]
+        },
+        "11": {
+            "elementComponents": [
+                "G3MP2LARGEXP.json"
+            ]
+        },
+        "12": {
+            "elementComponents": [
+                "G3MP2LARGEXP.json"
+            ]
+        },
+        "13": {
+            "elementComponents": [
+                "G3MP2LARGEXP.json"
+            ]
+        },
+        "14": {
+            "elementComponents": [
+                "G3MP2LARGEXP.json"
+            ]
+        },
+        "15": {
+            "elementComponents": [
+                "G3MP2LARGEXP.json"
+            ]
+        },
+        "16": {
+            "elementComponents": [
+                "G3MP2LARGEXP.json"
+            ]
+        },
+        "17": {
+            "elementComponents": [
+                "G3MP2LARGEXP.json"
+            ]
+        },
+        "18": {
+            "elementComponents": [
+                "G3MP2LARGEXP.json"
+            ]
+        },
+        "19": {
+            "elementComponents": [
+                "G3MP2LARGEXP.json"
+            ]
+        },
+        "20": {
+            "elementComponents": [
+                "G3MP2LARGEXP.json"
+            ]
+        },
+        "21": {
+            "elementComponents": [
+                "G3MP2LARGEXP.json"
+            ]
+        },
+        "22": {
+            "elementComponents": [
+                "G3MP2LARGEXP.json"
+            ]
+        },
+        "23": {
+            "elementComponents": [
+                "G3MP2LARGEXP.json"
+            ]
+        },
+        "24": {
+            "elementComponents": [
+                "G3MP2LARGEXP.json"
+            ]
+        },
+        "25": {
+            "elementComponents": [
+                "G3MP2LARGEXP.json"
+            ]
+        },
+        "26": {
+            "elementComponents": [
+                "G3MP2LARGEXP.json"
+            ]
+        },
+        "27": {
+            "elementComponents": [
+                "G3MP2LARGEXP.json"
+            ]
+        },
+        "28": {
+            "elementComponents": [
+                "G3MP2LARGEXP.json"
+            ]
+        },
+        "29": {
+            "elementComponents": [
+                "G3MP2LARGEXP.json"
+            ]
+        },
+        "30": {
+            "elementComponents": [
+                "G3MP2LARGEXP.json"
+            ]
+        },
+        "31": {
+            "elementComponents": [
+                "G3MP2LARGEXP.json"
+            ]
+        },
+        "32": {
+            "elementComponents": [
+                "G3MP2LARGEXP.json"
+            ]
+        },
+        "33": {
+            "elementComponents": [
+                "G3MP2LARGEXP.json"
+            ]
+        },
+        "34": {
+            "elementComponents": [
+                "G3MP2LARGEXP.json"
+            ]
+        },
+        "35": {
+            "elementComponents": [
+                "G3MP2LARGEXP.json"
+            ]
+        },
+        "36": {
+            "elementComponents": [
+                "G3MP2LARGEXP.json"
+            ]
+        }
+    }
+}

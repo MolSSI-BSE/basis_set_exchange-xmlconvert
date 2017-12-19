@@ -1,0 +1,72 @@
+{
+    "molssi_bse_magic": 1,
+    "basisSetName": "DZ (Dunning)",
+    "basisSetDescription": "DZ      Double Zeta: 2 Functions/AO",
+    "basisSetElements": {
+        "1": {
+            "elementComponents": [
+                "DUNNINGDZ.json"
+            ]
+        },
+        "3": {
+            "elementComponents": [
+                "DUNNINGDZ.json"
+            ]
+        },
+        "5": {
+            "elementComponents": [
+                "DUNNINGDZ.json"
+            ]
+        },
+        "6": {
+            "elementComponents": [
+                "DUNNINGDZ.json"
+            ]
+        },
+        "7": {
+            "elementComponents": [
+                "DUNNINGDZ.json"
+            ]
+        },
+        "8": {
+            "elementComponents": [
+                "DUNNINGDZ.json"
+            ]
+        },
+        "9": {
+            "elementComponents": [
+                "DUNNINGDZ.json"
+            ]
+        },
+        "10": {
+            "elementComponents": [
+                "DUNNINGDZ.json"
+            ]
+        },
+        "13": {
+            "elementComponents": [
+                "DUNNINGDZ.json"
+            ]
+        },
+        "14": {
+            "elementComponents": [
+                "DUNNINGDZ.json"
+            ]
+        },
+        "15": {
+            "elementComponents": [
+                "DUNNINGDZ.json"
+            ]
+        },
+        "16": {
+            "elementComponents": [
+                "DUNNINGDZ.json"
+            ]
+        },
+        "17": {
+            "elementComponents": [
+                "DUNNINGDZ.json"
+            ]
+        }
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "molssi_bse_magic": 1,
+    "basisSetName": "s6-31G",
+    "basisSetDescription": "s6-31G",
+    "basisSetElements": {
+        "21": {
+            "elementComponents": [
+                "S6-31G.json"
+            ]
+        },
+        "22": {
+            "elementComponents": [
+                "S6-31G.json"
+            ]
+        },
+        "23": {
+            "elementComponents": [
+                "S6-31G.json"
+            ]
+        },
+        "24": {
+            "elementComponents": [
+                "S6-31G.json"
+            ]
+        },
+        "25": {
+            "elementComponents": [
+                "S6-31G.json"
+            ]
+        },
+        "26": {
+            "elementComponents": [
+                "S6-31G.json"
+            ]
+        },
+        "27": {
+            "elementComponents": [
+                "S6-31G.json"
+            ]
+        },
+        "28": {
+            "elementComponents": [
+                "S6-31G.json"
+            ]
+        },
+        "29": {
+            "elementComponents": [
+                "S6-31G.json"
+            ]
+        },
+        "30": {
+            "elementComponents": [
+                "S6-31G.json"
+            ]
+        }
+    }
+}

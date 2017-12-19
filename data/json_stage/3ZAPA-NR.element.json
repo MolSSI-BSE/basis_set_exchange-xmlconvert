@@ -1,0 +1,97 @@
+{
+    "molssi_bse_magic": 1,
+    "basisSetName": "3ZaPa-NR",
+    "basisSetDescription": "3ZaPa-NR",
+    "basisSetElements": {
+        "1": {
+            "elementComponents": [
+                "3ZAPA-NR.json"
+            ]
+        },
+        "2": {
+            "elementComponents": [
+                "3ZAPA-NR.json"
+            ]
+        },
+        "3": {
+            "elementComponents": [
+                "3ZAPA-NR.json"
+            ]
+        },
+        "4": {
+            "elementComponents": [
+                "3ZAPA-NR.json"
+            ]
+        },
+        "5": {
+            "elementComponents": [
+                "3ZAPA-NR.json"
+            ]
+        },
+        "6": {
+            "elementComponents": [
+                "3ZAPA-NR.json"
+            ]
+        },
+        "7": {
+            "elementComponents": [
+                "3ZAPA-NR.json"
+            ]
+        },
+        "8": {
+            "elementComponents": [
+                "3ZAPA-NR.json"
+            ]
+        },
+        "9": {
+            "elementComponents": [
+                "3ZAPA-NR.json"
+            ]
+        },
+        "10": {
+            "elementComponents": [
+                "3ZAPA-NR.json"
+            ]
+        },
+        "11": {
+            "elementComponents": [
+                "3ZAPA-NR.json"
+            ]
+        },
+        "12": {
+            "elementComponents": [
+                "3ZAPA-NR.json"
+            ]
+        },
+        "13": {
+            "elementComponents": [
+                "3ZAPA-NR.json"
+            ]
+        },
+        "14": {
+            "elementComponents": [
+                "3ZAPA-NR.json"
+            ]
+        },
+        "15": {
+            "elementComponents": [
+                "3ZAPA-NR.json"
+            ]
+        },
+        "16": {
+            "elementComponents": [
+                "3ZAPA-NR.json"
+            ]
+        },
+        "17": {
+            "elementComponents": [
+                "3ZAPA-NR.json"
+            ]
+        },
+        "18": {
+            "elementComponents": [
+                "3ZAPA-NR.json"
+            ]
+        }
+    }
+}

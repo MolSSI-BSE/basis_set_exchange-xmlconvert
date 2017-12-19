@@ -1,0 +1,187 @@
+{
+    "molssi_bse_magic": 1,
+    "basisSetName": "pc-4",
+    "basisSetDescription": "pc-4",
+    "basisSetElements": {
+        "1": {
+            "elementComponents": [
+                "PC-4.json"
+            ]
+        },
+        "2": {
+            "elementComponents": [
+                "PC-4.json"
+            ]
+        },
+        "3": {
+            "elementComponents": [
+                "PC-4.json"
+            ]
+        },
+        "4": {
+            "elementComponents": [
+                "PC-4.json"
+            ]
+        },
+        "5": {
+            "elementComponents": [
+                "PC-4.json"
+            ]
+        },
+        "6": {
+            "elementComponents": [
+                "PC-4.json"
+            ]
+        },
+        "7": {
+            "elementComponents": [
+                "PC-4.json"
+            ]
+        },
+        "8": {
+            "elementComponents": [
+                "PC-4.json"
+            ]
+        },
+        "9": {
+            "elementComponents": [
+                "PC-4.json"
+            ]
+        },
+        "10": {
+            "elementComponents": [
+                "PC-4.json"
+            ]
+        },
+        "11": {
+            "elementComponents": [
+                "PC-4.json"
+            ]
+        },
+        "12": {
+            "elementComponents": [
+                "PC-4.json"
+            ]
+        },
+        "13": {
+            "elementComponents": [
+                "PC-4.json"
+            ]
+        },
+        "14": {
+            "elementComponents": [
+                "PC-4.json"
+            ]
+        },
+        "15": {
+            "elementComponents": [
+                "PC-4.json"
+            ]
+        },
+        "16": {
+            "elementComponents": [
+                "PC-4.json"
+            ]
+        },
+        "17": {
+            "elementComponents": [
+                "PC-4.json"
+            ]
+        },
+        "18": {
+            "elementComponents": [
+                "PC-4.json"
+            ]
+        },
+        "19": {
+            "elementComponents": [
+                "PC-4.json"
+            ]
+        },
+        "20": {
+            "elementComponents": [
+                "PC-4.json"
+            ]
+        },
+        "21": {
+            "elementComponents": [
+                "PC-4.json"
+            ]
+        },
+        "22": {
+            "elementComponents": [
+                "PC-4.json"
+            ]
+        },
+        "23": {
+            "elementComponents": [
+                "PC-4.json"
+            ]
+        },
+        "24": {
+            "elementComponents": [
+                "PC-4.json"
+            ]
+        },
+        "25": {
+            "elementComponents": [
+                "PC-4.json"
+            ]
+        },
+        "26": {
+            "elementComponents": [
+                "PC-4.json"
+            ]
+        },
+        "27": {
+            "elementComponents": [
+                "PC-4.json"
+            ]
+        },
+        "28": {
+            "elementComponents": [
+                "PC-4.json"
+            ]
+        },
+        "29": {
+            "elementComponents": [
+                "PC-4.json"
+            ]
+        },
+        "30": {
+            "elementComponents": [
+                "PC-4.json"
+            ]
+        },
+        "31": {
+            "elementComponents": [
+                "PC-4.json"
+            ]
+        },
+        "32": {
+            "elementComponents": [
+                "PC-4.json"
+            ]
+        },
+        "33": {
+            "elementComponents": [
+                "PC-4.json"
+            ]
+        },
+        "34": {
+            "elementComponents": [
+                "PC-4.json"
+            ]
+        },
+        "35": {
+            "elementComponents": [
+                "PC-4.json"
+            ]
+        },
+        "36": {
+            "elementComponents": [
+                "PC-4.json"
+            ]
+        }
+    }
+}

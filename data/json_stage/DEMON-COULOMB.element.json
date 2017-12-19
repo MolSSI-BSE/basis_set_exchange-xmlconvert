@@ -1,0 +1,277 @@
+{
+    "molssi_bse_magic": 1,
+    "basisSetName": "DeMon Coulomb Fitting",
+    "basisSetDescription": "DFT     Coulomb Fitting",
+    "basisSetElements": {
+        "1": {
+            "elementComponents": [
+                "DEMON-COULOMB.json"
+            ]
+        },
+        "2": {
+            "elementComponents": [
+                "DEMON-COULOMB.json"
+            ]
+        },
+        "3": {
+            "elementComponents": [
+                "DEMON-COULOMB.json"
+            ]
+        },
+        "4": {
+            "elementComponents": [
+                "DEMON-COULOMB.json"
+            ]
+        },
+        "5": {
+            "elementComponents": [
+                "DEMON-COULOMB.json"
+            ]
+        },
+        "6": {
+            "elementComponents": [
+                "DEMON-COULOMB.json"
+            ]
+        },
+        "7": {
+            "elementComponents": [
+                "DEMON-COULOMB.json"
+            ]
+        },
+        "8": {
+            "elementComponents": [
+                "DEMON-COULOMB.json"
+            ]
+        },
+        "9": {
+            "elementComponents": [
+                "DEMON-COULOMB.json"
+            ]
+        },
+        "10": {
+            "elementComponents": [
+                "DEMON-COULOMB.json"
+            ]
+        },
+        "11": {
+            "elementComponents": [
+                "DEMON-COULOMB.json"
+            ]
+        },
+        "12": {
+            "elementComponents": [
+                "DEMON-COULOMB.json"
+            ]
+        },
+        "13": {
+            "elementComponents": [
+                "DEMON-COULOMB.json"
+            ]
+        },
+        "14": {
+            "elementComponents": [
+                "DEMON-COULOMB.json"
+            ]
+        },
+        "15": {
+            "elementComponents": [
+                "DEMON-COULOMB.json"
+            ]
+        },
+        "16": {
+            "elementComponents": [
+                "DEMON-COULOMB.json"
+            ]
+        },
+        "17": {
+            "elementComponents": [
+                "DEMON-COULOMB.json"
+            ]
+        },
+        "18": {
+            "elementComponents": [
+                "DEMON-COULOMB.json"
+            ]
+        },
+        "19": {
+            "elementComponents": [
+                "DEMON-COULOMB.json"
+            ]
+        },
+        "20": {
+            "elementComponents": [
+                "DEMON-COULOMB.json"
+            ]
+        },
+        "21": {
+            "elementComponents": [
+                "DEMON-COULOMB.json"
+            ]
+        },
+        "22": {
+            "elementComponents": [
+                "DEMON-COULOMB.json"
+            ]
+        },
+        "23": {
+            "elementComponents": [
+                "DEMON-COULOMB.json"
+            ]
+        },
+        "24": {
+            "elementComponents": [
+                "DEMON-COULOMB.json"
+            ]
+        },
+        "25": {
+            "elementComponents": [
+                "DEMON-COULOMB.json"
+            ]
+        },
+        "26": {
+            "elementComponents": [
+                "DEMON-COULOMB.json"
+            ]
+        },
+        "27": {
+            "elementComponents": [
+                "DEMON-COULOMB.json"
+            ]
+        },
+        "28": {
+            "elementComponents": [
+                "DEMON-COULOMB.json"
+            ]
+        },
+        "29": {
+            "elementComponents": [
+                "DEMON-COULOMB.json"
+            ]
+        },
+        "30": {
+            "elementComponents": [
+                "DEMON-COULOMB.json"
+            ]
+        },
+        "31": {
+            "elementComponents": [
+                "DEMON-COULOMB.json"
+            ]
+        },
+        "32": {
+            "elementComponents": [
+                "DEMON-COULOMB.json"
+            ]
+        },
+        "33": {
+            "elementComponents": [
+                "DEMON-COULOMB.json"
+            ]
+        },
+        "34": {
+            "elementComponents": [
+                "DEMON-COULOMB.json"
+            ]
+        },
+        "35": {
+            "elementComponents": [
+                "DEMON-COULOMB.json"
+            ]
+        },
+        "36": {
+            "elementComponents": [
+                "DEMON-COULOMB.json"
+            ]
+        },
+        "37": {
+            "elementComponents": [
+                "DEMON-COULOMB.json"
+            ]
+        },
+        "38": {
+            "elementComponents": [
+                "DEMON-COULOMB.json"
+            ]
+        },
+        "39": {
+            "elementComponents": [
+                "DEMON-COULOMB.json"
+            ]
+        },
+        "40": {
+            "elementComponents": [
+                "DEMON-COULOMB.json"
+            ]
+        },
+        "41": {
+            "elementComponents": [
+                "DEMON-COULOMB.json"
+            ]
+        },
+        "42": {
+            "elementComponents": [
+                "DEMON-COULOMB.json"
+            ]
+        },
+        "43": {
+            "elementComponents": [
+                "DEMON-COULOMB.json"
+            ]
+        },
+        "44": {
+            "elementComponents": [
+                "DEMON-COULOMB.json"
+            ]
+        },
+        "45": {
+            "elementComponents": [
+                "DEMON-COULOMB.json"
+            ]
+        },
+        "46": {
+            "elementComponents": [
+                "DEMON-COULOMB.json"
+            ]
+        },
+        "47": {
+            "elementComponents": [
+                "DEMON-COULOMB.json"
+            ]
+        },
+        "48": {
+            "elementComponents": [
+                "DEMON-COULOMB.json"
+            ]
+        },
+        "49": {
+            "elementComponents": [
+                "DEMON-COULOMB.json"
+            ]
+        },
+        "50": {
+            "elementComponents": [
+                "DEMON-COULOMB.json"
+            ]
+        },
+        "51": {
+            "elementComponents": [
+                "DEMON-COULOMB.json"
+            ]
+        },
+        "52": {
+            "elementComponents": [
+                "DEMON-COULOMB.json"
+            ]
+        },
+        "53": {
+            "elementComponents": [
+                "DEMON-COULOMB.json"
+            ]
+        },
+        "54": {
+            "elementComponents": [
+                "DEMON-COULOMB.json"
+            ]
+        }
+    }
+}

@@ -1,0 +1,82 @@
+{
+    "molssi_bse_magic": 1,
+    "basisSetName": "DHMS Polarization",
+    "basisSetDescription": "1P      Polarization Functions",
+    "basisSetElements": {
+        "1": {
+            "elementComponents": [
+                "DUNHAYPOL.json"
+            ]
+        },
+        "2": {
+            "elementComponents": [
+                "DUNHAYPOL.json"
+            ]
+        },
+        "3": {
+            "elementComponents": [
+                "DUNHAYPOL.json"
+            ]
+        },
+        "4": {
+            "elementComponents": [
+                "DUNHAYPOL.json"
+            ]
+        },
+        "5": {
+            "elementComponents": [
+                "DUNHAYPOL.json"
+            ]
+        },
+        "6": {
+            "elementComponents": [
+                "DUNHAYPOL.json"
+            ]
+        },
+        "7": {
+            "elementComponents": [
+                "DUNHAYPOL.json"
+            ]
+        },
+        "8": {
+            "elementComponents": [
+                "DUNHAYPOL.json"
+            ]
+        },
+        "9": {
+            "elementComponents": [
+                "DUNHAYPOL.json"
+            ]
+        },
+        "10": {
+            "elementComponents": [
+                "DUNHAYPOL.json"
+            ]
+        },
+        "13": {
+            "elementComponents": [
+                "DUNHAYPOL.json"
+            ]
+        },
+        "14": {
+            "elementComponents": [
+                "DUNHAYPOL.json"
+            ]
+        },
+        "15": {
+            "elementComponents": [
+                "DUNHAYPOL.json"
+            ]
+        },
+        "16": {
+            "elementComponents": [
+                "DUNHAYPOL.json"
+            ]
+        },
+        "17": {
+            "elementComponents": [
+                "DUNHAYPOL.json"
+            ]
+        }
+    }
+}

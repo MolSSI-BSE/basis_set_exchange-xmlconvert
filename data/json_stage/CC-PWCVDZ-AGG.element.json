@@ -1,0 +1,79 @@
+{
+    "molssi_bse_magic": 1,
+    "basisSetName": "cc-pwCVDZ",
+    "basisSetDescription": "DZP     Double Zeta + Polarization + Tight Core",
+    "basisSetElements": {
+        "5": {
+            "elementComponents": [
+                "CC-PVDZ.json",
+                "CC-PWCVDZ.json"
+            ]
+        },
+        "6": {
+            "elementComponents": [
+                "CC-PVDZ.json",
+                "CC-PWCVDZ.json"
+            ]
+        },
+        "7": {
+            "elementComponents": [
+                "CC-PVDZ.json",
+                "CC-PWCVDZ.json"
+            ]
+        },
+        "8": {
+            "elementComponents": [
+                "CC-PVDZ.json",
+                "CC-PWCVDZ.json"
+            ]
+        },
+        "9": {
+            "elementComponents": [
+                "CC-PVDZ.json",
+                "CC-PWCVDZ.json"
+            ]
+        },
+        "10": {
+            "elementComponents": [
+                "CC-PVDZ.json",
+                "CC-PWCVDZ.json"
+            ]
+        },
+        "13": {
+            "elementComponents": [
+                "CC-PVDZ.json",
+                "CC-PWCVDZ.json"
+            ]
+        },
+        "14": {
+            "elementComponents": [
+                "CC-PVDZ.json",
+                "CC-PWCVDZ.json"
+            ]
+        },
+        "15": {
+            "elementComponents": [
+                "CC-PVDZ.json",
+                "CC-PWCVDZ.json"
+            ]
+        },
+        "16": {
+            "elementComponents": [
+                "CC-PVDZ.json",
+                "CC-PWCVDZ.json"
+            ]
+        },
+        "17": {
+            "elementComponents": [
+                "CC-PVDZ.json",
+                "CC-PWCVDZ.json"
+            ]
+        },
+        "18": {
+            "elementComponents": [
+                "CC-PVDZ.json",
+                "CC-PWCVDZ.json"
+            ]
+        }
+    }
+}

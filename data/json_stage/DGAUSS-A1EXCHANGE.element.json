@@ -1,0 +1,277 @@
+{
+    "molssi_bse_magic": 1,
+    "basisSetName": "DGauss A1 DFT Exchange Fitting",
+    "basisSetDescription": "DFT     Exchange Fitting",
+    "basisSetElements": {
+        "1": {
+            "elementComponents": [
+                "DGAUSS-A1EXCHANGE.json"
+            ]
+        },
+        "2": {
+            "elementComponents": [
+                "DGAUSS-A1EXCHANGE.json"
+            ]
+        },
+        "3": {
+            "elementComponents": [
+                "DGAUSS-A1EXCHANGE.json"
+            ]
+        },
+        "4": {
+            "elementComponents": [
+                "DGAUSS-A1EXCHANGE.json"
+            ]
+        },
+        "5": {
+            "elementComponents": [
+                "DGAUSS-A1EXCHANGE.json"
+            ]
+        },
+        "6": {
+            "elementComponents": [
+                "DGAUSS-A1EXCHANGE.json"
+            ]
+        },
+        "7": {
+            "elementComponents": [
+                "DGAUSS-A1EXCHANGE.json"
+            ]
+        },
+        "8": {
+            "elementComponents": [
+                "DGAUSS-A1EXCHANGE.json"
+            ]
+        },
+        "9": {
+            "elementComponents": [
+                "DGAUSS-A1EXCHANGE.json"
+            ]
+        },
+        "10": {
+            "elementComponents": [
+                "DGAUSS-A1EXCHANGE.json"
+            ]
+        },
+        "11": {
+            "elementComponents": [
+                "DGAUSS-A1EXCHANGE.json"
+            ]
+        },
+        "12": {
+            "elementComponents": [
+                "DGAUSS-A1EXCHANGE.json"
+            ]
+        },
+        "13": {
+            "elementComponents": [
+                "DGAUSS-A1EXCHANGE.json"
+            ]
+        },
+        "14": {
+            "elementComponents": [
+                "DGAUSS-A1EXCHANGE.json"
+            ]
+        },
+        "15": {
+            "elementComponents": [
+                "DGAUSS-A1EXCHANGE.json"
+            ]
+        },
+        "16": {
+            "elementComponents": [
+                "DGAUSS-A1EXCHANGE.json"
+            ]
+        },
+        "17": {
+            "elementComponents": [
+                "DGAUSS-A1EXCHANGE.json"
+            ]
+        },
+        "18": {
+            "elementComponents": [
+                "DGAUSS-A1EXCHANGE.json"
+            ]
+        },
+        "19": {
+            "elementComponents": [
+                "DGAUSS-A1EXCHANGE.json"
+            ]
+        },
+        "20": {
+            "elementComponents": [
+                "DGAUSS-A1EXCHANGE.json"
+            ]
+        },
+        "21": {
+            "elementComponents": [
+                "DGAUSS-A1EXCHANGE.json"
+            ]
+        },
+        "22": {
+            "elementComponents": [
+                "DGAUSS-A1EXCHANGE.json"
+            ]
+        },
+        "23": {
+            "elementComponents": [
+                "DGAUSS-A1EXCHANGE.json"
+            ]
+        },
+        "24": {
+            "elementComponents": [
+                "DGAUSS-A1EXCHANGE.json"
+            ]
+        },
+        "25": {
+            "elementComponents": [
+                "DGAUSS-A1EXCHANGE.json"
+            ]
+        },
+        "26": {
+            "elementComponents": [
+                "DGAUSS-A1EXCHANGE.json"
+            ]
+        },
+        "27": {
+            "elementComponents": [
+                "DGAUSS-A1EXCHANGE.json"
+            ]
+        },
+        "28": {
+            "elementComponents": [
+                "DGAUSS-A1EXCHANGE.json"
+            ]
+        },
+        "29": {
+            "elementComponents": [
+                "DGAUSS-A1EXCHANGE.json"
+            ]
+        },
+        "30": {
+            "elementComponents": [
+                "DGAUSS-A1EXCHANGE.json"
+            ]
+        },
+        "31": {
+            "elementComponents": [
+                "DGAUSS-A1EXCHANGE.json"
+            ]
+        },
+        "32": {
+            "elementComponents": [
+                "DGAUSS-A1EXCHANGE.json"
+            ]
+        },
+        "33": {
+            "elementComponents": [
+                "DGAUSS-A1EXCHANGE.json"
+            ]
+        },
+        "34": {
+            "elementComponents": [
+                "DGAUSS-A1EXCHANGE.json"
+            ]
+        },
+        "35": {
+            "elementComponents": [
+                "DGAUSS-A1EXCHANGE.json"
+            ]
+        },
+        "36": {
+            "elementComponents": [
+                "DGAUSS-A1EXCHANGE.json"
+            ]
+        },
+        "37": {
+            "elementComponents": [
+                "DGAUSS-A1EXCHANGE.json"
+            ]
+        },
+        "38": {
+            "elementComponents": [
+                "DGAUSS-A1EXCHANGE.json"
+            ]
+        },
+        "39": {
+            "elementComponents": [
+                "DGAUSS-A1EXCHANGE.json"
+            ]
+        },
+        "40": {
+            "elementComponents": [
+                "DGAUSS-A1EXCHANGE.json"
+            ]
+        },
+        "41": {
+            "elementComponents": [
+                "DGAUSS-A1EXCHANGE.json"
+            ]
+        },
+        "42": {
+            "elementComponents": [
+                "DGAUSS-A1EXCHANGE.json"
+            ]
+        },
+        "43": {
+            "elementComponents": [
+                "DGAUSS-A1EXCHANGE.json"
+            ]
+        },
+        "44": {
+            "elementComponents": [
+                "DGAUSS-A1EXCHANGE.json"
+            ]
+        },
+        "45": {
+            "elementComponents": [
+                "DGAUSS-A1EXCHANGE.json"
+            ]
+        },
+        "46": {
+            "elementComponents": [
+                "DGAUSS-A1EXCHANGE.json"
+            ]
+        },
+        "47": {
+            "elementComponents": [
+                "DGAUSS-A1EXCHANGE.json"
+            ]
+        },
+        "48": {
+            "elementComponents": [
+                "DGAUSS-A1EXCHANGE.json"
+            ]
+        },
+        "49": {
+            "elementComponents": [
+                "DGAUSS-A1EXCHANGE.json"
+            ]
+        },
+        "50": {
+            "elementComponents": [
+                "DGAUSS-A1EXCHANGE.json"
+            ]
+        },
+        "51": {
+            "elementComponents": [
+                "DGAUSS-A1EXCHANGE.json"
+            ]
+        },
+        "52": {
+            "elementComponents": [
+                "DGAUSS-A1EXCHANGE.json"
+            ]
+        },
+        "53": {
+            "elementComponents": [
+                "DGAUSS-A1EXCHANGE.json"
+            ]
+        },
+        "54": {
+            "elementComponents": [
+                "DGAUSS-A1EXCHANGE.json"
+            ]
+        }
+    }
+}

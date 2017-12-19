@@ -1,0 +1,79 @@
+{
+    "molssi_bse_magic": 1,
+    "basisSetName": "cc-pCV6Z",
+    "basisSetDescription": "6Z5P    Sextuple Zeta + Polarization + Tight Core",
+    "basisSetElements": {
+        "5": {
+            "elementComponents": [
+                "CC-PV6Z.json",
+                "CC-PCV6Z.json"
+            ]
+        },
+        "6": {
+            "elementComponents": [
+                "CC-PV6Z.json",
+                "CC-PCV6Z.json"
+            ]
+        },
+        "7": {
+            "elementComponents": [
+                "CC-PV6Z.json",
+                "CC-PCV6Z.json"
+            ]
+        },
+        "8": {
+            "elementComponents": [
+                "CC-PV6Z.json",
+                "CC-PCV6Z.json"
+            ]
+        },
+        "9": {
+            "elementComponents": [
+                "CC-PV6Z.json",
+                "CC-PCV6Z.json"
+            ]
+        },
+        "10": {
+            "elementComponents": [
+                "CC-PV6Z.json",
+                "CC-PCV6Z.json"
+            ]
+        },
+        "13": {
+            "elementComponents": [
+                "CC-PV6Z.json",
+                "CC-PCV6Z.json"
+            ]
+        },
+        "14": {
+            "elementComponents": [
+                "CC-PV6Z.json",
+                "CC-PCV6Z.json"
+            ]
+        },
+        "15": {
+            "elementComponents": [
+                "CC-PV6Z.json",
+                "CC-PCV6Z.json"
+            ]
+        },
+        "16": {
+            "elementComponents": [
+                "CC-PV6Z.json",
+                "CC-PCV6Z.json"
+            ]
+        },
+        "17": {
+            "elementComponents": [
+                "CC-PV6Z.json",
+                "CC-PCV6Z.json"
+            ]
+        },
+        "18": {
+            "elementComponents": [
+                "CC-PV6Z.json",
+                "CC-PCV6Z.json"
+            ]
+        }
+    }
+}

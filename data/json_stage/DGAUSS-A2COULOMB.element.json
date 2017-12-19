@@ -1,0 +1,147 @@
+{
+    "molssi_bse_magic": 1,
+    "basisSetName": "DGauss A2 DFT Coulomb Fitting",
+    "basisSetDescription": "DFT     Coulomb Fitting",
+    "basisSetElements": {
+        "1": {
+            "elementComponents": [
+                "DGAUSS-A2COULOMB.json"
+            ]
+        },
+        "2": {
+            "elementComponents": [
+                "DGAUSS-A2COULOMB.json"
+            ]
+        },
+        "3": {
+            "elementComponents": [
+                "DGAUSS-A2COULOMB.json"
+            ]
+        },
+        "4": {
+            "elementComponents": [
+                "DGAUSS-A2COULOMB.json"
+            ]
+        },
+        "5": {
+            "elementComponents": [
+                "DGAUSS-A2COULOMB.json"
+            ]
+        },
+        "6": {
+            "elementComponents": [
+                "DGAUSS-A2COULOMB.json"
+            ]
+        },
+        "7": {
+            "elementComponents": [
+                "DGAUSS-A2COULOMB.json"
+            ]
+        },
+        "8": {
+            "elementComponents": [
+                "DGAUSS-A2COULOMB.json"
+            ]
+        },
+        "9": {
+            "elementComponents": [
+                "DGAUSS-A2COULOMB.json"
+            ]
+        },
+        "10": {
+            "elementComponents": [
+                "DGAUSS-A2COULOMB.json"
+            ]
+        },
+        "11": {
+            "elementComponents": [
+                "DGAUSS-A2COULOMB.json"
+            ]
+        },
+        "12": {
+            "elementComponents": [
+                "DGAUSS-A2COULOMB.json"
+            ]
+        },
+        "13": {
+            "elementComponents": [
+                "DGAUSS-A2COULOMB.json"
+            ]
+        },
+        "14": {
+            "elementComponents": [
+                "DGAUSS-A2COULOMB.json"
+            ]
+        },
+        "15": {
+            "elementComponents": [
+                "DGAUSS-A2COULOMB.json"
+            ]
+        },
+        "16": {
+            "elementComponents": [
+                "DGAUSS-A2COULOMB.json"
+            ]
+        },
+        "17": {
+            "elementComponents": [
+                "DGAUSS-A2COULOMB.json"
+            ]
+        },
+        "18": {
+            "elementComponents": [
+                "DGAUSS-A2COULOMB.json"
+            ]
+        },
+        "21": {
+            "elementComponents": [
+                "DGAUSS-A2COULOMB.json"
+            ]
+        },
+        "22": {
+            "elementComponents": [
+                "DGAUSS-A2COULOMB.json"
+            ]
+        },
+        "23": {
+            "elementComponents": [
+                "DGAUSS-A2COULOMB.json"
+            ]
+        },
+        "24": {
+            "elementComponents": [
+                "DGAUSS-A2COULOMB.json"
+            ]
+        },
+        "25": {
+            "elementComponents": [
+                "DGAUSS-A2COULOMB.json"
+            ]
+        },
+        "26": {
+            "elementComponents": [
+                "DGAUSS-A2COULOMB.json"
+            ]
+        },
+        "27": {
+            "elementComponents": [
+                "DGAUSS-A2COULOMB.json"
+            ]
+        },
+        "28": {
+            "elementComponents": [
+                "DGAUSS-A2COULOMB.json"
+            ]
+        },
+        "29": {
+            "elementComponents": [
+                "DGAUSS-A2COULOMB.json"
+            ]
+        },
+        "30": {
+            "elementComponents": [
+                "DGAUSS-A2COULOMB.json"
+            ]
+        }
+    }
+}

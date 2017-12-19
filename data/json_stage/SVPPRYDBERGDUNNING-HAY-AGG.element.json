@@ -1,0 +1,49 @@
+{
+    "molssi_bse_magic": 1,
+    "basisSetName": "SVP + Rydberg (Dunning-Hay)",
+    "basisSetDescription": "VDZP1R  Valence Double Zeta + Polarization + Rydberg",
+    "basisSetElements": {
+        "5": {
+            "elementComponents": [
+                "DUNHAYSV.json",
+                "DUNHAYPOL.json",
+                "RYD-DUNNING.json"
+            ]
+        },
+        "6": {
+            "elementComponents": [
+                "DUNHAYSV.json",
+                "DUNHAYPOL.json",
+                "RYD-DUNNING.json"
+            ]
+        },
+        "7": {
+            "elementComponents": [
+                "DUNHAYSV.json",
+                "DUNHAYPOL.json",
+                "RYD-DUNNING.json"
+            ]
+        },
+        "8": {
+            "elementComponents": [
+                "DUNHAYSV.json",
+                "DUNHAYPOL.json",
+                "RYD-DUNNING.json"
+            ]
+        },
+        "9": {
+            "elementComponents": [
+                "DUNHAYSV.json",
+                "DUNHAYPOL.json",
+                "RYD-DUNNING.json"
+            ]
+        },
+        "10": {
+            "elementComponents": [
+                "DUNHAYSV.json",
+                "DUNHAYPOL.json",
+                "RYD-DUNNING.json"
+            ]
+        }
+    }
+}

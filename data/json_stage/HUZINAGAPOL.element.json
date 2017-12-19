@@ -1,0 +1,117 @@
+{
+    "molssi_bse_magic": 1,
+    "basisSetName": "Huzinaga Polarization",
+    "basisSetDescription": "1P      Polarization functions",
+    "basisSetElements": {
+        "19": {
+            "elementComponents": [
+                "HUZINAGAPOL.json"
+            ]
+        },
+        "20": {
+            "elementComponents": [
+                "HUZINAGAPOL.json"
+            ]
+        },
+        "31": {
+            "elementComponents": [
+                "HUZINAGAPOL.json"
+            ]
+        },
+        "32": {
+            "elementComponents": [
+                "HUZINAGAPOL.json"
+            ]
+        },
+        "33": {
+            "elementComponents": [
+                "HUZINAGAPOL.json"
+            ]
+        },
+        "34": {
+            "elementComponents": [
+                "HUZINAGAPOL.json"
+            ]
+        },
+        "35": {
+            "elementComponents": [
+                "HUZINAGAPOL.json"
+            ]
+        },
+        "36": {
+            "elementComponents": [
+                "HUZINAGAPOL.json"
+            ]
+        },
+        "37": {
+            "elementComponents": [
+                "HUZINAGAPOL.json"
+            ]
+        },
+        "38": {
+            "elementComponents": [
+                "HUZINAGAPOL.json"
+            ]
+        },
+        "49": {
+            "elementComponents": [
+                "HUZINAGAPOL.json"
+            ]
+        },
+        "50": {
+            "elementComponents": [
+                "HUZINAGAPOL.json"
+            ]
+        },
+        "51": {
+            "elementComponents": [
+                "HUZINAGAPOL.json"
+            ]
+        },
+        "52": {
+            "elementComponents": [
+                "HUZINAGAPOL.json"
+            ]
+        },
+        "53": {
+            "elementComponents": [
+                "HUZINAGAPOL.json"
+            ]
+        },
+        "54": {
+            "elementComponents": [
+                "HUZINAGAPOL.json"
+            ]
+        },
+        "81": {
+            "elementComponents": [
+                "HUZINAGAPOL.json"
+            ]
+        },
+        "82": {
+            "elementComponents": [
+                "HUZINAGAPOL.json"
+            ]
+        },
+        "83": {
+            "elementComponents": [
+                "HUZINAGAPOL.json"
+            ]
+        },
+        "84": {
+            "elementComponents": [
+                "HUZINAGAPOL.json"
+            ]
+        },
+        "85": {
+            "elementComponents": [
+                "HUZINAGAPOL.json"
+            ]
+        },
+        "86": {
+            "elementComponents": [
+                "HUZINAGAPOL.json"
+            ]
+        }
+    }
+}

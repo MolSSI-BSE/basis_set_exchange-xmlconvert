@@ -1,0 +1,67 @@
+{
+    "molssi_bse_magic": 1,
+    "basisSetName": "cc-pwCVQZ-RI tight",
+    "basisSetDescription": "cc-pwCVQZ-RI tight",
+    "basisSetElements": {
+        "5": {
+            "elementComponents": [
+                "CC-PWCVQZ-RITIGHT.json"
+            ]
+        },
+        "6": {
+            "elementComponents": [
+                "CC-PWCVQZ-RITIGHT.json"
+            ]
+        },
+        "7": {
+            "elementComponents": [
+                "CC-PWCVQZ-RITIGHT.json"
+            ]
+        },
+        "8": {
+            "elementComponents": [
+                "CC-PWCVQZ-RITIGHT.json"
+            ]
+        },
+        "9": {
+            "elementComponents": [
+                "CC-PWCVQZ-RITIGHT.json"
+            ]
+        },
+        "10": {
+            "elementComponents": [
+                "CC-PWCVQZ-RITIGHT.json"
+            ]
+        },
+        "13": {
+            "elementComponents": [
+                "CC-PWCVQZ-RITIGHT.json"
+            ]
+        },
+        "14": {
+            "elementComponents": [
+                "CC-PWCVQZ-RITIGHT.json"
+            ]
+        },
+        "15": {
+            "elementComponents": [
+                "CC-PWCVQZ-RITIGHT.json"
+            ]
+        },
+        "16": {
+            "elementComponents": [
+                "CC-PWCVQZ-RITIGHT.json"
+            ]
+        },
+        "17": {
+            "elementComponents": [
+                "CC-PWCVQZ-RITIGHT.json"
+            ]
+        },
+        "18": {
+            "elementComponents": [
+                "CC-PWCVQZ-RITIGHT.json"
+            ]
+        }
+    }
+}

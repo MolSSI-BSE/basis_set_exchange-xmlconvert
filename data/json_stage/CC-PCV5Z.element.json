@@ -1,0 +1,82 @@
+{
+    "molssi_bse_magic": 1,
+    "basisSetName": "Core/valence Functions (cc-pCV5Z)",
+    "basisSetDescription": "Core/valence Functions (cc-pCV5Z)",
+    "basisSetElements": {
+        "5": {
+            "elementComponents": [
+                "CC-PCV5Z.json"
+            ]
+        },
+        "6": {
+            "elementComponents": [
+                "CC-PCV5Z.json"
+            ]
+        },
+        "7": {
+            "elementComponents": [
+                "CC-PCV5Z.json"
+            ]
+        },
+        "8": {
+            "elementComponents": [
+                "CC-PCV5Z.json"
+            ]
+        },
+        "9": {
+            "elementComponents": [
+                "CC-PCV5Z.json"
+            ]
+        },
+        "10": {
+            "elementComponents": [
+                "CC-PCV5Z.json"
+            ]
+        },
+        "11": {
+            "elementComponents": [
+                "CC-PCV5Z.json"
+            ]
+        },
+        "12": {
+            "elementComponents": [
+                "CC-PCV5Z.json"
+            ]
+        },
+        "13": {
+            "elementComponents": [
+                "CC-PCV5Z.json"
+            ]
+        },
+        "14": {
+            "elementComponents": [
+                "CC-PCV5Z.json"
+            ]
+        },
+        "15": {
+            "elementComponents": [
+                "CC-PCV5Z.json"
+            ]
+        },
+        "16": {
+            "elementComponents": [
+                "CC-PCV5Z.json"
+            ]
+        },
+        "17": {
+            "elementComponents": [
+                "CC-PCV5Z.json"
+            ]
+        },
+        "18": {
+            "elementComponents": [
+                "CC-PCV5Z.json"
+            ]
+        },
+        "20": {
+            "elementComponents": [
+                "CC-PCV5Z.json"
+            ]
+        }
+    }
+}

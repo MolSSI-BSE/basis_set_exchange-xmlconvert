@@ -1,0 +1,63 @@
+{
+    "molssi_bse_magic": 1,
+    "basisSetName": "d-aug-cc-pV5Z",
+    "basisSetDescription": "V5Z4PD  Valence Quintuple Zeta + Polarization + Diffuse",
+    "basisSetElements": {
+        "1": {
+            "elementComponents": [
+                "CC-PV5Z.json",
+                "AUG-CC-PV5Z.json",
+                "DAUG-CC-PV5Z.json"
+            ]
+        },
+        "2": {
+            "elementComponents": [
+                "CC-PV5Z.json",
+                "AUG-CC-PV5Z.json",
+                "DAUG-CC-PV5Z.json"
+            ]
+        },
+        "5": {
+            "elementComponents": [
+                "CC-PV5Z.json",
+                "AUG-CC-PV5Z.json",
+                "DAUG-CC-PV5Z.json"
+            ]
+        },
+        "6": {
+            "elementComponents": [
+                "CC-PV5Z.json",
+                "AUG-CC-PV5Z.json",
+                "DAUG-CC-PV5Z.json"
+            ]
+        },
+        "7": {
+            "elementComponents": [
+                "CC-PV5Z.json",
+                "AUG-CC-PV5Z.json",
+                "DAUG-CC-PV5Z.json"
+            ]
+        },
+        "8": {
+            "elementComponents": [
+                "CC-PV5Z.json",
+                "AUG-CC-PV5Z.json",
+                "DAUG-CC-PV5Z.json"
+            ]
+        },
+        "9": {
+            "elementComponents": [
+                "CC-PV5Z.json",
+                "AUG-CC-PV5Z.json",
+                "DAUG-CC-PV5Z.json"
+            ]
+        },
+        "10": {
+            "elementComponents": [
+                "CC-PV5Z.json",
+                "AUG-CC-PV5Z.json",
+                "DAUG-CC-PV5Z.json"
+            ]
+        }
+    }
+}

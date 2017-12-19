@@ -1,0 +1,87 @@
+{
+    "molssi_bse_magic": 1,
+    "basisSetName": "cc-pCVDZ-F12 MP2 Fitting",
+    "basisSetDescription": "cc-pCVDZ-F12 MP2 Fitting",
+    "basisSetElements": {
+        "3": {
+            "elementComponents": [
+                "CC-PCVDZ-F12MP2FITTING.json"
+            ]
+        },
+        "4": {
+            "elementComponents": [
+                "CC-PCVDZ-F12MP2FITTING.json"
+            ]
+        },
+        "5": {
+            "elementComponents": [
+                "CC-PCVDZ-F12MP2FITTING.json"
+            ]
+        },
+        "6": {
+            "elementComponents": [
+                "CC-PCVDZ-F12MP2FITTING.json"
+            ]
+        },
+        "7": {
+            "elementComponents": [
+                "CC-PCVDZ-F12MP2FITTING.json"
+            ]
+        },
+        "8": {
+            "elementComponents": [
+                "CC-PCVDZ-F12MP2FITTING.json"
+            ]
+        },
+        "9": {
+            "elementComponents": [
+                "CC-PCVDZ-F12MP2FITTING.json"
+            ]
+        },
+        "10": {
+            "elementComponents": [
+                "CC-PCVDZ-F12MP2FITTING.json"
+            ]
+        },
+        "11": {
+            "elementComponents": [
+                "CC-PCVDZ-F12MP2FITTING.json"
+            ]
+        },
+        "12": {
+            "elementComponents": [
+                "CC-PCVDZ-F12MP2FITTING.json"
+            ]
+        },
+        "13": {
+            "elementComponents": [
+                "CC-PCVDZ-F12MP2FITTING.json"
+            ]
+        },
+        "14": {
+            "elementComponents": [
+                "CC-PCVDZ-F12MP2FITTING.json"
+            ]
+        },
+        "15": {
+            "elementComponents": [
+                "CC-PCVDZ-F12MP2FITTING.json"
+            ]
+        },
+        "16": {
+            "elementComponents": [
+                "CC-PCVDZ-F12MP2FITTING.json"
+            ]
+        },
+        "17": {
+            "elementComponents": [
+                "CC-PCVDZ-F12MP2FITTING.json"
+            ]
+        },
+        "18": {
+            "elementComponents": [
+                "CC-PCVDZ-F12MP2FITTING.json"
+            ]
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "molssi_bse_magic": 1,
+    "basisSetName": "MINIs-BSIP1",
+    "basisSetDescription": "MINIs-BSIP1",
+    "basisSetElements": {
+        "1": {
+            "elementComponents": [
+                "MINIS-BSIP1-ECP.json"
+            ]
+        },
+        "6": {
+            "elementComponents": [
+                "MINIS-BSIP1-ECP.json"
+            ]
+        },
+        "7": {
+            "elementComponents": [
+                "MINIS-BSIP1-ECP.json"
+            ]
+        },
+        "8": {
+            "elementComponents": [
+                "MINIS-BSIP1-ECP.json"
+            ]
+        },
+        "9": {
+            "elementComponents": [
+                "MINIS-BSIP1-ECP.json"
+            ]
+        },
+        "15": {
+            "elementComponents": [
+                "MINIS-BSIP1-ECP.json"
+            ]
+        },
+        "16": {
+            "elementComponents": [
+                "MINIS-BSIP1-ECP.json"
+            ]
+        },
+        "17": {
+            "elementComponents": [
+                "MINIS-BSIP1-ECP.json"
+            ]
+        }
+    }
+}

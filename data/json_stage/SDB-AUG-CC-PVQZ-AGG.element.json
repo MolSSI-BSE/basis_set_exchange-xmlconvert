@@ -1,0 +1,77 @@
+{
+    "molssi_bse_magic": 1,
+    "basisSetName": "SDB-aug-cc-pVQZ",
+    "basisSetDescription": "VQZ3P   Valence Quadruple Zeta + Polarization on All Atoms",
+    "basisSetElements": {
+        "31": {
+            "elementComponents": [
+                "SDB-CC-PVQZ.json",
+                "SDB-AUG-CC-PVQZ.json",
+                "STUTTGART_RLC-ECP.json"
+            ]
+        },
+        "32": {
+            "elementComponents": [
+                "SDB-CC-PVQZ.json",
+                "SDB-AUG-CC-PVQZ.json",
+                "STUTTGART_RLC-ECP.json"
+            ]
+        },
+        "33": {
+            "elementComponents": [
+                "SDB-CC-PVQZ.json",
+                "SDB-AUG-CC-PVQZ.json",
+                "STUTTGART_RLC-ECP.json"
+            ]
+        },
+        "34": {
+            "elementComponents": [
+                "SDB-CC-PVQZ.json",
+                "SDB-AUG-CC-PVQZ.json",
+                "STUTTGART_RLC-ECP.json"
+            ]
+        },
+        "35": {
+            "elementComponents": [
+                "SDB-CC-PVQZ.json",
+                "SDB-AUG-CC-PVQZ.json",
+                "STUTTGART_RLC-ECP.json"
+            ]
+        },
+        "49": {
+            "elementComponents": [
+                "SDB-CC-PVQZ.json",
+                "SDB-AUG-CC-PVQZ.json",
+                "STUTTGART_RLC-ECP.json"
+            ]
+        },
+        "50": {
+            "elementComponents": [
+                "SDB-CC-PVQZ.json",
+                "SDB-AUG-CC-PVQZ.json",
+                "STUTTGART_RLC-ECP.json"
+            ]
+        },
+        "51": {
+            "elementComponents": [
+                "SDB-CC-PVQZ.json",
+                "SDB-AUG-CC-PVQZ.json",
+                "STUTTGART_RLC-ECP.json"
+            ]
+        },
+        "52": {
+            "elementComponents": [
+                "SDB-CC-PVQZ.json",
+                "SDB-AUG-CC-PVQZ.json",
+                "STUTTGART_RLC-ECP.json"
+            ]
+        },
+        "53": {
+            "elementComponents": [
+                "SDB-CC-PVQZ.json",
+                "SDB-AUG-CC-PVQZ.json",
+                "STUTTGART_RLC-ECP.json"
+            ]
+        }
+    }
+}

@@ -1,0 +1,107 @@
+{
+    "molssi_bse_magic": 1,
+    "basisSetName": "cc-pVQZ(pt/sf/sc)",
+    "basisSetDescription": "VQZ3P   Relativistic Valence Quadruple Zeta + Polarization",
+    "basisSetElements": {
+        "1": {
+            "elementComponents": [
+                "CC-PVQZ_PT_SF_SC.json"
+            ]
+        },
+        "2": {
+            "elementComponents": [
+                "CC-PVQZ_PT_SF_SC.json"
+            ]
+        },
+        "5": {
+            "elementComponents": [
+                "CC-PVQZ_PT_SF_SC.json"
+            ]
+        },
+        "6": {
+            "elementComponents": [
+                "CC-PVQZ_PT_SF_SC.json"
+            ]
+        },
+        "7": {
+            "elementComponents": [
+                "CC-PVQZ_PT_SF_SC.json"
+            ]
+        },
+        "8": {
+            "elementComponents": [
+                "CC-PVQZ_PT_SF_SC.json"
+            ]
+        },
+        "9": {
+            "elementComponents": [
+                "CC-PVQZ_PT_SF_SC.json"
+            ]
+        },
+        "10": {
+            "elementComponents": [
+                "CC-PVQZ_PT_SF_SC.json"
+            ]
+        },
+        "13": {
+            "elementComponents": [
+                "CC-PVQZ_PT_SF_SC.json"
+            ]
+        },
+        "14": {
+            "elementComponents": [
+                "CC-PVQZ_PT_SF_SC.json"
+            ]
+        },
+        "15": {
+            "elementComponents": [
+                "CC-PVQZ_PT_SF_SC.json"
+            ]
+        },
+        "16": {
+            "elementComponents": [
+                "CC-PVQZ_PT_SF_SC.json"
+            ]
+        },
+        "17": {
+            "elementComponents": [
+                "CC-PVQZ_PT_SF_SC.json"
+            ]
+        },
+        "18": {
+            "elementComponents": [
+                "CC-PVQZ_PT_SF_SC.json"
+            ]
+        },
+        "31": {
+            "elementComponents": [
+                "CC-PVQZ_PT_SF_SC.json"
+            ]
+        },
+        "32": {
+            "elementComponents": [
+                "CC-PVQZ_PT_SF_SC.json"
+            ]
+        },
+        "33": {
+            "elementComponents": [
+                "CC-PVQZ_PT_SF_SC.json"
+            ]
+        },
+        "34": {
+            "elementComponents": [
+                "CC-PVQZ_PT_SF_SC.json"
+            ]
+        },
+        "35": {
+            "elementComponents": [
+                "CC-PVQZ_PT_SF_SC.json"
+            ]
+        },
+        "36": {
+            "elementComponents": [
+                "CC-PVQZ_PT_SF_SC.json"
+            ]
+        }
+    }
+}

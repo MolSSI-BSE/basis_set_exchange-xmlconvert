@@ -1,0 +1,142 @@
+{
+    "molssi_bse_magic": 1,
+    "basisSetName": "6-311G*",
+    "basisSetDescription": "6-311G*",
+    "basisSetElements": {
+        "1": {
+            "elementComponents": [
+                "29_6-311GS.json"
+            ]
+        },
+        "2": {
+            "elementComponents": [
+                "29_6-311GS.json"
+            ]
+        },
+        "3": {
+            "elementComponents": [
+                "29_6-311GS.json"
+            ]
+        },
+        "4": {
+            "elementComponents": [
+                "29_6-311GS.json"
+            ]
+        },
+        "5": {
+            "elementComponents": [
+                "29_6-311GS.json"
+            ]
+        },
+        "6": {
+            "elementComponents": [
+                "29_6-311GS.json"
+            ]
+        },
+        "7": {
+            "elementComponents": [
+                "29_6-311GS.json"
+            ]
+        },
+        "8": {
+            "elementComponents": [
+                "29_6-311GS.json"
+            ]
+        },
+        "9": {
+            "elementComponents": [
+                "29_6-311GS.json"
+            ]
+        },
+        "10": {
+            "elementComponents": [
+                "29_6-311GS.json"
+            ]
+        },
+        "11": {
+            "elementComponents": [
+                "29_6-311GS.json"
+            ]
+        },
+        "12": {
+            "elementComponents": [
+                "29_6-311GS.json"
+            ]
+        },
+        "13": {
+            "elementComponents": [
+                "29_6-311GS.json"
+            ]
+        },
+        "14": {
+            "elementComponents": [
+                "29_6-311GS.json"
+            ]
+        },
+        "15": {
+            "elementComponents": [
+                "29_6-311GS.json"
+            ]
+        },
+        "16": {
+            "elementComponents": [
+                "29_6-311GS.json"
+            ]
+        },
+        "17": {
+            "elementComponents": [
+                "29_6-311GS.json"
+            ]
+        },
+        "18": {
+            "elementComponents": [
+                "29_6-311GS.json"
+            ]
+        },
+        "19": {
+            "elementComponents": [
+                "29_6-311GS.json"
+            ]
+        },
+        "20": {
+            "elementComponents": [
+                "29_6-311GS.json"
+            ]
+        },
+        "31": {
+            "elementComponents": [
+                "29_6-311GS.json"
+            ]
+        },
+        "32": {
+            "elementComponents": [
+                "29_6-311GS.json"
+            ]
+        },
+        "33": {
+            "elementComponents": [
+                "29_6-311GS.json"
+            ]
+        },
+        "34": {
+            "elementComponents": [
+                "29_6-311GS.json"
+            ]
+        },
+        "35": {
+            "elementComponents": [
+                "29_6-311GS.json"
+            ]
+        },
+        "36": {
+            "elementComponents": [
+                "29_6-311GS.json"
+            ]
+        },
+        "53": {
+            "elementComponents": [
+                "29_6-311GS.json"
+            ]
+        }
+    }
+}

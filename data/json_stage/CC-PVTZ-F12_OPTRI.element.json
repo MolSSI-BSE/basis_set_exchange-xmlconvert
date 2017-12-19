@@ -1,0 +1,92 @@
+{
+    "molssi_bse_magic": 1,
+    "basisSetName": "cc-pVTZ-F12_OPTRI",
+    "basisSetDescription": "cc-pVTZ-F12_OPTRI",
+    "basisSetElements": {
+        "1": {
+            "elementComponents": [
+                "CC-PVTZ-F12_OPTRI.json"
+            ]
+        },
+        "3": {
+            "elementComponents": [
+                "CC-PVTZ-F12_OPTRI.json"
+            ]
+        },
+        "4": {
+            "elementComponents": [
+                "CC-PVTZ-F12_OPTRI.json"
+            ]
+        },
+        "5": {
+            "elementComponents": [
+                "CC-PVTZ-F12_OPTRI.json"
+            ]
+        },
+        "6": {
+            "elementComponents": [
+                "CC-PVTZ-F12_OPTRI.json"
+            ]
+        },
+        "7": {
+            "elementComponents": [
+                "CC-PVTZ-F12_OPTRI.json"
+            ]
+        },
+        "8": {
+            "elementComponents": [
+                "CC-PVTZ-F12_OPTRI.json"
+            ]
+        },
+        "9": {
+            "elementComponents": [
+                "CC-PVTZ-F12_OPTRI.json"
+            ]
+        },
+        "10": {
+            "elementComponents": [
+                "CC-PVTZ-F12_OPTRI.json"
+            ]
+        },
+        "11": {
+            "elementComponents": [
+                "CC-PVTZ-F12_OPTRI.json"
+            ]
+        },
+        "12": {
+            "elementComponents": [
+                "CC-PVTZ-F12_OPTRI.json"
+            ]
+        },
+        "13": {
+            "elementComponents": [
+                "CC-PVTZ-F12_OPTRI.json"
+            ]
+        },
+        "14": {
+            "elementComponents": [
+                "CC-PVTZ-F12_OPTRI.json"
+            ]
+        },
+        "15": {
+            "elementComponents": [
+                "CC-PVTZ-F12_OPTRI.json"
+            ]
+        },
+        "16": {
+            "elementComponents": [
+                "CC-PVTZ-F12_OPTRI.json"
+            ]
+        },
+        "17": {
+            "elementComponents": [
+                "CC-PVTZ-F12_OPTRI.json"
+            ]
+        },
+        "18": {
+            "elementComponents": [
+                "CC-PVTZ-F12_OPTRI.json"
+            ]
+        }
+    }
+}

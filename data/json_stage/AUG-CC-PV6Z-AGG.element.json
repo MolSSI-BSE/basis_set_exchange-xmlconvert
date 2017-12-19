@@ -1,0 +1,91 @@
+{
+    "molssi_bse_magic": 1,
+    "basisSetName": "aug-cc-pV6Z",
+    "basisSetDescription": "V6Z5P   Valence Sextuple Zeta + Polarization + Diffuse",
+    "basisSetElements": {
+        "1": {
+            "elementComponents": [
+                "CC-PV6Z.json",
+                "AUG-CC-PV6Z.json"
+            ]
+        },
+        "2": {
+            "elementComponents": [
+                "CC-PV6Z.json",
+                "AUG-CC-PV6Z.json"
+            ]
+        },
+        "5": {
+            "elementComponents": [
+                "CC-PV6Z.json",
+                "AUG-CC-PV6Z.json"
+            ]
+        },
+        "6": {
+            "elementComponents": [
+                "CC-PV6Z.json",
+                "AUG-CC-PV6Z.json"
+            ]
+        },
+        "7": {
+            "elementComponents": [
+                "CC-PV6Z.json",
+                "AUG-CC-PV6Z.json"
+            ]
+        },
+        "8": {
+            "elementComponents": [
+                "CC-PV6Z.json",
+                "AUG-CC-PV6Z.json"
+            ]
+        },
+        "9": {
+            "elementComponents": [
+                "CC-PV6Z.json",
+                "AUG-CC-PV6Z.json"
+            ]
+        },
+        "10": {
+            "elementComponents": [
+                "CC-PV6Z.json",
+                "AUG-CC-PV6Z.json"
+            ]
+        },
+        "13": {
+            "elementComponents": [
+                "CC-PV6Z.json",
+                "AUG-CC-PV6Z.json"
+            ]
+        },
+        "14": {
+            "elementComponents": [
+                "CC-PV6Z.json",
+                "AUG-CC-PV6Z.json"
+            ]
+        },
+        "15": {
+            "elementComponents": [
+                "CC-PV6Z.json",
+                "AUG-CC-PV6Z.json"
+            ]
+        },
+        "16": {
+            "elementComponents": [
+                "CC-PV6Z.json",
+                "AUG-CC-PV6Z.json"
+            ]
+        },
+        "17": {
+            "elementComponents": [
+                "CC-PV6Z.json",
+                "AUG-CC-PV6Z.json"
+            ]
+        },
+        "18": {
+            "elementComponents": [
+                "CC-PV6Z.json",
+                "AUG-CC-PV6Z.json"
+            ]
+        }
+    }
+}

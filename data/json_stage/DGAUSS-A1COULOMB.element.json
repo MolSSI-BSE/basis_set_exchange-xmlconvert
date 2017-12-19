@@ -1,0 +1,277 @@
+{
+    "molssi_bse_magic": 1,
+    "basisSetName": "DGauss A1 DFT Coulomb Fitting",
+    "basisSetDescription": "DFT     Coulomb Fitting",
+    "basisSetElements": {
+        "1": {
+            "elementComponents": [
+                "DGAUSS-A1COULOMB.json"
+            ]
+        },
+        "2": {
+            "elementComponents": [
+                "DGAUSS-A1COULOMB.json"
+            ]
+        },
+        "3": {
+            "elementComponents": [
+                "DGAUSS-A1COULOMB.json"
+            ]
+        },
+        "4": {
+            "elementComponents": [
+                "DGAUSS-A1COULOMB.json"
+            ]
+        },
+        "5": {
+            "elementComponents": [
+                "DGAUSS-A1COULOMB.json"
+            ]
+        },
+        "6": {
+            "elementComponents": [
+                "DGAUSS-A1COULOMB.json"
+            ]
+        },
+        "7": {
+            "elementComponents": [
+                "DGAUSS-A1COULOMB.json"
+            ]
+        },
+        "8": {
+            "elementComponents": [
+                "DGAUSS-A1COULOMB.json"
+            ]
+        },
+        "9": {
+            "elementComponents": [
+                "DGAUSS-A1COULOMB.json"
+            ]
+        },
+        "10": {
+            "elementComponents": [
+                "DGAUSS-A1COULOMB.json"
+            ]
+        },
+        "11": {
+            "elementComponents": [
+                "DGAUSS-A1COULOMB.json"
+            ]
+        },
+        "12": {
+            "elementComponents": [
+                "DGAUSS-A1COULOMB.json"
+            ]
+        },
+        "13": {
+            "elementComponents": [
+                "DGAUSS-A1COULOMB.json"
+            ]
+        },
+        "14": {
+            "elementComponents": [
+                "DGAUSS-A1COULOMB.json"
+            ]
+        },
+        "15": {
+            "elementComponents": [
+                "DGAUSS-A1COULOMB.json"
+            ]
+        },
+        "16": {
+            "elementComponents": [
+                "DGAUSS-A1COULOMB.json"
+            ]
+        },
+        "17": {
+            "elementComponents": [
+                "DGAUSS-A1COULOMB.json"
+            ]
+        },
+        "18": {
+            "elementComponents": [
+                "DGAUSS-A1COULOMB.json"
+            ]
+        },
+        "19": {
+            "elementComponents": [
+                "DGAUSS-A1COULOMB.json"
+            ]
+        },
+        "20": {
+            "elementComponents": [
+                "DGAUSS-A1COULOMB.json"
+            ]
+        },
+        "21": {
+            "elementComponents": [
+                "DGAUSS-A1COULOMB.json"
+            ]
+        },
+        "22": {
+            "elementComponents": [
+                "DGAUSS-A1COULOMB.json"
+            ]
+        },
+        "23": {
+            "elementComponents": [
+                "DGAUSS-A1COULOMB.json"
+            ]
+        },
+        "24": {
+            "elementComponents": [
+                "DGAUSS-A1COULOMB.json"
+            ]
+        },
+        "25": {
+            "elementComponents": [
+                "DGAUSS-A1COULOMB.json"
+            ]
+        },
+        "26": {
+            "elementComponents": [
+                "DGAUSS-A1COULOMB.json"
+            ]
+        },
+        "27": {
+            "elementComponents": [
+                "DGAUSS-A1COULOMB.json"
+            ]
+        },
+        "28": {
+            "elementComponents": [
+                "DGAUSS-A1COULOMB.json"
+            ]
+        },
+        "29": {
+            "elementComponents": [
+                "DGAUSS-A1COULOMB.json"
+            ]
+        },
+        "30": {
+            "elementComponents": [
+                "DGAUSS-A1COULOMB.json"
+            ]
+        },
+        "31": {
+            "elementComponents": [
+                "DGAUSS-A1COULOMB.json"
+            ]
+        },
+        "32": {
+            "elementComponents": [
+                "DGAUSS-A1COULOMB.json"
+            ]
+        },
+        "33": {
+            "elementComponents": [
+                "DGAUSS-A1COULOMB.json"
+            ]
+        },
+        "34": {
+            "elementComponents": [
+                "DGAUSS-A1COULOMB.json"
+            ]
+        },
+        "35": {
+            "elementComponents": [
+                "DGAUSS-A1COULOMB.json"
+            ]
+        },
+        "36": {
+            "elementComponents": [
+                "DGAUSS-A1COULOMB.json"
+            ]
+        },
+        "37": {
+            "elementComponents": [
+                "DGAUSS-A1COULOMB.json"
+            ]
+        },
+        "38": {
+            "elementComponents": [
+                "DGAUSS-A1COULOMB.json"
+            ]
+        },
+        "39": {
+            "elementComponents": [
+                "DGAUSS-A1COULOMB.json"
+            ]
+        },
+        "40": {
+            "elementComponents": [
+                "DGAUSS-A1COULOMB.json"
+            ]
+        },
+        "41": {
+            "elementComponents": [
+                "DGAUSS-A1COULOMB.json"
+            ]
+        },
+        "42": {
+            "elementComponents": [
+                "DGAUSS-A1COULOMB.json"
+            ]
+        },
+        "43": {
+            "elementComponents": [
+                "DGAUSS-A1COULOMB.json"
+            ]
+        },
+        "44": {
+            "elementComponents": [
+                "DGAUSS-A1COULOMB.json"
+            ]
+        },
+        "45": {
+            "elementComponents": [
+                "DGAUSS-A1COULOMB.json"
+            ]
+        },
+        "46": {
+            "elementComponents": [
+                "DGAUSS-A1COULOMB.json"
+            ]
+        },
+        "47": {
+            "elementComponents": [
+                "DGAUSS-A1COULOMB.json"
+            ]
+        },
+        "48": {
+            "elementComponents": [
+                "DGAUSS-A1COULOMB.json"
+            ]
+        },
+        "49": {
+            "elementComponents": [
+                "DGAUSS-A1COULOMB.json"
+            ]
+        },
+        "50": {
+            "elementComponents": [
+                "DGAUSS-A1COULOMB.json"
+            ]
+        },
+        "51": {
+            "elementComponents": [
+                "DGAUSS-A1COULOMB.json"
+            ]
+        },
+        "52": {
+            "elementComponents": [
+                "DGAUSS-A1COULOMB.json"
+            ]
+        },
+        "53": {
+            "elementComponents": [
+                "DGAUSS-A1COULOMB.json"
+            ]
+        },
+        "54": {
+            "elementComponents": [
+                "DGAUSS-A1COULOMB.json"
+            ]
+        }
+    }
+}

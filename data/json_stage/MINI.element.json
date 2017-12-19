@@ -1,0 +1,107 @@
+{
+    "molssi_bse_magic": 1,
+    "basisSetName": "MINI (Huzinaga)",
+    "basisSetDescription": "MB      Minimal Basis: 1 Function/AO",
+    "basisSetElements": {
+        "1": {
+            "elementComponents": [
+                "MINI.json"
+            ]
+        },
+        "2": {
+            "elementComponents": [
+                "MINI.json"
+            ]
+        },
+        "3": {
+            "elementComponents": [
+                "MINI.json"
+            ]
+        },
+        "4": {
+            "elementComponents": [
+                "MINI.json"
+            ]
+        },
+        "5": {
+            "elementComponents": [
+                "MINI.json"
+            ]
+        },
+        "6": {
+            "elementComponents": [
+                "MINI.json"
+            ]
+        },
+        "7": {
+            "elementComponents": [
+                "MINI.json"
+            ]
+        },
+        "8": {
+            "elementComponents": [
+                "MINI.json"
+            ]
+        },
+        "9": {
+            "elementComponents": [
+                "MINI.json"
+            ]
+        },
+        "10": {
+            "elementComponents": [
+                "MINI.json"
+            ]
+        },
+        "11": {
+            "elementComponents": [
+                "MINI.json"
+            ]
+        },
+        "12": {
+            "elementComponents": [
+                "MINI.json"
+            ]
+        },
+        "13": {
+            "elementComponents": [
+                "MINI.json"
+            ]
+        },
+        "14": {
+            "elementComponents": [
+                "MINI.json"
+            ]
+        },
+        "15": {
+            "elementComponents": [
+                "MINI.json"
+            ]
+        },
+        "16": {
+            "elementComponents": [
+                "MINI.json"
+            ]
+        },
+        "17": {
+            "elementComponents": [
+                "MINI.json"
+            ]
+        },
+        "18": {
+            "elementComponents": [
+                "MINI.json"
+            ]
+        },
+        "19": {
+            "elementComponents": [
+                "MINI.json"
+            ]
+        },
+        "20": {
+            "elementComponents": [
+                "MINI.json"
+            ]
+        }
+    }
+}

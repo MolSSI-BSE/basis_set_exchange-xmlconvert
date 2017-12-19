@@ -1,0 +1,97 @@
+{
+    "molssi_bse_magic": 1,
+    "basisSetName": "pcS-2",
+    "basisSetDescription": "pcS-2",
+    "basisSetElements": {
+        "1": {
+            "elementComponents": [
+                "PCS-2.json"
+            ]
+        },
+        "2": {
+            "elementComponents": [
+                "PCS-2.json"
+            ]
+        },
+        "3": {
+            "elementComponents": [
+                "PCS-2.json"
+            ]
+        },
+        "4": {
+            "elementComponents": [
+                "PCS-2.json"
+            ]
+        },
+        "5": {
+            "elementComponents": [
+                "PCS-2.json"
+            ]
+        },
+        "6": {
+            "elementComponents": [
+                "PCS-2.json"
+            ]
+        },
+        "7": {
+            "elementComponents": [
+                "PCS-2.json"
+            ]
+        },
+        "8": {
+            "elementComponents": [
+                "PCS-2.json"
+            ]
+        },
+        "9": {
+            "elementComponents": [
+                "PCS-2.json"
+            ]
+        },
+        "10": {
+            "elementComponents": [
+                "PCS-2.json"
+            ]
+        },
+        "11": {
+            "elementComponents": [
+                "PCS-2.json"
+            ]
+        },
+        "12": {
+            "elementComponents": [
+                "PCS-2.json"
+            ]
+        },
+        "13": {
+            "elementComponents": [
+                "PCS-2.json"
+            ]
+        },
+        "14": {
+            "elementComponents": [
+                "PCS-2.json"
+            ]
+        },
+        "15": {
+            "elementComponents": [
+                "PCS-2.json"
+            ]
+        },
+        "16": {
+            "elementComponents": [
+                "PCS-2.json"
+            ]
+        },
+        "17": {
+            "elementComponents": [
+                "PCS-2.json"
+            ]
+        },
+        "18": {
+            "elementComponents": [
+                "PCS-2.json"
+            ]
+        }
+    }
+}

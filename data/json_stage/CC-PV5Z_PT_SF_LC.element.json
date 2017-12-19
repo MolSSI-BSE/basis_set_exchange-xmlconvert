@@ -1,0 +1,107 @@
+{
+    "molssi_bse_magic": 1,
+    "basisSetName": "cc-pV5Z(pt/sf/lc)",
+    "basisSetDescription": "V5Z4P   Relativistic Valence Quintuple Zeta + Polarization",
+    "basisSetElements": {
+        "1": {
+            "elementComponents": [
+                "CC-PV5Z_PT_SF_LC.json"
+            ]
+        },
+        "2": {
+            "elementComponents": [
+                "CC-PV5Z_PT_SF_LC.json"
+            ]
+        },
+        "5": {
+            "elementComponents": [
+                "CC-PV5Z_PT_SF_LC.json"
+            ]
+        },
+        "6": {
+            "elementComponents": [
+                "CC-PV5Z_PT_SF_LC.json"
+            ]
+        },
+        "7": {
+            "elementComponents": [
+                "CC-PV5Z_PT_SF_LC.json"
+            ]
+        },
+        "8": {
+            "elementComponents": [
+                "CC-PV5Z_PT_SF_LC.json"
+            ]
+        },
+        "9": {
+            "elementComponents": [
+                "CC-PV5Z_PT_SF_LC.json"
+            ]
+        },
+        "10": {
+            "elementComponents": [
+                "CC-PV5Z_PT_SF_LC.json"
+            ]
+        },
+        "13": {
+            "elementComponents": [
+                "CC-PV5Z_PT_SF_LC.json"
+            ]
+        },
+        "14": {
+            "elementComponents": [
+                "CC-PV5Z_PT_SF_LC.json"
+            ]
+        },
+        "15": {
+            "elementComponents": [
+                "CC-PV5Z_PT_SF_LC.json"
+            ]
+        },
+        "16": {
+            "elementComponents": [
+                "CC-PV5Z_PT_SF_LC.json"
+            ]
+        },
+        "17": {
+            "elementComponents": [
+                "CC-PV5Z_PT_SF_LC.json"
+            ]
+        },
+        "18": {
+            "elementComponents": [
+                "CC-PV5Z_PT_SF_LC.json"
+            ]
+        },
+        "31": {
+            "elementComponents": [
+                "CC-PV5Z_PT_SF_LC.json"
+            ]
+        },
+        "32": {
+            "elementComponents": [
+                "CC-PV5Z_PT_SF_LC.json"
+            ]
+        },
+        "33": {
+            "elementComponents": [
+                "CC-PV5Z_PT_SF_LC.json"
+            ]
+        },
+        "34": {
+            "elementComponents": [
+                "CC-PV5Z_PT_SF_LC.json"
+            ]
+        },
+        "35": {
+            "elementComponents": [
+                "CC-PV5Z_PT_SF_LC.json"
+            ]
+        },
+        "36": {
+            "elementComponents": [
+                "CC-PV5Z_PT_SF_LC.json"
+            ]
+        }
+    }
+}

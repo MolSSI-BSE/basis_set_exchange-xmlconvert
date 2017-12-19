@@ -1,0 +1,232 @@
+{
+    "molssi_bse_magic": 1,
+    "basisSetName": "SARC-ZORA",
+    "basisSetDescription": "SARC-ZORA",
+    "basisSetElements": {
+        "57": {
+            "elementComponents": [
+                "SARC-ZORA.json"
+            ]
+        },
+        "58": {
+            "elementComponents": [
+                "SARC-ZORA.json"
+            ]
+        },
+        "59": {
+            "elementComponents": [
+                "SARC-ZORA.json"
+            ]
+        },
+        "60": {
+            "elementComponents": [
+                "SARC-ZORA.json"
+            ]
+        },
+        "61": {
+            "elementComponents": [
+                "SARC-ZORA.json"
+            ]
+        },
+        "62": {
+            "elementComponents": [
+                "SARC-ZORA.json"
+            ]
+        },
+        "63": {
+            "elementComponents": [
+                "SARC-ZORA.json"
+            ]
+        },
+        "64": {
+            "elementComponents": [
+                "SARC-ZORA.json"
+            ]
+        },
+        "65": {
+            "elementComponents": [
+                "SARC-ZORA.json"
+            ]
+        },
+        "66": {
+            "elementComponents": [
+                "SARC-ZORA.json"
+            ]
+        },
+        "67": {
+            "elementComponents": [
+                "SARC-ZORA.json"
+            ]
+        },
+        "68": {
+            "elementComponents": [
+                "SARC-ZORA.json"
+            ]
+        },
+        "69": {
+            "elementComponents": [
+                "SARC-ZORA.json"
+            ]
+        },
+        "70": {
+            "elementComponents": [
+                "SARC-ZORA.json"
+            ]
+        },
+        "71": {
+            "elementComponents": [
+                "SARC-ZORA.json"
+            ]
+        },
+        "72": {
+            "elementComponents": [
+                "SARC-ZORA.json"
+            ]
+        },
+        "73": {
+            "elementComponents": [
+                "SARC-ZORA.json"
+            ]
+        },
+        "74": {
+            "elementComponents": [
+                "SARC-ZORA.json"
+            ]
+        },
+        "75": {
+            "elementComponents": [
+                "SARC-ZORA.json"
+            ]
+        },
+        "76": {
+            "elementComponents": [
+                "SARC-ZORA.json"
+            ]
+        },
+        "77": {
+            "elementComponents": [
+                "SARC-ZORA.json"
+            ]
+        },
+        "78": {
+            "elementComponents": [
+                "SARC-ZORA.json"
+            ]
+        },
+        "79": {
+            "elementComponents": [
+                "SARC-ZORA.json"
+            ]
+        },
+        "80": {
+            "elementComponents": [
+                "SARC-ZORA.json"
+            ]
+        },
+        "81": {
+            "elementComponents": [
+                "SARC-ZORA.json"
+            ]
+        },
+        "82": {
+            "elementComponents": [
+                "SARC-ZORA.json"
+            ]
+        },
+        "83": {
+            "elementComponents": [
+                "SARC-ZORA.json"
+            ]
+        },
+        "84": {
+            "elementComponents": [
+                "SARC-ZORA.json"
+            ]
+        },
+        "85": {
+            "elementComponents": [
+                "SARC-ZORA.json"
+            ]
+        },
+        "86": {
+            "elementComponents": [
+                "SARC-ZORA.json"
+            ]
+        },
+        "89": {
+            "elementComponents": [
+                "SARC-ZORA.json"
+            ]
+        },
+        "90": {
+            "elementComponents": [
+                "SARC-ZORA.json"
+            ]
+        },
+        "91": {
+            "elementComponents": [
+                "SARC-ZORA.json"
+            ]
+        },
+        "92": {
+            "elementComponents": [
+                "SARC-ZORA.json"
+            ]
+        },
+        "93": {
+            "elementComponents": [
+                "SARC-ZORA.json"
+            ]
+        },
+        "94": {
+            "elementComponents": [
+                "SARC-ZORA.json"
+            ]
+        },
+        "95": {
+            "elementComponents": [
+                "SARC-ZORA.json"
+            ]
+        },
+        "96": {
+            "elementComponents": [
+                "SARC-ZORA.json"
+            ]
+        },
+        "97": {
+            "elementComponents": [
+                "SARC-ZORA.json"
+            ]
+        },
+        "98": {
+            "elementComponents": [
+                "SARC-ZORA.json"
+            ]
+        },
+        "99": {
+            "elementComponents": [
+                "SARC-ZORA.json"
+            ]
+        },
+        "100": {
+            "elementComponents": [
+                "SARC-ZORA.json"
+            ]
+        },
+        "101": {
+            "elementComponents": [
+                "SARC-ZORA.json"
+            ]
+        },
+        "102": {
+            "elementComponents": [
+                "SARC-ZORA.json"
+            ]
+        },
+        "103": {
+            "elementComponents": [
+                "SARC-ZORA.json"
+            ]
+        }
+    }
+}

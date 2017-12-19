@@ -1,0 +1,702 @@
+{
+    "molssi_bse_magic": 1,
+    "basisSetName": "CRENBL ECP",
+    "basisSetDescription": "CRENBL ECP",
+    "basisSetElements": {
+        "1": {
+            "elementComponents": [
+                "CRENBL.json"
+            ]
+        },
+        "3": {
+            "elementComponents": [
+                "CRENBL.json",
+                "CRENBL-ECP.json"
+            ]
+        },
+        "4": {
+            "elementComponents": [
+                "CRENBL.json",
+                "CRENBL-ECP.json"
+            ]
+        },
+        "5": {
+            "elementComponents": [
+                "CRENBL.json",
+                "CRENBL-ECP.json"
+            ]
+        },
+        "6": {
+            "elementComponents": [
+                "CRENBL.json",
+                "CRENBL-ECP.json"
+            ]
+        },
+        "7": {
+            "elementComponents": [
+                "CRENBL.json",
+                "CRENBL-ECP.json"
+            ]
+        },
+        "8": {
+            "elementComponents": [
+                "CRENBL.json",
+                "CRENBL-ECP.json"
+            ]
+        },
+        "9": {
+            "elementComponents": [
+                "CRENBL.json",
+                "CRENBL-ECP.json"
+            ]
+        },
+        "10": {
+            "elementComponents": [
+                "CRENBL.json",
+                "CRENBL-ECP.json"
+            ]
+        },
+        "11": {
+            "elementComponents": [
+                "CRENBL.json",
+                "CRENBL-ECP.json"
+            ]
+        },
+        "12": {
+            "elementComponents": [
+                "CRENBL.json",
+                "CRENBL-ECP.json"
+            ]
+        },
+        "13": {
+            "elementComponents": [
+                "CRENBL.json",
+                "CRENBL-ECP.json"
+            ]
+        },
+        "14": {
+            "elementComponents": [
+                "CRENBL.json",
+                "CRENBL-ECP.json"
+            ]
+        },
+        "15": {
+            "elementComponents": [
+                "CRENBL.json",
+                "CRENBL-ECP.json"
+            ]
+        },
+        "16": {
+            "elementComponents": [
+                "CRENBL.json",
+                "CRENBL-ECP.json"
+            ]
+        },
+        "17": {
+            "elementComponents": [
+                "CRENBL.json",
+                "CRENBL-ECP.json"
+            ]
+        },
+        "18": {
+            "elementComponents": [
+                "CRENBL.json",
+                "CRENBL-ECP.json"
+            ]
+        },
+        "19": {
+            "elementComponents": [
+                "CRENBL.json",
+                "CRENBL-ECP.json"
+            ]
+        },
+        "20": {
+            "elementComponents": [
+                "CRENBL.json",
+                "CRENBL-ECP.json"
+            ]
+        },
+        "21": {
+            "elementComponents": [
+                "CRENBL.json",
+                "CRENBL-ECP.json"
+            ]
+        },
+        "22": {
+            "elementComponents": [
+                "CRENBL.json",
+                "CRENBL-ECP.json"
+            ]
+        },
+        "23": {
+            "elementComponents": [
+                "CRENBL.json",
+                "CRENBL-ECP.json"
+            ]
+        },
+        "24": {
+            "elementComponents": [
+                "CRENBL.json",
+                "CRENBL-ECP.json"
+            ]
+        },
+        "25": {
+            "elementComponents": [
+                "CRENBL.json",
+                "CRENBL-ECP.json"
+            ]
+        },
+        "26": {
+            "elementComponents": [
+                "CRENBL.json",
+                "CRENBL-ECP.json"
+            ]
+        },
+        "27": {
+            "elementComponents": [
+                "CRENBL.json",
+                "CRENBL-ECP.json"
+            ]
+        },
+        "28": {
+            "elementComponents": [
+                "CRENBL.json",
+                "CRENBL-ECP.json"
+            ]
+        },
+        "29": {
+            "elementComponents": [
+                "CRENBL.json",
+                "CRENBL-ECP.json"
+            ]
+        },
+        "30": {
+            "elementComponents": [
+                "CRENBL.json",
+                "CRENBL-ECP.json"
+            ]
+        },
+        "31": {
+            "elementComponents": [
+                "CRENBL.json",
+                "CRENBL-ECP.json"
+            ]
+        },
+        "32": {
+            "elementComponents": [
+                "CRENBL.json",
+                "CRENBL-ECP.json"
+            ]
+        },
+        "33": {
+            "elementComponents": [
+                "CRENBL.json",
+                "CRENBL-ECP.json"
+            ]
+        },
+        "34": {
+            "elementComponents": [
+                "CRENBL.json",
+                "CRENBL-ECP.json"
+            ]
+        },
+        "35": {
+            "elementComponents": [
+                "CRENBL.json",
+                "CRENBL-ECP.json"
+            ]
+        },
+        "36": {
+            "elementComponents": [
+                "CRENBL.json",
+                "CRENBL-ECP.json"
+            ]
+        },
+        "37": {
+            "elementComponents": [
+                "CRENBL.json",
+                "CRENBL-ECP.json"
+            ]
+        },
+        "38": {
+            "elementComponents": [
+                "CRENBL.json",
+                "CRENBL-ECP.json"
+            ]
+        },
+        "39": {
+            "elementComponents": [
+                "CRENBL.json",
+                "CRENBL-ECP.json"
+            ]
+        },
+        "40": {
+            "elementComponents": [
+                "CRENBL.json",
+                "CRENBL-ECP.json"
+            ]
+        },
+        "41": {
+            "elementComponents": [
+                "CRENBL.json",
+                "CRENBL-ECP.json"
+            ]
+        },
+        "42": {
+            "elementComponents": [
+                "CRENBL.json",
+                "CRENBL-ECP.json"
+            ]
+        },
+        "43": {
+            "elementComponents": [
+                "CRENBL.json",
+                "CRENBL-ECP.json"
+            ]
+        },
+        "44": {
+            "elementComponents": [
+                "CRENBL.json",
+                "CRENBL-ECP.json"
+            ]
+        },
+        "45": {
+            "elementComponents": [
+                "CRENBL.json",
+                "CRENBL-ECP.json"
+            ]
+        },
+        "46": {
+            "elementComponents": [
+                "CRENBL.json",
+                "CRENBL-ECP.json"
+            ]
+        },
+        "47": {
+            "elementComponents": [
+                "CRENBL.json",
+                "CRENBL-ECP.json"
+            ]
+        },
+        "48": {
+            "elementComponents": [
+                "CRENBL.json",
+                "CRENBL-ECP.json"
+            ]
+        },
+        "49": {
+            "elementComponents": [
+                "CRENBL.json",
+                "CRENBL-ECP.json"
+            ]
+        },
+        "50": {
+            "elementComponents": [
+                "CRENBL.json",
+                "CRENBL-ECP.json"
+            ]
+        },
+        "51": {
+            "elementComponents": [
+                "CRENBL.json",
+                "CRENBL-ECP.json"
+            ]
+        },
+        "52": {
+            "elementComponents": [
+                "CRENBL.json",
+                "CRENBL-ECP.json"
+            ]
+        },
+        "53": {
+            "elementComponents": [
+                "CRENBL.json",
+                "CRENBL-ECP.json"
+            ]
+        },
+        "54": {
+            "elementComponents": [
+                "CRENBL.json",
+                "CRENBL-ECP.json"
+            ]
+        },
+        "55": {
+            "elementComponents": [
+                "CRENBL.json",
+                "CRENBL-ECP.json"
+            ]
+        },
+        "56": {
+            "elementComponents": [
+                "CRENBL.json",
+                "CRENBL-ECP.json"
+            ]
+        },
+        "57": {
+            "elementComponents": [
+                "CRENBL.json",
+                "CRENBL-ECP.json"
+            ]
+        },
+        "58": {
+            "elementComponents": [
+                "CRENBL.json",
+                "CRENBL-ECP.json"
+            ]
+        },
+        "59": {
+            "elementComponents": [
+                "CRENBL.json",
+                "CRENBL-ECP.json"
+            ]
+        },
+        "60": {
+            "elementComponents": [
+                "CRENBL.json",
+                "CRENBL-ECP.json"
+            ]
+        },
+        "61": {
+            "elementComponents": [
+                "CRENBL.json",
+                "CRENBL-ECP.json"
+            ]
+        },
+        "62": {
+            "elementComponents": [
+                "CRENBL.json",
+                "CRENBL-ECP.json"
+            ]
+        },
+        "63": {
+            "elementComponents": [
+                "CRENBL.json",
+                "CRENBL-ECP.json"
+            ]
+        },
+        "64": {
+            "elementComponents": [
+                "CRENBL.json",
+                "CRENBL-ECP.json"
+            ]
+        },
+        "65": {
+            "elementComponents": [
+                "CRENBL.json",
+                "CRENBL-ECP.json"
+            ]
+        },
+        "66": {
+            "elementComponents": [
+                "CRENBL.json",
+                "CRENBL-ECP.json"
+            ]
+        },
+        "67": {
+            "elementComponents": [
+                "CRENBL.json",
+                "CRENBL-ECP.json"
+            ]
+        },
+        "68": {
+            "elementComponents": [
+                "CRENBL.json",
+                "CRENBL-ECP.json"
+            ]
+        },
+        "69": {
+            "elementComponents": [
+                "CRENBL.json",
+                "CRENBL-ECP.json"
+            ]
+        },
+        "70": {
+            "elementComponents": [
+                "CRENBL.json",
+                "CRENBL-ECP.json"
+            ]
+        },
+        "71": {
+            "elementComponents": [
+                "CRENBL.json",
+                "CRENBL-ECP.json"
+            ]
+        },
+        "72": {
+            "elementComponents": [
+                "CRENBL.json",
+                "CRENBL-ECP.json"
+            ]
+        },
+        "73": {
+            "elementComponents": [
+                "CRENBL.json",
+                "CRENBL-ECP.json"
+            ]
+        },
+        "74": {
+            "elementComponents": [
+                "CRENBL.json",
+                "CRENBL-ECP.json"
+            ]
+        },
+        "75": {
+            "elementComponents": [
+                "CRENBL.json",
+                "CRENBL-ECP.json"
+            ]
+        },
+        "76": {
+            "elementComponents": [
+                "CRENBL.json",
+                "CRENBL-ECP.json"
+            ]
+        },
+        "77": {
+            "elementComponents": [
+                "CRENBL.json",
+                "CRENBL-ECP.json"
+            ]
+        },
+        "78": {
+            "elementComponents": [
+                "CRENBL.json",
+                "CRENBL-ECP.json"
+            ]
+        },
+        "79": {
+            "elementComponents": [
+                "CRENBL.json",
+                "CRENBL-ECP.json"
+            ]
+        },
+        "80": {
+            "elementComponents": [
+                "CRENBL.json",
+                "CRENBL-ECP.json"
+            ]
+        },
+        "81": {
+            "elementComponents": [
+                "CRENBL.json",
+                "CRENBL-ECP.json"
+            ]
+        },
+        "82": {
+            "elementComponents": [
+                "CRENBL.json",
+                "CRENBL-ECP.json"
+            ]
+        },
+        "83": {
+            "elementComponents": [
+                "CRENBL.json",
+                "CRENBL-ECP.json"
+            ]
+        },
+        "84": {
+            "elementComponents": [
+                "CRENBL.json",
+                "CRENBL-ECP.json"
+            ]
+        },
+        "85": {
+            "elementComponents": [
+                "CRENBL.json",
+                "CRENBL-ECP.json"
+            ]
+        },
+        "86": {
+            "elementComponents": [
+                "CRENBL.json",
+                "CRENBL-ECP.json"
+            ]
+        },
+        "87": {
+            "elementComponents": [
+                "CRENBL.json",
+                "CRENBL-ECP.json"
+            ]
+        },
+        "88": {
+            "elementComponents": [
+                "CRENBL.json",
+                "CRENBL-ECP.json"
+            ]
+        },
+        "89": {
+            "elementComponents": [
+                "CRENBL.json",
+                "CRENBL-ECP.json"
+            ]
+        },
+        "90": {
+            "elementComponents": [
+                "CRENBL.json",
+                "CRENBL-ECP.json"
+            ]
+        },
+        "91": {
+            "elementComponents": [
+                "CRENBL.json",
+                "CRENBL-ECP.json"
+            ]
+        },
+        "92": {
+            "elementComponents": [
+                "CRENBL.json",
+                "CRENBL-ECP.json"
+            ]
+        },
+        "93": {
+            "elementComponents": [
+                "CRENBL.json",
+                "CRENBL-ECP.json"
+            ]
+        },
+        "94": {
+            "elementComponents": [
+                "CRENBL.json",
+                "CRENBL-ECP.json"
+            ]
+        },
+        "95": {
+            "elementComponents": [
+                "CRENBL.json",
+                "CRENBL-ECP.json"
+            ]
+        },
+        "96": {
+            "elementComponents": [
+                "CRENBL.json",
+                "CRENBL-ECP.json"
+            ]
+        },
+        "97": {
+            "elementComponents": [
+                "CRENBL.json",
+                "CRENBL-ECP.json"
+            ]
+        },
+        "98": {
+            "elementComponents": [
+                "CRENBL.json",
+                "CRENBL-ECP.json"
+            ]
+        },
+        "99": {
+            "elementComponents": [
+                "CRENBL.json",
+                "CRENBL-ECP.json"
+            ]
+        },
+        "100": {
+            "elementComponents": [
+                "CRENBL.json",
+                "CRENBL-ECP.json"
+            ]
+        },
+        "101": {
+            "elementComponents": [
+                "CRENBL.json",
+                "CRENBL-ECP.json"
+            ]
+        },
+        "102": {
+            "elementComponents": [
+                "CRENBL.json",
+                "CRENBL-ECP.json"
+            ]
+        },
+        "103": {
+            "elementComponents": [
+                "CRENBL.json",
+                "CRENBL-ECP.json"
+            ]
+        },
+        "104": {
+            "elementComponents": [
+                "CRENBL.json",
+                "CRENBL-ECP.json"
+            ]
+        },
+        "105": {
+            "elementComponents": [
+                "CRENBL.json",
+                "CRENBL-ECP.json"
+            ]
+        },
+        "106": {
+            "elementComponents": [
+                "CRENBL.json",
+                "CRENBL-ECP.json"
+            ]
+        },
+        "107": {
+            "elementComponents": [
+                "CRENBL.json",
+                "CRENBL-ECP.json"
+            ]
+        },
+        "108": {
+            "elementComponents": [
+                "CRENBL.json",
+                "CRENBL-ECP.json"
+            ]
+        },
+        "109": {
+            "elementComponents": [
+                "CRENBL.json",
+                "CRENBL-ECP.json"
+            ]
+        },
+        "110": {
+            "elementComponents": [
+                "CRENBL.json",
+                "CRENBL-ECP.json"
+            ]
+        },
+        "111": {
+            "elementComponents": [
+                "CRENBL.json",
+                "CRENBL-ECP.json"
+            ]
+        },
+        "112": {
+            "elementComponents": [
+                "CRENBL.json",
+                "CRENBL-ECP.json"
+            ]
+        },
+        "113": {
+            "elementComponents": [
+                "CRENBL.json",
+                "CRENBL-ECP.json"
+            ]
+        },
+        "115": {
+            "elementComponents": [
+                "CRENBL.json",
+                "CRENBL-ECP.json"
+            ]
+        },
+        "116": {
+            "elementComponents": [
+                "CRENBL.json",
+                "CRENBL-ECP.json"
+            ]
+        },
+        "117": {
+            "elementComponents": [
+                "CRENBL.json",
+                "CRENBL-ECP.json"
+            ]
+        },
+        "118": {
+            "elementComponents": [
+                "CRENBL.json",
+                "CRENBL-ECP.json"
+            ]
+        }
+    }
+}

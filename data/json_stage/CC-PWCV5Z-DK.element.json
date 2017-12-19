@@ -1,0 +1,57 @@
+{
+    "molssi_bse_magic": 1,
+    "basisSetName": "cc-pwCV5Z-DK",
+    "basisSetDescription": "cc-pwCV5Z-DK",
+    "basisSetElements": {
+        "21": {
+            "elementComponents": [
+                "CC-PWCV5Z-DK.json"
+            ]
+        },
+        "22": {
+            "elementComponents": [
+                "CC-PWCV5Z-DK.json"
+            ]
+        },
+        "23": {
+            "elementComponents": [
+                "CC-PWCV5Z-DK.json"
+            ]
+        },
+        "24": {
+            "elementComponents": [
+                "CC-PWCV5Z-DK.json"
+            ]
+        },
+        "25": {
+            "elementComponents": [
+                "CC-PWCV5Z-DK.json"
+            ]
+        },
+        "26": {
+            "elementComponents": [
+                "CC-PWCV5Z-DK.json"
+            ]
+        },
+        "27": {
+            "elementComponents": [
+                "CC-PWCV5Z-DK.json"
+            ]
+        },
+        "28": {
+            "elementComponents": [
+                "CC-PWCV5Z-DK.json"
+            ]
+        },
+        "29": {
+            "elementComponents": [
+                "CC-PWCV5Z-DK.json"
+            ]
+        },
+        "30": {
+            "elementComponents": [
+                "CC-PWCV5Z-DK.json"
+            ]
+        }
+    }
+}

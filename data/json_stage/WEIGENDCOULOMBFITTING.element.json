@@ -1,0 +1,367 @@
+{
+    "molssi_bse_magic": 1,
+    "basisSetName": "Weigend Coulomb Fitting",
+    "basisSetDescription": "Weigend Coulomb Fitting",
+    "basisSetElements": {
+        "1": {
+            "elementComponents": [
+                "WEIGENDCOULOMBFITTING.json"
+            ]
+        },
+        "2": {
+            "elementComponents": [
+                "WEIGENDCOULOMBFITTING.json"
+            ]
+        },
+        "3": {
+            "elementComponents": [
+                "WEIGENDCOULOMBFITTING.json"
+            ]
+        },
+        "4": {
+            "elementComponents": [
+                "WEIGENDCOULOMBFITTING.json"
+            ]
+        },
+        "5": {
+            "elementComponents": [
+                "WEIGENDCOULOMBFITTING.json"
+            ]
+        },
+        "6": {
+            "elementComponents": [
+                "WEIGENDCOULOMBFITTING.json"
+            ]
+        },
+        "7": {
+            "elementComponents": [
+                "WEIGENDCOULOMBFITTING.json"
+            ]
+        },
+        "8": {
+            "elementComponents": [
+                "WEIGENDCOULOMBFITTING.json"
+            ]
+        },
+        "9": {
+            "elementComponents": [
+                "WEIGENDCOULOMBFITTING.json"
+            ]
+        },
+        "10": {
+            "elementComponents": [
+                "WEIGENDCOULOMBFITTING.json"
+            ]
+        },
+        "11": {
+            "elementComponents": [
+                "WEIGENDCOULOMBFITTING.json"
+            ]
+        },
+        "12": {
+            "elementComponents": [
+                "WEIGENDCOULOMBFITTING.json"
+            ]
+        },
+        "13": {
+            "elementComponents": [
+                "WEIGENDCOULOMBFITTING.json"
+            ]
+        },
+        "14": {
+            "elementComponents": [
+                "WEIGENDCOULOMBFITTING.json"
+            ]
+        },
+        "15": {
+            "elementComponents": [
+                "WEIGENDCOULOMBFITTING.json"
+            ]
+        },
+        "16": {
+            "elementComponents": [
+                "WEIGENDCOULOMBFITTING.json"
+            ]
+        },
+        "17": {
+            "elementComponents": [
+                "WEIGENDCOULOMBFITTING.json"
+            ]
+        },
+        "18": {
+            "elementComponents": [
+                "WEIGENDCOULOMBFITTING.json"
+            ]
+        },
+        "19": {
+            "elementComponents": [
+                "WEIGENDCOULOMBFITTING.json"
+            ]
+        },
+        "20": {
+            "elementComponents": [
+                "WEIGENDCOULOMBFITTING.json"
+            ]
+        },
+        "21": {
+            "elementComponents": [
+                "WEIGENDCOULOMBFITTING.json"
+            ]
+        },
+        "22": {
+            "elementComponents": [
+                "WEIGENDCOULOMBFITTING.json"
+            ]
+        },
+        "23": {
+            "elementComponents": [
+                "WEIGENDCOULOMBFITTING.json"
+            ]
+        },
+        "24": {
+            "elementComponents": [
+                "WEIGENDCOULOMBFITTING.json"
+            ]
+        },
+        "25": {
+            "elementComponents": [
+                "WEIGENDCOULOMBFITTING.json"
+            ]
+        },
+        "26": {
+            "elementComponents": [
+                "WEIGENDCOULOMBFITTING.json"
+            ]
+        },
+        "27": {
+            "elementComponents": [
+                "WEIGENDCOULOMBFITTING.json"
+            ]
+        },
+        "28": {
+            "elementComponents": [
+                "WEIGENDCOULOMBFITTING.json"
+            ]
+        },
+        "29": {
+            "elementComponents": [
+                "WEIGENDCOULOMBFITTING.json"
+            ]
+        },
+        "30": {
+            "elementComponents": [
+                "WEIGENDCOULOMBFITTING.json"
+            ]
+        },
+        "31": {
+            "elementComponents": [
+                "WEIGENDCOULOMBFITTING.json"
+            ]
+        },
+        "32": {
+            "elementComponents": [
+                "WEIGENDCOULOMBFITTING.json"
+            ]
+        },
+        "33": {
+            "elementComponents": [
+                "WEIGENDCOULOMBFITTING.json"
+            ]
+        },
+        "34": {
+            "elementComponents": [
+                "WEIGENDCOULOMBFITTING.json"
+            ]
+        },
+        "35": {
+            "elementComponents": [
+                "WEIGENDCOULOMBFITTING.json"
+            ]
+        },
+        "36": {
+            "elementComponents": [
+                "WEIGENDCOULOMBFITTING.json"
+            ]
+        },
+        "37": {
+            "elementComponents": [
+                "WEIGENDCOULOMBFITTING.json"
+            ]
+        },
+        "38": {
+            "elementComponents": [
+                "WEIGENDCOULOMBFITTING.json"
+            ]
+        },
+        "39": {
+            "elementComponents": [
+                "WEIGENDCOULOMBFITTING.json"
+            ]
+        },
+        "40": {
+            "elementComponents": [
+                "WEIGENDCOULOMBFITTING.json"
+            ]
+        },
+        "41": {
+            "elementComponents": [
+                "WEIGENDCOULOMBFITTING.json"
+            ]
+        },
+        "42": {
+            "elementComponents": [
+                "WEIGENDCOULOMBFITTING.json"
+            ]
+        },
+        "43": {
+            "elementComponents": [
+                "WEIGENDCOULOMBFITTING.json"
+            ]
+        },
+        "44": {
+            "elementComponents": [
+                "WEIGENDCOULOMBFITTING.json"
+            ]
+        },
+        "45": {
+            "elementComponents": [
+                "WEIGENDCOULOMBFITTING.json"
+            ]
+        },
+        "46": {
+            "elementComponents": [
+                "WEIGENDCOULOMBFITTING.json"
+            ]
+        },
+        "47": {
+            "elementComponents": [
+                "WEIGENDCOULOMBFITTING.json"
+            ]
+        },
+        "48": {
+            "elementComponents": [
+                "WEIGENDCOULOMBFITTING.json"
+            ]
+        },
+        "49": {
+            "elementComponents": [
+                "WEIGENDCOULOMBFITTING.json"
+            ]
+        },
+        "50": {
+            "elementComponents": [
+                "WEIGENDCOULOMBFITTING.json"
+            ]
+        },
+        "51": {
+            "elementComponents": [
+                "WEIGENDCOULOMBFITTING.json"
+            ]
+        },
+        "52": {
+            "elementComponents": [
+                "WEIGENDCOULOMBFITTING.json"
+            ]
+        },
+        "53": {
+            "elementComponents": [
+                "WEIGENDCOULOMBFITTING.json"
+            ]
+        },
+        "54": {
+            "elementComponents": [
+                "WEIGENDCOULOMBFITTING.json"
+            ]
+        },
+        "55": {
+            "elementComponents": [
+                "WEIGENDCOULOMBFITTING.json"
+            ]
+        },
+        "56": {
+            "elementComponents": [
+                "WEIGENDCOULOMBFITTING.json"
+            ]
+        },
+        "57": {
+            "elementComponents": [
+                "WEIGENDCOULOMBFITTING.json"
+            ]
+        },
+        "72": {
+            "elementComponents": [
+                "WEIGENDCOULOMBFITTING.json"
+            ]
+        },
+        "73": {
+            "elementComponents": [
+                "WEIGENDCOULOMBFITTING.json"
+            ]
+        },
+        "74": {
+            "elementComponents": [
+                "WEIGENDCOULOMBFITTING.json"
+            ]
+        },
+        "75": {
+            "elementComponents": [
+                "WEIGENDCOULOMBFITTING.json"
+            ]
+        },
+        "76": {
+            "elementComponents": [
+                "WEIGENDCOULOMBFITTING.json"
+            ]
+        },
+        "77": {
+            "elementComponents": [
+                "WEIGENDCOULOMBFITTING.json"
+            ]
+        },
+        "78": {
+            "elementComponents": [
+                "WEIGENDCOULOMBFITTING.json"
+            ]
+        },
+        "79": {
+            "elementComponents": [
+                "WEIGENDCOULOMBFITTING.json"
+            ]
+        },
+        "80": {
+            "elementComponents": [
+                "WEIGENDCOULOMBFITTING.json"
+            ]
+        },
+        "81": {
+            "elementComponents": [
+                "WEIGENDCOULOMBFITTING.json"
+            ]
+        },
+        "82": {
+            "elementComponents": [
+                "WEIGENDCOULOMBFITTING.json"
+            ]
+        },
+        "83": {
+            "elementComponents": [
+                "WEIGENDCOULOMBFITTING.json"
+            ]
+        },
+        "84": {
+            "elementComponents": [
+                "WEIGENDCOULOMBFITTING.json"
+            ]
+        },
+        "85": {
+            "elementComponents": [
+                "WEIGENDCOULOMBFITTING.json"
+            ]
+        },
+        "86": {
+            "elementComponents": [
+                "WEIGENDCOULOMBFITTING.json"
+            ]
+        }
+    }
+}

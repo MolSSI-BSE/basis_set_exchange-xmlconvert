@@ -1,0 +1,87 @@
+{
+    "molssi_bse_magic": 1,
+    "basisSetName": "GAMESS VTZ",
+    "basisSetDescription": "VTZ     Valence Triple Zeta: 3 Funct.'s/Valence AO",
+    "basisSetElements": {
+        "1": {
+            "elementComponents": [
+                "GAMESSVTZ.json"
+            ]
+        },
+        "4": {
+            "elementComponents": [
+                "GAMESSVTZ.json"
+            ]
+        },
+        "5": {
+            "elementComponents": [
+                "GAMESSVTZ.json"
+            ]
+        },
+        "6": {
+            "elementComponents": [
+                "GAMESSVTZ.json"
+            ]
+        },
+        "7": {
+            "elementComponents": [
+                "GAMESSVTZ.json"
+            ]
+        },
+        "8": {
+            "elementComponents": [
+                "GAMESSVTZ.json"
+            ]
+        },
+        "9": {
+            "elementComponents": [
+                "GAMESSVTZ.json"
+            ]
+        },
+        "10": {
+            "elementComponents": [
+                "GAMESSVTZ.json"
+            ]
+        },
+        "11": {
+            "elementComponents": [
+                "GAMESSVTZ.json"
+            ]
+        },
+        "12": {
+            "elementComponents": [
+                "GAMESSVTZ.json"
+            ]
+        },
+        "13": {
+            "elementComponents": [
+                "GAMESSVTZ.json"
+            ]
+        },
+        "14": {
+            "elementComponents": [
+                "GAMESSVTZ.json"
+            ]
+        },
+        "15": {
+            "elementComponents": [
+                "GAMESSVTZ.json"
+            ]
+        },
+        "16": {
+            "elementComponents": [
+                "GAMESSVTZ.json"
+            ]
+        },
+        "17": {
+            "elementComponents": [
+                "GAMESSVTZ.json"
+            ]
+        },
+        "18": {
+            "elementComponents": [
+                "GAMESSVTZ.json"
+            ]
+        }
+    }
+}

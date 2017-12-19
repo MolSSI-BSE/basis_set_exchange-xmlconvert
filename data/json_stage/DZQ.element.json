@@ -1,0 +1,371 @@
+{
+    "molssi_bse_magic": 1,
+    "basisSetName": "DZQ",
+    "basisSetDescription": "DZQ",
+    "basisSetElements": {
+        "3": {
+            "elementComponents": [
+                "SBKJC-ECP.json"
+            ]
+        },
+        "4": {
+            "elementComponents": [
+                "SBKJC-ECP.json"
+            ]
+        },
+        "5": {
+            "elementComponents": [
+                "SBKJC-ECP.json"
+            ]
+        },
+        "6": {
+            "elementComponents": [
+                "SBKJC-ECP.json"
+            ]
+        },
+        "7": {
+            "elementComponents": [
+                "SBKJC-ECP.json"
+            ]
+        },
+        "8": {
+            "elementComponents": [
+                "SBKJC-ECP.json"
+            ]
+        },
+        "9": {
+            "elementComponents": [
+                "SBKJC-ECP.json"
+            ]
+        },
+        "10": {
+            "elementComponents": [
+                "SBKJC-ECP.json"
+            ]
+        },
+        "11": {
+            "elementComponents": [
+                "SBKJC-ECP.json"
+            ]
+        },
+        "12": {
+            "elementComponents": [
+                "SBKJC-ECP.json"
+            ]
+        },
+        "13": {
+            "elementComponents": [
+                "SBKJC-ECP.json"
+            ]
+        },
+        "14": {
+            "elementComponents": [
+                "SBKJC-ECP.json"
+            ]
+        },
+        "15": {
+            "elementComponents": [
+                "SBKJC-ECP.json"
+            ]
+        },
+        "16": {
+            "elementComponents": [
+                "SBKJC-ECP.json"
+            ]
+        },
+        "17": {
+            "elementComponents": [
+                "SBKJC-ECP.json"
+            ]
+        },
+        "18": {
+            "elementComponents": [
+                "SBKJC-ECP.json"
+            ]
+        },
+        "19": {
+            "elementComponents": [
+                "SBKJC-ECP.json"
+            ]
+        },
+        "20": {
+            "elementComponents": [
+                "SBKJC-ECP.json"
+            ]
+        },
+        "21": {
+            "elementComponents": [
+                "SBKJC-ECP.json"
+            ]
+        },
+        "22": {
+            "elementComponents": [
+                "SBKJC-ECP.json"
+            ]
+        },
+        "23": {
+            "elementComponents": [
+                "SBKJC-ECP.json"
+            ]
+        },
+        "24": {
+            "elementComponents": [
+                "SBKJC-ECP.json"
+            ]
+        },
+        "25": {
+            "elementComponents": [
+                "SBKJC-ECP.json"
+            ]
+        },
+        "26": {
+            "elementComponents": [
+                "SBKJC-ECP.json"
+            ]
+        },
+        "27": {
+            "elementComponents": [
+                "SBKJC-ECP.json"
+            ]
+        },
+        "28": {
+            "elementComponents": [
+                "SBKJC-ECP.json"
+            ]
+        },
+        "29": {
+            "elementComponents": [
+                "SBKJC-ECP.json"
+            ]
+        },
+        "30": {
+            "elementComponents": [
+                "SBKJC-ECP.json"
+            ]
+        },
+        "31": {
+            "elementComponents": [
+                "SBKJC-ECP.json"
+            ]
+        },
+        "32": {
+            "elementComponents": [
+                "SBKJC-ECP.json"
+            ]
+        },
+        "33": {
+            "elementComponents": [
+                "SBKJC-ECP.json"
+            ]
+        },
+        "34": {
+            "elementComponents": [
+                "SBKJC-ECP.json"
+            ]
+        },
+        "35": {
+            "elementComponents": [
+                "SBKJC-ECP.json"
+            ]
+        },
+        "36": {
+            "elementComponents": [
+                "SBKJC-ECP.json"
+            ]
+        },
+        "37": {
+            "elementComponents": [
+                "SBKJC-ECP.json"
+            ]
+        },
+        "38": {
+            "elementComponents": [
+                "SBKJC-ECP.json"
+            ]
+        },
+        "39": {
+            "elementComponents": [
+                "DZQ.json",
+                "SBKJC-ECP.json"
+            ]
+        },
+        "40": {
+            "elementComponents": [
+                "DZQ.json",
+                "SBKJC-ECP.json"
+            ]
+        },
+        "41": {
+            "elementComponents": [
+                "DZQ.json",
+                "SBKJC-ECP.json"
+            ]
+        },
+        "42": {
+            "elementComponents": [
+                "DZQ.json",
+                "SBKJC-ECP.json"
+            ]
+        },
+        "43": {
+            "elementComponents": [
+                "DZQ.json",
+                "SBKJC-ECP.json"
+            ]
+        },
+        "44": {
+            "elementComponents": [
+                "DZQ.json",
+                "SBKJC-ECP.json"
+            ]
+        },
+        "45": {
+            "elementComponents": [
+                "DZQ.json",
+                "SBKJC-ECP.json"
+            ]
+        },
+        "46": {
+            "elementComponents": [
+                "DZQ.json",
+                "SBKJC-ECP.json"
+            ]
+        },
+        "47": {
+            "elementComponents": [
+                "DZQ.json",
+                "SBKJC-ECP.json"
+            ]
+        },
+        "48": {
+            "elementComponents": [
+                "SBKJC-ECP.json"
+            ]
+        },
+        "49": {
+            "elementComponents": [
+                "SBKJC-ECP.json"
+            ]
+        },
+        "50": {
+            "elementComponents": [
+                "SBKJC-ECP.json"
+            ]
+        },
+        "51": {
+            "elementComponents": [
+                "SBKJC-ECP.json"
+            ]
+        },
+        "52": {
+            "elementComponents": [
+                "SBKJC-ECP.json"
+            ]
+        },
+        "53": {
+            "elementComponents": [
+                "SBKJC-ECP.json"
+            ]
+        },
+        "54": {
+            "elementComponents": [
+                "SBKJC-ECP.json"
+            ]
+        },
+        "55": {
+            "elementComponents": [
+                "SBKJC-ECP.json"
+            ]
+        },
+        "56": {
+            "elementComponents": [
+                "SBKJC-ECP.json"
+            ]
+        },
+        "57": {
+            "elementComponents": [
+                "SBKJC-ECP.json"
+            ]
+        },
+        "58": {
+            "elementComponents": [
+                "SBKJC-ECP.json"
+            ]
+        },
+        "72": {
+            "elementComponents": [
+                "SBKJC-ECP.json"
+            ]
+        },
+        "73": {
+            "elementComponents": [
+                "SBKJC-ECP.json"
+            ]
+        },
+        "74": {
+            "elementComponents": [
+                "SBKJC-ECP.json"
+            ]
+        },
+        "75": {
+            "elementComponents": [
+                "SBKJC-ECP.json"
+            ]
+        },
+        "76": {
+            "elementComponents": [
+                "SBKJC-ECP.json"
+            ]
+        },
+        "77": {
+            "elementComponents": [
+                "SBKJC-ECP.json"
+            ]
+        },
+        "78": {
+            "elementComponents": [
+                "SBKJC-ECP.json"
+            ]
+        },
+        "79": {
+            "elementComponents": [
+                "SBKJC-ECP.json"
+            ]
+        },
+        "80": {
+            "elementComponents": [
+                "SBKJC-ECP.json"
+            ]
+        },
+        "81": {
+            "elementComponents": [
+                "SBKJC-ECP.json"
+            ]
+        },
+        "82": {
+            "elementComponents": [
+                "SBKJC-ECP.json"
+            ]
+        },
+        "83": {
+            "elementComponents": [
+                "SBKJC-ECP.json"
+            ]
+        },
+        "84": {
+            "elementComponents": [
+                "SBKJC-ECP.json"
+            ]
+        },
+        "85": {
+            "elementComponents": [
+                "SBKJC-ECP.json"
+            ]
+        },
+        "86": {
+            "elementComponents": [
+                "SBKJC-ECP.json"
+            ]
+        }
+    }
+}

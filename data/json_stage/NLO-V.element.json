@@ -1,0 +1,57 @@
+{
+    "molssi_bse_magic": 1,
+    "basisSetName": "NLO-V",
+    "basisSetDescription": "NLO-V",
+    "basisSetElements": {
+        "1": {
+            "elementComponents": [
+                "NLO-V.json"
+            ]
+        },
+        "5": {
+            "elementComponents": [
+                "NLO-V.json"
+            ]
+        },
+        "6": {
+            "elementComponents": [
+                "NLO-V.json"
+            ]
+        },
+        "7": {
+            "elementComponents": [
+                "NLO-V.json"
+            ]
+        },
+        "8": {
+            "elementComponents": [
+                "NLO-V.json"
+            ]
+        },
+        "9": {
+            "elementComponents": [
+                "NLO-V.json"
+            ]
+        },
+        "14": {
+            "elementComponents": [
+                "NLO-V.json"
+            ]
+        },
+        "15": {
+            "elementComponents": [
+                "NLO-V.json"
+            ]
+        },
+        "16": {
+            "elementComponents": [
+                "NLO-V.json"
+            ]
+        },
+        "17": {
+            "elementComponents": [
+                "NLO-V.json"
+            ]
+        }
+    }
+}

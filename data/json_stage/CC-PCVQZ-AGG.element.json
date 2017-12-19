@@ -1,0 +1,109 @@
+{
+    "molssi_bse_magic": 1,
+    "basisSetName": "cc-pCVQZ",
+    "basisSetDescription": "QZ3P    Quadruple Zeta + Polarization + Tight Core",
+    "basisSetElements": {
+        "3": {
+            "elementComponents": [
+                "CC-PVQZ.json",
+                "CC-PCVQZ.json"
+            ]
+        },
+        "4": {
+            "elementComponents": [
+                "CC-PVQZ.json",
+                "CC-PCVQZ.json"
+            ]
+        },
+        "5": {
+            "elementComponents": [
+                "CC-PVQZ.json",
+                "CC-PCVQZ.json"
+            ]
+        },
+        "6": {
+            "elementComponents": [
+                "CC-PVQZ.json",
+                "CC-PCVQZ.json"
+            ]
+        },
+        "7": {
+            "elementComponents": [
+                "CC-PVQZ.json",
+                "CC-PCVQZ.json"
+            ]
+        },
+        "8": {
+            "elementComponents": [
+                "CC-PVQZ.json",
+                "CC-PCVQZ.json"
+            ]
+        },
+        "9": {
+            "elementComponents": [
+                "CC-PVQZ.json",
+                "CC-PCVQZ.json"
+            ]
+        },
+        "10": {
+            "elementComponents": [
+                "CC-PVQZ.json",
+                "CC-PCVQZ.json"
+            ]
+        },
+        "11": {
+            "elementComponents": [
+                "CC-PVQZ.json",
+                "CC-PCVQZ.json"
+            ]
+        },
+        "12": {
+            "elementComponents": [
+                "CC-PVQZ.json",
+                "CC-PCVQZ.json"
+            ]
+        },
+        "13": {
+            "elementComponents": [
+                "CC-PVQZ.json",
+                "CC-PCVQZ.json"
+            ]
+        },
+        "14": {
+            "elementComponents": [
+                "CC-PVQZ.json",
+                "CC-PCVQZ.json"
+            ]
+        },
+        "15": {
+            "elementComponents": [
+                "CC-PVQZ.json",
+                "CC-PCVQZ.json"
+            ]
+        },
+        "16": {
+            "elementComponents": [
+                "CC-PVQZ.json",
+                "CC-PCVQZ.json"
+            ]
+        },
+        "17": {
+            "elementComponents": [
+                "CC-PVQZ.json",
+                "CC-PCVQZ.json"
+            ]
+        },
+        "18": {
+            "elementComponents": [
+                "CC-PVQZ.json",
+                "CC-PCVQZ.json"
+            ]
+        },
+        "20": {
+            "elementComponents": [
+                "CC-PVQZ.json",
+                "CC-PCVQZ.json"
+            ]
+        }
+    }
+}
