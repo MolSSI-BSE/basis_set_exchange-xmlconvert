@@ -4,9 +4,7 @@
     "basisSetDescription": "cc-pV(6+d)Z-RI",
     "basisSetElements": {
         "13": {
-            "elementReferences": [
-                "CC-PV6PDZ-RI-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -1003,9 +1001,7 @@
             ]
         },
         "14": {
-            "elementReferences": [
-                "CC-PV6PDZ-RI-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -2002,9 +1998,7 @@
             ]
         },
         "15": {
-            "elementReferences": [
-                "CC-PV6PDZ-RI-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -3001,9 +2995,7 @@
             ]
         },
         "16": {
-            "elementReferences": [
-                "CC-PV6PDZ-RI-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -4000,9 +3992,7 @@
             ]
         },
         "17": {
-            "elementReferences": [
-                "CC-PV6PDZ-RI-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -4999,9 +4989,7 @@
             ]
         },
         "18": {
-            "elementReferences": [
-                "CC-PV6PDZ-RI-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",

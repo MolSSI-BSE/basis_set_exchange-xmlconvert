@@ -4,9 +4,7 @@
     "basisSetDescription": "V5Z4P   Valence Quintuple Zeta + Polarization on All Atoms",
     "basisSetElements": {
         "13": {
-            "elementReferences": [
-                "CC-PV5Z_PLUS_D-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -425,9 +423,7 @@
             ]
         },
         "14": {
-            "elementReferences": [
-                "CC-PV5Z_PLUS_D-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -846,9 +842,7 @@
             ]
         },
         "15": {
-            "elementReferences": [
-                "CC-PV5Z_PLUS_D-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -1267,9 +1261,7 @@
             ]
         },
         "16": {
-            "elementReferences": [
-                "CC-PV5Z_PLUS_D-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -1688,9 +1680,7 @@
             ]
         },
         "17": {
-            "elementReferences": [
-                "CC-PV5Z_PLUS_D-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -2109,9 +2099,7 @@
             ]
         },
         "18": {
-            "elementReferences": [
-                "CC-PV5Z_PLUS_D-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",

@@ -4,9 +4,7 @@
     "basisSetDescription": "Core/valence Functions (cc-pCVTZ(old))",
     "basisSetElements": {
         "13": {
-            "elementReferences": [
-                "CC-PCVTZ_OLD-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -123,9 +121,7 @@
             ]
         },
         "14": {
-            "elementReferences": [
-                "CC-PCVTZ_OLD-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -242,9 +238,7 @@
             ]
         },
         "15": {
-            "elementReferences": [
-                "CC-PCVTZ_OLD-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -361,9 +355,7 @@
             ]
         },
         "16": {
-            "elementReferences": [
-                "CC-PCVTZ_OLD-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -480,9 +472,7 @@
             ]
         },
         "17": {
-            "elementReferences": [
-                "CC-PCVTZ_OLD-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -599,9 +589,7 @@
             ]
         },
         "18": {
-            "elementReferences": [
-                "CC-PCVTZ_OLD-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",

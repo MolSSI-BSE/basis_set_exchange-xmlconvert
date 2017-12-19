@@ -5,7 +5,8 @@
     "basisSetElements": {
         "21": {
             "elementReferences": [
-                "LANL08P-BS-REF"
+                "hay:1985a",
+                "roy:2008a"
             ],
             "elementElectronShells": [
                 {
@@ -268,7 +269,8 @@
         },
         "22": {
             "elementReferences": [
-                "LANL08P-BS-REF"
+                "hay:1985a",
+                "roy:2008a"
             ],
             "elementElectronShells": [
                 {
@@ -531,7 +533,8 @@
         },
         "23": {
             "elementReferences": [
-                "LANL08P-BS-REF"
+                "hay:1985a",
+                "roy:2008a"
             ],
             "elementElectronShells": [
                 {
@@ -794,7 +797,8 @@
         },
         "24": {
             "elementReferences": [
-                "LANL08P-BS-REF"
+                "hay:1985a",
+                "roy:2008a"
             ],
             "elementElectronShells": [
                 {
@@ -1057,7 +1061,8 @@
         },
         "25": {
             "elementReferences": [
-                "LANL08P-BS-REF"
+                "hay:1985a",
+                "roy:2008a"
             ],
             "elementElectronShells": [
                 {
@@ -1320,7 +1325,8 @@
         },
         "26": {
             "elementReferences": [
-                "LANL08P-BS-REF"
+                "hay:1985a",
+                "roy:2008a"
             ],
             "elementElectronShells": [
                 {
@@ -1583,7 +1589,8 @@
         },
         "27": {
             "elementReferences": [
-                "LANL08P-BS-REF"
+                "hay:1985a",
+                "roy:2008a"
             ],
             "elementElectronShells": [
                 {
@@ -1846,7 +1853,8 @@
         },
         "28": {
             "elementReferences": [
-                "LANL08P-BS-REF"
+                "hay:1985a",
+                "roy:2008a"
             ],
             "elementElectronShells": [
                 {
@@ -2109,7 +2117,8 @@
         },
         "29": {
             "elementReferences": [
-                "LANL08P-BS-REF"
+                "hay:1985a",
+                "roy:2008a"
             ],
             "elementElectronShells": [
                 {
@@ -2372,7 +2381,8 @@
         },
         "30": {
             "elementReferences": [
-                "LANL08P-BS-REF"
+                "hay:1985a",
+                "roy:2008a"
             ],
             "elementElectronShells": [
                 {

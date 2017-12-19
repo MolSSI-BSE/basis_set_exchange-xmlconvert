@@ -1,0 +1,108 @@
+{
+    "citations": [
+        {
+            "Z": [
+                21,
+                22,
+                23,
+                24,
+                25,
+                26,
+                27,
+                29,
+                30
+            ],
+            "article": "hurley:1986a",
+            "original": "M.M. Hurley, J. Chem. Phys., 84, 6840 (1986)."
+        },
+        {
+            "Z": [
+                21,
+                22,
+                23,
+                24,
+                25,
+                26,
+                27,
+                39,
+                40,
+                41,
+                42,
+                43,
+                44,
+                45,
+                46,
+                47,
+                48
+            ],
+            "article": "lajohn:1987a",
+            "original": "L.A. LaJohn, J. Chem. Phys., 87, 2812 (1987)."
+        },
+        {
+            "Z": [
+                57,
+                72,
+                73,
+                74,
+                75,
+                76,
+                77,
+                78,
+                79,
+                80,
+                81,
+                82,
+                83,
+                84,
+                85,
+                86
+            ],
+            "article": "ross:1990a",
+            "original": "R.B. Ross, W.C. Ermler, P.A. Christiansen,  J. Chem. Phys. 93, 6654 (1990)."
+        },
+        {
+            "Z": [
+                104,
+                105,
+                106,
+                107,
+                108,
+                109,
+                110,
+                111,
+                112,
+                113,
+                114,
+                115,
+                116,
+                117,
+                118
+            ],
+            "article": "nash:1997a",
+            "original": "C.S. NASH, B.E. BURSTEN, W.C. ERMLER, J. Chem. Phys., 106, 5133 (1997)"
+        },
+        {
+            "Z": [
+                104,
+                105,
+                106,
+                107,
+                108,
+                109,
+                110,
+                111,
+                112,
+                113,
+                114,
+                115,
+                116,
+                117,
+                118
+            ],
+            "article": "nash:1999a",
+            "original": "C.S. NASH, B.E. BURSTEN, W.C. ERMLER, J. Chem. Phys., 111, 2347 (1999)  "
+        }
+    ],
+    "original": "Elements                       References\n---------                       ----------\nSc - Co:    M.M. Hurley, J. Chem. Phys., 84, 6840 (1986).\nNi          L.A. LaJohn, J. Chem. Phys., 87, 2812 (1987).\nCu - Zn:    M.M. Hurley, J. Chem. Phys., 84, 6840 (1986).\nY - Cd:     L.A. LaJohn, J. Chem. Phys., 87, 2812 (1987).\nLa, Hf-Rn:  R.B. Ross, W.C. Ermler, P.A. Christiansen,  J. Chem. Phys. 93, 6654 (1990).\nRf - Uuo:C.S. NASH, B.E. BURSTEN, W.C. ERMLER, J. Chem. Phys., 106, 5133 (1997)\nRf - Uuo:C.S. NASH, B.E. BURSTEN, W.C. ERMLER, J. Chem. Phys., 111, 2347 (1999)\n\n\n",
+    "valid": true
+}

@@ -1,0 +1,27 @@
+{
+    "citations": [
+        {
+            "Z": [
+                57,
+                58,
+                59,
+                60,
+                61,
+                62,
+                63,
+                64,
+                65,
+                66,
+                67,
+                68,
+                69,
+                70,
+                71
+            ],
+            "article": "dolg:2011a",
+            "original": "Michael Dolg, Segmented contracted Douglas-Kroll-Hess adapted basis sets for lanthanides, Journal of Chemical Theory and Computation 7, 3131 (2011).  "
+        }
+    ],
+    "original": "Elements                             References\n--------                             ----------\nLa Ce Pr Nd Pm Sm Eu Gd Tb Dy Ho Er Tm Yb Lu: Michael Dolg, Segmented contracted Douglas-Kroll-Hess adapted basis sets for lanthanides, Journal of Chemical Theory and Computation 7, 3131 (2011).\n\n\n",
+    "valid": true
+}

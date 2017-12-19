@@ -5,7 +5,8 @@
     "basisSetElements": {
         "1": {
             "elementReferences": [
-                "SADLEJP-BS-REF"
+                "casida:1998a",
+                "sadlej:1991b"
             ],
             "elementElectronShells": [
                 {
@@ -120,7 +121,8 @@
         },
         "6": {
             "elementReferences": [
-                "SADLEJP-BS-REF"
+                "casida:1998a",
+                "sadlej:1991b"
             ],
             "elementElectronShells": [
                 {
@@ -342,7 +344,8 @@
         },
         "7": {
             "elementReferences": [
-                "SADLEJP-BS-REF"
+                "casida:1998a",
+                "sadlej:1991b"
             ],
             "elementElectronShells": [
                 {
@@ -564,7 +567,8 @@
         },
         "8": {
             "elementReferences": [
-                "SADLEJP-BS-REF"
+                "casida:1998a",
+                "sadlej:1991b"
             ],
             "elementElectronShells": [
                 {

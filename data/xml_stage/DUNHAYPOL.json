@@ -4,9 +4,7 @@
     "basisSetDescription": "1P      Polarization Functions",
     "basisSetElements": {
         "1": {
-            "elementReferences": [
-                "DUNHAYPOL-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -27,9 +25,7 @@
             ]
         },
         "2": {
-            "elementReferences": [
-                "DUNHAYPOL-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -50,9 +46,7 @@
             ]
         },
         "3": {
-            "elementReferences": [
-                "DUNHAYPOL-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -73,9 +67,7 @@
             ]
         },
         "4": {
-            "elementReferences": [
-                "DUNHAYPOL-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -96,9 +88,7 @@
             ]
         },
         "5": {
-            "elementReferences": [
-                "DUNHAYPOL-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -119,9 +109,7 @@
             ]
         },
         "6": {
-            "elementReferences": [
-                "DUNHAYPOL-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -142,9 +130,7 @@
             ]
         },
         "7": {
-            "elementReferences": [
-                "DUNHAYPOL-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -165,9 +151,7 @@
             ]
         },
         "8": {
-            "elementReferences": [
-                "DUNHAYPOL-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -188,9 +172,7 @@
             ]
         },
         "9": {
-            "elementReferences": [
-                "DUNHAYPOL-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -211,9 +193,7 @@
             ]
         },
         "10": {
-            "elementReferences": [
-                "DUNHAYPOL-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -234,9 +214,7 @@
             ]
         },
         "13": {
-            "elementReferences": [
-                "DUNHAYPOL-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -258,7 +236,7 @@
         },
         "14": {
             "elementReferences": [
-                "DUNHAYPOL-BS-REF"
+                "magnusson:1985a"
             ],
             "elementElectronShells": [
                 {
@@ -281,7 +259,7 @@
         },
         "15": {
             "elementReferences": [
-                "DUNHAYPOL-BS-REF"
+                "magnusson:1985a"
             ],
             "elementElectronShells": [
                 {
@@ -304,7 +282,7 @@
         },
         "16": {
             "elementReferences": [
-                "DUNHAYPOL-BS-REF"
+                "magnusson:1985a"
             ],
             "elementElectronShells": [
                 {
@@ -327,7 +305,7 @@
         },
         "17": {
             "elementReferences": [
-                "DUNHAYPOL-BS-REF"
+                "magnusson:1985a"
             ],
             "elementElectronShells": [
                 {

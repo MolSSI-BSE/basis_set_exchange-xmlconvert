@@ -5,7 +5,7 @@
     "basisSetElements": {
         "31": {
             "elementReferences": [
-                "SDB-CC-PVQZ-BS-REF"
+                "martin:2001a"
             ],
             "elementElectronShells": [
                 {
@@ -240,7 +240,7 @@
         },
         "32": {
             "elementReferences": [
-                "SDB-CC-PVQZ-BS-REF"
+                "martin:2001a"
             ],
             "elementElectronShells": [
                 {
@@ -475,7 +475,7 @@
         },
         "33": {
             "elementReferences": [
-                "SDB-CC-PVQZ-BS-REF"
+                "martin:2001a"
             ],
             "elementElectronShells": [
                 {
@@ -710,7 +710,7 @@
         },
         "34": {
             "elementReferences": [
-                "SDB-CC-PVQZ-BS-REF"
+                "martin:2001a"
             ],
             "elementElectronShells": [
                 {
@@ -945,7 +945,7 @@
         },
         "35": {
             "elementReferences": [
-                "SDB-CC-PVQZ-BS-REF"
+                "martin:2001a"
             ],
             "elementElectronShells": [
                 {
@@ -1180,7 +1180,7 @@
         },
         "36": {
             "elementReferences": [
-                "SDB-CC-PVQZ-BS-REF"
+                "martin:2001a"
             ],
             "elementElectronShells": [
                 {
@@ -1414,9 +1414,7 @@
             ]
         },
         "49": {
-            "elementReferences": [
-                "SDB-CC-PVQZ-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -1649,9 +1647,7 @@
             ]
         },
         "50": {
-            "elementReferences": [
-                "SDB-CC-PVQZ-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -1884,9 +1880,7 @@
             ]
         },
         "51": {
-            "elementReferences": [
-                "SDB-CC-PVQZ-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -2119,9 +2113,7 @@
             ]
         },
         "52": {
-            "elementReferences": [
-                "SDB-CC-PVQZ-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -2364,9 +2356,7 @@
             ]
         },
         "53": {
-            "elementReferences": [
-                "SDB-CC-PVQZ-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -2599,9 +2589,7 @@
             ]
         },
         "54": {
-            "elementReferences": [
-                "SDB-CC-PVQZ-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",

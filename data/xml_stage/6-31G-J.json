@@ -5,7 +5,8 @@
     "basisSetElements": {
         "1": {
             "elementReferences": [
-                "6-31G-J-BS-REF"
+                "hehre:1972a",
+                "kjaer:2011a"
             ],
             "elementElectronShells": [
                 {
@@ -67,7 +68,8 @@
         },
         "6": {
             "elementReferences": [
-                "6-31G-J-BS-REF"
+                "hehre:1972a",
+                "kjaer:2011a"
             ],
             "elementElectronShells": [
                 {
@@ -220,7 +222,8 @@
         },
         "7": {
             "elementReferences": [
-                "6-31G-J-BS-REF"
+                "hehre:1972a",
+                "kjaer:2011a"
             ],
             "elementElectronShells": [
                 {
@@ -373,7 +376,8 @@
         },
         "8": {
             "elementReferences": [
-                "6-31G-J-BS-REF"
+                "hehre:1972a",
+                "kjaer:2011a"
             ],
             "elementElectronShells": [
                 {

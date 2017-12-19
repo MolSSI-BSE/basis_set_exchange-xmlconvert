@@ -5,7 +5,7 @@
     "basisSetElements": {
         "1": {
             "elementReferences": [
-                "AHLRICHS_VDZ-BS-REF"
+                "schafer:1992a"
             ],
             "elementElectronShells": [
                 {
@@ -48,7 +48,7 @@
         },
         "2": {
             "elementReferences": [
-                "AHLRICHS_VDZ-BS-REF"
+                "schafer:1992a"
             ],
             "elementElectronShells": [
                 {
@@ -91,7 +91,7 @@
         },
         "3": {
             "elementReferences": [
-                "AHLRICHS_VDZ-BS-REF"
+                "schafer:1992a"
             ],
             "elementElectronShells": [
                 {
@@ -154,7 +154,7 @@
         },
         "4": {
             "elementReferences": [
-                "AHLRICHS_VDZ-BS-REF"
+                "schafer:1992a"
             ],
             "elementElectronShells": [
                 {
@@ -217,7 +217,7 @@
         },
         "5": {
             "elementReferences": [
-                "AHLRICHS_VDZ-BS-REF"
+                "schafer:1992a"
             ],
             "elementElectronShells": [
                 {
@@ -316,7 +316,7 @@
         },
         "6": {
             "elementReferences": [
-                "AHLRICHS_VDZ-BS-REF"
+                "schafer:1992a"
             ],
             "elementElectronShells": [
                 {
@@ -415,7 +415,7 @@
         },
         "7": {
             "elementReferences": [
-                "AHLRICHS_VDZ-BS-REF"
+                "schafer:1992a"
             ],
             "elementElectronShells": [
                 {
@@ -514,7 +514,7 @@
         },
         "8": {
             "elementReferences": [
-                "AHLRICHS_VDZ-BS-REF"
+                "schafer:1992a"
             ],
             "elementElectronShells": [
                 {
@@ -613,7 +613,7 @@
         },
         "9": {
             "elementReferences": [
-                "AHLRICHS_VDZ-BS-REF"
+                "schafer:1992a"
             ],
             "elementElectronShells": [
                 {
@@ -712,7 +712,7 @@
         },
         "10": {
             "elementReferences": [
-                "AHLRICHS_VDZ-BS-REF"
+                "schafer:1992a"
             ],
             "elementElectronShells": [
                 {
@@ -811,7 +811,7 @@
         },
         "11": {
             "elementReferences": [
-                "AHLRICHS_VDZ-BS-REF"
+                "schafer:1992a"
             ],
             "elementElectronShells": [
                 {
@@ -918,7 +918,7 @@
         },
         "12": {
             "elementReferences": [
-                "AHLRICHS_VDZ-BS-REF"
+                "schafer:1992a"
             ],
             "elementElectronShells": [
                 {
@@ -1025,7 +1025,7 @@
         },
         "13": {
             "elementReferences": [
-                "AHLRICHS_VDZ-BS-REF"
+                "schafer:1992a"
             ],
             "elementElectronShells": [
                 {
@@ -1164,7 +1164,7 @@
         },
         "14": {
             "elementReferences": [
-                "AHLRICHS_VDZ-BS-REF"
+                "schafer:1992a"
             ],
             "elementElectronShells": [
                 {
@@ -1303,7 +1303,7 @@
         },
         "15": {
             "elementReferences": [
-                "AHLRICHS_VDZ-BS-REF"
+                "schafer:1992a"
             ],
             "elementElectronShells": [
                 {
@@ -1442,7 +1442,7 @@
         },
         "16": {
             "elementReferences": [
-                "AHLRICHS_VDZ-BS-REF"
+                "schafer:1992a"
             ],
             "elementElectronShells": [
                 {
@@ -1581,7 +1581,7 @@
         },
         "17": {
             "elementReferences": [
-                "AHLRICHS_VDZ-BS-REF"
+                "schafer:1992a"
             ],
             "elementElectronShells": [
                 {
@@ -1720,7 +1720,7 @@
         },
         "18": {
             "elementReferences": [
-                "AHLRICHS_VDZ-BS-REF"
+                "schafer:1992a"
             ],
             "elementElectronShells": [
                 {
@@ -1859,7 +1859,7 @@
         },
         "19": {
             "elementReferences": [
-                "AHLRICHS_VDZ-BS-REF"
+                "schafer:1992a"
             ],
             "elementElectronShells": [
                 {
@@ -2008,7 +2008,7 @@
         },
         "20": {
             "elementReferences": [
-                "AHLRICHS_VDZ-BS-REF"
+                "schafer:1992a"
             ],
             "elementElectronShells": [
                 {
@@ -2157,7 +2157,7 @@
         },
         "21": {
             "elementReferences": [
-                "AHLRICHS_VDZ-BS-REF"
+                "schafer:1992a"
             ],
             "elementElectronShells": [
                 {
@@ -2344,7 +2344,7 @@
         },
         "22": {
             "elementReferences": [
-                "AHLRICHS_VDZ-BS-REF"
+                "schafer:1992a"
             ],
             "elementElectronShells": [
                 {
@@ -2531,7 +2531,7 @@
         },
         "23": {
             "elementReferences": [
-                "AHLRICHS_VDZ-BS-REF"
+                "schafer:1992a"
             ],
             "elementElectronShells": [
                 {
@@ -2718,7 +2718,7 @@
         },
         "24": {
             "elementReferences": [
-                "AHLRICHS_VDZ-BS-REF"
+                "schafer:1992a"
             ],
             "elementElectronShells": [
                 {
@@ -2905,7 +2905,7 @@
         },
         "25": {
             "elementReferences": [
-                "AHLRICHS_VDZ-BS-REF"
+                "schafer:1992a"
             ],
             "elementElectronShells": [
                 {
@@ -3092,7 +3092,7 @@
         },
         "26": {
             "elementReferences": [
-                "AHLRICHS_VDZ-BS-REF"
+                "schafer:1992a"
             ],
             "elementElectronShells": [
                 {
@@ -3279,7 +3279,7 @@
         },
         "27": {
             "elementReferences": [
-                "AHLRICHS_VDZ-BS-REF"
+                "schafer:1992a"
             ],
             "elementElectronShells": [
                 {
@@ -3466,7 +3466,7 @@
         },
         "28": {
             "elementReferences": [
-                "AHLRICHS_VDZ-BS-REF"
+                "schafer:1992a"
             ],
             "elementElectronShells": [
                 {
@@ -3653,7 +3653,7 @@
         },
         "29": {
             "elementReferences": [
-                "AHLRICHS_VDZ-BS-REF"
+                "schafer:1992a"
             ],
             "elementElectronShells": [
                 {
@@ -3840,7 +3840,7 @@
         },
         "30": {
             "elementReferences": [
-                "AHLRICHS_VDZ-BS-REF"
+                "schafer:1992a"
             ],
             "elementElectronShells": [
                 {
@@ -4027,7 +4027,7 @@
         },
         "31": {
             "elementReferences": [
-                "AHLRICHS_VDZ-BS-REF"
+                "schafer:1992a"
             ],
             "elementElectronShells": [
                 {
@@ -4246,7 +4246,7 @@
         },
         "32": {
             "elementReferences": [
-                "AHLRICHS_VDZ-BS-REF"
+                "schafer:1992a"
             ],
             "elementElectronShells": [
                 {
@@ -4465,7 +4465,7 @@
         },
         "33": {
             "elementReferences": [
-                "AHLRICHS_VDZ-BS-REF"
+                "schafer:1992a"
             ],
             "elementElectronShells": [
                 {
@@ -4684,7 +4684,7 @@
         },
         "34": {
             "elementReferences": [
-                "AHLRICHS_VDZ-BS-REF"
+                "schafer:1992a"
             ],
             "elementElectronShells": [
                 {
@@ -4903,7 +4903,7 @@
         },
         "35": {
             "elementReferences": [
-                "AHLRICHS_VDZ-BS-REF"
+                "schafer:1992a"
             ],
             "elementElectronShells": [
                 {
@@ -5122,7 +5122,7 @@
         },
         "36": {
             "elementReferences": [
-                "AHLRICHS_VDZ-BS-REF"
+                "schafer:1992a"
             ],
             "elementElectronShells": [
                 {

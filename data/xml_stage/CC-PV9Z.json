@@ -4,9 +4,7 @@
     "basisSetDescription": "V7Z6P   Valence Octuple Zeta + Polarization on All Atoms",
     "basisSetElements": {
         "10": {
-            "elementReferences": [
-                "CC-PV9Z-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",

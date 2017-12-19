@@ -4,9 +4,7 @@
     "basisSetDescription": "2T      Tight Functions",
     "basisSetElements": {
         "5": {
-            "elementReferences": [
-                "CC-PWCVTZ-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -91,9 +89,7 @@
             ]
         },
         "6": {
-            "elementReferences": [
-                "CC-PWCVTZ-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -178,9 +174,7 @@
             ]
         },
         "7": {
-            "elementReferences": [
-                "CC-PWCVTZ-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -265,9 +259,7 @@
             ]
         },
         "8": {
-            "elementReferences": [
-                "CC-PWCVTZ-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -352,9 +344,7 @@
             ]
         },
         "9": {
-            "elementReferences": [
-                "CC-PWCVTZ-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -439,9 +429,7 @@
             ]
         },
         "10": {
-            "elementReferences": [
-                "CC-PWCVTZ-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -526,9 +514,7 @@
             ]
         },
         "13": {
-            "elementReferences": [
-                "CC-PWCVTZ-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -645,9 +631,7 @@
             ]
         },
         "14": {
-            "elementReferences": [
-                "CC-PWCVTZ-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -764,9 +748,7 @@
             ]
         },
         "15": {
-            "elementReferences": [
-                "CC-PWCVTZ-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -883,9 +865,7 @@
             ]
         },
         "16": {
-            "elementReferences": [
-                "CC-PWCVTZ-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -1002,9 +982,7 @@
             ]
         },
         "17": {
-            "elementReferences": [
-                "CC-PWCVTZ-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -1121,9 +1099,7 @@
             ]
         },
         "18": {
-            "elementReferences": [
-                "CC-PWCVTZ-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",

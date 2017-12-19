@@ -4,9 +4,7 @@
     "basisSetDescription": "QZ      Quadruple Zeta Basis Set designed for an ECP",
     "basisSetElements": {
         "57": {
-            "elementReferences": [
-                "STUTTGART_RSC-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -533,9 +531,7 @@
             ]
         },
         "58": {
-            "elementReferences": [
-                "STUTTGART_RSC-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -1062,9 +1058,7 @@
             ]
         },
         "59": {
-            "elementReferences": [
-                "STUTTGART_RSC-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -1591,9 +1585,7 @@
             ]
         },
         "60": {
-            "elementReferences": [
-                "STUTTGART_RSC-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -2120,9 +2112,7 @@
             ]
         },
         "61": {
-            "elementReferences": [
-                "STUTTGART_RSC-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -2649,9 +2639,7 @@
             ]
         },
         "62": {
-            "elementReferences": [
-                "STUTTGART_RSC-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -3178,9 +3166,7 @@
             ]
         },
         "63": {
-            "elementReferences": [
-                "STUTTGART_RSC-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -3707,9 +3693,7 @@
             ]
         },
         "64": {
-            "elementReferences": [
-                "STUTTGART_RSC-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -4236,9 +4220,7 @@
             ]
         },
         "65": {
-            "elementReferences": [
-                "STUTTGART_RSC-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -4765,9 +4747,7 @@
             ]
         },
         "66": {
-            "elementReferences": [
-                "STUTTGART_RSC-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -5294,9 +5274,7 @@
             ]
         },
         "67": {
-            "elementReferences": [
-                "STUTTGART_RSC-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -5823,9 +5801,7 @@
             ]
         },
         "68": {
-            "elementReferences": [
-                "STUTTGART_RSC-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -6352,9 +6328,7 @@
             ]
         },
         "69": {
-            "elementReferences": [
-                "STUTTGART_RSC-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -6881,9 +6855,7 @@
             ]
         },
         "70": {
-            "elementReferences": [
-                "STUTTGART_RSC-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -7410,9 +7382,7 @@
             ]
         },
         "71": {
-            "elementReferences": [
-                "STUTTGART_RSC-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",

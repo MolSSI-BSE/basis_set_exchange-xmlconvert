@@ -5,7 +5,7 @@
     "basisSetElements": {
         "1": {
             "elementReferences": [
-                "DAUG-CC-PV6Z-BS-REF"
+                "woon:1994a"
             ],
             "elementElectronShells": [
                 {
@@ -107,9 +107,7 @@
             ]
         },
         "5": {
-            "elementReferences": [
-                "DAUG-CC-PV6Z-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -210,9 +208,7 @@
             ]
         },
         "6": {
-            "elementReferences": [
-                "DAUG-CC-PV6Z-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -313,9 +309,7 @@
             ]
         },
         "7": {
-            "elementReferences": [
-                "DAUG-CC-PV6Z-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -416,9 +410,7 @@
             ]
         },
         "8": {
-            "elementReferences": [
-                "DAUG-CC-PV6Z-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",

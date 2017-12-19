@@ -5,7 +5,9 @@
     "basisSetElements": {
         "13": {
             "elementReferences": [
-                "AUG-CC-PCVTPDZ-BS-REF"
+                "woon:1993a",
+                "yockel:2008a",
+                "peterson:2002a"
             ],
             "elementElectronShells": [
                 {
@@ -420,7 +422,9 @@
         },
         "14": {
             "elementReferences": [
-                "AUG-CC-PCVTPDZ-BS-REF"
+                "woon:1993a",
+                "yockel:2008a",
+                "peterson:2002a"
             ],
             "elementElectronShells": [
                 {
@@ -835,7 +839,9 @@
         },
         "15": {
             "elementReferences": [
-                "AUG-CC-PCVTPDZ-BS-REF"
+                "woon:1993a",
+                "yockel:2008a",
+                "peterson:2002a"
             ],
             "elementElectronShells": [
                 {
@@ -1250,7 +1256,9 @@
         },
         "16": {
             "elementReferences": [
-                "AUG-CC-PCVTPDZ-BS-REF"
+                "woon:1993a",
+                "yockel:2008a",
+                "peterson:2002a"
             ],
             "elementElectronShells": [
                 {
@@ -1665,7 +1673,9 @@
         },
         "17": {
             "elementReferences": [
-                "AUG-CC-PCVTPDZ-BS-REF"
+                "woon:1993a",
+                "yockel:2008a",
+                "peterson:2002a"
             ],
             "elementElectronShells": [
                 {

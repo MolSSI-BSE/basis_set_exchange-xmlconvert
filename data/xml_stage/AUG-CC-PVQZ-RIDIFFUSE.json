@@ -5,7 +5,7 @@
     "basisSetElements": {
         "1": {
             "elementReferences": [
-                "AUG-CC-PVQZ-RIDIFFUSE-BS-REF"
+                "weigend:2002a"
             ],
             "elementElectronShells": [
                 {
@@ -92,7 +92,7 @@
         },
         "2": {
             "elementReferences": [
-                "AUG-CC-PVQZ-RIDIFFUSE-BS-REF"
+                "weigend:2002a"
             ],
             "elementElectronShells": [
                 {
@@ -163,7 +163,7 @@
         },
         "5": {
             "elementReferences": [
-                "AUG-CC-PVQZ-RIDIFFUSE-BS-REF"
+                "weigend:2002a"
             ],
             "elementElectronShells": [
                 {
@@ -266,7 +266,7 @@
         },
         "6": {
             "elementReferences": [
-                "AUG-CC-PVQZ-RIDIFFUSE-BS-REF"
+                "weigend:2002a"
             ],
             "elementElectronShells": [
                 {
@@ -369,7 +369,7 @@
         },
         "7": {
             "elementReferences": [
-                "AUG-CC-PVQZ-RIDIFFUSE-BS-REF"
+                "weigend:2002a"
             ],
             "elementElectronShells": [
                 {
@@ -472,7 +472,7 @@
         },
         "8": {
             "elementReferences": [
-                "AUG-CC-PVQZ-RIDIFFUSE-BS-REF"
+                "weigend:2002a"
             ],
             "elementElectronShells": [
                 {
@@ -575,7 +575,7 @@
         },
         "9": {
             "elementReferences": [
-                "AUG-CC-PVQZ-RIDIFFUSE-BS-REF"
+                "weigend:2002a"
             ],
             "elementElectronShells": [
                 {
@@ -678,7 +678,7 @@
         },
         "10": {
             "elementReferences": [
-                "AUG-CC-PVQZ-RIDIFFUSE-BS-REF"
+                "weigend:2002a"
             ],
             "elementElectronShells": [
                 {
@@ -781,7 +781,7 @@
         },
         "13": {
             "elementReferences": [
-                "AUG-CC-PVQZ-RIDIFFUSE-BS-REF"
+                "weigend:2002a"
             ],
             "elementElectronShells": [
                 {
@@ -884,7 +884,7 @@
         },
         "14": {
             "elementReferences": [
-                "AUG-CC-PVQZ-RIDIFFUSE-BS-REF"
+                "weigend:2002a"
             ],
             "elementElectronShells": [
                 {
@@ -987,7 +987,7 @@
         },
         "15": {
             "elementReferences": [
-                "AUG-CC-PVQZ-RIDIFFUSE-BS-REF"
+                "weigend:2002a"
             ],
             "elementElectronShells": [
                 {
@@ -1090,7 +1090,7 @@
         },
         "16": {
             "elementReferences": [
-                "AUG-CC-PVQZ-RIDIFFUSE-BS-REF"
+                "weigend:2002a"
             ],
             "elementElectronShells": [
                 {
@@ -1193,7 +1193,7 @@
         },
         "17": {
             "elementReferences": [
-                "AUG-CC-PVQZ-RIDIFFUSE-BS-REF"
+                "weigend:2002a"
             ],
             "elementElectronShells": [
                 {
@@ -1296,7 +1296,7 @@
         },
         "18": {
             "elementReferences": [
-                "AUG-CC-PVQZ-RIDIFFUSE-BS-REF"
+                "weigend:2002a"
             ],
             "elementElectronShells": [
                 {
@@ -1399,7 +1399,7 @@
         },
         "31": {
             "elementReferences": [
-                "AUG-CC-PVQZ-RIDIFFUSE-BS-REF"
+                "weigend:2002a"
             ],
             "elementElectronShells": [
                 {
@@ -1502,7 +1502,7 @@
         },
         "32": {
             "elementReferences": [
-                "AUG-CC-PVQZ-RIDIFFUSE-BS-REF"
+                "weigend:2002a"
             ],
             "elementElectronShells": [
                 {
@@ -1605,7 +1605,7 @@
         },
         "33": {
             "elementReferences": [
-                "AUG-CC-PVQZ-RIDIFFUSE-BS-REF"
+                "weigend:2002a"
             ],
             "elementElectronShells": [
                 {
@@ -1708,7 +1708,7 @@
         },
         "34": {
             "elementReferences": [
-                "AUG-CC-PVQZ-RIDIFFUSE-BS-REF"
+                "weigend:2002a"
             ],
             "elementElectronShells": [
                 {
@@ -1811,7 +1811,7 @@
         },
         "35": {
             "elementReferences": [
-                "AUG-CC-PVQZ-RIDIFFUSE-BS-REF"
+                "weigend:2002a"
             ],
             "elementElectronShells": [
                 {
@@ -1914,7 +1914,7 @@
         },
         "36": {
             "elementReferences": [
-                "AUG-CC-PVQZ-RIDIFFUSE-BS-REF"
+                "weigend:2002a"
             ],
             "elementElectronShells": [
                 {

@@ -5,7 +5,7 @@
     "basisSetElements": {
         "57": {
             "elementReferences": [
-                "SARC-DKH-BS-REF"
+                "pantazis:2009a"
             ],
             "elementElectronShells": [
                 {
@@ -891,7 +891,7 @@
         },
         "58": {
             "elementReferences": [
-                "SARC-DKH-BS-REF"
+                "pantazis:2009a"
             ],
             "elementElectronShells": [
                 {
@@ -1819,7 +1819,7 @@
         },
         "59": {
             "elementReferences": [
-                "SARC-DKH-BS-REF"
+                "pantazis:2009a"
             ],
             "elementElectronShells": [
                 {
@@ -2747,7 +2747,7 @@
         },
         "60": {
             "elementReferences": [
-                "SARC-DKH-BS-REF"
+                "pantazis:2009a"
             ],
             "elementElectronShells": [
                 {
@@ -3675,7 +3675,7 @@
         },
         "61": {
             "elementReferences": [
-                "SARC-DKH-BS-REF"
+                "pantazis:2009a"
             ],
             "elementElectronShells": [
                 {
@@ -4603,7 +4603,7 @@
         },
         "62": {
             "elementReferences": [
-                "SARC-DKH-BS-REF"
+                "pantazis:2009a"
             ],
             "elementElectronShells": [
                 {
@@ -5531,7 +5531,7 @@
         },
         "63": {
             "elementReferences": [
-                "SARC-DKH-BS-REF"
+                "pantazis:2009a"
             ],
             "elementElectronShells": [
                 {
@@ -6459,7 +6459,7 @@
         },
         "64": {
             "elementReferences": [
-                "SARC-DKH-BS-REF"
+                "pantazis:2009a"
             ],
             "elementElectronShells": [
                 {
@@ -7387,7 +7387,7 @@
         },
         "65": {
             "elementReferences": [
-                "SARC-DKH-BS-REF"
+                "pantazis:2009a"
             ],
             "elementElectronShells": [
                 {
@@ -8315,7 +8315,7 @@
         },
         "66": {
             "elementReferences": [
-                "SARC-DKH-BS-REF"
+                "pantazis:2009a"
             ],
             "elementElectronShells": [
                 {
@@ -9243,7 +9243,7 @@
         },
         "67": {
             "elementReferences": [
-                "SARC-DKH-BS-REF"
+                "pantazis:2009a"
             ],
             "elementElectronShells": [
                 {
@@ -10171,7 +10171,7 @@
         },
         "68": {
             "elementReferences": [
-                "SARC-DKH-BS-REF"
+                "pantazis:2009a"
             ],
             "elementElectronShells": [
                 {
@@ -11099,7 +11099,7 @@
         },
         "69": {
             "elementReferences": [
-                "SARC-DKH-BS-REF"
+                "pantazis:2009a"
             ],
             "elementElectronShells": [
                 {
@@ -12027,7 +12027,7 @@
         },
         "70": {
             "elementReferences": [
-                "SARC-DKH-BS-REF"
+                "pantazis:2009a"
             ],
             "elementElectronShells": [
                 {
@@ -12955,7 +12955,7 @@
         },
         "71": {
             "elementReferences": [
-                "SARC-DKH-BS-REF"
+                "pantazis:2009a"
             ],
             "elementElectronShells": [
                 {
@@ -13883,7 +13883,7 @@
         },
         "72": {
             "elementReferences": [
-                "SARC-DKH-BS-REF"
+                "pantazis:2008a"
             ],
             "elementElectronShells": [
                 {
@@ -14707,7 +14707,7 @@
         },
         "73": {
             "elementReferences": [
-                "SARC-DKH-BS-REF"
+                "pantazis:2008a"
             ],
             "elementElectronShells": [
                 {
@@ -15531,7 +15531,7 @@
         },
         "74": {
             "elementReferences": [
-                "SARC-DKH-BS-REF"
+                "pantazis:2008a"
             ],
             "elementElectronShells": [
                 {
@@ -16355,7 +16355,7 @@
         },
         "75": {
             "elementReferences": [
-                "SARC-DKH-BS-REF"
+                "pantazis:2008a"
             ],
             "elementElectronShells": [
                 {
@@ -17179,7 +17179,7 @@
         },
         "76": {
             "elementReferences": [
-                "SARC-DKH-BS-REF"
+                "pantazis:2008a"
             ],
             "elementElectronShells": [
                 {
@@ -18003,7 +18003,7 @@
         },
         "77": {
             "elementReferences": [
-                "SARC-DKH-BS-REF"
+                "pantazis:2008a"
             ],
             "elementElectronShells": [
                 {
@@ -18827,7 +18827,7 @@
         },
         "78": {
             "elementReferences": [
-                "SARC-DKH-BS-REF"
+                "pantazis:2008a"
             ],
             "elementElectronShells": [
                 {
@@ -19651,7 +19651,7 @@
         },
         "79": {
             "elementReferences": [
-                "SARC-DKH-BS-REF"
+                "pantazis:2008a"
             ],
             "elementElectronShells": [
                 {
@@ -20475,7 +20475,7 @@
         },
         "80": {
             "elementReferences": [
-                "SARC-DKH-BS-REF"
+                "pantazis:2008a"
             ],
             "elementElectronShells": [
                 {
@@ -21299,7 +21299,7 @@
         },
         "81": {
             "elementReferences": [
-                "SARC-DKH-BS-REF"
+                "pantazis:2012a"
             ],
             "elementElectronShells": [
                 {
@@ -22639,7 +22639,7 @@
         },
         "82": {
             "elementReferences": [
-                "SARC-DKH-BS-REF"
+                "pantazis:2012a"
             ],
             "elementElectronShells": [
                 {
@@ -23979,7 +23979,7 @@
         },
         "83": {
             "elementReferences": [
-                "SARC-DKH-BS-REF"
+                "pantazis:2012a"
             ],
             "elementElectronShells": [
                 {
@@ -25319,7 +25319,7 @@
         },
         "84": {
             "elementReferences": [
-                "SARC-DKH-BS-REF"
+                "pantazis:2012a"
             ],
             "elementElectronShells": [
                 {
@@ -26659,7 +26659,7 @@
         },
         "85": {
             "elementReferences": [
-                "SARC-DKH-BS-REF"
+                "pantazis:2012a"
             ],
             "elementElectronShells": [
                 {
@@ -27999,7 +27999,7 @@
         },
         "86": {
             "elementReferences": [
-                "SARC-DKH-BS-REF"
+                "pantazis:2012a"
             ],
             "elementElectronShells": [
                 {
@@ -29339,7 +29339,7 @@
         },
         "89": {
             "elementReferences": [
-                "SARC-DKH-BS-REF"
+                "pantazis:2011a"
             ],
             "elementElectronShells": [
                 {
@@ -30686,7 +30686,7 @@
         },
         "90": {
             "elementReferences": [
-                "SARC-DKH-BS-REF"
+                "pantazis:2011a"
             ],
             "elementElectronShells": [
                 {
@@ -32033,7 +32033,7 @@
         },
         "91": {
             "elementReferences": [
-                "SARC-DKH-BS-REF"
+                "pantazis:2011a"
             ],
             "elementElectronShells": [
                 {
@@ -33380,7 +33380,7 @@
         },
         "92": {
             "elementReferences": [
-                "SARC-DKH-BS-REF"
+                "pantazis:2011a"
             ],
             "elementElectronShells": [
                 {
@@ -34727,7 +34727,7 @@
         },
         "93": {
             "elementReferences": [
-                "SARC-DKH-BS-REF"
+                "pantazis:2011a"
             ],
             "elementElectronShells": [
                 {
@@ -36074,7 +36074,7 @@
         },
         "94": {
             "elementReferences": [
-                "SARC-DKH-BS-REF"
+                "pantazis:2011a"
             ],
             "elementElectronShells": [
                 {
@@ -37421,7 +37421,7 @@
         },
         "95": {
             "elementReferences": [
-                "SARC-DKH-BS-REF"
+                "pantazis:2011a"
             ],
             "elementElectronShells": [
                 {
@@ -38768,7 +38768,7 @@
         },
         "96": {
             "elementReferences": [
-                "SARC-DKH-BS-REF"
+                "pantazis:2011a"
             ],
             "elementElectronShells": [
                 {
@@ -40115,7 +40115,7 @@
         },
         "97": {
             "elementReferences": [
-                "SARC-DKH-BS-REF"
+                "pantazis:2011a"
             ],
             "elementElectronShells": [
                 {
@@ -41462,7 +41462,7 @@
         },
         "98": {
             "elementReferences": [
-                "SARC-DKH-BS-REF"
+                "pantazis:2011a"
             ],
             "elementElectronShells": [
                 {
@@ -42809,7 +42809,7 @@
         },
         "99": {
             "elementReferences": [
-                "SARC-DKH-BS-REF"
+                "pantazis:2011a"
             ],
             "elementElectronShells": [
                 {
@@ -44156,7 +44156,7 @@
         },
         "100": {
             "elementReferences": [
-                "SARC-DKH-BS-REF"
+                "pantazis:2011a"
             ],
             "elementElectronShells": [
                 {
@@ -45503,7 +45503,7 @@
         },
         "101": {
             "elementReferences": [
-                "SARC-DKH-BS-REF"
+                "pantazis:2011a"
             ],
             "elementElectronShells": [
                 {
@@ -46850,7 +46850,7 @@
         },
         "102": {
             "elementReferences": [
-                "SARC-DKH-BS-REF"
+                "pantazis:2011a"
             ],
             "elementElectronShells": [
                 {
@@ -48197,7 +48197,7 @@
         },
         "103": {
             "elementReferences": [
-                "SARC-DKH-BS-REF"
+                "pantazis:2011a"
             ],
             "elementElectronShells": [
                 {

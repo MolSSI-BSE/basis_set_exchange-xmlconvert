@@ -5,7 +5,7 @@
     "basisSetElements": {
         "1": {
             "elementReferences": [
-                "LANL2DZPD-BS-REF"
+                "check:2001a"
             ],
             "elementElectronShells": [
                 {
@@ -44,7 +44,7 @@
         },
         "6": {
             "elementReferences": [
-                "LANL2DZPD-BS-REF"
+                "check:2001a"
             ],
             "elementElectronShells": [
                 {
@@ -83,7 +83,7 @@
         },
         "7": {
             "elementReferences": [
-                "LANL2DZPD-BS-REF"
+                "check:2001a"
             ],
             "elementElectronShells": [
                 {
@@ -122,7 +122,7 @@
         },
         "8": {
             "elementReferences": [
-                "LANL2DZPD-BS-REF"
+                "check:2001a"
             ],
             "elementElectronShells": [
                 {
@@ -161,7 +161,7 @@
         },
         "9": {
             "elementReferences": [
-                "LANL2DZPD-BS-REF"
+                "check:2001a"
             ],
             "elementElectronShells": [
                 {
@@ -200,7 +200,7 @@
         },
         "14": {
             "elementReferences": [
-                "LANL2DZPD-BS-REF"
+                "check:2001a"
             ],
             "elementElectronShells": [
                 {
@@ -239,7 +239,7 @@
         },
         "15": {
             "elementReferences": [
-                "LANL2DZPD-BS-REF"
+                "check:2001a"
             ],
             "elementElectronShells": [
                 {
@@ -278,7 +278,7 @@
         },
         "16": {
             "elementReferences": [
-                "LANL2DZPD-BS-REF"
+                "check:2001a"
             ],
             "elementElectronShells": [
                 {
@@ -317,7 +317,7 @@
         },
         "17": {
             "elementReferences": [
-                "LANL2DZPD-BS-REF"
+                "check:2001a"
             ],
             "elementElectronShells": [
                 {
@@ -356,7 +356,7 @@
         },
         "32": {
             "elementReferences": [
-                "LANL2DZPD-BS-REF"
+                "check:2001a"
             ],
             "elementElectronShells": [
                 {
@@ -395,7 +395,7 @@
         },
         "33": {
             "elementReferences": [
-                "LANL2DZPD-BS-REF"
+                "check:2001a"
             ],
             "elementElectronShells": [
                 {
@@ -434,7 +434,7 @@
         },
         "34": {
             "elementReferences": [
-                "LANL2DZPD-BS-REF"
+                "check:2001a"
             ],
             "elementElectronShells": [
                 {
@@ -473,7 +473,7 @@
         },
         "35": {
             "elementReferences": [
-                "LANL2DZPD-BS-REF"
+                "check:2001a"
             ],
             "elementElectronShells": [
                 {
@@ -512,7 +512,7 @@
         },
         "50": {
             "elementReferences": [
-                "LANL2DZPD-BS-REF"
+                "check:2001a"
             ],
             "elementElectronShells": [
                 {
@@ -551,7 +551,7 @@
         },
         "51": {
             "elementReferences": [
-                "LANL2DZPD-BS-REF"
+                "check:2001a"
             ],
             "elementElectronShells": [
                 {
@@ -590,7 +590,7 @@
         },
         "52": {
             "elementReferences": [
-                "LANL2DZPD-BS-REF"
+                "check:2001a"
             ],
             "elementElectronShells": [
                 {
@@ -629,7 +629,7 @@
         },
         "53": {
             "elementReferences": [
-                "LANL2DZPD-BS-REF"
+                "check:2001a"
             ],
             "elementElectronShells": [
                 {
@@ -668,7 +668,7 @@
         },
         "82": {
             "elementReferences": [
-                "LANL2DZPD-BS-REF"
+                "check:2001a"
             ],
             "elementElectronShells": [
                 {
@@ -707,7 +707,7 @@
         },
         "83": {
             "elementReferences": [
-                "LANL2DZPD-BS-REF"
+                "check:2001a"
             ],
             "elementElectronShells": [
                 {

@@ -5,7 +5,7 @@
     "basisSetElements": {
         "21": {
             "elementReferences": [
-                "CC-PWCVTZ-NRMP2FITTING-BS-REF"
+                "bross:2013a"
             ],
             "elementElectronShells": [
                 {
@@ -1036,7 +1036,7 @@
         },
         "22": {
             "elementReferences": [
-                "CC-PWCVTZ-NRMP2FITTING-BS-REF"
+                "bross:2013a"
             ],
             "elementElectronShells": [
                 {
@@ -2067,7 +2067,7 @@
         },
         "23": {
             "elementReferences": [
-                "CC-PWCVTZ-NRMP2FITTING-BS-REF"
+                "bross:2013a"
             ],
             "elementElectronShells": [
                 {
@@ -3098,7 +3098,7 @@
         },
         "24": {
             "elementReferences": [
-                "CC-PWCVTZ-NRMP2FITTING-BS-REF"
+                "bross:2013a"
             ],
             "elementElectronShells": [
                 {
@@ -4129,7 +4129,7 @@
         },
         "25": {
             "elementReferences": [
-                "CC-PWCVTZ-NRMP2FITTING-BS-REF"
+                "bross:2013a"
             ],
             "elementElectronShells": [
                 {
@@ -5160,7 +5160,7 @@
         },
         "26": {
             "elementReferences": [
-                "CC-PWCVTZ-NRMP2FITTING-BS-REF"
+                "bross:2013a"
             ],
             "elementElectronShells": [
                 {
@@ -6191,7 +6191,7 @@
         },
         "27": {
             "elementReferences": [
-                "CC-PWCVTZ-NRMP2FITTING-BS-REF"
+                "bross:2013a"
             ],
             "elementElectronShells": [
                 {
@@ -7222,7 +7222,7 @@
         },
         "28": {
             "elementReferences": [
-                "CC-PWCVTZ-NRMP2FITTING-BS-REF"
+                "bross:2013a"
             ],
             "elementElectronShells": [
                 {
@@ -8253,7 +8253,7 @@
         },
         "29": {
             "elementReferences": [
-                "CC-PWCVTZ-NRMP2FITTING-BS-REF"
+                "bross:2013a"
             ],
             "elementElectronShells": [
                 {
@@ -9284,7 +9284,7 @@
         },
         "30": {
             "elementReferences": [
-                "CC-PWCVTZ-NRMP2FITTING-BS-REF"
+                "bross:2013a"
             ],
             "elementElectronShells": [
                 {

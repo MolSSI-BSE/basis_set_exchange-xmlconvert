@@ -5,7 +5,7 @@
     "basisSetElements": {
         "21": {
             "elementReferences": [
-                "M6-31GS-BS-REF"
+                "mitin:2003a"
             ],
             "elementElectronShells": [
                 {
@@ -206,7 +206,7 @@
         },
         "22": {
             "elementReferences": [
-                "M6-31GS-BS-REF"
+                "mitin:2003a"
             ],
             "elementElectronShells": [
                 {
@@ -407,7 +407,7 @@
         },
         "23": {
             "elementReferences": [
-                "M6-31GS-BS-REF"
+                "mitin:2003a"
             ],
             "elementElectronShells": [
                 {
@@ -608,7 +608,7 @@
         },
         "24": {
             "elementReferences": [
-                "M6-31GS-BS-REF"
+                "mitin:2003a"
             ],
             "elementElectronShells": [
                 {
@@ -809,7 +809,7 @@
         },
         "25": {
             "elementReferences": [
-                "M6-31GS-BS-REF"
+                "mitin:2003a"
             ],
             "elementElectronShells": [
                 {
@@ -1010,7 +1010,7 @@
         },
         "26": {
             "elementReferences": [
-                "M6-31GS-BS-REF"
+                "mitin:2003a"
             ],
             "elementElectronShells": [
                 {
@@ -1211,7 +1211,7 @@
         },
         "27": {
             "elementReferences": [
-                "M6-31GS-BS-REF"
+                "mitin:2003a"
             ],
             "elementElectronShells": [
                 {
@@ -1412,7 +1412,7 @@
         },
         "28": {
             "elementReferences": [
-                "M6-31GS-BS-REF"
+                "mitin:2003a"
             ],
             "elementElectronShells": [
                 {
@@ -1613,7 +1613,7 @@
         },
         "29": {
             "elementReferences": [
-                "M6-31GS-BS-REF"
+                "mitin:2003a"
             ],
             "elementElectronShells": [
                 {

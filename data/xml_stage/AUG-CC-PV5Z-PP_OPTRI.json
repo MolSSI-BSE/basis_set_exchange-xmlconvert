@@ -5,7 +5,7 @@
     "basisSetElements": {
         "29": {
             "elementReferences": [
-                "AUG-CC-PV5Z-PP_OPTRI-BS-REF"
+                "hill:2012a"
             ],
             "elementElectronShells": [
                 {
@@ -588,7 +588,7 @@
         },
         "30": {
             "elementReferences": [
-                "AUG-CC-PV5Z-PP_OPTRI-BS-REF"
+                "hill:2012a"
             ],
             "elementElectronShells": [
                 {
@@ -1171,7 +1171,7 @@
         },
         "47": {
             "elementReferences": [
-                "AUG-CC-PV5Z-PP_OPTRI-BS-REF"
+                "hill:2012a"
             ],
             "elementElectronShells": [
                 {
@@ -1754,7 +1754,7 @@
         },
         "48": {
             "elementReferences": [
-                "AUG-CC-PV5Z-PP_OPTRI-BS-REF"
+                "hill:2012a"
             ],
             "elementElectronShells": [
                 {
@@ -2337,7 +2337,7 @@
         },
         "79": {
             "elementReferences": [
-                "AUG-CC-PV5Z-PP_OPTRI-BS-REF"
+                "hill:2012a"
             ],
             "elementElectronShells": [
                 {
@@ -2920,7 +2920,7 @@
         },
         "80": {
             "elementReferences": [
-                "AUG-CC-PV5Z-PP_OPTRI-BS-REF"
+                "hill:2012a"
             ],
             "elementElectronShells": [
                 {

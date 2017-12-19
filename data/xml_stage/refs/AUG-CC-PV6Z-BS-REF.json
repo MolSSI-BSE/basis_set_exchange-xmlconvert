@@ -1,0 +1,23 @@
+{
+    "citations": [
+        {
+            "Z": [
+                1
+            ],
+            "original": "K.A. Peterson, D.E. Woon (unpublished)",
+            "valid": "unpublished"
+        },
+        {
+            "Z": [
+                5,
+                6,
+                7,
+                8
+            ],
+            "article": "wilson:1996a",
+            "original": "A.K. Wilson, T. van Mourik and T.H. Dunning, Jr. J. Mol. Struct. (THEOCHEM) 388, 339 (1997)."
+        }
+    ],
+    "original": "\nElements                             References\n--------                             ---------\nH    :  K.A. Peterson, D.E. Woon (unpublished)\nB - O:  A.K. Wilson, T. van Mourik and T.H. Dunning, Jr. J. Mol. Struct.\n        (THEOCHEM) 388, 339 (1997).\n\n  ",
+    "valid": true
+}

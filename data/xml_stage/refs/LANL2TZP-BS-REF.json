@@ -1,0 +1,38 @@
+{
+    "citations": [
+        {
+            "Z": [
+                21,
+                22,
+                23,
+                24,
+                25,
+                26,
+                27,
+                28,
+                29,
+                30
+            ],
+            "article": "hay:1985a",
+            "original": "P.J. Hay and W.R. Wadt, J. Chem. Phys. 82, 299 (1985)."
+        },
+        {
+            "Z": [
+                21,
+                22,
+                23,
+                24,
+                25,
+                26,
+                27,
+                28,
+                29,
+                30
+            ],
+            "article": "roy:2008a",
+            "original": "L.E. Roy, P.J. Hay, and R.L. Martin, J. Chem. Theory Comput. 4, 1029 (2008).  "
+        }
+    ],
+    "original": "Elements                             References\n--------                             ----------\nSc   Ti   V   Cr   Mn   Fe   Co   Ni   Cu   Zn: P.J. Hay and W.R. Wadt, J. Chem. Phys. 82, 299 (1985).\nSc   Ti   V   Cr   Mn   Fe   Co   Ni   Cu   Zn: L.E. Roy, P.J. Hay, and R.L. Martin, J. Chem. Theory Comput. 4, 1029 (2008).\n\n\n",
+    "valid": true
+}

@@ -1,0 +1,53 @@
+{
+    "citations": [
+        {
+            "Z": [
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10
+            ],
+            "article": "dunning:1989a",
+            "original": "T.H. Dunning, Jr. J. Chem. Phys. 90, 1007 (1989)"
+        },
+        {
+            "Z": [
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10
+            ],
+            "article": "woon:1995a",
+            "original": "D. E. Woon and T.H. Dunning, Jr. J. Chem. Phys. 103, 4572 (1995)."
+        },
+        {
+            "Z": [
+                13,
+                14,
+                15,
+                16,
+                17,
+                18
+            ],
+            "article": "peterson:2002a",
+            "original": "K.A. Peterson and T.H. Dunning, Jr. J. Chem. Phys. 117, 10548 (2002)"
+        },
+        {
+            "Z": [
+                20
+            ],
+            "original": "K.A. Peterson (to be published)",
+            "valid": "unpublished"
+        }
+    ],
+    "original": "Elements                             References\n--------                             ----------\nLi - Ne: T.H. Dunning, Jr. J. Chem. Phys. 90, 1007 (1989)\nLi - Ne: D. E. Woon and T.H. Dunning, Jr. J. Chem. Phys. 103, 4572 (1995).\nAl - Ar: K.A. Peterson and T.H. Dunning, Jr. J. Chem. Phys. 117, 10548 (2002)\nCa     : K.A. Peterson (to be published)\n\n\n",
+    "valid": true
+}

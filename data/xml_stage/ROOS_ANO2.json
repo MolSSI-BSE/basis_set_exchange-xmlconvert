@@ -5,7 +5,7 @@
     "basisSetElements": {
         "1": {
             "elementReferences": [
-                "ROOS_ANO2-BS-REF"
+                "widmark:1990a"
             ],
             "elementElectronShells": [
                 {
@@ -131,7 +131,7 @@
         },
         "2": {
             "elementReferences": [
-                "ROOS_ANO2-BS-REF"
+                "widmark:1990a"
             ],
             "elementElectronShells": [
                 {
@@ -262,7 +262,7 @@
         },
         "3": {
             "elementReferences": [
-                "ROOS_ANO2-BS-REF"
+                "widmark:1990a"
             ],
             "elementElectronShells": [
                 {
@@ -499,7 +499,7 @@
         },
         "4": {
             "elementReferences": [
-                "ROOS_ANO2-BS-REF"
+                "widmark:1990a"
             ],
             "elementElectronShells": [
                 {
@@ -736,7 +736,7 @@
         },
         "5": {
             "elementReferences": [
-                "ROOS_ANO2-BS-REF"
+                "widmark:1990a"
             ],
             "elementElectronShells": [
                 {
@@ -973,7 +973,7 @@
         },
         "6": {
             "elementReferences": [
-                "ROOS_ANO2-BS-REF"
+                "widmark:1990a"
             ],
             "elementElectronShells": [
                 {
@@ -1210,7 +1210,7 @@
         },
         "7": {
             "elementReferences": [
-                "ROOS_ANO2-BS-REF"
+                "widmark:1990a"
             ],
             "elementElectronShells": [
                 {
@@ -1447,7 +1447,7 @@
         },
         "8": {
             "elementReferences": [
-                "ROOS_ANO2-BS-REF"
+                "widmark:1990a"
             ],
             "elementElectronShells": [
                 {
@@ -1684,7 +1684,7 @@
         },
         "9": {
             "elementReferences": [
-                "ROOS_ANO2-BS-REF"
+                "widmark:1990a"
             ],
             "elementElectronShells": [
                 {
@@ -1921,7 +1921,7 @@
         },
         "10": {
             "elementReferences": [
-                "ROOS_ANO2-BS-REF"
+                "widmark:1990a"
             ],
             "elementElectronShells": [
                 {
@@ -2158,7 +2158,7 @@
         },
         "11": {
             "elementReferences": [
-                "ROOS_ANO2-BS-REF"
+                "widmark:1991a"
             ],
             "elementElectronShells": [
                 {
@@ -2468,7 +2468,7 @@
         },
         "12": {
             "elementReferences": [
-                "ROOS_ANO2-BS-REF"
+                "widmark:1991a"
             ],
             "elementElectronShells": [
                 {
@@ -2778,7 +2778,7 @@
         },
         "13": {
             "elementReferences": [
-                "ROOS_ANO2-BS-REF"
+                "widmark:1991a"
             ],
             "elementElectronShells": [
                 {
@@ -3088,7 +3088,7 @@
         },
         "14": {
             "elementReferences": [
-                "ROOS_ANO2-BS-REF"
+                "widmark:1991a"
             ],
             "elementElectronShells": [
                 {
@@ -3398,7 +3398,7 @@
         },
         "15": {
             "elementReferences": [
-                "ROOS_ANO2-BS-REF"
+                "widmark:1991a"
             ],
             "elementElectronShells": [
                 {
@@ -3708,7 +3708,7 @@
         },
         "16": {
             "elementReferences": [
-                "ROOS_ANO2-BS-REF"
+                "widmark:1991a"
             ],
             "elementElectronShells": [
                 {
@@ -4018,7 +4018,7 @@
         },
         "17": {
             "elementReferences": [
-                "ROOS_ANO2-BS-REF"
+                "widmark:1991a"
             ],
             "elementElectronShells": [
                 {
@@ -4328,7 +4328,7 @@
         },
         "18": {
             "elementReferences": [
-                "ROOS_ANO2-BS-REF"
+                "widmark:1991a"
             ],
             "elementElectronShells": [
                 {
@@ -4638,7 +4638,7 @@
         },
         "21": {
             "elementReferences": [
-                "ROOS_ANO2-BS-REF"
+                "pou-amerigo:1995a"
             ],
             "elementElectronShells": [
                 {
@@ -5160,7 +5160,7 @@
         },
         "22": {
             "elementReferences": [
-                "ROOS_ANO2-BS-REF"
+                "pou-amerigo:1995a"
             ],
             "elementElectronShells": [
                 {
@@ -5682,7 +5682,7 @@
         },
         "23": {
             "elementReferences": [
-                "ROOS_ANO2-BS-REF"
+                "pou-amerigo:1995a"
             ],
             "elementElectronShells": [
                 {
@@ -6204,7 +6204,7 @@
         },
         "24": {
             "elementReferences": [
-                "ROOS_ANO2-BS-REF"
+                "pou-amerigo:1995a"
             ],
             "elementElectronShells": [
                 {
@@ -6726,7 +6726,7 @@
         },
         "25": {
             "elementReferences": [
-                "ROOS_ANO2-BS-REF"
+                "pou-amerigo:1995a"
             ],
             "elementElectronShells": [
                 {
@@ -7248,7 +7248,7 @@
         },
         "26": {
             "elementReferences": [
-                "ROOS_ANO2-BS-REF"
+                "pou-amerigo:1995a"
             ],
             "elementElectronShells": [
                 {
@@ -7770,7 +7770,7 @@
         },
         "27": {
             "elementReferences": [
-                "ROOS_ANO2-BS-REF"
+                "pou-amerigo:1995a"
             ],
             "elementElectronShells": [
                 {
@@ -8292,7 +8292,7 @@
         },
         "28": {
             "elementReferences": [
-                "ROOS_ANO2-BS-REF"
+                "pou-amerigo:1995a"
             ],
             "elementElectronShells": [
                 {
@@ -8814,7 +8814,7 @@
         },
         "29": {
             "elementReferences": [
-                "ROOS_ANO2-BS-REF"
+                "pou-amerigo:1995a"
             ],
             "elementElectronShells": [
                 {
@@ -9336,7 +9336,7 @@
         },
         "30": {
             "elementReferences": [
-                "ROOS_ANO2-BS-REF"
+                "pou-amerigo:1995a"
             ],
             "elementElectronShells": [
                 {

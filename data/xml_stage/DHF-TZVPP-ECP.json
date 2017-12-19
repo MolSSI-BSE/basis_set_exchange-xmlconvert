@@ -5,7 +5,7 @@
     "basisSetElements": {
         "37": {
             "elementReferences": [
-                "DHF-TZVPP-ECP-REF"
+                "lim:2005a"
             ],
             "elementECPElectrons": 28,
             "elementECP": [
@@ -122,7 +122,8 @@
         },
         "38": {
             "elementReferences": [
-                "DHF-TZVPP-ECP-REF"
+                "lim:2005a",
+                "lim:2006a"
             ],
             "elementECPElectrons": 28,
             "elementECP": [
@@ -239,7 +240,9 @@
         },
         "39": {
             "elementReferences": [
-                "DHF-TZVPP-ECP-REF"
+                "figgen:2009a",
+                "lim:2005a",
+                "lim:2006a"
             ],
             "elementECPElectrons": 28,
             "elementECP": [
@@ -356,7 +359,9 @@
         },
         "40": {
             "elementReferences": [
-                "DHF-TZVPP-ECP-REF"
+                "figgen:2009a",
+                "lim:2005a",
+                "lim:2006a"
             ],
             "elementECPElectrons": 28,
             "elementECP": [
@@ -473,7 +478,9 @@
         },
         "41": {
             "elementReferences": [
-                "DHF-TZVPP-ECP-REF"
+                "figgen:2009a",
+                "lim:2005a",
+                "lim:2006a"
             ],
             "elementECPElectrons": 28,
             "elementECP": [
@@ -590,7 +597,9 @@
         },
         "42": {
             "elementReferences": [
-                "DHF-TZVPP-ECP-REF"
+                "figgen:2009a",
+                "lim:2005a",
+                "lim:2006a"
             ],
             "elementECPElectrons": 28,
             "elementECP": [
@@ -707,7 +716,9 @@
         },
         "43": {
             "elementReferences": [
-                "DHF-TZVPP-ECP-REF"
+                "figgen:2009a",
+                "lim:2005a",
+                "lim:2006a"
             ],
             "elementECPElectrons": 28,
             "elementECP": [
@@ -824,7 +835,9 @@
         },
         "44": {
             "elementReferences": [
-                "DHF-TZVPP-ECP-REF"
+                "figgen:2009a",
+                "lim:2005a",
+                "lim:2006a"
             ],
             "elementECPElectrons": 28,
             "elementECP": [
@@ -941,7 +954,9 @@
         },
         "45": {
             "elementReferences": [
-                "DHF-TZVPP-ECP-REF"
+                "figgen:2009a",
+                "lim:2005a",
+                "lim:2006a"
             ],
             "elementECPElectrons": 28,
             "elementECP": [
@@ -1058,7 +1073,9 @@
         },
         "46": {
             "elementReferences": [
-                "DHF-TZVPP-ECP-REF"
+                "figgen:2009a",
+                "lim:2005a",
+                "lim:2006a"
             ],
             "elementECPElectrons": 28,
             "elementECP": [
@@ -1175,7 +1192,9 @@
         },
         "47": {
             "elementReferences": [
-                "DHF-TZVPP-ECP-REF"
+                "figgen:2009a",
+                "lim:2005a",
+                "lim:2006a"
             ],
             "elementECPElectrons": 28,
             "elementECP": [
@@ -1292,7 +1311,9 @@
         },
         "48": {
             "elementReferences": [
-                "DHF-TZVPP-ECP-REF"
+                "figgen:2009a",
+                "lim:2005a",
+                "lim:2006a"
             ],
             "elementECPElectrons": 28,
             "elementECP": [
@@ -1409,7 +1430,8 @@
         },
         "49": {
             "elementReferences": [
-                "DHF-TZVPP-ECP-REF"
+                "lim:2005a",
+                "lim:2006a"
             ],
             "elementECPElectrons": 28,
             "elementECP": [
@@ -1526,7 +1548,8 @@
         },
         "50": {
             "elementReferences": [
-                "DHF-TZVPP-ECP-REF"
+                "lim:2005a",
+                "lim:2006a"
             ],
             "elementECPElectrons": 28,
             "elementECP": [
@@ -1643,7 +1666,8 @@
         },
         "51": {
             "elementReferences": [
-                "DHF-TZVPP-ECP-REF"
+                "lim:2005a",
+                "lim:2006a"
             ],
             "elementECPElectrons": 28,
             "elementECP": [
@@ -1760,7 +1784,8 @@
         },
         "52": {
             "elementReferences": [
-                "DHF-TZVPP-ECP-REF"
+                "lim:2005a",
+                "lim:2006a"
             ],
             "elementECPElectrons": 28,
             "elementECP": [
@@ -1877,7 +1902,8 @@
         },
         "53": {
             "elementReferences": [
-                "DHF-TZVPP-ECP-REF"
+                "lim:2005a",
+                "lim:2006a"
             ],
             "elementECPElectrons": 28,
             "elementECP": [
@@ -2003,7 +2029,8 @@
         },
         "54": {
             "elementReferences": [
-                "DHF-TZVPP-ECP-REF"
+                "lim:2005a",
+                "lim:2006a"
             ],
             "elementECPElectrons": 28,
             "elementECP": [
@@ -2135,7 +2162,8 @@
         },
         "55": {
             "elementReferences": [
-                "DHF-TZVPP-ECP-REF"
+                "lim:2005a",
+                "lim:2006a"
             ],
             "elementECPElectrons": 46,
             "elementECP": [
@@ -2278,7 +2306,7 @@
         },
         "56": {
             "elementReferences": [
-                "DHF-TZVPP-ECP-REF"
+                "lim:2006a"
             ],
             "elementECPElectrons": 46,
             "elementECP": [
@@ -2420,9 +2448,7 @@
             ]
         },
         "72": {
-            "elementReferences": [
-                "DHF-TZVPP-ECP-REF"
-            ],
+            "elementReferences": [],
             "elementECPElectrons": 60,
             "elementECP": [
                 {
@@ -2572,9 +2598,7 @@
             ]
         },
         "73": {
-            "elementReferences": [
-                "DHF-TZVPP-ECP-REF"
-            ],
+            "elementReferences": [],
             "elementECPElectrons": 60,
             "elementECP": [
                 {
@@ -2724,9 +2748,7 @@
             ]
         },
         "74": {
-            "elementReferences": [
-                "DHF-TZVPP-ECP-REF"
-            ],
+            "elementReferences": [],
             "elementECPElectrons": 60,
             "elementECP": [
                 {
@@ -2873,9 +2895,7 @@
             ]
         },
         "75": {
-            "elementReferences": [
-                "DHF-TZVPP-ECP-REF"
-            ],
+            "elementReferences": [],
             "elementECPElectrons": 60,
             "elementECP": [
                 {
@@ -3010,9 +3030,7 @@
             ]
         },
         "76": {
-            "elementReferences": [
-                "DHF-TZVPP-ECP-REF"
-            ],
+            "elementReferences": [],
             "elementECPElectrons": 60,
             "elementECP": [
                 {
@@ -3147,9 +3165,7 @@
             ]
         },
         "77": {
-            "elementReferences": [
-                "DHF-TZVPP-ECP-REF"
-            ],
+            "elementReferences": [],
             "elementECPElectrons": 60,
             "elementECP": [
                 {
@@ -3284,9 +3300,7 @@
             ]
         },
         "78": {
-            "elementReferences": [
-                "DHF-TZVPP-ECP-REF"
-            ],
+            "elementReferences": [],
             "elementECPElectrons": 60,
             "elementECP": [
                 {
@@ -3421,9 +3435,7 @@
             ]
         },
         "79": {
-            "elementReferences": [
-                "DHF-TZVPP-ECP-REF"
-            ],
+            "elementReferences": [],
             "elementECPElectrons": 60,
             "elementECP": [
                 {
@@ -3558,9 +3570,7 @@
             ]
         },
         "80": {
-            "elementReferences": [
-                "DHF-TZVPP-ECP-REF"
-            ],
+            "elementReferences": [],
             "elementECPElectrons": 60,
             "elementECP": [
                 {
@@ -3695,9 +3705,7 @@
             ]
         },
         "81": {
-            "elementReferences": [
-                "DHF-TZVPP-ECP-REF"
-            ],
+            "elementReferences": [],
             "elementECPElectrons": 60,
             "elementECP": [
                 {
@@ -3844,9 +3852,7 @@
             ]
         },
         "82": {
-            "elementReferences": [
-                "DHF-TZVPP-ECP-REF"
-            ],
+            "elementReferences": [],
             "elementECPElectrons": 60,
             "elementECP": [
                 {
@@ -3981,9 +3987,7 @@
             ]
         },
         "83": {
-            "elementReferences": [
-                "DHF-TZVPP-ECP-REF"
-            ],
+            "elementReferences": [],
             "elementECPElectrons": 60,
             "elementECP": [
                 {
@@ -4118,9 +4122,7 @@
             ]
         },
         "84": {
-            "elementReferences": [
-                "DHF-TZVPP-ECP-REF"
-            ],
+            "elementReferences": [],
             "elementECPElectrons": 60,
             "elementECP": [
                 {
@@ -4261,9 +4263,7 @@
             ]
         },
         "85": {
-            "elementReferences": [
-                "DHF-TZVPP-ECP-REF"
-            ],
+            "elementReferences": [],
             "elementECPElectrons": 60,
             "elementECP": [
                 {
@@ -4413,9 +4413,7 @@
             ]
         },
         "86": {
-            "elementReferences": [
-                "DHF-TZVPP-ECP-REF"
-            ],
+            "elementReferences": [],
             "elementECPElectrons": 60,
             "elementECP": [
                 {

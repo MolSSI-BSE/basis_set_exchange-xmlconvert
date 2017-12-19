@@ -5,7 +5,7 @@
     "basisSetElements": {
         "13": {
             "elementReferences": [
-                "CC-PV5PDZ-RI-BS-REF"
+                "hattig:2005a"
             ],
             "elementElectronShells": [
                 {
@@ -780,7 +780,7 @@
         },
         "14": {
             "elementReferences": [
-                "CC-PV5PDZ-RI-BS-REF"
+                "hattig:2005a"
             ],
             "elementElectronShells": [
                 {
@@ -1555,7 +1555,7 @@
         },
         "15": {
             "elementReferences": [
-                "CC-PV5PDZ-RI-BS-REF"
+                "hattig:2005a"
             ],
             "elementElectronShells": [
                 {
@@ -2330,7 +2330,7 @@
         },
         "16": {
             "elementReferences": [
-                "CC-PV5PDZ-RI-BS-REF"
+                "hattig:2005a"
             ],
             "elementElectronShells": [
                 {
@@ -3105,7 +3105,7 @@
         },
         "17": {
             "elementReferences": [
-                "CC-PV5PDZ-RI-BS-REF"
+                "hattig:2005a"
             ],
             "elementElectronShells": [
                 {
@@ -3880,7 +3880,7 @@
         },
         "18": {
             "elementReferences": [
-                "CC-PV5PDZ-RI-BS-REF"
+                "hattig:2005a"
             ],
             "elementElectronShells": [
                 {

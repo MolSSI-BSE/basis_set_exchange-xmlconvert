@@ -5,7 +5,7 @@
     "basisSetElements": {
         "21": {
             "elementReferences": [
-                "S6-31GS-BS-REF"
+                "swart:2010a"
             ],
             "elementElectronShells": [
                 {
@@ -222,7 +222,7 @@
         },
         "22": {
             "elementReferences": [
-                "S6-31GS-BS-REF"
+                "swart:2010a"
             ],
             "elementElectronShells": [
                 {
@@ -439,7 +439,7 @@
         },
         "23": {
             "elementReferences": [
-                "S6-31GS-BS-REF"
+                "swart:2010a"
             ],
             "elementElectronShells": [
                 {
@@ -656,7 +656,7 @@
         },
         "24": {
             "elementReferences": [
-                "S6-31GS-BS-REF"
+                "swart:2010a"
             ],
             "elementElectronShells": [
                 {
@@ -873,7 +873,7 @@
         },
         "25": {
             "elementReferences": [
-                "S6-31GS-BS-REF"
+                "swart:2010a"
             ],
             "elementElectronShells": [
                 {
@@ -1090,7 +1090,7 @@
         },
         "26": {
             "elementReferences": [
-                "S6-31GS-BS-REF"
+                "swart:2010a"
             ],
             "elementElectronShells": [
                 {
@@ -1307,7 +1307,7 @@
         },
         "27": {
             "elementReferences": [
-                "S6-31GS-BS-REF"
+                "swart:2010a"
             ],
             "elementElectronShells": [
                 {
@@ -1524,7 +1524,7 @@
         },
         "28": {
             "elementReferences": [
-                "S6-31GS-BS-REF"
+                "swart:2010a"
             ],
             "elementElectronShells": [
                 {
@@ -1741,7 +1741,7 @@
         },
         "29": {
             "elementReferences": [
-                "S6-31GS-BS-REF"
+                "swart:2010a"
             ],
             "elementElectronShells": [
                 {
@@ -1958,7 +1958,7 @@
         },
         "30": {
             "elementReferences": [
-                "S6-31GS-BS-REF"
+                "swart:2010a"
             ],
             "elementElectronShells": [
                 {

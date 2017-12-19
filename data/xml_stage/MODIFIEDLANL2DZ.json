@@ -5,7 +5,7 @@
     "basisSetElements": {
         "21": {
             "elementReferences": [
-                "MODIFIEDLANL2DZ-BS-REF"
+                "couty:1996a"
             ],
             "elementElectronShells": [
                 {
@@ -143,7 +143,7 @@
         },
         "22": {
             "elementReferences": [
-                "MODIFIEDLANL2DZ-BS-REF"
+                "couty:1996a"
             ],
             "elementElectronShells": [
                 {
@@ -281,7 +281,7 @@
         },
         "23": {
             "elementReferences": [
-                "MODIFIEDLANL2DZ-BS-REF"
+                "couty:1996a"
             ],
             "elementElectronShells": [
                 {
@@ -419,7 +419,7 @@
         },
         "24": {
             "elementReferences": [
-                "MODIFIEDLANL2DZ-BS-REF"
+                "couty:1996a"
             ],
             "elementElectronShells": [
                 {
@@ -557,7 +557,7 @@
         },
         "25": {
             "elementReferences": [
-                "MODIFIEDLANL2DZ-BS-REF"
+                "couty:1996a"
             ],
             "elementElectronShells": [
                 {
@@ -695,7 +695,7 @@
         },
         "26": {
             "elementReferences": [
-                "MODIFIEDLANL2DZ-BS-REF"
+                "couty:1996a"
             ],
             "elementElectronShells": [
                 {
@@ -833,7 +833,7 @@
         },
         "27": {
             "elementReferences": [
-                "MODIFIEDLANL2DZ-BS-REF"
+                "couty:1996a"
             ],
             "elementElectronShells": [
                 {
@@ -971,7 +971,7 @@
         },
         "28": {
             "elementReferences": [
-                "MODIFIEDLANL2DZ-BS-REF"
+                "couty:1996a"
             ],
             "elementElectronShells": [
                 {
@@ -1109,7 +1109,7 @@
         },
         "29": {
             "elementReferences": [
-                "MODIFIEDLANL2DZ-BS-REF"
+                "couty:1996a"
             ],
             "elementElectronShells": [
                 {
@@ -1247,7 +1247,7 @@
         },
         "39": {
             "elementReferences": [
-                "MODIFIEDLANL2DZ-BS-REF"
+                "couty:1996a"
             ],
             "elementElectronShells": [
                 {
@@ -1382,7 +1382,7 @@
         },
         "40": {
             "elementReferences": [
-                "MODIFIEDLANL2DZ-BS-REF"
+                "couty:1996a"
             ],
             "elementElectronShells": [
                 {
@@ -1517,7 +1517,7 @@
         },
         "41": {
             "elementReferences": [
-                "MODIFIEDLANL2DZ-BS-REF"
+                "couty:1996a"
             ],
             "elementElectronShells": [
                 {
@@ -1652,7 +1652,7 @@
         },
         "42": {
             "elementReferences": [
-                "MODIFIEDLANL2DZ-BS-REF"
+                "couty:1996a"
             ],
             "elementElectronShells": [
                 {
@@ -1787,7 +1787,7 @@
         },
         "43": {
             "elementReferences": [
-                "MODIFIEDLANL2DZ-BS-REF"
+                "couty:1996a"
             ],
             "elementElectronShells": [
                 {
@@ -1922,7 +1922,7 @@
         },
         "44": {
             "elementReferences": [
-                "MODIFIEDLANL2DZ-BS-REF"
+                "couty:1996a"
             ],
             "elementElectronShells": [
                 {
@@ -2057,7 +2057,7 @@
         },
         "45": {
             "elementReferences": [
-                "MODIFIEDLANL2DZ-BS-REF"
+                "couty:1996a"
             ],
             "elementElectronShells": [
                 {
@@ -2192,7 +2192,7 @@
         },
         "46": {
             "elementReferences": [
-                "MODIFIEDLANL2DZ-BS-REF"
+                "couty:1996a"
             ],
             "elementElectronShells": [
                 {
@@ -2327,7 +2327,7 @@
         },
         "47": {
             "elementReferences": [
-                "MODIFIEDLANL2DZ-BS-REF"
+                "couty:1996a"
             ],
             "elementElectronShells": [
                 {
@@ -2462,7 +2462,7 @@
         },
         "57": {
             "elementReferences": [
-                "MODIFIEDLANL2DZ-BS-REF"
+                "couty:1996a"
             ],
             "elementElectronShells": [
                 {
@@ -2594,7 +2594,7 @@
         },
         "72": {
             "elementReferences": [
-                "MODIFIEDLANL2DZ-BS-REF"
+                "couty:1996a"
             ],
             "elementElectronShells": [
                 {
@@ -2726,7 +2726,7 @@
         },
         "73": {
             "elementReferences": [
-                "MODIFIEDLANL2DZ-BS-REF"
+                "couty:1996a"
             ],
             "elementElectronShells": [
                 {
@@ -2858,7 +2858,7 @@
         },
         "74": {
             "elementReferences": [
-                "MODIFIEDLANL2DZ-BS-REF"
+                "couty:1996a"
             ],
             "elementElectronShells": [
                 {
@@ -2990,7 +2990,7 @@
         },
         "75": {
             "elementReferences": [
-                "MODIFIEDLANL2DZ-BS-REF"
+                "couty:1996a"
             ],
             "elementElectronShells": [
                 {
@@ -3122,7 +3122,7 @@
         },
         "76": {
             "elementReferences": [
-                "MODIFIEDLANL2DZ-BS-REF"
+                "couty:1996a"
             ],
             "elementElectronShells": [
                 {
@@ -3254,7 +3254,7 @@
         },
         "77": {
             "elementReferences": [
-                "MODIFIEDLANL2DZ-BS-REF"
+                "couty:1996a"
             ],
             "elementElectronShells": [
                 {
@@ -3386,7 +3386,7 @@
         },
         "78": {
             "elementReferences": [
-                "MODIFIEDLANL2DZ-BS-REF"
+                "couty:1996a"
             ],
             "elementElectronShells": [
                 {
@@ -3518,7 +3518,7 @@
         },
         "79": {
             "elementReferences": [
-                "MODIFIEDLANL2DZ-BS-REF"
+                "couty:1996a"
             ],
             "elementElectronShells": [
                 {

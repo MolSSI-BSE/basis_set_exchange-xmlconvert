@@ -5,7 +5,7 @@
     "basisSetElements": {
         "1": {
             "elementReferences": [
-                "STO-2G-BS-REF"
+                "hehre:1969a"
             ],
             "elementElectronShells": [
                 {
@@ -30,7 +30,7 @@
         },
         "2": {
             "elementReferences": [
-                "STO-2G-BS-REF"
+                "hehre:1969a"
             ],
             "elementElectronShells": [
                 {
@@ -55,7 +55,7 @@
         },
         "3": {
             "elementReferences": [
-                "STO-2G-BS-REF"
+                "hehre:1970a"
             ],
             "elementElectronShells": [
                 {
@@ -103,7 +103,7 @@
         },
         "4": {
             "elementReferences": [
-                "STO-2G-BS-REF"
+                "hehre:1970a"
             ],
             "elementElectronShells": [
                 {
@@ -151,7 +151,7 @@
         },
         "5": {
             "elementReferences": [
-                "STO-2G-BS-REF"
+                "hehre:1970a"
             ],
             "elementElectronShells": [
                 {
@@ -199,7 +199,7 @@
         },
         "6": {
             "elementReferences": [
-                "STO-2G-BS-REF"
+                "hehre:1970a"
             ],
             "elementElectronShells": [
                 {
@@ -247,7 +247,7 @@
         },
         "7": {
             "elementReferences": [
-                "STO-2G-BS-REF"
+                "hehre:1970a"
             ],
             "elementElectronShells": [
                 {
@@ -295,7 +295,7 @@
         },
         "8": {
             "elementReferences": [
-                "STO-2G-BS-REF"
+                "hehre:1970a"
             ],
             "elementElectronShells": [
                 {
@@ -343,7 +343,7 @@
         },
         "9": {
             "elementReferences": [
-                "STO-2G-BS-REF"
+                "hehre:1970a"
             ],
             "elementElectronShells": [
                 {
@@ -391,7 +391,7 @@
         },
         "10": {
             "elementReferences": [
-                "STO-2G-BS-REF"
+                "hehre:1970a"
             ],
             "elementElectronShells": [
                 {
@@ -439,7 +439,7 @@
         },
         "11": {
             "elementReferences": [
-                "STO-2G-BS-REF"
+                "hehre:1970a"
             ],
             "elementElectronShells": [
                 {
@@ -510,7 +510,7 @@
         },
         "12": {
             "elementReferences": [
-                "STO-2G-BS-REF"
+                "hehre:1970a"
             ],
             "elementElectronShells": [
                 {
@@ -581,7 +581,7 @@
         },
         "13": {
             "elementReferences": [
-                "STO-2G-BS-REF"
+                "hehre:1970a"
             ],
             "elementElectronShells": [
                 {
@@ -652,7 +652,7 @@
         },
         "14": {
             "elementReferences": [
-                "STO-2G-BS-REF"
+                "hehre:1970a"
             ],
             "elementElectronShells": [
                 {
@@ -723,7 +723,7 @@
         },
         "15": {
             "elementReferences": [
-                "STO-2G-BS-REF"
+                "hehre:1970a"
             ],
             "elementElectronShells": [
                 {
@@ -794,7 +794,7 @@
         },
         "16": {
             "elementReferences": [
-                "STO-2G-BS-REF"
+                "hehre:1970a"
             ],
             "elementElectronShells": [
                 {
@@ -865,7 +865,7 @@
         },
         "17": {
             "elementReferences": [
-                "STO-2G-BS-REF"
+                "hehre:1970a"
             ],
             "elementElectronShells": [
                 {
@@ -936,7 +936,7 @@
         },
         "18": {
             "elementReferences": [
-                "STO-2G-BS-REF"
+                "hehre:1970a"
             ],
             "elementElectronShells": [
                 {
@@ -1007,7 +1007,7 @@
         },
         "19": {
             "elementReferences": [
-                "STO-2G-BS-REF"
+                "hehre:1970a"
             ],
             "elementElectronShells": [
                 {
@@ -1101,7 +1101,7 @@
         },
         "20": {
             "elementReferences": [
-                "STO-2G-BS-REF"
+                "hehre:1970a"
             ],
             "elementElectronShells": [
                 {
@@ -1194,9 +1194,7 @@
             ]
         },
         "38": {
-            "elementReferences": [
-                "STO-2G-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",

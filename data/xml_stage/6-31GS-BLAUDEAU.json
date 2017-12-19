@@ -5,7 +5,7 @@
     "basisSetElements": {
         "19": {
             "elementReferences": [
-                "6-31GS-BLAUDEAU-BS-REF"
+                "blaudeau:1997a"
             ],
             "elementElectronShells": [
                 {
@@ -28,7 +28,7 @@
         },
         "20": {
             "elementReferences": [
-                "6-31GS-BLAUDEAU-BS-REF"
+                "blaudeau:1997a"
             ],
             "elementElectronShells": [
                 {

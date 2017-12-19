@@ -5,7 +5,7 @@
     "basisSetElements": {
         "1": {
             "elementReferences": [
-                "25_X2C-SVPALL-2C-BS-REF"
+                "pollak:2017a"
             ],
             "elementElectronShells": [
                 {
@@ -40,7 +40,7 @@
         },
         "2": {
             "elementReferences": [
-                "25_X2C-SVPALL-2C-BS-REF"
+                "pollak:2017a"
             ],
             "elementElectronShells": [
                 {
@@ -91,7 +91,7 @@
         },
         "3": {
             "elementReferences": [
-                "25_X2C-SVPALL-2C-BS-REF"
+                "pollak:2017a"
             ],
             "elementElectronShells": [
                 {
@@ -169,7 +169,7 @@
         },
         "4": {
             "elementReferences": [
-                "25_X2C-SVPALL-2C-BS-REF"
+                "pollak:2017a"
             ],
             "elementElectronShells": [
                 {
@@ -250,7 +250,7 @@
         },
         "5": {
             "elementReferences": [
-                "25_X2C-SVPALL-2C-BS-REF"
+                "pollak:2017a"
             ],
             "elementElectronShells": [
                 {
@@ -347,7 +347,7 @@
         },
         "6": {
             "elementReferences": [
-                "25_X2C-SVPALL-2C-BS-REF"
+                "pollak:2017a"
             ],
             "elementElectronShells": [
                 {
@@ -444,7 +444,7 @@
         },
         "7": {
             "elementReferences": [
-                "25_X2C-SVPALL-2C-BS-REF"
+                "pollak:2017a"
             ],
             "elementElectronShells": [
                 {
@@ -541,7 +541,7 @@
         },
         "8": {
             "elementReferences": [
-                "25_X2C-SVPALL-2C-BS-REF"
+                "pollak:2017a"
             ],
             "elementElectronShells": [
                 {
@@ -638,7 +638,7 @@
         },
         "9": {
             "elementReferences": [
-                "25_X2C-SVPALL-2C-BS-REF"
+                "pollak:2017a"
             ],
             "elementElectronShells": [
                 {
@@ -735,7 +735,7 @@
         },
         "10": {
             "elementReferences": [
-                "25_X2C-SVPALL-2C-BS-REF"
+                "pollak:2017a"
             ],
             "elementElectronShells": [
                 {
@@ -832,7 +832,7 @@
         },
         "11": {
             "elementReferences": [
-                "25_X2C-SVPALL-2C-BS-REF"
+                "pollak:2017a"
             ],
             "elementElectronShells": [
                 {
@@ -987,7 +987,7 @@
         },
         "12": {
             "elementReferences": [
-                "25_X2C-SVPALL-2C-BS-REF"
+                "pollak:2017a"
             ],
             "elementElectronShells": [
                 {
@@ -1160,7 +1160,7 @@
         },
         "13": {
             "elementReferences": [
-                "25_X2C-SVPALL-2C-BS-REF"
+                "pollak:2017a"
             ],
             "elementElectronShells": [
                 {
@@ -1333,7 +1333,7 @@
         },
         "14": {
             "elementReferences": [
-                "25_X2C-SVPALL-2C-BS-REF"
+                "pollak:2017a"
             ],
             "elementElectronShells": [
                 {
@@ -1506,7 +1506,7 @@
         },
         "15": {
             "elementReferences": [
-                "25_X2C-SVPALL-2C-BS-REF"
+                "pollak:2017a"
             ],
             "elementElectronShells": [
                 {
@@ -1679,7 +1679,7 @@
         },
         "16": {
             "elementReferences": [
-                "25_X2C-SVPALL-2C-BS-REF"
+                "pollak:2017a"
             ],
             "elementElectronShells": [
                 {
@@ -1852,7 +1852,7 @@
         },
         "17": {
             "elementReferences": [
-                "25_X2C-SVPALL-2C-BS-REF"
+                "pollak:2017a"
             ],
             "elementElectronShells": [
                 {
@@ -2025,7 +2025,7 @@
         },
         "18": {
             "elementReferences": [
-                "25_X2C-SVPALL-2C-BS-REF"
+                "pollak:2017a"
             ],
             "elementElectronShells": [
                 {
@@ -2198,7 +2198,7 @@
         },
         "19": {
             "elementReferences": [
-                "25_X2C-SVPALL-2C-BS-REF"
+                "pollak:2017a"
             ],
             "elementElectronShells": [
                 {
@@ -2451,7 +2451,7 @@
         },
         "20": {
             "elementReferences": [
-                "25_X2C-SVPALL-2C-BS-REF"
+                "pollak:2017a"
             ],
             "elementElectronShells": [
                 {
@@ -2710,7 +2710,7 @@
         },
         "21": {
             "elementReferences": [
-                "25_X2C-SVPALL-2C-BS-REF"
+                "pollak:2017a"
             ],
             "elementElectronShells": [
                 {
@@ -2983,7 +2983,7 @@
         },
         "22": {
             "elementReferences": [
-                "25_X2C-SVPALL-2C-BS-REF"
+                "pollak:2017a"
             ],
             "elementElectronShells": [
                 {
@@ -3256,7 +3256,7 @@
         },
         "23": {
             "elementReferences": [
-                "25_X2C-SVPALL-2C-BS-REF"
+                "pollak:2017a"
             ],
             "elementElectronShells": [
                 {
@@ -3529,7 +3529,7 @@
         },
         "24": {
             "elementReferences": [
-                "25_X2C-SVPALL-2C-BS-REF"
+                "pollak:2017a"
             ],
             "elementElectronShells": [
                 {
@@ -3802,7 +3802,7 @@
         },
         "25": {
             "elementReferences": [
-                "25_X2C-SVPALL-2C-BS-REF"
+                "pollak:2017a"
             ],
             "elementElectronShells": [
                 {
@@ -4075,7 +4075,7 @@
         },
         "26": {
             "elementReferences": [
-                "25_X2C-SVPALL-2C-BS-REF"
+                "pollak:2017a"
             ],
             "elementElectronShells": [
                 {
@@ -4348,7 +4348,7 @@
         },
         "27": {
             "elementReferences": [
-                "25_X2C-SVPALL-2C-BS-REF"
+                "pollak:2017a"
             ],
             "elementElectronShells": [
                 {
@@ -4621,7 +4621,7 @@
         },
         "28": {
             "elementReferences": [
-                "25_X2C-SVPALL-2C-BS-REF"
+                "pollak:2017a"
             ],
             "elementElectronShells": [
                 {
@@ -4894,7 +4894,7 @@
         },
         "29": {
             "elementReferences": [
-                "25_X2C-SVPALL-2C-BS-REF"
+                "pollak:2017a"
             ],
             "elementElectronShells": [
                 {
@@ -5167,7 +5167,7 @@
         },
         "30": {
             "elementReferences": [
-                "25_X2C-SVPALL-2C-BS-REF"
+                "pollak:2017a"
             ],
             "elementElectronShells": [
                 {
@@ -5440,7 +5440,7 @@
         },
         "31": {
             "elementReferences": [
-                "25_X2C-SVPALL-2C-BS-REF"
+                "pollak:2017a"
             ],
             "elementElectronShells": [
                 {
@@ -5738,7 +5738,7 @@
         },
         "32": {
             "elementReferences": [
-                "25_X2C-SVPALL-2C-BS-REF"
+                "pollak:2017a"
             ],
             "elementElectronShells": [
                 {
@@ -6036,7 +6036,7 @@
         },
         "33": {
             "elementReferences": [
-                "25_X2C-SVPALL-2C-BS-REF"
+                "pollak:2017a"
             ],
             "elementElectronShells": [
                 {
@@ -6334,7 +6334,7 @@
         },
         "34": {
             "elementReferences": [
-                "25_X2C-SVPALL-2C-BS-REF"
+                "pollak:2017a"
             ],
             "elementElectronShells": [
                 {
@@ -6632,7 +6632,7 @@
         },
         "35": {
             "elementReferences": [
-                "25_X2C-SVPALL-2C-BS-REF"
+                "pollak:2017a"
             ],
             "elementElectronShells": [
                 {
@@ -6930,7 +6930,7 @@
         },
         "36": {
             "elementReferences": [
-                "25_X2C-SVPALL-2C-BS-REF"
+                "pollak:2017a"
             ],
             "elementElectronShells": [
                 {
@@ -7228,7 +7228,7 @@
         },
         "37": {
             "elementReferences": [
-                "25_X2C-SVPALL-2C-BS-REF"
+                "pollak:2017a"
             ],
             "elementElectronShells": [
                 {
@@ -7696,7 +7696,7 @@
         },
         "38": {
             "elementReferences": [
-                "25_X2C-SVPALL-2C-BS-REF"
+                "pollak:2017a"
             ],
             "elementElectronShells": [
                 {
@@ -8164,7 +8164,7 @@
         },
         "39": {
             "elementReferences": [
-                "25_X2C-SVPALL-2C-BS-REF"
+                "pollak:2017a"
             ],
             "elementElectronShells": [
                 {
@@ -8666,7 +8666,7 @@
         },
         "40": {
             "elementReferences": [
-                "25_X2C-SVPALL-2C-BS-REF"
+                "pollak:2017a"
             ],
             "elementElectronShells": [
                 {
@@ -9168,7 +9168,7 @@
         },
         "41": {
             "elementReferences": [
-                "25_X2C-SVPALL-2C-BS-REF"
+                "pollak:2017a"
             ],
             "elementElectronShells": [
                 {
@@ -9670,7 +9670,7 @@
         },
         "42": {
             "elementReferences": [
-                "25_X2C-SVPALL-2C-BS-REF"
+                "pollak:2017a"
             ],
             "elementElectronShells": [
                 {
@@ -10172,7 +10172,7 @@
         },
         "43": {
             "elementReferences": [
-                "25_X2C-SVPALL-2C-BS-REF"
+                "pollak:2017a"
             ],
             "elementElectronShells": [
                 {
@@ -10674,7 +10674,7 @@
         },
         "44": {
             "elementReferences": [
-                "25_X2C-SVPALL-2C-BS-REF"
+                "pollak:2017a"
             ],
             "elementElectronShells": [
                 {
@@ -11176,7 +11176,7 @@
         },
         "45": {
             "elementReferences": [
-                "25_X2C-SVPALL-2C-BS-REF"
+                "pollak:2017a"
             ],
             "elementElectronShells": [
                 {
@@ -11678,7 +11678,7 @@
         },
         "46": {
             "elementReferences": [
-                "25_X2C-SVPALL-2C-BS-REF"
+                "pollak:2017a"
             ],
             "elementElectronShells": [
                 {
@@ -12180,7 +12180,7 @@
         },
         "47": {
             "elementReferences": [
-                "25_X2C-SVPALL-2C-BS-REF"
+                "pollak:2017a"
             ],
             "elementElectronShells": [
                 {
@@ -12682,7 +12682,7 @@
         },
         "48": {
             "elementReferences": [
-                "25_X2C-SVPALL-2C-BS-REF"
+                "pollak:2017a"
             ],
             "elementElectronShells": [
                 {
@@ -13220,7 +13220,7 @@
         },
         "49": {
             "elementReferences": [
-                "25_X2C-SVPALL-2C-BS-REF"
+                "pollak:2017a"
             ],
             "elementElectronShells": [
                 {
@@ -13691,7 +13691,7 @@
         },
         "50": {
             "elementReferences": [
-                "25_X2C-SVPALL-2C-BS-REF"
+                "pollak:2017a"
             ],
             "elementElectronShells": [
                 {
@@ -14162,7 +14162,7 @@
         },
         "51": {
             "elementReferences": [
-                "25_X2C-SVPALL-2C-BS-REF"
+                "pollak:2017a"
             ],
             "elementElectronShells": [
                 {
@@ -14633,7 +14633,7 @@
         },
         "52": {
             "elementReferences": [
-                "25_X2C-SVPALL-2C-BS-REF"
+                "pollak:2017a"
             ],
             "elementElectronShells": [
                 {
@@ -15104,7 +15104,7 @@
         },
         "53": {
             "elementReferences": [
-                "25_X2C-SVPALL-2C-BS-REF"
+                "pollak:2017a"
             ],
             "elementElectronShells": [
                 {
@@ -15575,7 +15575,7 @@
         },
         "54": {
             "elementReferences": [
-                "25_X2C-SVPALL-2C-BS-REF"
+                "pollak:2017a"
             ],
             "elementElectronShells": [
                 {
@@ -16046,7 +16046,7 @@
         },
         "55": {
             "elementReferences": [
-                "25_X2C-SVPALL-2C-BS-REF"
+                "pollak:2017a"
             ],
             "elementElectronShells": [
                 {
@@ -16760,7 +16760,7 @@
         },
         "56": {
             "elementReferences": [
-                "25_X2C-SVPALL-2C-BS-REF"
+                "pollak:2017a"
             ],
             "elementElectronShells": [
                 {
@@ -17474,7 +17474,7 @@
         },
         "57": {
             "elementReferences": [
-                "25_X2C-SVPALL-2C-BS-REF"
+                "pollak:2017a"
             ],
             "elementElectronShells": [
                 {
@@ -18233,7 +18233,7 @@
         },
         "58": {
             "elementReferences": [
-                "25_X2C-SVPALL-2C-BS-REF"
+                "pollak:2017a"
             ],
             "elementElectronShells": [
                 {
@@ -19048,7 +19048,7 @@
         },
         "59": {
             "elementReferences": [
-                "25_X2C-SVPALL-2C-BS-REF"
+                "pollak:2017a"
             ],
             "elementElectronShells": [
                 {
@@ -19863,7 +19863,7 @@
         },
         "60": {
             "elementReferences": [
-                "25_X2C-SVPALL-2C-BS-REF"
+                "pollak:2017a"
             ],
             "elementElectronShells": [
                 {
@@ -20678,7 +20678,7 @@
         },
         "61": {
             "elementReferences": [
-                "25_X2C-SVPALL-2C-BS-REF"
+                "pollak:2017a"
             ],
             "elementElectronShells": [
                 {
@@ -21493,7 +21493,7 @@
         },
         "62": {
             "elementReferences": [
-                "25_X2C-SVPALL-2C-BS-REF"
+                "pollak:2017a"
             ],
             "elementElectronShells": [
                 {
@@ -22308,7 +22308,7 @@
         },
         "63": {
             "elementReferences": [
-                "25_X2C-SVPALL-2C-BS-REF"
+                "pollak:2017a"
             ],
             "elementElectronShells": [
                 {
@@ -23123,7 +23123,7 @@
         },
         "64": {
             "elementReferences": [
-                "25_X2C-SVPALL-2C-BS-REF"
+                "pollak:2017a"
             ],
             "elementElectronShells": [
                 {
@@ -23938,7 +23938,7 @@
         },
         "65": {
             "elementReferences": [
-                "25_X2C-SVPALL-2C-BS-REF"
+                "pollak:2017a"
             ],
             "elementElectronShells": [
                 {
@@ -24753,7 +24753,7 @@
         },
         "66": {
             "elementReferences": [
-                "25_X2C-SVPALL-2C-BS-REF"
+                "pollak:2017a"
             ],
             "elementElectronShells": [
                 {
@@ -25568,7 +25568,7 @@
         },
         "67": {
             "elementReferences": [
-                "25_X2C-SVPALL-2C-BS-REF"
+                "pollak:2017a"
             ],
             "elementElectronShells": [
                 {
@@ -26383,7 +26383,7 @@
         },
         "68": {
             "elementReferences": [
-                "25_X2C-SVPALL-2C-BS-REF"
+                "pollak:2017a"
             ],
             "elementElectronShells": [
                 {
@@ -27198,7 +27198,7 @@
         },
         "69": {
             "elementReferences": [
-                "25_X2C-SVPALL-2C-BS-REF"
+                "pollak:2017a"
             ],
             "elementElectronShells": [
                 {
@@ -28013,7 +28013,7 @@
         },
         "70": {
             "elementReferences": [
-                "25_X2C-SVPALL-2C-BS-REF"
+                "pollak:2017a"
             ],
             "elementElectronShells": [
                 {
@@ -28828,7 +28828,7 @@
         },
         "71": {
             "elementReferences": [
-                "25_X2C-SVPALL-2C-BS-REF"
+                "pollak:2017a"
             ],
             "elementElectronShells": [
                 {
@@ -29631,7 +29631,7 @@
         },
         "72": {
             "elementReferences": [
-                "25_X2C-SVPALL-2C-BS-REF"
+                "pollak:2017a"
             ],
             "elementElectronShells": [
                 {
@@ -30402,7 +30402,7 @@
         },
         "73": {
             "elementReferences": [
-                "25_X2C-SVPALL-2C-BS-REF"
+                "pollak:2017a"
             ],
             "elementElectronShells": [
                 {
@@ -31173,7 +31173,7 @@
         },
         "74": {
             "elementReferences": [
-                "25_X2C-SVPALL-2C-BS-REF"
+                "pollak:2017a"
             ],
             "elementElectronShells": [
                 {
@@ -31944,7 +31944,7 @@
         },
         "75": {
             "elementReferences": [
-                "25_X2C-SVPALL-2C-BS-REF"
+                "pollak:2017a"
             ],
             "elementElectronShells": [
                 {
@@ -32715,7 +32715,7 @@
         },
         "76": {
             "elementReferences": [
-                "25_X2C-SVPALL-2C-BS-REF"
+                "pollak:2017a"
             ],
             "elementElectronShells": [
                 {
@@ -33486,7 +33486,7 @@
         },
         "77": {
             "elementReferences": [
-                "25_X2C-SVPALL-2C-BS-REF"
+                "pollak:2017a"
             ],
             "elementElectronShells": [
                 {
@@ -34257,7 +34257,7 @@
         },
         "78": {
             "elementReferences": [
-                "25_X2C-SVPALL-2C-BS-REF"
+                "pollak:2017a"
             ],
             "elementElectronShells": [
                 {
@@ -35028,7 +35028,7 @@
         },
         "79": {
             "elementReferences": [
-                "25_X2C-SVPALL-2C-BS-REF"
+                "pollak:2017a"
             ],
             "elementElectronShells": [
                 {
@@ -35799,7 +35799,7 @@
         },
         "80": {
             "elementReferences": [
-                "25_X2C-SVPALL-2C-BS-REF"
+                "pollak:2017a"
             ],
             "elementElectronShells": [
                 {
@@ -36613,7 +36613,7 @@
         },
         "81": {
             "elementReferences": [
-                "25_X2C-SVPALL-2C-BS-REF"
+                "pollak:2017a"
             ],
             "elementElectronShells": [
                 {
@@ -37416,7 +37416,7 @@
         },
         "82": {
             "elementReferences": [
-                "25_X2C-SVPALL-2C-BS-REF"
+                "pollak:2017a"
             ],
             "elementElectronShells": [
                 {
@@ -38219,7 +38219,7 @@
         },
         "83": {
             "elementReferences": [
-                "25_X2C-SVPALL-2C-BS-REF"
+                "pollak:2017a"
             ],
             "elementElectronShells": [
                 {
@@ -39022,7 +39022,7 @@
         },
         "84": {
             "elementReferences": [
-                "25_X2C-SVPALL-2C-BS-REF"
+                "pollak:2017a"
             ],
             "elementElectronShells": [
                 {
@@ -39825,7 +39825,7 @@
         },
         "85": {
             "elementReferences": [
-                "25_X2C-SVPALL-2C-BS-REF"
+                "pollak:2017a"
             ],
             "elementElectronShells": [
                 {
@@ -40628,7 +40628,7 @@
         },
         "86": {
             "elementReferences": [
-                "25_X2C-SVPALL-2C-BS-REF"
+                "pollak:2017a"
             ],
             "elementElectronShells": [
                 {

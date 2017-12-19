@@ -5,7 +5,7 @@
     "basisSetElements": {
         "29": {
             "elementReferences": [
-                "STUTTGART-MCDHF-RSC-ECP-REF"
+                "figgen:2005a"
             ],
             "elementECPElectrons": 10,
             "elementECP": [
@@ -122,7 +122,7 @@
         },
         "30": {
             "elementReferences": [
-                "STUTTGART-MCDHF-RSC-ECP-REF"
+                "figgen:2005a"
             ],
             "elementECPElectrons": 10,
             "elementECP": [
@@ -239,7 +239,7 @@
         },
         "31": {
             "elementReferences": [
-                "STUTTGART-MCDHF-RSC-ECP-REF"
+                "metz:2000a"
             ],
             "elementECPElectrons": 10,
             "elementECP": [
@@ -362,7 +362,7 @@
         },
         "32": {
             "elementReferences": [
-                "STUTTGART-MCDHF-RSC-ECP-REF"
+                "metz:2000a"
             ],
             "elementECPElectrons": 10,
             "elementECP": [
@@ -485,7 +485,7 @@
         },
         "33": {
             "elementReferences": [
-                "STUTTGART-MCDHF-RSC-ECP-REF"
+                "metz:2000a"
             ],
             "elementECPElectrons": 10,
             "elementECP": [
@@ -608,7 +608,7 @@
         },
         "34": {
             "elementReferences": [
-                "STUTTGART-MCDHF-RSC-ECP-REF"
+                "peterson:2003b"
             ],
             "elementECPElectrons": 10,
             "elementECP": [
@@ -731,7 +731,7 @@
         },
         "35": {
             "elementReferences": [
-                "STUTTGART-MCDHF-RSC-ECP-REF"
+                "peterson:2003b"
             ],
             "elementECPElectrons": 10,
             "elementECP": [
@@ -857,7 +857,7 @@
         },
         "36": {
             "elementReferences": [
-                "STUTTGART-MCDHF-RSC-ECP-REF"
+                "peterson:2003b"
             ],
             "elementECPElectrons": 10,
             "elementECP": [
@@ -983,7 +983,7 @@
         },
         "39": {
             "elementReferences": [
-                "STUTTGART-MCDHF-RSC-ECP-REF"
+                "peterson:2007a"
             ],
             "elementECPElectrons": 28,
             "elementECP": [
@@ -1100,7 +1100,7 @@
         },
         "40": {
             "elementReferences": [
-                "STUTTGART-MCDHF-RSC-ECP-REF"
+                "peterson:2007a"
             ],
             "elementECPElectrons": 28,
             "elementECP": [
@@ -1217,7 +1217,7 @@
         },
         "41": {
             "elementReferences": [
-                "STUTTGART-MCDHF-RSC-ECP-REF"
+                "peterson:2007a"
             ],
             "elementECPElectrons": 28,
             "elementECP": [
@@ -1334,7 +1334,7 @@
         },
         "42": {
             "elementReferences": [
-                "STUTTGART-MCDHF-RSC-ECP-REF"
+                "peterson:2007a"
             ],
             "elementECPElectrons": 28,
             "elementECP": [
@@ -1451,7 +1451,7 @@
         },
         "43": {
             "elementReferences": [
-                "STUTTGART-MCDHF-RSC-ECP-REF"
+                "peterson:2007a"
             ],
             "elementECPElectrons": 28,
             "elementECP": [
@@ -1568,7 +1568,7 @@
         },
         "44": {
             "elementReferences": [
-                "STUTTGART-MCDHF-RSC-ECP-REF"
+                "peterson:2007a"
             ],
             "elementECPElectrons": 28,
             "elementECP": [
@@ -1685,7 +1685,7 @@
         },
         "45": {
             "elementReferences": [
-                "STUTTGART-MCDHF-RSC-ECP-REF"
+                "peterson:2007a"
             ],
             "elementECPElectrons": 28,
             "elementECP": [
@@ -1802,7 +1802,7 @@
         },
         "46": {
             "elementReferences": [
-                "STUTTGART-MCDHF-RSC-ECP-REF"
+                "peterson:2007a"
             ],
             "elementECPElectrons": 28,
             "elementECP": [
@@ -1919,7 +1919,7 @@
         },
         "47": {
             "elementReferences": [
-                "STUTTGART-MCDHF-RSC-ECP-REF"
+                "figgen:2005a"
             ],
             "elementECPElectrons": 28,
             "elementECP": [
@@ -2036,7 +2036,7 @@
         },
         "48": {
             "elementReferences": [
-                "STUTTGART-MCDHF-RSC-ECP-REF"
+                "figgen:2005a"
             ],
             "elementECPElectrons": 28,
             "elementECP": [
@@ -2153,7 +2153,7 @@
         },
         "49": {
             "elementReferences": [
-                "STUTTGART-MCDHF-RSC-ECP-REF"
+                "metz:2000a"
             ],
             "elementECPElectrons": 28,
             "elementECP": [
@@ -2270,7 +2270,7 @@
         },
         "50": {
             "elementReferences": [
-                "STUTTGART-MCDHF-RSC-ECP-REF"
+                "metz:2000a"
             ],
             "elementECPElectrons": 28,
             "elementECP": [
@@ -2387,7 +2387,7 @@
         },
         "51": {
             "elementReferences": [
-                "STUTTGART-MCDHF-RSC-ECP-REF"
+                "metz:2000a"
             ],
             "elementECPElectrons": 28,
             "elementECP": [
@@ -2504,7 +2504,7 @@
         },
         "52": {
             "elementReferences": [
-                "STUTTGART-MCDHF-RSC-ECP-REF"
+                "peterson:2003b"
             ],
             "elementECPElectrons": 28,
             "elementECP": [
@@ -2621,7 +2621,8 @@
         },
         "53": {
             "elementReferences": [
-                "STUTTGART-MCDHF-RSC-ECP-REF"
+                "peterson:2003b",
+                "peterson:2006a"
             ],
             "elementECPElectrons": 28,
             "elementECP": [
@@ -2747,7 +2748,7 @@
         },
         "54": {
             "elementReferences": [
-                "STUTTGART-MCDHF-RSC-ECP-REF"
+                "peterson:2003b"
             ],
             "elementECPElectrons": 28,
             "elementECP": [
@@ -2879,7 +2880,7 @@
         },
         "72": {
             "elementReferences": [
-                "STUTTGART-MCDHF-RSC-ECP-REF"
+                "figgen:2009a"
             ],
             "elementECPElectrons": 60,
             "elementECP": [
@@ -3031,7 +3032,7 @@
         },
         "73": {
             "elementReferences": [
-                "STUTTGART-MCDHF-RSC-ECP-REF"
+                "figgen:2009a"
             ],
             "elementECPElectrons": 60,
             "elementECP": [
@@ -3183,7 +3184,7 @@
         },
         "74": {
             "elementReferences": [
-                "STUTTGART-MCDHF-RSC-ECP-REF"
+                "figgen:2009a"
             ],
             "elementECPElectrons": 60,
             "elementECP": [
@@ -3332,7 +3333,7 @@
         },
         "75": {
             "elementReferences": [
-                "STUTTGART-MCDHF-RSC-ECP-REF"
+                "figgen:2009a"
             ],
             "elementECPElectrons": 60,
             "elementECP": [
@@ -3469,7 +3470,7 @@
         },
         "76": {
             "elementReferences": [
-                "STUTTGART-MCDHF-RSC-ECP-REF"
+                "figgen:2009a"
             ],
             "elementECPElectrons": 60,
             "elementECP": [
@@ -3606,7 +3607,7 @@
         },
         "77": {
             "elementReferences": [
-                "STUTTGART-MCDHF-RSC-ECP-REF"
+                "figgen:2009a"
             ],
             "elementECPElectrons": 60,
             "elementECP": [
@@ -3743,7 +3744,7 @@
         },
         "78": {
             "elementReferences": [
-                "STUTTGART-MCDHF-RSC-ECP-REF"
+                "figgen:2009a"
             ],
             "elementECPElectrons": 60,
             "elementECP": [
@@ -3880,7 +3881,7 @@
         },
         "79": {
             "elementReferences": [
-                "STUTTGART-MCDHF-RSC-ECP-REF"
+                "figgen:2005a"
             ],
             "elementECPElectrons": 60,
             "elementECP": [
@@ -4017,7 +4018,7 @@
         },
         "80": {
             "elementReferences": [
-                "STUTTGART-MCDHF-RSC-ECP-REF"
+                "figgen:2005a"
             ],
             "elementECPElectrons": 60,
             "elementECP": [
@@ -4154,7 +4155,7 @@
         },
         "81": {
             "elementReferences": [
-                "STUTTGART-MCDHF-RSC-ECP-REF"
+                "metz:2000b"
             ],
             "elementECPElectrons": 60,
             "elementECP": [
@@ -4303,7 +4304,7 @@
         },
         "82": {
             "elementReferences": [
-                "STUTTGART-MCDHF-RSC-ECP-REF"
+                "metz:2000a"
             ],
             "elementECPElectrons": 60,
             "elementECP": [
@@ -4440,7 +4441,7 @@
         },
         "83": {
             "elementReferences": [
-                "STUTTGART-MCDHF-RSC-ECP-REF"
+                "metz:2000a"
             ],
             "elementECPElectrons": 60,
             "elementECP": [
@@ -4577,7 +4578,7 @@
         },
         "84": {
             "elementReferences": [
-                "STUTTGART-MCDHF-RSC-ECP-REF"
+                "peterson:2003b"
             ],
             "elementECPElectrons": 60,
             "elementECP": [
@@ -4720,7 +4721,7 @@
         },
         "85": {
             "elementReferences": [
-                "STUTTGART-MCDHF-RSC-ECP-REF"
+                "peterson:2003b"
             ],
             "elementECPElectrons": 60,
             "elementECP": [
@@ -4872,7 +4873,7 @@
         },
         "86": {
             "elementReferences": [
-                "STUTTGART-MCDHF-RSC-ECP-REF"
+                "peterson:2003b"
             ],
             "elementECPElectrons": 60,
             "elementECP": [

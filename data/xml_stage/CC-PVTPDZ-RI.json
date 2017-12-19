@@ -5,7 +5,7 @@
     "basisSetElements": {
         "13": {
             "elementReferences": [
-                "CC-PVTPDZ-RI-BS-REF"
+                "weigend:2002a"
             ],
             "elementElectronShells": [
                 {
@@ -524,7 +524,7 @@
         },
         "14": {
             "elementReferences": [
-                "CC-PVTPDZ-RI-BS-REF"
+                "weigend:2002a"
             ],
             "elementElectronShells": [
                 {
@@ -1043,7 +1043,7 @@
         },
         "15": {
             "elementReferences": [
-                "CC-PVTPDZ-RI-BS-REF"
+                "weigend:2002a"
             ],
             "elementElectronShells": [
                 {
@@ -1562,7 +1562,7 @@
         },
         "16": {
             "elementReferences": [
-                "CC-PVTPDZ-RI-BS-REF"
+                "weigend:2002a"
             ],
             "elementElectronShells": [
                 {
@@ -2081,7 +2081,7 @@
         },
         "17": {
             "elementReferences": [
-                "CC-PVTPDZ-RI-BS-REF"
+                "weigend:2002a"
             ],
             "elementElectronShells": [
                 {
@@ -2600,7 +2600,7 @@
         },
         "18": {
             "elementReferences": [
-                "CC-PVTPDZ-RI-BS-REF"
+                "weigend:2002a"
             ],
             "elementElectronShells": [
                 {

@@ -1,0 +1,26 @@
+{
+    "citations": [
+        {
+            "Z": [
+                1,
+                6,
+                7,
+                8
+            ],
+            "article": "krishnan:1980a",
+            "original": "R. Krishnan, J.S. Binkley, R. Seeger and J.A. Pople, Selfconsistent molecular orbital methods. XX. A basis set for correlated wave functions, J. Chem. Phys. 72, 650-654 (1980)."
+        },
+        {
+            "Z": [
+                1,
+                6,
+                7,
+                8
+            ],
+            "article": "kjaer:2011a",
+            "original": "H. Kj\u00e6r and S. P. A. Sauer, Pople style basis sets for the calculation of NMR spin-spin coupling constants: the 6-31G-J and 6-311G-J basis sets, J. Chem. Theory Comput. 7, 4070-4076 (2011).  "
+        }
+    ],
+    "original": "Elements                             References\n--------                             ----------\nH C N O: R. Krishnan, J.S. Binkley, R. Seeger and J.A. Pople, Selfconsistent molecular orbital methods. XX. A basis set for correlated wave functions, J. Chem. Phys. 72, 650-654 (1980).\nH C N O: H. Kj\u00e6r and S. P. A. Sauer, Pople style basis sets for the calculation of NMR spin-spin coupling constants: the 6-31G-J and 6-311G-J basis sets, J. Chem. Theory Comput. 7, 4070-4076 (2011).\n\n\n",
+    "valid": true
+}

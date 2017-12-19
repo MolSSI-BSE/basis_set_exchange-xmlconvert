@@ -4,9 +4,7 @@
     "basisSetDescription": "aug-cc-pV(7+d)Z",
     "basisSetElements": {
         "13": {
-            "elementReferences": [
-                "AUG-CC-PV7PDZ-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -944,7 +942,7 @@
         },
         "14": {
             "elementReferences": [
-                "AUG-CC-PV7PDZ-BS-REF"
+                "feller:2013a"
             ],
             "elementElectronShells": [
                 {
@@ -1883,7 +1881,7 @@
         },
         "15": {
             "elementReferences": [
-                "AUG-CC-PV7PDZ-BS-REF"
+                "feller:2013a"
             ],
             "elementElectronShells": [
                 {
@@ -2822,7 +2820,7 @@
         },
         "16": {
             "elementReferences": [
-                "AUG-CC-PV7PDZ-BS-REF"
+                "feller:2011a"
             ],
             "elementElectronShells": [
                 {
@@ -3825,7 +3823,7 @@
         },
         "17": {
             "elementReferences": [
-                "AUG-CC-PV7PDZ-BS-REF"
+                "feller:2011a"
             ],
             "elementElectronShells": [
                 {

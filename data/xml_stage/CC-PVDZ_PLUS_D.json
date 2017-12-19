@@ -5,7 +5,7 @@
     "basisSetElements": {
         "13": {
             "elementReferences": [
-                "CC-PVDZ_PLUS_D-BS-REF"
+                "dunning:2001a"
             ],
             "elementElectronShells": [
                 {
@@ -164,7 +164,7 @@
         },
         "14": {
             "elementReferences": [
-                "CC-PVDZ_PLUS_D-BS-REF"
+                "dunning:2001a"
             ],
             "elementElectronShells": [
                 {
@@ -323,7 +323,7 @@
         },
         "15": {
             "elementReferences": [
-                "CC-PVDZ_PLUS_D-BS-REF"
+                "dunning:2001a"
             ],
             "elementElectronShells": [
                 {
@@ -482,7 +482,7 @@
         },
         "16": {
             "elementReferences": [
-                "CC-PVDZ_PLUS_D-BS-REF"
+                "dunning:2001a"
             ],
             "elementElectronShells": [
                 {
@@ -641,7 +641,7 @@
         },
         "17": {
             "elementReferences": [
-                "CC-PVDZ_PLUS_D-BS-REF"
+                "dunning:2001a"
             ],
             "elementElectronShells": [
                 {
@@ -800,7 +800,7 @@
         },
         "18": {
             "elementReferences": [
-                "CC-PVDZ_PLUS_D-BS-REF"
+                "dunning:2001a"
             ],
             "elementElectronShells": [
                 {

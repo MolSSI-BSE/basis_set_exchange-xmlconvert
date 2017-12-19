@@ -5,7 +5,8 @@
     "basisSetElements": {
         "21": {
             "elementReferences": [
-                "BAUSCLICHER_ANO-BS-REF"
+                "bauschlicher:1995a",
+                "partridge:1989a"
             ],
             "elementElectronShells": [
                 {
@@ -477,7 +478,8 @@
         },
         "22": {
             "elementReferences": [
-                "BAUSCLICHER_ANO-BS-REF"
+                "bauschlicher:1995a",
+                "partridge:1989a"
             ],
             "elementElectronShells": [
                 {
@@ -949,7 +951,8 @@
         },
         "23": {
             "elementReferences": [
-                "BAUSCLICHER_ANO-BS-REF"
+                "bauschlicher:1995a",
+                "partridge:1989a"
             ],
             "elementElectronShells": [
                 {
@@ -1411,7 +1414,8 @@
         },
         "24": {
             "elementReferences": [
-                "BAUSCLICHER_ANO-BS-REF"
+                "bauschlicher:1995a",
+                "partridge:1989a"
             ],
             "elementElectronShells": [
                 {
@@ -1873,7 +1877,8 @@
         },
         "25": {
             "elementReferences": [
-                "BAUSCLICHER_ANO-BS-REF"
+                "bauschlicher:1995a",
+                "partridge:1989a"
             ],
             "elementElectronShells": [
                 {
@@ -2335,7 +2340,8 @@
         },
         "26": {
             "elementReferences": [
-                "BAUSCLICHER_ANO-BS-REF"
+                "bauschlicher:1995a",
+                "partridge:1989a"
             ],
             "elementElectronShells": [
                 {
@@ -2797,7 +2803,8 @@
         },
         "27": {
             "elementReferences": [
-                "BAUSCLICHER_ANO-BS-REF"
+                "bauschlicher:1995a",
+                "partridge:1989a"
             ],
             "elementElectronShells": [
                 {
@@ -3259,7 +3266,8 @@
         },
         "28": {
             "elementReferences": [
-                "BAUSCLICHER_ANO-BS-REF"
+                "bauschlicher:1995a",
+                "partridge:1989a"
             ],
             "elementElectronShells": [
                 {
@@ -3721,7 +3729,8 @@
         },
         "29": {
             "elementReferences": [
-                "BAUSCLICHER_ANO-BS-REF"
+                "bauschlicher:1995a",
+                "partridge:1989a"
             ],
             "elementElectronShells": [
                 {

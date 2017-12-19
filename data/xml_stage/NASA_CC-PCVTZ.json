@@ -5,7 +5,8 @@
     "basisSetElements": {
         "22": {
             "elementReferences": [
-                "NASA_CC-PCVTZ-BS-REF"
+                "bauschlicher:1999a",
+                "bauschlicher:1995a"
             ],
             "elementElectronShells": [
                 {

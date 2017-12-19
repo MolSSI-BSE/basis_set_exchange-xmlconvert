@@ -5,7 +5,7 @@
     "basisSetElements": {
         "1": {
             "elementReferences": [
-                "G3LARGEXP-BS-REF"
+                "curtiss:2007a"
             ],
             "elementElectronShells": [
                 {
@@ -112,7 +112,7 @@
         },
         "2": {
             "elementReferences": [
-                "G3LARGEXP-BS-REF"
+                "curtiss:2007a"
             ],
             "elementElectronShells": [
                 {
@@ -219,7 +219,7 @@
         },
         "3": {
             "elementReferences": [
-                "G3LARGEXP-BS-REF"
+                "curtiss:2007a"
             ],
             "elementElectronShells": [
                 {
@@ -434,7 +434,7 @@
         },
         "4": {
             "elementReferences": [
-                "G3LARGEXP-BS-REF"
+                "curtiss:2007a"
             ],
             "elementElectronShells": [
                 {
@@ -649,7 +649,7 @@
         },
         "5": {
             "elementReferences": [
-                "G3LARGEXP-BS-REF"
+                "curtiss:2007a"
             ],
             "elementElectronShells": [
                 {
@@ -864,7 +864,7 @@
         },
         "6": {
             "elementReferences": [
-                "G3LARGEXP-BS-REF"
+                "curtiss:2007a"
             ],
             "elementElectronShells": [
                 {
@@ -1079,7 +1079,7 @@
         },
         "7": {
             "elementReferences": [
-                "G3LARGEXP-BS-REF"
+                "curtiss:2007a"
             ],
             "elementElectronShells": [
                 {
@@ -1294,7 +1294,7 @@
         },
         "8": {
             "elementReferences": [
-                "G3LARGEXP-BS-REF"
+                "curtiss:2007a"
             ],
             "elementElectronShells": [
                 {
@@ -1509,7 +1509,7 @@
         },
         "9": {
             "elementReferences": [
-                "G3LARGEXP-BS-REF"
+                "curtiss:2007a"
             ],
             "elementElectronShells": [
                 {
@@ -1724,7 +1724,7 @@
         },
         "10": {
             "elementReferences": [
-                "G3LARGEXP-BS-REF"
+                "curtiss:2007a"
             ],
             "elementElectronShells": [
                 {
@@ -1939,7 +1939,7 @@
         },
         "11": {
             "elementReferences": [
-                "G3LARGEXP-BS-REF"
+                "curtiss:2007a"
             ],
             "elementElectronShells": [
                 {
@@ -2276,7 +2276,7 @@
         },
         "12": {
             "elementReferences": [
-                "G3LARGEXP-BS-REF"
+                "curtiss:2007a"
             ],
             "elementElectronShells": [
                 {
@@ -2613,7 +2613,7 @@
         },
         "13": {
             "elementReferences": [
-                "G3LARGEXP-BS-REF"
+                "curtiss:2007a"
             ],
             "elementElectronShells": [
                 {
@@ -2966,7 +2966,7 @@
         },
         "14": {
             "elementReferences": [
-                "G3LARGEXP-BS-REF"
+                "curtiss:2007a"
             ],
             "elementElectronShells": [
                 {
@@ -3319,7 +3319,7 @@
         },
         "15": {
             "elementReferences": [
-                "G3LARGEXP-BS-REF"
+                "curtiss:2007a"
             ],
             "elementElectronShells": [
                 {
@@ -3672,7 +3672,7 @@
         },
         "16": {
             "elementReferences": [
-                "G3LARGEXP-BS-REF"
+                "curtiss:2007a"
             ],
             "elementElectronShells": [
                 {
@@ -4025,7 +4025,7 @@
         },
         "17": {
             "elementReferences": [
-                "G3LARGEXP-BS-REF"
+                "curtiss:2007a"
             ],
             "elementElectronShells": [
                 {
@@ -4378,7 +4378,7 @@
         },
         "18": {
             "elementReferences": [
-                "G3LARGEXP-BS-REF"
+                "curtiss:2007a"
             ],
             "elementElectronShells": [
                 {
@@ -4731,7 +4731,7 @@
         },
         "19": {
             "elementReferences": [
-                "G3LARGEXP-BS-REF"
+                "curtiss:2007a"
             ],
             "elementElectronShells": [
                 {
@@ -5188,7 +5188,7 @@
         },
         "20": {
             "elementReferences": [
-                "G3LARGEXP-BS-REF"
+                "curtiss:2007a"
             ],
             "elementElectronShells": [
                 {
@@ -5645,7 +5645,7 @@
         },
         "21": {
             "elementReferences": [
-                "G3LARGEXP-BS-REF"
+                "curtiss:2007a"
             ],
             "elementElectronShells": [
                 {
@@ -6130,7 +6130,7 @@
         },
         "22": {
             "elementReferences": [
-                "G3LARGEXP-BS-REF"
+                "curtiss:2007a"
             ],
             "elementElectronShells": [
                 {
@@ -6615,7 +6615,7 @@
         },
         "23": {
             "elementReferences": [
-                "G3LARGEXP-BS-REF"
+                "curtiss:2007a"
             ],
             "elementElectronShells": [
                 {
@@ -7100,7 +7100,7 @@
         },
         "24": {
             "elementReferences": [
-                "G3LARGEXP-BS-REF"
+                "curtiss:2007a"
             ],
             "elementElectronShells": [
                 {
@@ -7585,7 +7585,7 @@
         },
         "25": {
             "elementReferences": [
-                "G3LARGEXP-BS-REF"
+                "curtiss:2007a"
             ],
             "elementElectronShells": [
                 {
@@ -8070,7 +8070,7 @@
         },
         "26": {
             "elementReferences": [
-                "G3LARGEXP-BS-REF"
+                "curtiss:2007a"
             ],
             "elementElectronShells": [
                 {
@@ -8555,7 +8555,7 @@
         },
         "27": {
             "elementReferences": [
-                "G3LARGEXP-BS-REF"
+                "curtiss:2007a"
             ],
             "elementElectronShells": [
                 {
@@ -9040,7 +9040,7 @@
         },
         "28": {
             "elementReferences": [
-                "G3LARGEXP-BS-REF"
+                "curtiss:2007a"
             ],
             "elementElectronShells": [
                 {
@@ -9525,7 +9525,7 @@
         },
         "29": {
             "elementReferences": [
-                "G3LARGEXP-BS-REF"
+                "curtiss:2007a"
             ],
             "elementElectronShells": [
                 {
@@ -10010,7 +10010,7 @@
         },
         "30": {
             "elementReferences": [
-                "G3LARGEXP-BS-REF"
+                "curtiss:2007a"
             ],
             "elementElectronShells": [
                 {
@@ -10495,7 +10495,7 @@
         },
         "31": {
             "elementReferences": [
-                "G3LARGEXP-BS-REF"
+                "curtiss:2007a"
             ],
             "elementElectronShells": [
                 {
@@ -10952,7 +10952,7 @@
         },
         "32": {
             "elementReferences": [
-                "G3LARGEXP-BS-REF"
+                "curtiss:2007a"
             ],
             "elementElectronShells": [
                 {
@@ -11409,7 +11409,7 @@
         },
         "33": {
             "elementReferences": [
-                "G3LARGEXP-BS-REF"
+                "curtiss:2007a"
             ],
             "elementElectronShells": [
                 {
@@ -11866,7 +11866,7 @@
         },
         "34": {
             "elementReferences": [
-                "G3LARGEXP-BS-REF"
+                "curtiss:2007a"
             ],
             "elementElectronShells": [
                 {
@@ -12323,7 +12323,7 @@
         },
         "35": {
             "elementReferences": [
-                "G3LARGEXP-BS-REF"
+                "curtiss:2007a"
             ],
             "elementElectronShells": [
                 {
@@ -12780,7 +12780,7 @@
         },
         "36": {
             "elementReferences": [
-                "G3LARGEXP-BS-REF"
+                "curtiss:2007a"
             ],
             "elementElectronShells": [
                 {

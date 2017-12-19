@@ -21,15 +21,10 @@ def find_Z(js, Z):
 # files to search
 file_list = glob.glob("*.json")
 
+refdata = bse.read_references("refs/REFERENCES.json")
+
 for f in file_list:
     fbase = os.path.splitext(f)[0]
-
-    # "Description"
-    txtfile = fbase + '.txt'
-    if os.path.isfile(txtfile):
-        with open(txtfile, 'r') as ftmp:
-            file_desc = ftmp.read()
-
     file_data = bse.read_json_basis(f)
 
     # for each element
@@ -44,16 +39,16 @@ for f in file_list:
 
         if len(elref) > 1:
             raise RuntimeError("Multiple references")
+        #elif len(elref == 0)
+        #    continue
 
         elref = elref[0]
 
         reffile = os.path.join(ref_dir, elref + '.json')
         file_ref_json = None
-        file_ref_raw = None
         if os.path.isfile(reffile):
             with open(reffile, 'r') as ftmp:
                 file_ref_json = json.loads(ftmp.read())
-                file_ref_raw = file_ref_json['original']
         else:
             print("Missing file {}".format(reffile))
             continue
@@ -64,10 +59,16 @@ for f in file_list:
         for d in elref_data:
             if 'article' in d:
                 new_references.append(d['article'])
+                if not d['article'] in refdata:
+                    print("File: ", f)
+                    print("reffile: ", reffile)
+                    raise RuntimeError("Reference {} not found in REFERENCES".format(d['article']))
+            else:
+                print("No article: {}".format(reffile))
 
-        print("    Articles: ", new_references)
+        #print("    Articles: ", new_references)
         data['elementReferences'] = new_references
 
-    os.rename(f, f+'.old')
+    #os.rename(f, f+'.old')
     bse.write_json_basis(f, file_data)
     

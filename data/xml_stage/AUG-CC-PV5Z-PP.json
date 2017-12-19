@@ -5,7 +5,7 @@
     "basisSetElements": {
         "29": {
             "elementReferences": [
-                "AUG-CC-PV5Z-PP-BS-REF"
+                "peterson:2005a"
             ],
             "elementElectronShells": [
                 {
@@ -124,7 +124,7 @@
         },
         "30": {
             "elementReferences": [
-                "AUG-CC-PV5Z-PP-BS-REF"
+                "peterson:2005a"
             ],
             "elementElectronShells": [
                 {
@@ -243,7 +243,7 @@
         },
         "31": {
             "elementReferences": [
-                "AUG-CC-PV5Z-PP-BS-REF"
+                "peterson:2003a"
             ],
             "elementElectronShells": [
                 {
@@ -346,7 +346,7 @@
         },
         "32": {
             "elementReferences": [
-                "AUG-CC-PV5Z-PP-BS-REF"
+                "peterson:2003a"
             ],
             "elementElectronShells": [
                 {
@@ -449,7 +449,7 @@
         },
         "33": {
             "elementReferences": [
-                "AUG-CC-PV5Z-PP-BS-REF"
+                "peterson:2003a"
             ],
             "elementElectronShells": [
                 {
@@ -552,7 +552,7 @@
         },
         "34": {
             "elementReferences": [
-                "AUG-CC-PV5Z-PP-BS-REF"
+                "peterson:2003b"
             ],
             "elementElectronShells": [
                 {
@@ -655,7 +655,7 @@
         },
         "35": {
             "elementReferences": [
-                "AUG-CC-PV5Z-PP-BS-REF"
+                "peterson:2003b"
             ],
             "elementElectronShells": [
                 {
@@ -758,7 +758,7 @@
         },
         "36": {
             "elementReferences": [
-                "AUG-CC-PV5Z-PP-BS-REF"
+                "peterson:2003b"
             ],
             "elementElectronShells": [
                 {
@@ -861,7 +861,7 @@
         },
         "39": {
             "elementReferences": [
-                "AUG-CC-PV5Z-PP-BS-REF"
+                "peterson:2007a"
             ],
             "elementElectronShells": [
                 {
@@ -980,7 +980,7 @@
         },
         "40": {
             "elementReferences": [
-                "AUG-CC-PV5Z-PP-BS-REF"
+                "peterson:2007a"
             ],
             "elementElectronShells": [
                 {
@@ -1099,7 +1099,7 @@
         },
         "41": {
             "elementReferences": [
-                "AUG-CC-PV5Z-PP-BS-REF"
+                "peterson:2007a"
             ],
             "elementElectronShells": [
                 {
@@ -1218,7 +1218,7 @@
         },
         "42": {
             "elementReferences": [
-                "AUG-CC-PV5Z-PP-BS-REF"
+                "peterson:2007a"
             ],
             "elementElectronShells": [
                 {
@@ -1337,7 +1337,7 @@
         },
         "43": {
             "elementReferences": [
-                "AUG-CC-PV5Z-PP-BS-REF"
+                "peterson:2007a"
             ],
             "elementElectronShells": [
                 {
@@ -1456,7 +1456,7 @@
         },
         "44": {
             "elementReferences": [
-                "AUG-CC-PV5Z-PP-BS-REF"
+                "peterson:2007a"
             ],
             "elementElectronShells": [
                 {
@@ -1575,7 +1575,7 @@
         },
         "45": {
             "elementReferences": [
-                "AUG-CC-PV5Z-PP-BS-REF"
+                "peterson:2007a"
             ],
             "elementElectronShells": [
                 {
@@ -1694,7 +1694,8 @@
         },
         "46": {
             "elementReferences": [
-                "AUG-CC-PV5Z-PP-BS-REF"
+                "peterson:2005a",
+                "peterson:2007a"
             ],
             "elementElectronShells": [
                 {
@@ -1813,7 +1814,7 @@
         },
         "47": {
             "elementReferences": [
-                "AUG-CC-PV5Z-PP-BS-REF"
+                "peterson:2005a"
             ],
             "elementElectronShells": [
                 {
@@ -1931,9 +1932,7 @@
             ]
         },
         "48": {
-            "elementReferences": [
-                "AUG-CC-PV5Z-PP-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -2051,7 +2050,7 @@
         },
         "49": {
             "elementReferences": [
-                "AUG-CC-PV5Z-PP-BS-REF"
+                "peterson:2003a"
             ],
             "elementElectronShells": [
                 {
@@ -2154,7 +2153,7 @@
         },
         "50": {
             "elementReferences": [
-                "AUG-CC-PV5Z-PP-BS-REF"
+                "peterson:2003a"
             ],
             "elementElectronShells": [
                 {
@@ -2257,7 +2256,7 @@
         },
         "51": {
             "elementReferences": [
-                "AUG-CC-PV5Z-PP-BS-REF"
+                "peterson:2003a"
             ],
             "elementElectronShells": [
                 {
@@ -2360,7 +2359,7 @@
         },
         "52": {
             "elementReferences": [
-                "AUG-CC-PV5Z-PP-BS-REF"
+                "peterson:2003b"
             ],
             "elementElectronShells": [
                 {
@@ -2463,7 +2462,8 @@
         },
         "53": {
             "elementReferences": [
-                "AUG-CC-PV5Z-PP-BS-REF"
+                "peterson:2003b",
+                "peterson:2006a"
             ],
             "elementElectronShells": [
                 {
@@ -2566,7 +2566,7 @@
         },
         "54": {
             "elementReferences": [
-                "AUG-CC-PV5Z-PP-BS-REF"
+                "peterson:2003b"
             ],
             "elementElectronShells": [
                 {
@@ -2669,7 +2669,7 @@
         },
         "72": {
             "elementReferences": [
-                "AUG-CC-PV5Z-PP-BS-REF"
+                "figgen:2009a"
             ],
             "elementElectronShells": [
                 {
@@ -2788,7 +2788,7 @@
         },
         "73": {
             "elementReferences": [
-                "AUG-CC-PV5Z-PP-BS-REF"
+                "figgen:2009a"
             ],
             "elementElectronShells": [
                 {
@@ -2907,7 +2907,7 @@
         },
         "74": {
             "elementReferences": [
-                "AUG-CC-PV5Z-PP-BS-REF"
+                "figgen:2009a"
             ],
             "elementElectronShells": [
                 {
@@ -3026,7 +3026,7 @@
         },
         "75": {
             "elementReferences": [
-                "AUG-CC-PV5Z-PP-BS-REF"
+                "figgen:2009a"
             ],
             "elementElectronShells": [
                 {
@@ -3145,7 +3145,7 @@
         },
         "76": {
             "elementReferences": [
-                "AUG-CC-PV5Z-PP-BS-REF"
+                "figgen:2009a"
             ],
             "elementElectronShells": [
                 {
@@ -3264,7 +3264,7 @@
         },
         "77": {
             "elementReferences": [
-                "AUG-CC-PV5Z-PP-BS-REF"
+                "figgen:2009a"
             ],
             "elementElectronShells": [
                 {
@@ -3383,7 +3383,7 @@
         },
         "78": {
             "elementReferences": [
-                "AUG-CC-PV5Z-PP-BS-REF"
+                "figgen:2009a"
             ],
             "elementElectronShells": [
                 {
@@ -3502,7 +3502,7 @@
         },
         "79": {
             "elementReferences": [
-                "AUG-CC-PV5Z-PP-BS-REF"
+                "peterson:2005a"
             ],
             "elementElectronShells": [
                 {
@@ -3621,7 +3621,7 @@
         },
         "80": {
             "elementReferences": [
-                "AUG-CC-PV5Z-PP-BS-REF"
+                "peterson:2005a"
             ],
             "elementElectronShells": [
                 {
@@ -3740,7 +3740,7 @@
         },
         "81": {
             "elementReferences": [
-                "AUG-CC-PV5Z-PP-BS-REF"
+                "peterson:2003a"
             ],
             "elementElectronShells": [
                 {
@@ -3843,7 +3843,7 @@
         },
         "82": {
             "elementReferences": [
-                "AUG-CC-PV5Z-PP-BS-REF"
+                "peterson:2003a"
             ],
             "elementElectronShells": [
                 {
@@ -3946,7 +3946,7 @@
         },
         "83": {
             "elementReferences": [
-                "AUG-CC-PV5Z-PP-BS-REF"
+                "peterson:2003a"
             ],
             "elementElectronShells": [
                 {
@@ -4049,7 +4049,7 @@
         },
         "84": {
             "elementReferences": [
-                "AUG-CC-PV5Z-PP-BS-REF"
+                "peterson:2003b"
             ],
             "elementElectronShells": [
                 {
@@ -4152,7 +4152,7 @@
         },
         "85": {
             "elementReferences": [
-                "AUG-CC-PV5Z-PP-BS-REF"
+                "peterson:2003b"
             ],
             "elementElectronShells": [
                 {
@@ -4255,7 +4255,7 @@
         },
         "86": {
             "elementReferences": [
-                "AUG-CC-PV5Z-PP-BS-REF"
+                "peterson:2003b"
             ],
             "elementElectronShells": [
                 {

@@ -5,7 +5,7 @@
     "basisSetElements": {
         "3": {
             "elementReferences": [
-                "CVTZ_LIBENAMGKCA-BS-REF"
+                "iron:2003a"
             ],
             "elementElectronShells": [
                 {
@@ -340,7 +340,7 @@
         },
         "4": {
             "elementReferences": [
-                "CVTZ_LIBENAMGKCA-BS-REF"
+                "iron:2003a"
             ],
             "elementElectronShells": [
                 {
@@ -675,7 +675,7 @@
         },
         "11": {
             "elementReferences": [
-                "CVTZ_LIBENAMGKCA-BS-REF"
+                "iron:2003a"
             ],
             "elementElectronShells": [
                 {
@@ -1378,7 +1378,7 @@
         },
         "12": {
             "elementReferences": [
-                "CVTZ_LIBENAMGKCA-BS-REF"
+                "iron:2003a"
             ],
             "elementElectronShells": [
                 {
@@ -2057,7 +2057,7 @@
         },
         "19": {
             "elementReferences": [
-                "CVTZ_LIBENAMGKCA-BS-REF"
+                "iron:2003a"
             ],
             "elementElectronShells": [
                 {
@@ -3272,7 +3272,7 @@
         },
         "20": {
             "elementReferences": [
-                "CVTZ_LIBENAMGKCA-BS-REF"
+                "iron:2003a"
             ],
             "elementElectronShells": [
                 {

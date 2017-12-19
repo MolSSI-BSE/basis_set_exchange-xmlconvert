@@ -5,7 +5,7 @@
     "basisSetElements": {
         "3": {
             "elementReferences": [
-                "CC-PCVTZ-F12MP2FITTING-BS-REF"
+                "kritikou:2015a"
             ],
             "elementElectronShells": [
                 {
@@ -748,7 +748,7 @@
         },
         "4": {
             "elementReferences": [
-                "CC-PCVTZ-F12MP2FITTING-BS-REF"
+                "kritikou:2015a"
             ],
             "elementElectronShells": [
                 {
@@ -1491,7 +1491,7 @@
         },
         "5": {
             "elementReferences": [
-                "CC-PCVTZ-F12MP2FITTING-BS-REF"
+                "kritikou:2015a"
             ],
             "elementElectronShells": [
                 {
@@ -2234,7 +2234,7 @@
         },
         "6": {
             "elementReferences": [
-                "CC-PCVTZ-F12MP2FITTING-BS-REF"
+                "kritikou:2015a"
             ],
             "elementElectronShells": [
                 {
@@ -2977,7 +2977,7 @@
         },
         "7": {
             "elementReferences": [
-                "CC-PCVTZ-F12MP2FITTING-BS-REF"
+                "kritikou:2015a"
             ],
             "elementElectronShells": [
                 {
@@ -3720,7 +3720,7 @@
         },
         "8": {
             "elementReferences": [
-                "CC-PCVTZ-F12MP2FITTING-BS-REF"
+                "kritikou:2015a"
             ],
             "elementElectronShells": [
                 {
@@ -4463,7 +4463,7 @@
         },
         "9": {
             "elementReferences": [
-                "CC-PCVTZ-F12MP2FITTING-BS-REF"
+                "kritikou:2015a"
             ],
             "elementElectronShells": [
                 {
@@ -5206,7 +5206,7 @@
         },
         "10": {
             "elementReferences": [
-                "CC-PCVTZ-F12MP2FITTING-BS-REF"
+                "kritikou:2015a"
             ],
             "elementElectronShells": [
                 {
@@ -5949,7 +5949,7 @@
         },
         "11": {
             "elementReferences": [
-                "CC-PCVTZ-F12MP2FITTING-BS-REF"
+                "kritikou:2015a"
             ],
             "elementElectronShells": [
                 {
@@ -6852,7 +6852,7 @@
         },
         "12": {
             "elementReferences": [
-                "CC-PCVTZ-F12MP2FITTING-BS-REF"
+                "kritikou:2015a"
             ],
             "elementElectronShells": [
                 {
@@ -7755,7 +7755,7 @@
         },
         "13": {
             "elementReferences": [
-                "CC-PCVTZ-F12MP2FITTING-BS-REF"
+                "kritikou:2015a"
             ],
             "elementElectronShells": [
                 {
@@ -8658,7 +8658,7 @@
         },
         "14": {
             "elementReferences": [
-                "CC-PCVTZ-F12MP2FITTING-BS-REF"
+                "kritikou:2015a"
             ],
             "elementElectronShells": [
                 {
@@ -9561,7 +9561,7 @@
         },
         "15": {
             "elementReferences": [
-                "CC-PCVTZ-F12MP2FITTING-BS-REF"
+                "kritikou:2015a"
             ],
             "elementElectronShells": [
                 {
@@ -10464,7 +10464,7 @@
         },
         "16": {
             "elementReferences": [
-                "CC-PCVTZ-F12MP2FITTING-BS-REF"
+                "kritikou:2015a"
             ],
             "elementElectronShells": [
                 {
@@ -11367,7 +11367,7 @@
         },
         "17": {
             "elementReferences": [
-                "CC-PCVTZ-F12MP2FITTING-BS-REF"
+                "kritikou:2015a"
             ],
             "elementElectronShells": [
                 {
@@ -12270,7 +12270,7 @@
         },
         "18": {
             "elementReferences": [
-                "CC-PCVTZ-F12MP2FITTING-BS-REF"
+                "kritikou:2015a"
             ],
             "elementElectronShells": [
                 {

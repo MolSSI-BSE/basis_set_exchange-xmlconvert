@@ -5,7 +5,8 @@
     "basisSetElements": {
         "31": {
             "elementReferences": [
-                "BINCURT-VDZ-BS-REF"
+                "binning:1990a",
+                "dunning:1977a"
             ],
             "elementElectronShells": [
                 {
@@ -226,7 +227,8 @@
         },
         "32": {
             "elementReferences": [
-                "BINCURT-VDZ-BS-REF"
+                "binning:1990a",
+                "dunning:1977a"
             ],
             "elementElectronShells": [
                 {
@@ -447,7 +449,8 @@
         },
         "33": {
             "elementReferences": [
-                "BINCURT-VDZ-BS-REF"
+                "binning:1990a",
+                "dunning:1977a"
             ],
             "elementElectronShells": [
                 {
@@ -668,7 +671,8 @@
         },
         "34": {
             "elementReferences": [
-                "BINCURT-VDZ-BS-REF"
+                "binning:1990a",
+                "dunning:1977a"
             ],
             "elementElectronShells": [
                 {
@@ -889,7 +893,8 @@
         },
         "35": {
             "elementReferences": [
-                "BINCURT-VDZ-BS-REF"
+                "binning:1990a",
+                "dunning:1977a"
             ],
             "elementElectronShells": [
                 {
@@ -1110,7 +1115,8 @@
         },
         "36": {
             "elementReferences": [
-                "BINCURT-VDZ-BS-REF"
+                "binning:1990a",
+                "dunning:1977a"
             ],
             "elementElectronShells": [
                 {

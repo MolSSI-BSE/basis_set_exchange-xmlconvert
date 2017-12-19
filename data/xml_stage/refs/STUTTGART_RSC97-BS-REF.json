@@ -1,0 +1,28 @@
+{
+    "citations": [
+        {
+            "Z": [
+                19
+            ],
+            "article": "bergner:1993a",
+            "original": "A. Bergner, M. Dolg, W. Kuechle, H. Stoll, H. Preuss, Mol. Phys. 80, 1431 (1993)."
+        },
+        {
+            "Z": [
+                20
+            ],
+            "article": "kaupp:1991a",
+            "original": "M. Kaupp, P. v. R. Schleyer, H. Stoll, H. Preuss, J. Chem. Phys. 94, 1360 (1991)."
+        },
+        {
+            "Z": [
+                104,
+                105
+            ],
+            "article": "dolg:1993a",
+            "original": "M. Dolg, H. Stoll, H. Preuss, R.M. Pitzer, J. Phys. Chem. 97, 5852 (1993).  "
+        }
+    ],
+    "original": "Elements                             References\n--------                             ----------\nK      : A. Bergner, M. Dolg, W. Kuechle, H. Stoll, H. Preuss, Mol. Phys. 80,\n1431 (1993).\nCa     : M. Kaupp, P. v. R. Schleyer, H. Stoll, H. Preuss, J. Chem. Phys. 94,\n1360 (1991).\nRf - Db:  M. Dolg, H. Stoll, H. Preuss, R.M. Pitzer, J. Phys. Chem. 97, 5852\n(1993).\n\n\n",
+    "valid": true
+}

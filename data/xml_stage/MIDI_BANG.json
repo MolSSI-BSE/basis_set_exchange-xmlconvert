@@ -5,7 +5,7 @@
     "basisSetElements": {
         "1": {
             "elementReferences": [
-                "MIDI_BANG-BS-REF"
+                "easton:1996a"
             ],
             "elementElectronShells": [
                 {
@@ -46,7 +46,7 @@
         },
         "6": {
             "elementReferences": [
-                "MIDI_BANG-BS-REF"
+                "easton:1996a"
             ],
             "elementElectronShells": [
                 {
@@ -141,7 +141,7 @@
         },
         "7": {
             "elementReferences": [
-                "MIDI_BANG-BS-REF"
+                "easton:1996a"
             ],
             "elementElectronShells": [
                 {
@@ -252,7 +252,7 @@
         },
         "8": {
             "elementReferences": [
-                "MIDI_BANG-BS-REF"
+                "easton:1996a"
             ],
             "elementElectronShells": [
                 {
@@ -363,7 +363,7 @@
         },
         "9": {
             "elementReferences": [
-                "MIDI_BANG-BS-REF"
+                "easton:1996a"
             ],
             "elementElectronShells": [
                 {
@@ -474,7 +474,7 @@
         },
         "14": {
             "elementReferences": [
-                "MIDI_BANG-BS-REF"
+                "easton:1996a"
             ],
             "elementElectronShells": [
                 {
@@ -625,7 +625,7 @@
         },
         "15": {
             "elementReferences": [
-                "MIDI_BANG-BS-REF"
+                "easton:1996a"
             ],
             "elementElectronShells": [
                 {
@@ -776,7 +776,7 @@
         },
         "16": {
             "elementReferences": [
-                "MIDI_BANG-BS-REF"
+                "easton:1996a"
             ],
             "elementElectronShells": [
                 {
@@ -927,7 +927,7 @@
         },
         "17": {
             "elementReferences": [
-                "MIDI_BANG-BS-REF"
+                "easton:1996a"
             ],
             "elementElectronShells": [
                 {
@@ -1078,7 +1078,7 @@
         },
         "35": {
             "elementReferences": [
-                "MIDI_BANG-BS-REF"
+                "easton:1996a"
             ],
             "elementElectronShells": [
                 {
@@ -1289,7 +1289,7 @@
         },
         "53": {
             "elementReferences": [
-                "MIDI_BANG-BS-REF"
+                "easton:1996a"
             ],
             "elementElectronShells": [
                 {

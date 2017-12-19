@@ -4,9 +4,7 @@
     "basisSetDescription": "QZ3P    Quadruple Zeta + Polarization on All Atoms",
     "basisSetElements": {
         "19": {
-            "elementReferences": [
-                "FELLER_VQZ-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",

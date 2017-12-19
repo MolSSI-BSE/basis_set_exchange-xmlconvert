@@ -5,7 +5,7 @@
     "basisSetElements": {
         "1": {
             "elementReferences": [
-                "CCEMD-3-BS-REF"
+                "lehtola:2013a"
             ],
             "elementElectronShells": [
                 {
@@ -196,7 +196,7 @@
         },
         "2": {
             "elementReferences": [
-                "CCEMD-3-BS-REF"
+                "lehtola:2013a"
             ],
             "elementElectronShells": [
                 {
@@ -387,7 +387,7 @@
         },
         "3": {
             "elementReferences": [
-                "CCEMD-3-BS-REF"
+                "lehtola:2013a"
             ],
             "elementElectronShells": [
                 {
@@ -660,7 +660,7 @@
         },
         "4": {
             "elementReferences": [
-                "CCEMD-3-BS-REF"
+                "lehtola:2013a"
             ],
             "elementElectronShells": [
                 {
@@ -933,7 +933,7 @@
         },
         "5": {
             "elementReferences": [
-                "CCEMD-3-BS-REF"
+                "lehtola:2013a"
             ],
             "elementElectronShells": [
                 {
@@ -1229,7 +1229,7 @@
         },
         "6": {
             "elementReferences": [
-                "CCEMD-3-BS-REF"
+                "lehtola:2013a"
             ],
             "elementElectronShells": [
                 {
@@ -1525,7 +1525,7 @@
         },
         "7": {
             "elementReferences": [
-                "CCEMD-3-BS-REF"
+                "lehtola:2013a"
             ],
             "elementElectronShells": [
                 {
@@ -1821,7 +1821,7 @@
         },
         "8": {
             "elementReferences": [
-                "CCEMD-3-BS-REF"
+                "lehtola:2013a"
             ],
             "elementElectronShells": [
                 {
@@ -2117,7 +2117,7 @@
         },
         "9": {
             "elementReferences": [
-                "CCEMD-3-BS-REF"
+                "lehtola:2013a"
             ],
             "elementElectronShells": [
                 {
@@ -2413,7 +2413,7 @@
         },
         "10": {
             "elementReferences": [
-                "CCEMD-3-BS-REF"
+                "lehtola:2013a"
             ],
             "elementElectronShells": [
                 {
@@ -2709,7 +2709,7 @@
         },
         "11": {
             "elementReferences": [
-                "CCEMD-3-BS-REF"
+                "lehtola:2013a"
             ],
             "elementElectronShells": [
                 {
@@ -3048,7 +3048,7 @@
         },
         "12": {
             "elementReferences": [
-                "CCEMD-3-BS-REF"
+                "lehtola:2013a"
             ],
             "elementElectronShells": [
                 {
@@ -3387,7 +3387,7 @@
         },
         "13": {
             "elementReferences": [
-                "CCEMD-3-BS-REF"
+                "lehtola:2013a"
             ],
             "elementElectronShells": [
                 {
@@ -3767,7 +3767,7 @@
         },
         "14": {
             "elementReferences": [
-                "CCEMD-3-BS-REF"
+                "lehtola:2013a"
             ],
             "elementElectronShells": [
                 {
@@ -4147,7 +4147,7 @@
         },
         "15": {
             "elementReferences": [
-                "CCEMD-3-BS-REF"
+                "lehtola:2013a"
             ],
             "elementElectronShells": [
                 {
@@ -4527,7 +4527,7 @@
         },
         "16": {
             "elementReferences": [
-                "CCEMD-3-BS-REF"
+                "lehtola:2013a"
             ],
             "elementElectronShells": [
                 {
@@ -4907,7 +4907,7 @@
         },
         "17": {
             "elementReferences": [
-                "CCEMD-3-BS-REF"
+                "lehtola:2013a"
             ],
             "elementElectronShells": [
                 {
@@ -5287,7 +5287,7 @@
         },
         "18": {
             "elementReferences": [
-                "CCEMD-3-BS-REF"
+                "lehtola:2013a"
             ],
             "elementElectronShells": [
                 {

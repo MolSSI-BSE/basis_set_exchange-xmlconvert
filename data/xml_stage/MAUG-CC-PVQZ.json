@@ -5,7 +5,9 @@
     "basisSetElements": {
         "1": {
             "elementReferences": [
-                "MAUG-CC-PVQZ-BS-REF"
+                "papajak:2009a",
+                "papajak:2010a",
+                "dunning:1989a"
             ],
             "elementElectronShells": [
                 {
@@ -130,7 +132,9 @@
         },
         "2": {
             "elementReferences": [
-                "MAUG-CC-PVQZ-BS-REF"
+                "papajak:2009a",
+                "papajak:2010a",
+                "woon:1994a"
             ],
             "elementElectronShells": [
                 {
@@ -260,7 +264,9 @@
         },
         "3": {
             "elementReferences": [
-                "MAUG-CC-PVQZ-BS-REF"
+                "papajak:2009a",
+                "papajak:2010a",
+                "dunning:1989a"
             ],
             "elementElectronShells": [
                 {
@@ -514,7 +520,9 @@
         },
         "4": {
             "elementReferences": [
-                "MAUG-CC-PVQZ-BS-REF"
+                "papajak:2009a",
+                "papajak:2010a",
+                "dunning:1989a"
             ],
             "elementElectronShells": [
                 {
@@ -768,7 +776,10 @@
         },
         "5": {
             "elementReferences": [
-                "MAUG-CC-PVQZ-BS-REF"
+                "papajak:2009a",
+                "papajak:2010a",
+                "dunning:1989a",
+                "kendall:1992a"
             ],
             "elementElectronShells": [
                 {
@@ -1022,7 +1033,10 @@
         },
         "6": {
             "elementReferences": [
-                "MAUG-CC-PVQZ-BS-REF"
+                "papajak:2009a",
+                "papajak:2010a",
+                "dunning:1989a",
+                "kendall:1992a"
             ],
             "elementElectronShells": [
                 {
@@ -1276,7 +1290,10 @@
         },
         "7": {
             "elementReferences": [
-                "MAUG-CC-PVQZ-BS-REF"
+                "papajak:2009a",
+                "papajak:2010a",
+                "dunning:1989a",
+                "kendall:1992a"
             ],
             "elementElectronShells": [
                 {
@@ -1530,7 +1547,10 @@
         },
         "8": {
             "elementReferences": [
-                "MAUG-CC-PVQZ-BS-REF"
+                "papajak:2009a",
+                "papajak:2010a",
+                "dunning:1989a",
+                "kendall:1992a"
             ],
             "elementElectronShells": [
                 {
@@ -1784,7 +1804,10 @@
         },
         "9": {
             "elementReferences": [
-                "MAUG-CC-PVQZ-BS-REF"
+                "papajak:2009a",
+                "papajak:2010a",
+                "dunning:1989a",
+                "kendall:1992a"
             ],
             "elementElectronShells": [
                 {
@@ -2038,7 +2061,9 @@
         },
         "10": {
             "elementReferences": [
-                "MAUG-CC-PVQZ-BS-REF"
+                "papajak:2009a",
+                "papajak:2010a",
+                "dunning:1989a"
             ],
             "elementElectronShells": [
                 {
@@ -2292,7 +2317,8 @@
         },
         "11": {
             "elementReferences": [
-                "MAUG-CC-PVQZ-BS-REF"
+                "papajak:2009a",
+                "papajak:2010a"
             ],
             "elementElectronShells": [
                 {
@@ -2668,7 +2694,8 @@
         },
         "12": {
             "elementReferences": [
-                "MAUG-CC-PVQZ-BS-REF"
+                "papajak:2009a",
+                "papajak:2010a"
             ],
             "elementElectronShells": [
                 {
@@ -3020,7 +3047,10 @@
         },
         "13": {
             "elementReferences": [
-                "MAUG-CC-PVQZ-BS-REF"
+                "papajak:2009a",
+                "papajak:2010a",
+                "woon:1993a",
+                "dunning:2001a"
             ],
             "elementElectronShells": [
                 {
@@ -3365,7 +3395,10 @@
         },
         "14": {
             "elementReferences": [
-                "MAUG-CC-PVQZ-BS-REF"
+                "papajak:2009a",
+                "papajak:2010a",
+                "woon:1993a",
+                "dunning:2001a"
             ],
             "elementElectronShells": [
                 {
@@ -3710,7 +3743,10 @@
         },
         "15": {
             "elementReferences": [
-                "MAUG-CC-PVQZ-BS-REF"
+                "papajak:2009a",
+                "papajak:2010a",
+                "woon:1993a",
+                "dunning:2001a"
             ],
             "elementElectronShells": [
                 {
@@ -4055,7 +4091,10 @@
         },
         "16": {
             "elementReferences": [
-                "MAUG-CC-PVQZ-BS-REF"
+                "papajak:2009a",
+                "papajak:2010a",
+                "woon:1993a",
+                "dunning:2001a"
             ],
             "elementElectronShells": [
                 {
@@ -4400,7 +4439,10 @@
         },
         "17": {
             "elementReferences": [
-                "MAUG-CC-PVQZ-BS-REF"
+                "papajak:2009a",
+                "papajak:2010a",
+                "woon:1993a",
+                "dunning:2001a"
             ],
             "elementElectronShells": [
                 {
@@ -4745,7 +4787,10 @@
         },
         "18": {
             "elementReferences": [
-                "MAUG-CC-PVQZ-BS-REF"
+                "papajak:2009a",
+                "papajak:2010a",
+                "woon:1993a",
+                "dunning:2001a"
             ],
             "elementElectronShells": [
                 {

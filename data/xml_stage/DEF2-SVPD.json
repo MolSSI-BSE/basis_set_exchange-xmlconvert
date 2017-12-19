@@ -5,7 +5,7 @@
     "basisSetElements": {
         "1": {
             "elementReferences": [
-                "DEF2-SVPD-BS-REF"
+                "rappoport:2010a"
             ],
             "elementElectronShells": [
                 {
@@ -62,7 +62,7 @@
         },
         "2": {
             "elementReferences": [
-                "DEF2-SVPD-BS-REF"
+                "rappoport:2010a"
             ],
             "elementElectronShells": [
                 {
@@ -119,7 +119,7 @@
         },
         "3": {
             "elementReferences": [
-                "DEF2-SVPD-BS-REF"
+                "rappoport:2010a"
             ],
             "elementElectronShells": [
                 {
@@ -206,7 +206,7 @@
         },
         "4": {
             "elementReferences": [
-                "DEF2-SVPD-BS-REF"
+                "rappoport:2010a"
             ],
             "elementElectronShells": [
                 {
@@ -297,7 +297,7 @@
         },
         "5": {
             "elementReferences": [
-                "DEF2-SVPD-BS-REF"
+                "rappoport:2010a"
             ],
             "elementElectronShells": [
                 {
@@ -414,7 +414,7 @@
         },
         "6": {
             "elementReferences": [
-                "DEF2-SVPD-BS-REF"
+                "rappoport:2010a"
             ],
             "elementElectronShells": [
                 {
@@ -531,7 +531,7 @@
         },
         "7": {
             "elementReferences": [
-                "DEF2-SVPD-BS-REF"
+                "rappoport:2010a"
             ],
             "elementElectronShells": [
                 {
@@ -648,7 +648,7 @@
         },
         "8": {
             "elementReferences": [
-                "DEF2-SVPD-BS-REF"
+                "rappoport:2010a"
             ],
             "elementElectronShells": [
                 {
@@ -775,7 +775,7 @@
         },
         "9": {
             "elementReferences": [
-                "DEF2-SVPD-BS-REF"
+                "rappoport:2010a"
             ],
             "elementElectronShells": [
                 {
@@ -902,7 +902,7 @@
         },
         "10": {
             "elementReferences": [
-                "DEF2-SVPD-BS-REF"
+                "rappoport:2010a"
             ],
             "elementElectronShells": [
                 {
@@ -1029,7 +1029,7 @@
         },
         "11": {
             "elementReferences": [
-                "DEF2-SVPD-BS-REF"
+                "rappoport:2010a"
             ],
             "elementElectronShells": [
                 {
@@ -1168,7 +1168,7 @@
         },
         "12": {
             "elementReferences": [
-                "DEF2-SVPD-BS-REF"
+                "rappoport:2010a"
             ],
             "elementElectronShells": [
                 {
@@ -1321,7 +1321,7 @@
         },
         "13": {
             "elementReferences": [
-                "DEF2-SVPD-BS-REF"
+                "rappoport:2010a"
             ],
             "elementElectronShells": [
                 {
@@ -1484,7 +1484,7 @@
         },
         "14": {
             "elementReferences": [
-                "DEF2-SVPD-BS-REF"
+                "rappoport:2010a"
             ],
             "elementElectronShells": [
                 {
@@ -1647,7 +1647,7 @@
         },
         "15": {
             "elementReferences": [
-                "DEF2-SVPD-BS-REF"
+                "rappoport:2010a"
             ],
             "elementElectronShells": [
                 {
@@ -1810,7 +1810,7 @@
         },
         "16": {
             "elementReferences": [
-                "DEF2-SVPD-BS-REF"
+                "rappoport:2010a"
             ],
             "elementElectronShells": [
                 {
@@ -1987,7 +1987,7 @@
         },
         "17": {
             "elementReferences": [
-                "DEF2-SVPD-BS-REF"
+                "rappoport:2010a"
             ],
             "elementElectronShells": [
                 {
@@ -2164,7 +2164,7 @@
         },
         "18": {
             "elementReferences": [
-                "DEF2-SVPD-BS-REF"
+                "rappoport:2010a"
             ],
             "elementElectronShells": [
                 {
@@ -2341,7 +2341,7 @@
         },
         "19": {
             "elementReferences": [
-                "DEF2-SVPD-BS-REF"
+                "rappoport:2010a"
             ],
             "elementElectronShells": [
                 {
@@ -2546,7 +2546,7 @@
         },
         "20": {
             "elementReferences": [
-                "DEF2-SVPD-BS-REF"
+                "rappoport:2010a"
             ],
             "elementElectronShells": [
                 {
@@ -2757,7 +2757,7 @@
         },
         "21": {
             "elementReferences": [
-                "DEF2-SVPD-BS-REF"
+                "rappoport:2010a"
             ],
             "elementElectronShells": [
                 {
@@ -2987,7 +2987,7 @@
         },
         "22": {
             "elementReferences": [
-                "DEF2-SVPD-BS-REF"
+                "rappoport:2010a"
             ],
             "elementElectronShells": [
                 {
@@ -3217,7 +3217,7 @@
         },
         "23": {
             "elementReferences": [
-                "DEF2-SVPD-BS-REF"
+                "rappoport:2010a"
             ],
             "elementElectronShells": [
                 {
@@ -3447,7 +3447,7 @@
         },
         "24": {
             "elementReferences": [
-                "DEF2-SVPD-BS-REF"
+                "rappoport:2010a"
             ],
             "elementElectronShells": [
                 {
@@ -3677,7 +3677,7 @@
         },
         "25": {
             "elementReferences": [
-                "DEF2-SVPD-BS-REF"
+                "rappoport:2010a"
             ],
             "elementElectronShells": [
                 {
@@ -3907,7 +3907,7 @@
         },
         "26": {
             "elementReferences": [
-                "DEF2-SVPD-BS-REF"
+                "rappoport:2010a"
             ],
             "elementElectronShells": [
                 {
@@ -4137,7 +4137,7 @@
         },
         "27": {
             "elementReferences": [
-                "DEF2-SVPD-BS-REF"
+                "rappoport:2010a"
             ],
             "elementElectronShells": [
                 {
@@ -4367,7 +4367,7 @@
         },
         "28": {
             "elementReferences": [
-                "DEF2-SVPD-BS-REF"
+                "rappoport:2010a"
             ],
             "elementElectronShells": [
                 {
@@ -4597,7 +4597,7 @@
         },
         "29": {
             "elementReferences": [
-                "DEF2-SVPD-BS-REF"
+                "rappoport:2010a"
             ],
             "elementElectronShells": [
                 {
@@ -4827,7 +4827,7 @@
         },
         "30": {
             "elementReferences": [
-                "DEF2-SVPD-BS-REF"
+                "rappoport:2010a"
             ],
             "elementElectronShells": [
                 {
@@ -5057,7 +5057,7 @@
         },
         "31": {
             "elementReferences": [
-                "DEF2-SVPD-BS-REF"
+                "rappoport:2010a"
             ],
             "elementElectronShells": [
                 {
@@ -5318,7 +5318,7 @@
         },
         "32": {
             "elementReferences": [
-                "DEF2-SVPD-BS-REF"
+                "rappoport:2010a"
             ],
             "elementElectronShells": [
                 {
@@ -5579,7 +5579,7 @@
         },
         "33": {
             "elementReferences": [
-                "DEF2-SVPD-BS-REF"
+                "rappoport:2010a"
             ],
             "elementElectronShells": [
                 {
@@ -5840,7 +5840,7 @@
         },
         "34": {
             "elementReferences": [
-                "DEF2-SVPD-BS-REF"
+                "rappoport:2010a"
             ],
             "elementElectronShells": [
                 {
@@ -6119,7 +6119,7 @@
         },
         "35": {
             "elementReferences": [
-                "DEF2-SVPD-BS-REF"
+                "rappoport:2010a"
             ],
             "elementElectronShells": [
                 {
@@ -6398,7 +6398,7 @@
         },
         "36": {
             "elementReferences": [
-                "DEF2-SVPD-BS-REF"
+                "rappoport:2010a"
             ],
             "elementElectronShells": [
                 {
@@ -6677,7 +6677,7 @@
         },
         "37": {
             "elementReferences": [
-                "DEF2-SVPD-BS-REF"
+                "rappoport:2010a"
             ],
             "elementElectronShells": [
                 {
@@ -6825,7 +6825,7 @@
         },
         "38": {
             "elementReferences": [
-                "DEF2-SVPD-BS-REF"
+                "rappoport:2010a"
             ],
             "elementElectronShells": [
                 {
@@ -6968,7 +6968,7 @@
         },
         "39": {
             "elementReferences": [
-                "DEF2-SVPD-BS-REF"
+                "rappoport:2010a"
             ],
             "elementElectronShells": [
                 {
@@ -7141,7 +7141,7 @@
         },
         "40": {
             "elementReferences": [
-                "DEF2-SVPD-BS-REF"
+                "rappoport:2010a"
             ],
             "elementElectronShells": [
                 {
@@ -7314,7 +7314,7 @@
         },
         "41": {
             "elementReferences": [
-                "DEF2-SVPD-BS-REF"
+                "rappoport:2010a"
             ],
             "elementElectronShells": [
                 {
@@ -7487,7 +7487,7 @@
         },
         "42": {
             "elementReferences": [
-                "DEF2-SVPD-BS-REF"
+                "rappoport:2010a"
             ],
             "elementElectronShells": [
                 {
@@ -7660,7 +7660,7 @@
         },
         "43": {
             "elementReferences": [
-                "DEF2-SVPD-BS-REF"
+                "rappoport:2010a"
             ],
             "elementElectronShells": [
                 {
@@ -7833,7 +7833,7 @@
         },
         "44": {
             "elementReferences": [
-                "DEF2-SVPD-BS-REF"
+                "rappoport:2010a"
             ],
             "elementElectronShells": [
                 {
@@ -8006,7 +8006,7 @@
         },
         "45": {
             "elementReferences": [
-                "DEF2-SVPD-BS-REF"
+                "rappoport:2010a"
             ],
             "elementElectronShells": [
                 {
@@ -8179,7 +8179,7 @@
         },
         "46": {
             "elementReferences": [
-                "DEF2-SVPD-BS-REF"
+                "rappoport:2010a"
             ],
             "elementElectronShells": [
                 {
@@ -8352,7 +8352,7 @@
         },
         "47": {
             "elementReferences": [
-                "DEF2-SVPD-BS-REF"
+                "rappoport:2010a"
             ],
             "elementElectronShells": [
                 {
@@ -8525,7 +8525,7 @@
         },
         "48": {
             "elementReferences": [
-                "DEF2-SVPD-BS-REF"
+                "rappoport:2010a"
             ],
             "elementElectronShells": [
                 {
@@ -8698,7 +8698,7 @@
         },
         "49": {
             "elementReferences": [
-                "DEF2-SVPD-BS-REF"
+                "rappoport:2010a"
             ],
             "elementElectronShells": [
                 {
@@ -8894,7 +8894,7 @@
         },
         "50": {
             "elementReferences": [
-                "DEF2-SVPD-BS-REF"
+                "rappoport:2010a"
             ],
             "elementElectronShells": [
                 {
@@ -9090,7 +9090,7 @@
         },
         "51": {
             "elementReferences": [
-                "DEF2-SVPD-BS-REF"
+                "rappoport:2010a"
             ],
             "elementElectronShells": [
                 {
@@ -9286,7 +9286,7 @@
         },
         "52": {
             "elementReferences": [
-                "DEF2-SVPD-BS-REF"
+                "rappoport:2010a"
             ],
             "elementElectronShells": [
                 {
@@ -9497,7 +9497,7 @@
         },
         "53": {
             "elementReferences": [
-                "DEF2-SVPD-BS-REF"
+                "rappoport:2010a"
             ],
             "elementElectronShells": [
                 {
@@ -9708,7 +9708,7 @@
         },
         "54": {
             "elementReferences": [
-                "DEF2-SVPD-BS-REF"
+                "rappoport:2010a"
             ],
             "elementElectronShells": [
                 {
@@ -10025,7 +10025,7 @@
         },
         "55": {
             "elementReferences": [
-                "DEF2-SVPD-BS-REF"
+                "rappoport:2010a"
             ],
             "elementElectronShells": [
                 {
@@ -10173,7 +10173,7 @@
         },
         "56": {
             "elementReferences": [
-                "DEF2-SVPD-BS-REF"
+                "rappoport:2010a"
             ],
             "elementElectronShells": [
                 {
@@ -10316,7 +10316,7 @@
         },
         "57": {
             "elementReferences": [
-                "DEF2-SVPD-BS-REF"
+                "rappoport:2010a"
             ],
             "elementElectronShells": [
                 {
@@ -10498,7 +10498,7 @@
         },
         "72": {
             "elementReferences": [
-                "DEF2-SVPD-BS-REF"
+                "rappoport:2010a"
             ],
             "elementElectronShells": [
                 {
@@ -10680,7 +10680,7 @@
         },
         "73": {
             "elementReferences": [
-                "DEF2-SVPD-BS-REF"
+                "rappoport:2010a"
             ],
             "elementElectronShells": [
                 {
@@ -10862,7 +10862,7 @@
         },
         "74": {
             "elementReferences": [
-                "DEF2-SVPD-BS-REF"
+                "rappoport:2010a"
             ],
             "elementElectronShells": [
                 {
@@ -11044,7 +11044,7 @@
         },
         "75": {
             "elementReferences": [
-                "DEF2-SVPD-BS-REF"
+                "rappoport:2010a"
             ],
             "elementElectronShells": [
                 {
@@ -11226,7 +11226,7 @@
         },
         "76": {
             "elementReferences": [
-                "DEF2-SVPD-BS-REF"
+                "rappoport:2010a"
             ],
             "elementElectronShells": [
                 {
@@ -11408,7 +11408,7 @@
         },
         "77": {
             "elementReferences": [
-                "DEF2-SVPD-BS-REF"
+                "rappoport:2010a"
             ],
             "elementElectronShells": [
                 {
@@ -11590,7 +11590,7 @@
         },
         "78": {
             "elementReferences": [
-                "DEF2-SVPD-BS-REF"
+                "rappoport:2010a"
             ],
             "elementElectronShells": [
                 {
@@ -11772,7 +11772,7 @@
         },
         "79": {
             "elementReferences": [
-                "DEF2-SVPD-BS-REF"
+                "rappoport:2010a"
             ],
             "elementElectronShells": [
                 {
@@ -11954,7 +11954,7 @@
         },
         "80": {
             "elementReferences": [
-                "DEF2-SVPD-BS-REF"
+                "rappoport:2010a"
             ],
             "elementElectronShells": [
                 {
@@ -12136,7 +12136,7 @@
         },
         "81": {
             "elementReferences": [
-                "DEF2-SVPD-BS-REF"
+                "rappoport:2010a"
             ],
             "elementElectronShells": [
                 {
@@ -12332,7 +12332,7 @@
         },
         "82": {
             "elementReferences": [
-                "DEF2-SVPD-BS-REF"
+                "rappoport:2010a"
             ],
             "elementElectronShells": [
                 {
@@ -12528,7 +12528,7 @@
         },
         "83": {
             "elementReferences": [
-                "DEF2-SVPD-BS-REF"
+                "rappoport:2010a"
             ],
             "elementElectronShells": [
                 {
@@ -12724,7 +12724,7 @@
         },
         "84": {
             "elementReferences": [
-                "DEF2-SVPD-BS-REF"
+                "rappoport:2010a"
             ],
             "elementElectronShells": [
                 {
@@ -12935,7 +12935,7 @@
         },
         "85": {
             "elementReferences": [
-                "DEF2-SVPD-BS-REF"
+                "rappoport:2010a"
             ],
             "elementElectronShells": [
                 {
@@ -13146,7 +13146,7 @@
         },
         "86": {
             "elementReferences": [
-                "DEF2-SVPD-BS-REF"
+                "rappoport:2010a"
             ],
             "elementElectronShells": [
                 {

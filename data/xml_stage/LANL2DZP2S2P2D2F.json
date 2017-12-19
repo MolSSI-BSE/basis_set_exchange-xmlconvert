@@ -5,7 +5,7 @@
     "basisSetElements": {
         "45": {
             "elementReferences": [
-                "LANL2DZP2S2P2D2F-BS-REF"
+                "roscioni:2012a"
             ],
             "elementElectronShells": [
                 {

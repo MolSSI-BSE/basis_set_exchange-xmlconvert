@@ -1,0 +1,53 @@
+{
+    "citations": [
+        {
+            "Z": [
+                3,
+                4
+            ],
+            "article": "fuentealba:1982a",
+            "original": "P. Fuentealba, H. Preuss, H. Stoll, L. v. Szentpaly, Chem. Phys. Lett. Na       89, 418 (1982)."
+        },
+        {
+            "Z": [
+                5,
+                6,
+                7,
+                8,
+                9,
+                10
+            ],
+            "article": "bergner:1993a",
+            "original": "A. Bergner, M. Dolg, W. Kuechle, H. Stoll, H. Preuss, Mol. Phys. 80, 1431 (1993)."
+        },
+        {
+            "Z": [
+                12
+            ],
+            "article": "fuentealba:1985a",
+            "original": "P. Fuentealba, L. v. Szentpaly, H. Preuss, H. Stoll, J. Phys. B 18, 1287 (1985)."
+        },
+        {
+            "Z": [
+                13
+            ],
+            "article": "igel-mann:1988a",
+            "original": "G. Igel-Mann, H. Stoll, H. Preuss, Mol. Phys. 65, 1321 (1988)."
+        },
+        {
+            "Z": [
+                80,
+                81,
+                82,
+                83,
+                84,
+                85,
+                86
+            ],
+            "article": "kuchle:1991a",
+            "original": "W. Kuechle, M. Dolg, H. Stoll, H. Preuss, Mol. Phys. 74, 1245 (1991).   "
+        }
+    ],
+    "original": "\nElements                             References\n--------                             ----------\nLi - Be: P. Fuentealba, H. Preuss, H. Stoll, L. v. Szentpaly, Chem. Phys. Lett.\nNa       89, 418 (1982).\nB  - Ne: A. Bergner, M. Dolg, W. Kuechle, H. Stoll, H. Preuss, Mol. Phys. 80,\n         1431 (1993).\nMg     : P. Fuentealba, L. v. Szentpaly, H. Preuss, H. Stoll, J. Phys. B 18, \n         1287 (1985).\nAl     : G. Igel-Mann, H. Stoll, H. Preuss, Mol. Phys. 65, 1321 (1988).\nHg - Rn: W. Kuechle, M. Dolg, H. Stoll, H. Preuss, Mol. Phys. 74, 1245 (1991).\n\n\n  ",
+    "valid": true
+}

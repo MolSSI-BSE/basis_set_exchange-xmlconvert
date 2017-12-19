@@ -5,7 +5,7 @@
     "basisSetElements": {
         "1": {
             "elementReferences": [
-                "CC-PV5Z-RI-BS-REF"
+                "hattig:2005a"
             ],
             "elementElectronShells": [
                 {
@@ -348,7 +348,7 @@
         },
         "2": {
             "elementReferences": [
-                "CC-PV5Z-RI-BS-REF"
+                "hattig:2005a"
             ],
             "elementElectronShells": [
                 {
@@ -691,7 +691,7 @@
         },
         "3": {
             "elementReferences": [
-                "CC-PV5Z-RI-BS-REF"
+                "hattig:2005a"
             ],
             "elementElectronShells": [
                 {
@@ -1322,7 +1322,7 @@
         },
         "4": {
             "elementReferences": [
-                "CC-PV5Z-RI-BS-REF"
+                "hattig:2005a"
             ],
             "elementElectronShells": [
                 {
@@ -1953,7 +1953,7 @@
         },
         "5": {
             "elementReferences": [
-                "CC-PV5Z-RI-BS-REF"
+                "hattig:2005a"
             ],
             "elementElectronShells": [
                 {
@@ -2584,7 +2584,7 @@
         },
         "6": {
             "elementReferences": [
-                "CC-PV5Z-RI-BS-REF"
+                "hattig:2005a"
             ],
             "elementElectronShells": [
                 {
@@ -3215,7 +3215,7 @@
         },
         "7": {
             "elementReferences": [
-                "CC-PV5Z-RI-BS-REF"
+                "hattig:2005a"
             ],
             "elementElectronShells": [
                 {
@@ -3846,7 +3846,7 @@
         },
         "8": {
             "elementReferences": [
-                "CC-PV5Z-RI-BS-REF"
+                "hattig:2005a"
             ],
             "elementElectronShells": [
                 {
@@ -4477,7 +4477,7 @@
         },
         "9": {
             "elementReferences": [
-                "CC-PV5Z-RI-BS-REF"
+                "hattig:2005a"
             ],
             "elementElectronShells": [
                 {
@@ -5108,7 +5108,7 @@
         },
         "10": {
             "elementReferences": [
-                "CC-PV5Z-RI-BS-REF"
+                "hattig:2005a"
             ],
             "elementElectronShells": [
                 {
@@ -5739,7 +5739,7 @@
         },
         "11": {
             "elementReferences": [
-                "CC-PV5Z-RI-BS-REF"
+                "hattig:2005a"
             ],
             "elementElectronShells": [
                 {
@@ -6514,7 +6514,7 @@
         },
         "12": {
             "elementReferences": [
-                "CC-PV5Z-RI-BS-REF"
+                "hattig:2005a"
             ],
             "elementElectronShells": [
                 {
@@ -7289,7 +7289,7 @@
         },
         "13": {
             "elementReferences": [
-                "CC-PV5Z-RI-BS-REF"
+                "hattig:2005a"
             ],
             "elementElectronShells": [
                 {
@@ -8064,7 +8064,7 @@
         },
         "14": {
             "elementReferences": [
-                "CC-PV5Z-RI-BS-REF"
+                "hattig:2005a"
             ],
             "elementElectronShells": [
                 {
@@ -8839,7 +8839,7 @@
         },
         "15": {
             "elementReferences": [
-                "CC-PV5Z-RI-BS-REF"
+                "hattig:2005a"
             ],
             "elementElectronShells": [
                 {
@@ -9614,7 +9614,7 @@
         },
         "16": {
             "elementReferences": [
-                "CC-PV5Z-RI-BS-REF"
+                "hattig:2005a"
             ],
             "elementElectronShells": [
                 {
@@ -10389,7 +10389,7 @@
         },
         "17": {
             "elementReferences": [
-                "CC-PV5Z-RI-BS-REF"
+                "hattig:2005a"
             ],
             "elementElectronShells": [
                 {
@@ -11164,7 +11164,7 @@
         },
         "18": {
             "elementReferences": [
-                "CC-PV5Z-RI-BS-REF"
+                "hattig:2005a"
             ],
             "elementElectronShells": [
                 {

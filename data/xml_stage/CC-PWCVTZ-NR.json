@@ -5,7 +5,7 @@
     "basisSetElements": {
         "21": {
             "elementReferences": [
-                "CC-PWCVTZ-NR-BS-REF"
+                "balabanov:2005a"
             ],
             "elementElectronShells": [
                 {
@@ -598,7 +598,7 @@
         },
         "22": {
             "elementReferences": [
-                "CC-PWCVTZ-NR-BS-REF"
+                "balabanov:2005a"
             ],
             "elementElectronShells": [
                 {
@@ -1191,7 +1191,7 @@
         },
         "23": {
             "elementReferences": [
-                "CC-PWCVTZ-NR-BS-REF"
+                "balabanov:2005a"
             ],
             "elementElectronShells": [
                 {
@@ -1784,7 +1784,7 @@
         },
         "24": {
             "elementReferences": [
-                "CC-PWCVTZ-NR-BS-REF"
+                "balabanov:2005a"
             ],
             "elementElectronShells": [
                 {
@@ -2377,7 +2377,7 @@
         },
         "25": {
             "elementReferences": [
-                "CC-PWCVTZ-NR-BS-REF"
+                "balabanov:2005a"
             ],
             "elementElectronShells": [
                 {
@@ -2970,7 +2970,7 @@
         },
         "26": {
             "elementReferences": [
-                "CC-PWCVTZ-NR-BS-REF"
+                "balabanov:2005a"
             ],
             "elementElectronShells": [
                 {
@@ -3563,7 +3563,7 @@
         },
         "27": {
             "elementReferences": [
-                "CC-PWCVTZ-NR-BS-REF"
+                "balabanov:2005a"
             ],
             "elementElectronShells": [
                 {
@@ -4156,7 +4156,7 @@
         },
         "28": {
             "elementReferences": [
-                "CC-PWCVTZ-NR-BS-REF"
+                "balabanov:2005a"
             ],
             "elementElectronShells": [
                 {
@@ -4749,7 +4749,7 @@
         },
         "29": {
             "elementReferences": [
-                "CC-PWCVTZ-NR-BS-REF"
+                "balabanov:2005a"
             ],
             "elementElectronShells": [
                 {
@@ -5342,7 +5342,7 @@
         },
         "30": {
             "elementReferences": [
-                "CC-PWCVTZ-NR-BS-REF"
+                "balabanov:2005a"
             ],
             "elementElectronShells": [
                 {

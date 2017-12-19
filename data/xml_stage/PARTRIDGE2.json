@@ -5,7 +5,7 @@
     "basisSetElements": {
         "3": {
             "elementReferences": [
-                "PARTRIDGE2-BS-REF"
+                "partridge:1989a"
             ],
             "elementElectronShells": [
                 {
@@ -268,7 +268,7 @@
         },
         "4": {
             "elementReferences": [
-                "PARTRIDGE2-BS-REF"
+                "partridge:1989a"
             ],
             "elementElectronShells": [
                 {
@@ -531,7 +531,7 @@
         },
         "5": {
             "elementReferences": [
-                "PARTRIDGE2-BS-REF"
+                "partridge:1989a"
             ],
             "elementElectronShells": [
                 {
@@ -970,7 +970,7 @@
         },
         "6": {
             "elementReferences": [
-                "PARTRIDGE2-BS-REF"
+                "partridge:1989a"
             ],
             "elementElectronShells": [
                 {
@@ -1409,7 +1409,7 @@
         },
         "7": {
             "elementReferences": [
-                "PARTRIDGE2-BS-REF"
+                "partridge:1989a"
             ],
             "elementElectronShells": [
                 {
@@ -1848,7 +1848,7 @@
         },
         "8": {
             "elementReferences": [
-                "PARTRIDGE2-BS-REF"
+                "partridge:1989a"
             ],
             "elementElectronShells": [
                 {
@@ -2287,7 +2287,7 @@
         },
         "9": {
             "elementReferences": [
-                "PARTRIDGE2-BS-REF"
+                "partridge:1989a"
             ],
             "elementElectronShells": [
                 {
@@ -2726,7 +2726,7 @@
         },
         "10": {
             "elementReferences": [
-                "PARTRIDGE2-BS-REF"
+                "partridge:1989a"
             ],
             "elementElectronShells": [
                 {
@@ -3165,7 +3165,7 @@
         },
         "11": {
             "elementReferences": [
-                "PARTRIDGE2-BS-REF"
+                "partridge:1987a"
             ],
             "elementElectronShells": [
                 {
@@ -3652,7 +3652,7 @@
         },
         "12": {
             "elementReferences": [
-                "PARTRIDGE2-BS-REF"
+                "partridge:1987a"
             ],
             "elementElectronShells": [
                 {
@@ -4139,7 +4139,7 @@
         },
         "13": {
             "elementReferences": [
-                "PARTRIDGE2-BS-REF"
+                "partridge:1987a"
             ],
             "elementElectronShells": [
                 {
@@ -4642,7 +4642,7 @@
         },
         "14": {
             "elementReferences": [
-                "PARTRIDGE2-BS-REF"
+                "partridge:1987a"
             ],
             "elementElectronShells": [
                 {
@@ -5145,7 +5145,7 @@
         },
         "15": {
             "elementReferences": [
-                "PARTRIDGE2-BS-REF"
+                "partridge:1987a"
             ],
             "elementElectronShells": [
                 {
@@ -5648,7 +5648,7 @@
         },
         "16": {
             "elementReferences": [
-                "PARTRIDGE2-BS-REF"
+                "partridge:1987a"
             ],
             "elementElectronShells": [
                 {
@@ -6151,7 +6151,7 @@
         },
         "17": {
             "elementReferences": [
-                "PARTRIDGE2-BS-REF"
+                "partridge:1987a"
             ],
             "elementElectronShells": [
                 {
@@ -6654,7 +6654,7 @@
         },
         "18": {
             "elementReferences": [
-                "PARTRIDGE2-BS-REF"
+                "partridge:1987a"
             ],
             "elementElectronShells": [
                 {
@@ -7157,7 +7157,7 @@
         },
         "19": {
             "elementReferences": [
-                "PARTRIDGE2-BS-REF"
+                "partridge:1989a"
             ],
             "elementElectronShells": [
                 {
@@ -7740,7 +7740,7 @@
         },
         "20": {
             "elementReferences": [
-                "PARTRIDGE2-BS-REF"
+                "partridge:1989a"
             ],
             "elementElectronShells": [
                 {
@@ -8323,7 +8323,7 @@
         },
         "21": {
             "elementReferences": [
-                "PARTRIDGE2-BS-REF"
+                "partridge:1989a"
             ],
             "elementElectronShells": [
                 {
@@ -9066,7 +9066,7 @@
         },
         "22": {
             "elementReferences": [
-                "PARTRIDGE2-BS-REF"
+                "partridge:1989a"
             ],
             "elementElectronShells": [
                 {
@@ -9793,7 +9793,7 @@
         },
         "23": {
             "elementReferences": [
-                "PARTRIDGE2-BS-REF"
+                "partridge:1989a"
             ],
             "elementElectronShells": [
                 {
@@ -10552,7 +10552,7 @@
         },
         "24": {
             "elementReferences": [
-                "PARTRIDGE2-BS-REF"
+                "partridge:1989a"
             ],
             "elementElectronShells": [
                 {
@@ -11295,7 +11295,7 @@
         },
         "25": {
             "elementReferences": [
-                "PARTRIDGE2-BS-REF"
+                "partridge:1989a"
             ],
             "elementElectronShells": [
                 {
@@ -12070,7 +12070,7 @@
         },
         "26": {
             "elementReferences": [
-                "PARTRIDGE2-BS-REF"
+                "partridge:1989a"
             ],
             "elementElectronShells": [
                 {
@@ -12845,7 +12845,7 @@
         },
         "27": {
             "elementReferences": [
-                "PARTRIDGE2-BS-REF"
+                "partridge:1989a"
             ],
             "elementElectronShells": [
                 {
@@ -13572,7 +13572,7 @@
         },
         "28": {
             "elementReferences": [
-                "PARTRIDGE2-BS-REF"
+                "partridge:1989a"
             ],
             "elementElectronShells": [
                 {
@@ -14347,7 +14347,7 @@
         },
         "29": {
             "elementReferences": [
-                "PARTRIDGE2-BS-REF"
+                "partridge:1989a"
             ],
             "elementElectronShells": [
                 {
@@ -15090,7 +15090,7 @@
         },
         "30": {
             "elementReferences": [
-                "PARTRIDGE2-BS-REF"
+                "partridge:1989a"
             ],
             "elementElectronShells": [
                 {
@@ -15816,9 +15816,7 @@
             ]
         },
         "31": {
-            "elementReferences": [
-                "PARTRIDGE2-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -16575,9 +16573,7 @@
             ]
         },
         "32": {
-            "elementReferences": [
-                "PARTRIDGE2-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -17334,9 +17330,7 @@
             ]
         },
         "33": {
-            "elementReferences": [
-                "PARTRIDGE2-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -18093,9 +18087,7 @@
             ]
         },
         "34": {
-            "elementReferences": [
-                "PARTRIDGE2-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -18852,9 +18844,7 @@
             ]
         },
         "35": {
-            "elementReferences": [
-                "PARTRIDGE2-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -19611,9 +19601,7 @@
             ]
         },
         "36": {
-            "elementReferences": [
-                "PARTRIDGE2-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",

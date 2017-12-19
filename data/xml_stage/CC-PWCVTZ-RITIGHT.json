@@ -5,7 +5,7 @@
     "basisSetElements": {
         "5": {
             "elementReferences": [
-                "CC-PWCVTZ-RITIGHT-BS-REF"
+                "hattig:2005a"
             ],
             "elementElectronShells": [
                 {
@@ -172,7 +172,7 @@
         },
         "6": {
             "elementReferences": [
-                "CC-PWCVTZ-RITIGHT-BS-REF"
+                "hattig:2005a"
             ],
             "elementElectronShells": [
                 {
@@ -339,7 +339,7 @@
         },
         "7": {
             "elementReferences": [
-                "CC-PWCVTZ-RITIGHT-BS-REF"
+                "hattig:2005a"
             ],
             "elementElectronShells": [
                 {
@@ -506,7 +506,7 @@
         },
         "8": {
             "elementReferences": [
-                "CC-PWCVTZ-RITIGHT-BS-REF"
+                "hattig:2005a"
             ],
             "elementElectronShells": [
                 {
@@ -673,7 +673,7 @@
         },
         "9": {
             "elementReferences": [
-                "CC-PWCVTZ-RITIGHT-BS-REF"
+                "hattig:2005a"
             ],
             "elementElectronShells": [
                 {
@@ -840,7 +840,7 @@
         },
         "10": {
             "elementReferences": [
-                "CC-PWCVTZ-RITIGHT-BS-REF"
+                "hattig:2005a"
             ],
             "elementElectronShells": [
                 {
@@ -1007,7 +1007,7 @@
         },
         "13": {
             "elementReferences": [
-                "CC-PWCVTZ-RITIGHT-BS-REF"
+                "hattig:2005a"
             ],
             "elementElectronShells": [
                 {
@@ -1238,7 +1238,7 @@
         },
         "14": {
             "elementReferences": [
-                "CC-PWCVTZ-RITIGHT-BS-REF"
+                "hattig:2005a"
             ],
             "elementElectronShells": [
                 {
@@ -1469,7 +1469,7 @@
         },
         "15": {
             "elementReferences": [
-                "CC-PWCVTZ-RITIGHT-BS-REF"
+                "hattig:2005a"
             ],
             "elementElectronShells": [
                 {
@@ -1700,7 +1700,7 @@
         },
         "16": {
             "elementReferences": [
-                "CC-PWCVTZ-RITIGHT-BS-REF"
+                "hattig:2005a"
             ],
             "elementElectronShells": [
                 {
@@ -1931,7 +1931,7 @@
         },
         "17": {
             "elementReferences": [
-                "CC-PWCVTZ-RITIGHT-BS-REF"
+                "hattig:2005a"
             ],
             "elementElectronShells": [
                 {
@@ -2162,7 +2162,7 @@
         },
         "18": {
             "elementReferences": [
-                "CC-PWCVTZ-RITIGHT-BS-REF"
+                "hattig:2005a"
             ],
             "elementElectronShells": [
                 {

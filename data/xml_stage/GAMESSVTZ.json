@@ -5,7 +5,9 @@
     "basisSetElements": {
         "1": {
             "elementReferences": [
-                "GAMESSVTZ-BS-REF"
+                "dunning:1971a",
+                "mclean:1980a",
+                "wachters:1970a"
             ],
             "elementElectronShells": [
                 {
@@ -64,7 +66,9 @@
         },
         "4": {
             "elementReferences": [
-                "GAMESSVTZ-BS-REF"
+                "dunning:1971a",
+                "mclean:1980a",
+                "wachters:1970a"
             ],
             "elementElectronShells": [
                 {
@@ -215,7 +219,9 @@
         },
         "5": {
             "elementReferences": [
-                "GAMESSVTZ-BS-REF"
+                "dunning:1971a",
+                "mclean:1980a",
+                "wachters:1970a"
             ],
             "elementElectronShells": [
                 {
@@ -368,7 +374,9 @@
         },
         "6": {
             "elementReferences": [
-                "GAMESSVTZ-BS-REF"
+                "dunning:1971a",
+                "mclean:1980a",
+                "wachters:1970a"
             ],
             "elementElectronShells": [
                 {
@@ -521,7 +529,9 @@
         },
         "7": {
             "elementReferences": [
-                "GAMESSVTZ-BS-REF"
+                "dunning:1971a",
+                "mclean:1980a",
+                "wachters:1970a"
             ],
             "elementElectronShells": [
                 {
@@ -674,7 +684,9 @@
         },
         "8": {
             "elementReferences": [
-                "GAMESSVTZ-BS-REF"
+                "dunning:1971a",
+                "mclean:1980a",
+                "wachters:1970a"
             ],
             "elementElectronShells": [
                 {
@@ -827,7 +839,9 @@
         },
         "9": {
             "elementReferences": [
-                "GAMESSVTZ-BS-REF"
+                "dunning:1971a",
+                "mclean:1980a",
+                "wachters:1970a"
             ],
             "elementElectronShells": [
                 {
@@ -980,7 +994,9 @@
         },
         "10": {
             "elementReferences": [
-                "GAMESSVTZ-BS-REF"
+                "dunning:1971a",
+                "mclean:1980a",
+                "wachters:1970a"
             ],
             "elementElectronShells": [
                 {
@@ -1133,7 +1149,9 @@
         },
         "11": {
             "elementReferences": [
-                "GAMESSVTZ-BS-REF"
+                "dunning:1971a",
+                "mclean:1980a",
+                "wachters:1970a"
             ],
             "elementElectronShells": [
                 {
@@ -1338,7 +1356,9 @@
         },
         "12": {
             "elementReferences": [
-                "GAMESSVTZ-BS-REF"
+                "dunning:1971a",
+                "mclean:1980a",
+                "wachters:1970a"
             ],
             "elementElectronShells": [
                 {
@@ -1543,7 +1563,9 @@
         },
         "13": {
             "elementReferences": [
-                "GAMESSVTZ-BS-REF"
+                "dunning:1971a",
+                "mclean:1980a",
+                "wachters:1970a"
             ],
             "elementElectronShells": [
                 {
@@ -1748,7 +1770,9 @@
         },
         "14": {
             "elementReferences": [
-                "GAMESSVTZ-BS-REF"
+                "dunning:1971a",
+                "mclean:1980a",
+                "wachters:1970a"
             ],
             "elementElectronShells": [
                 {
@@ -1953,7 +1977,9 @@
         },
         "15": {
             "elementReferences": [
-                "GAMESSVTZ-BS-REF"
+                "dunning:1971a",
+                "mclean:1980a",
+                "wachters:1970a"
             ],
             "elementElectronShells": [
                 {
@@ -2160,7 +2186,9 @@
         },
         "16": {
             "elementReferences": [
-                "GAMESSVTZ-BS-REF"
+                "dunning:1971a",
+                "mclean:1980a",
+                "wachters:1970a"
             ],
             "elementElectronShells": [
                 {
@@ -2367,7 +2395,9 @@
         },
         "17": {
             "elementReferences": [
-                "GAMESSVTZ-BS-REF"
+                "dunning:1971a",
+                "mclean:1980a",
+                "wachters:1970a"
             ],
             "elementElectronShells": [
                 {
@@ -2574,7 +2604,9 @@
         },
         "18": {
             "elementReferences": [
-                "GAMESSVTZ-BS-REF"
+                "dunning:1971a",
+                "mclean:1980a",
+                "wachters:1970a"
             ],
             "elementElectronShells": [
                 {

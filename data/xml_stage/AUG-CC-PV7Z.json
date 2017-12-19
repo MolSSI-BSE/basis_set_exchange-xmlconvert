@@ -4,9 +4,7 @@
     "basisSetDescription": "aug-cc-pV7Z",
     "basisSetElements": {
         "5": {
-            "elementReferences": [
-                "AUG-CC-PV7Z-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -782,9 +780,7 @@
             ]
         },
         "6": {
-            "elementReferences": [
-                "AUG-CC-PV7Z-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -1560,9 +1556,7 @@
             ]
         },
         "7": {
-            "elementReferences": [
-                "AUG-CC-PV7Z-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -2338,9 +2332,7 @@
             ]
         },
         "8": {
-            "elementReferences": [
-                "AUG-CC-PV7Z-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -3116,9 +3108,7 @@
             ]
         },
         "9": {
-            "elementReferences": [
-                "AUG-CC-PV7Z-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -3894,9 +3884,7 @@
             ]
         },
         "10": {
-            "elementReferences": [
-                "AUG-CC-PV7Z-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",

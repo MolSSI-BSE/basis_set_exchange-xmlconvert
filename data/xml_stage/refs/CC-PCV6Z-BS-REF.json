@@ -1,0 +1,36 @@
+{
+    "citations": [
+        {
+            "Z": [
+                5,
+                6,
+                7,
+                8,
+                9
+            ],
+            "original": "A.K. Wilson and T.H. Dunning, Jr. (to be published)",
+            "valid": "unpublished"
+        },
+        {
+            "Z": [
+                10
+            ],
+            "original": "D. Feller (to be published)",
+            "valid": "unpublished"
+        },
+        {
+            "Z": [
+                13,
+                14,
+                15,
+                16,
+                17,
+                18
+            ],
+            "article": "hill:2010a",
+            "original": "J.G. Hill, S. Mazumder, and K.A. Peterson, Correlation consistent basis sets for molecular core-valence effects with explicitly correlated wave functions: the atoms B-Ne and Al-Ar, Journal of Chemical Physics 132, 054108 (2010).  "
+        }
+    ],
+    "original": "Elements                             References\n--------                             ----------\nB - F:  A.K. Wilson and T.H. Dunning, Jr. (to be published)\nNe   : D. Feller (to be published)\nAl Si P S Cl Ar: J.G. Hill, S. Mazumder, and K.A. Peterson, Correlation consistent basis sets for molecular core-valence effects with explicitly correlated wave functions: the atoms B-Ne and Al-Ar, Journal of Chemical Physics 132, 054108 (2010).\n\n\n",
+    "valid": true
+}

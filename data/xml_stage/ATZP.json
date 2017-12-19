@@ -5,7 +5,7 @@
     "basisSetElements": {
         "1": {
             "elementReferences": [
-                "ATZP-BS-REF"
+                "fantin:2007a"
             ],
             "elementElectronShells": [
                 {
@@ -114,7 +114,7 @@
         },
         "3": {
             "elementReferences": [
-                "ATZP-BS-REF"
+                "fantin:2007a"
             ],
             "elementElectronShells": [
                 {
@@ -316,7 +316,7 @@
         },
         "4": {
             "elementReferences": [
-                "ATZP-BS-REF"
+                "fantin:2007a"
             ],
             "elementElectronShells": [
                 {
@@ -531,7 +531,7 @@
         },
         "5": {
             "elementReferences": [
-                "ATZP-BS-REF"
+                "fantin:2007a"
             ],
             "elementElectronShells": [
                 {
@@ -746,7 +746,7 @@
         },
         "6": {
             "elementReferences": [
-                "ATZP-BS-REF"
+                "fantin:2007a"
             ],
             "elementElectronShells": [
                 {
@@ -961,7 +961,7 @@
         },
         "7": {
             "elementReferences": [
-                "ATZP-BS-REF"
+                "fantin:2007a"
             ],
             "elementElectronShells": [
                 {
@@ -1176,7 +1176,7 @@
         },
         "8": {
             "elementReferences": [
-                "ATZP-BS-REF"
+                "fantin:2007a"
             ],
             "elementElectronShells": [
                 {
@@ -1391,7 +1391,7 @@
         },
         "9": {
             "elementReferences": [
-                "ATZP-BS-REF"
+                "fantin:2007a"
             ],
             "elementElectronShells": [
                 {
@@ -1606,7 +1606,7 @@
         },
         "10": {
             "elementReferences": [
-                "ATZP-BS-REF"
+                "fantin:2007a"
             ],
             "elementElectronShells": [
                 {
@@ -1821,7 +1821,7 @@
         },
         "11": {
             "elementReferences": [
-                "ATZP-BS-REF"
+                "fantin:2007a"
             ],
             "elementElectronShells": [
                 {
@@ -2151,7 +2151,7 @@
         },
         "12": {
             "elementReferences": [
-                "ATZP-BS-REF"
+                "fantin:2007a"
             ],
             "elementElectronShells": [
                 {
@@ -2481,7 +2481,7 @@
         },
         "13": {
             "elementReferences": [
-                "ATZP-BS-REF"
+                "fantin:2007a"
             ],
             "elementElectronShells": [
                 {
@@ -2811,7 +2811,7 @@
         },
         "14": {
             "elementReferences": [
-                "ATZP-BS-REF"
+                "fantin:2007a"
             ],
             "elementElectronShells": [
                 {
@@ -3141,7 +3141,7 @@
         },
         "15": {
             "elementReferences": [
-                "ATZP-BS-REF"
+                "fantin:2007a"
             ],
             "elementElectronShells": [
                 {
@@ -3471,7 +3471,7 @@
         },
         "16": {
             "elementReferences": [
-                "ATZP-BS-REF"
+                "fantin:2007a"
             ],
             "elementElectronShells": [
                 {
@@ -3801,7 +3801,7 @@
         },
         "17": {
             "elementReferences": [
-                "ATZP-BS-REF"
+                "fantin:2007a"
             ],
             "elementElectronShells": [
                 {
@@ -4131,7 +4131,7 @@
         },
         "18": {
             "elementReferences": [
-                "ATZP-BS-REF"
+                "fantin:2007a"
             ],
             "elementElectronShells": [
                 {
@@ -4461,7 +4461,7 @@
         },
         "19": {
             "elementReferences": [
-                "ATZP-BS-REF"
+                "camiletti:2009a"
             ],
             "elementElectronShells": [
                 {
@@ -4877,7 +4877,7 @@
         },
         "21": {
             "elementReferences": [
-                "ATZP-BS-REF"
+                "camiletti:2009a"
             ],
             "elementElectronShells": [
                 {
@@ -5348,7 +5348,7 @@
         },
         "22": {
             "elementReferences": [
-                "ATZP-BS-REF"
+                "camiletti:2009a"
             ],
             "elementElectronShells": [
                 {
@@ -5819,7 +5819,7 @@
         },
         "23": {
             "elementReferences": [
-                "ATZP-BS-REF"
+                "camiletti:2009a"
             ],
             "elementElectronShells": [
                 {
@@ -6290,7 +6290,7 @@
         },
         "24": {
             "elementReferences": [
-                "ATZP-BS-REF"
+                "camiletti:2009a"
             ],
             "elementElectronShells": [
                 {
@@ -6761,7 +6761,7 @@
         },
         "25": {
             "elementReferences": [
-                "ATZP-BS-REF"
+                "camiletti:2009a"
             ],
             "elementElectronShells": [
                 {
@@ -7232,7 +7232,7 @@
         },
         "26": {
             "elementReferences": [
-                "ATZP-BS-REF"
+                "camiletti:2009a"
             ],
             "elementElectronShells": [
                 {
@@ -7703,7 +7703,7 @@
         },
         "27": {
             "elementReferences": [
-                "ATZP-BS-REF"
+                "camiletti:2009a"
             ],
             "elementElectronShells": [
                 {
@@ -8174,7 +8174,7 @@
         },
         "28": {
             "elementReferences": [
-                "ATZP-BS-REF"
+                "camiletti:2009a"
             ],
             "elementElectronShells": [
                 {
@@ -8645,7 +8645,7 @@
         },
         "29": {
             "elementReferences": [
-                "ATZP-BS-REF"
+                "camiletti:2009a"
             ],
             "elementElectronShells": [
                 {
@@ -9116,7 +9116,7 @@
         },
         "30": {
             "elementReferences": [
-                "ATZP-BS-REF"
+                "camiletti:2009a"
             ],
             "elementElectronShells": [
                 {
@@ -9587,7 +9587,7 @@
         },
         "31": {
             "elementReferences": [
-                "ATZP-BS-REF"
+                "camiletti:2009a"
             ],
             "elementElectronShells": [
                 {
@@ -10058,7 +10058,7 @@
         },
         "32": {
             "elementReferences": [
-                "ATZP-BS-REF"
+                "camiletti:2009a"
             ],
             "elementElectronShells": [
                 {
@@ -10529,7 +10529,7 @@
         },
         "33": {
             "elementReferences": [
-                "ATZP-BS-REF"
+                "camiletti:2009a"
             ],
             "elementElectronShells": [
                 {
@@ -11000,7 +11000,7 @@
         },
         "34": {
             "elementReferences": [
-                "ATZP-BS-REF"
+                "camiletti:2009a"
             ],
             "elementElectronShells": [
                 {
@@ -11471,7 +11471,7 @@
         },
         "35": {
             "elementReferences": [
-                "ATZP-BS-REF"
+                "camiletti:2009a"
             ],
             "elementElectronShells": [
                 {
@@ -11942,7 +11942,7 @@
         },
         "36": {
             "elementReferences": [
-                "ATZP-BS-REF"
+                "camiletti:2009a"
             ],
             "elementElectronShells": [
                 {
@@ -12413,7 +12413,7 @@
         },
         "37": {
             "elementReferences": [
-                "ATZP-BS-REF"
+                "martins:2013a"
             ],
             "elementElectronShells": [
                 {
@@ -12946,7 +12946,7 @@
         },
         "39": {
             "elementReferences": [
-                "ATZP-BS-REF"
+                "martins:2013a"
             ],
             "elementElectronShells": [
                 {
@@ -13446,7 +13446,7 @@
         },
         "40": {
             "elementReferences": [
-                "ATZP-BS-REF"
+                "martins:2013a"
             ],
             "elementElectronShells": [
                 {
@@ -13971,7 +13971,7 @@
         },
         "41": {
             "elementReferences": [
-                "ATZP-BS-REF"
+                "martins:2013a"
             ],
             "elementElectronShells": [
                 {
@@ -14556,7 +14556,7 @@
         },
         "42": {
             "elementReferences": [
-                "ATZP-BS-REF"
+                "martins:2013a"
             ],
             "elementElectronShells": [
                 {
@@ -15114,7 +15114,7 @@
         },
         "43": {
             "elementReferences": [
-                "ATZP-BS-REF"
+                "martins:2013a"
             ],
             "elementElectronShells": [
                 {
@@ -15639,7 +15639,7 @@
         },
         "44": {
             "elementReferences": [
-                "ATZP-BS-REF"
+                "martins:2013a"
             ],
             "elementElectronShells": [
                 {
@@ -16191,7 +16191,7 @@
         },
         "45": {
             "elementReferences": [
-                "ATZP-BS-REF"
+                "martins:2013a"
             ],
             "elementElectronShells": [
                 {
@@ -16691,7 +16691,7 @@
         },
         "46": {
             "elementReferences": [
-                "ATZP-BS-REF"
+                "martins:2013a"
             ],
             "elementElectronShells": [
                 {
@@ -17224,7 +17224,7 @@
         },
         "47": {
             "elementReferences": [
-                "ATZP-BS-REF"
+                "martins:2013a"
             ],
             "elementElectronShells": [
                 {
@@ -17809,7 +17809,7 @@
         },
         "48": {
             "elementReferences": [
-                "ATZP-BS-REF"
+                "martins:2013a"
             ],
             "elementElectronShells": [
                 {
@@ -18394,7 +18394,7 @@
         },
         "49": {
             "elementReferences": [
-                "ATZP-BS-REF"
+                "martins:2013a"
             ],
             "elementElectronShells": [
                 {
@@ -18979,7 +18979,7 @@
         },
         "50": {
             "elementReferences": [
-                "ATZP-BS-REF"
+                "martins:2013a"
             ],
             "elementElectronShells": [
                 {
@@ -19537,7 +19537,7 @@
         },
         "51": {
             "elementReferences": [
-                "ATZP-BS-REF"
+                "martins:2013a"
             ],
             "elementElectronShells": [
                 {
@@ -20128,7 +20128,7 @@
         },
         "52": {
             "elementReferences": [
-                "ATZP-BS-REF"
+                "martins:2013a"
             ],
             "elementElectronShells": [
                 {
@@ -20686,7 +20686,7 @@
         },
         "53": {
             "elementReferences": [
-                "ATZP-BS-REF"
+                "martins:2013a"
             ],
             "elementElectronShells": [
                 {
@@ -21244,7 +21244,7 @@
         },
         "54": {
             "elementReferences": [
-                "ATZP-BS-REF"
+                "martins:2013a"
             ],
             "elementElectronShells": [
                 {

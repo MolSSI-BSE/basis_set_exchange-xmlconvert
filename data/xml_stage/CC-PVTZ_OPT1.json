@@ -5,7 +5,7 @@
     "basisSetElements": {
         "1": {
             "elementReferences": [
-                "CC-PVTZ_OPT1-BS-REF"
+                "dunning:1989a"
             ],
             "elementElectronShells": [
                 {
@@ -112,7 +112,7 @@
         },
         "2": {
             "elementReferences": [
-                "CC-PVTZ_OPT1-BS-REF"
+                "woon:1994a"
             ],
             "elementElectronShells": [
                 {
@@ -221,7 +221,7 @@
         },
         "3": {
             "elementReferences": [
-                "CC-PVTZ_OPT1-BS-REF"
+                "dunning:1989a"
             ],
             "elementElectronShells": [
                 {
@@ -420,7 +420,7 @@
         },
         "4": {
             "elementReferences": [
-                "CC-PVTZ_OPT1-BS-REF"
+                "dunning:1989a"
             ],
             "elementElectronShells": [
                 {
@@ -619,7 +619,7 @@
         },
         "5": {
             "elementReferences": [
-                "CC-PVTZ_OPT1-BS-REF"
+                "dunning:1989a"
             ],
             "elementElectronShells": [
                 {
@@ -814,7 +814,7 @@
         },
         "6": {
             "elementReferences": [
-                "CC-PVTZ_OPT1-BS-REF"
+                "dunning:1989a"
             ],
             "elementElectronShells": [
                 {
@@ -1009,7 +1009,7 @@
         },
         "7": {
             "elementReferences": [
-                "CC-PVTZ_OPT1-BS-REF"
+                "dunning:1989a"
             ],
             "elementElectronShells": [
                 {
@@ -1204,7 +1204,7 @@
         },
         "8": {
             "elementReferences": [
-                "CC-PVTZ_OPT1-BS-REF"
+                "dunning:1989a"
             ],
             "elementElectronShells": [
                 {
@@ -1399,7 +1399,7 @@
         },
         "9": {
             "elementReferences": [
-                "CC-PVTZ_OPT1-BS-REF"
+                "dunning:1989a"
             ],
             "elementElectronShells": [
                 {
@@ -1594,7 +1594,7 @@
         },
         "10": {
             "elementReferences": [
-                "CC-PVTZ_OPT1-BS-REF"
+                "dunning:1989a"
             ],
             "elementElectronShells": [
                 {
@@ -1788,9 +1788,7 @@
             ]
         },
         "11": {
-            "elementReferences": [
-                "CC-PVTZ_OPT1-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -2077,9 +2075,7 @@
             ]
         },
         "12": {
-            "elementReferences": [
-                "CC-PVTZ_OPT1-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -2361,7 +2357,7 @@
         },
         "13": {
             "elementReferences": [
-                "CC-PVTZ_OPT1-BS-REF"
+                "woon:1993a"
             ],
             "elementElectronShells": [
                 {
@@ -2640,7 +2636,7 @@
         },
         "14": {
             "elementReferences": [
-                "CC-PVTZ_OPT1-BS-REF"
+                "woon:1993a"
             ],
             "elementElectronShells": [
                 {
@@ -2919,7 +2915,7 @@
         },
         "15": {
             "elementReferences": [
-                "CC-PVTZ_OPT1-BS-REF"
+                "woon:1993a"
             ],
             "elementElectronShells": [
                 {
@@ -3198,7 +3194,7 @@
         },
         "16": {
             "elementReferences": [
-                "CC-PVTZ_OPT1-BS-REF"
+                "woon:1993a"
             ],
             "elementElectronShells": [
                 {
@@ -3477,7 +3473,7 @@
         },
         "17": {
             "elementReferences": [
-                "CC-PVTZ_OPT1-BS-REF"
+                "woon:1993a"
             ],
             "elementElectronShells": [
                 {
@@ -3756,7 +3752,7 @@
         },
         "18": {
             "elementReferences": [
-                "CC-PVTZ_OPT1-BS-REF"
+                "woon:1993a"
             ],
             "elementElectronShells": [
                 {
@@ -4034,9 +4030,7 @@
             ]
         },
         "31": {
-            "elementReferences": [
-                "CC-PVTZ_OPT1-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -4451,9 +4445,7 @@
             ]
         },
         "32": {
-            "elementReferences": [
-                "CC-PVTZ_OPT1-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -4866,9 +4858,7 @@
             ]
         },
         "33": {
-            "elementReferences": [
-                "CC-PVTZ_OPT1-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -5283,9 +5273,7 @@
             ]
         },
         "34": {
-            "elementReferences": [
-                "CC-PVTZ_OPT1-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -5700,9 +5688,7 @@
             ]
         },
         "35": {
-            "elementReferences": [
-                "CC-PVTZ_OPT1-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -6119,9 +6105,7 @@
             ]
         },
         "36": {
-            "elementReferences": [
-                "CC-PVTZ_OPT1-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",

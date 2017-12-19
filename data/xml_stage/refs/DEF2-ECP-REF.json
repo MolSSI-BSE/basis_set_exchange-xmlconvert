@@ -1,0 +1,54 @@
+{
+    "citations": [
+        {
+            "Z": [
+                39,
+                40,
+                41,
+                42,
+                43,
+                44,
+                45,
+                46,
+                47,
+                48
+            ],
+            "article": "andrae:1990a",
+            "original": "D. Andrae, U. Haeussermann, M. Dolg, H. Stoll, H. Preuss, Theor. Chim. Acta, 77, 123-141 (1990)"
+        },
+        {
+            "Z": [
+                49,
+                50,
+                51
+            ],
+            "article": "metz:2000a",
+            "original": "B. Metz, H. Stoll, M. Dolg, J. Chem. Phys., 113, 2563-2569 (2000)."
+        },
+        {
+            "Z": [
+                52,
+                53,
+                54
+            ],
+            "article": "peterson:2003b",
+            "original": "K. A. Peterson, D. Figgen, E. Goll, H. Stoll, M. Dolg, J. Chem. Phys., 119, 11113-11123 (2003)."
+        },
+        {
+            "Z": [
+                37
+            ],
+            "article": "leininger:1996a",
+            "original": "T. Leininger, A. Nicklass, W. Kuechle, H. Stoll, M. Dolg, A. Bergner, Chem. Phys. Lett., 255, 274-280 (1996)."
+        },
+        {
+            "Z": [
+                38
+            ],
+            "article": "kaupp:1991a",
+            "original": "M. Kaupp, P. V. Schleyer, H. Stoll and H. Preuss, J. Chem. Phys., 94, 1360-1366 (1991).  "
+        }
+    ],
+    "original": "Elements                             References\n--------                             ----------\nY-Cd: D. Andrae, U. Haeussermann, M. Dolg, H. Stoll, H. Preuss, Theor. Chim. Acta, 77, 123-141 (1990)\nIn-Sb: B. Metz, H. Stoll, M. Dolg, J. Chem. Phys., 113, 2563-2569 (2000).\nTe-Xe: K. A. Peterson, D. Figgen, E. Goll, H. Stoll, M. Dolg, J. Chem. Phys., 119, 11113-11123 (2003).\nRb: T. Leininger, A. Nicklass, W. Kuechle, H. Stoll, M. Dolg, A. Bergner, Chem. Phys. Lett., 255, 274-280 (1996).\nSr: M. Kaupp, P. V. Schleyer, H. Stoll and H. Preuss, J. Chem. Phys., 94, 1360-1366 (1991).\n\n\n",
+    "valid": true
+}

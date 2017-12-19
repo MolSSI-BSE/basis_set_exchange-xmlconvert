@@ -4,9 +4,7 @@
     "basisSetDescription": "1P      Polarization functions",
     "basisSetElements": {
         "1": {
-            "elementReferences": [
-                "AHLRICHS_POL-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -27,9 +25,7 @@
             ]
         },
         "2": {
-            "elementReferences": [
-                "AHLRICHS_POL-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -50,9 +46,7 @@
             ]
         },
         "3": {
-            "elementReferences": [
-                "AHLRICHS_POL-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -73,9 +67,7 @@
             ]
         },
         "4": {
-            "elementReferences": [
-                "AHLRICHS_POL-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -116,9 +108,7 @@
             ]
         },
         "5": {
-            "elementReferences": [
-                "AHLRICHS_POL-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -139,9 +129,7 @@
             ]
         },
         "6": {
-            "elementReferences": [
-                "AHLRICHS_POL-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -162,9 +150,7 @@
             ]
         },
         "7": {
-            "elementReferences": [
-                "AHLRICHS_POL-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -185,9 +171,7 @@
             ]
         },
         "8": {
-            "elementReferences": [
-                "AHLRICHS_POL-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -208,9 +192,7 @@
             ]
         },
         "9": {
-            "elementReferences": [
-                "AHLRICHS_POL-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -231,9 +213,7 @@
             ]
         },
         "10": {
-            "elementReferences": [
-                "AHLRICHS_POL-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -254,9 +234,7 @@
             ]
         },
         "11": {
-            "elementReferences": [
-                "AHLRICHS_POL-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -277,9 +255,7 @@
             ]
         },
         "12": {
-            "elementReferences": [
-                "AHLRICHS_POL-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -300,9 +276,7 @@
             ]
         },
         "13": {
-            "elementReferences": [
-                "AHLRICHS_POL-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -323,9 +297,7 @@
             ]
         },
         "14": {
-            "elementReferences": [
-                "AHLRICHS_POL-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -346,9 +318,7 @@
             ]
         },
         "15": {
-            "elementReferences": [
-                "AHLRICHS_POL-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -369,9 +339,7 @@
             ]
         },
         "16": {
-            "elementReferences": [
-                "AHLRICHS_POL-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -392,9 +360,7 @@
             ]
         },
         "17": {
-            "elementReferences": [
-                "AHLRICHS_POL-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -415,9 +381,7 @@
             ]
         },
         "18": {
-            "elementReferences": [
-                "AHLRICHS_POL-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -438,9 +402,7 @@
             ]
         },
         "19": {
-            "elementReferences": [
-                "AHLRICHS_POL-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -461,9 +423,7 @@
             ]
         },
         "20": {
-            "elementReferences": [
-                "AHLRICHS_POL-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -484,9 +444,7 @@
             ]
         },
         "21": {
-            "elementReferences": [
-                "AHLRICHS_POL-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -507,9 +465,7 @@
             ]
         },
         "22": {
-            "elementReferences": [
-                "AHLRICHS_POL-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -530,9 +486,7 @@
             ]
         },
         "23": {
-            "elementReferences": [
-                "AHLRICHS_POL-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -553,9 +507,7 @@
             ]
         },
         "24": {
-            "elementReferences": [
-                "AHLRICHS_POL-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -576,9 +528,7 @@
             ]
         },
         "25": {
-            "elementReferences": [
-                "AHLRICHS_POL-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -599,9 +549,7 @@
             ]
         },
         "26": {
-            "elementReferences": [
-                "AHLRICHS_POL-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -622,9 +570,7 @@
             ]
         },
         "27": {
-            "elementReferences": [
-                "AHLRICHS_POL-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -645,9 +591,7 @@
             ]
         },
         "28": {
-            "elementReferences": [
-                "AHLRICHS_POL-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -668,9 +612,7 @@
             ]
         },
         "29": {
-            "elementReferences": [
-                "AHLRICHS_POL-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -691,9 +633,7 @@
             ]
         },
         "30": {
-            "elementReferences": [
-                "AHLRICHS_POL-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -714,9 +654,7 @@
             ]
         },
         "31": {
-            "elementReferences": [
-                "AHLRICHS_POL-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -737,9 +675,7 @@
             ]
         },
         "32": {
-            "elementReferences": [
-                "AHLRICHS_POL-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -760,9 +696,7 @@
             ]
         },
         "33": {
-            "elementReferences": [
-                "AHLRICHS_POL-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -783,9 +717,7 @@
             ]
         },
         "34": {
-            "elementReferences": [
-                "AHLRICHS_POL-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -806,9 +738,7 @@
             ]
         },
         "35": {
-            "elementReferences": [
-                "AHLRICHS_POL-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -829,9 +759,7 @@
             ]
         },
         "36": {
-            "elementReferences": [
-                "AHLRICHS_POL-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",

@@ -5,7 +5,7 @@
     "basisSetElements": {
         "1": {
             "elementReferences": [
-                "4-31G-BS-REF"
+                "ditchfield:1971a"
             ],
             "elementElectronShells": [
                 {
@@ -47,9 +47,7 @@
             ]
         },
         "2": {
-            "elementReferences": [
-                "4-31G-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -90,9 +88,7 @@
             ]
         },
         "3": {
-            "elementReferences": [
-                "4-31G-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -164,9 +160,7 @@
             ]
         },
         "4": {
-            "elementReferences": [
-                "4-31G-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -238,9 +232,7 @@
             ]
         },
         "5": {
-            "elementReferences": [
-                "4-31G-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -314,7 +306,7 @@
         },
         "6": {
             "elementReferences": [
-                "4-31G-BS-REF"
+                "ditchfield:1971a"
             ],
             "elementElectronShells": [
                 {
@@ -389,7 +381,7 @@
         },
         "7": {
             "elementReferences": [
-                "4-31G-BS-REF"
+                "ditchfield:1971a"
             ],
             "elementElectronShells": [
                 {
@@ -464,7 +456,7 @@
         },
         "8": {
             "elementReferences": [
-                "4-31G-BS-REF"
+                "ditchfield:1971a"
             ],
             "elementElectronShells": [
                 {
@@ -539,7 +531,7 @@
         },
         "9": {
             "elementReferences": [
-                "4-31G-BS-REF"
+                "ditchfield:1971a"
             ],
             "elementElectronShells": [
                 {
@@ -613,9 +605,7 @@
             ]
         },
         "10": {
-            "elementReferences": [
-                "4-31G-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -689,7 +679,7 @@
         },
         "15": {
             "elementReferences": [
-                "4-31G-BS-REF"
+                "gordon:1982a"
             ],
             "elementElectronShells": [
                 {
@@ -793,7 +783,7 @@
         },
         "16": {
             "elementReferences": [
-                "4-31G-BS-REF"
+                "gordon:1982a"
             ],
             "elementElectronShells": [
                 {
@@ -897,7 +887,7 @@
         },
         "17": {
             "elementReferences": [
-                "4-31G-BS-REF"
+                "gordon:1982a"
             ],
             "elementElectronShells": [
                 {

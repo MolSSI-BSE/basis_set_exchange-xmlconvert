@@ -5,7 +5,7 @@
     "basisSetElements": {
         "37": {
             "elementReferences": [
-                "DEF2-ECP-REF"
+                "leininger:1996a"
             ],
             "elementECPElectrons": 28,
             "elementECP": [
@@ -99,7 +99,7 @@
         },
         "38": {
             "elementReferences": [
-                "DEF2-ECP-REF"
+                "kaupp:1991a"
             ],
             "elementECPElectrons": 28,
             "elementECP": [
@@ -193,7 +193,7 @@
         },
         "39": {
             "elementReferences": [
-                "DEF2-ECP-REF"
+                "andrae:1990a"
             ],
             "elementECPElectrons": 28,
             "elementECP": [
@@ -299,7 +299,7 @@
         },
         "40": {
             "elementReferences": [
-                "DEF2-ECP-REF"
+                "andrae:1990a"
             ],
             "elementECPElectrons": 28,
             "elementECP": [
@@ -405,7 +405,7 @@
         },
         "41": {
             "elementReferences": [
-                "DEF2-ECP-REF"
+                "andrae:1990a"
             ],
             "elementECPElectrons": 28,
             "elementECP": [
@@ -511,7 +511,7 @@
         },
         "42": {
             "elementReferences": [
-                "DEF2-ECP-REF"
+                "andrae:1990a"
             ],
             "elementECPElectrons": 28,
             "elementECP": [
@@ -617,7 +617,7 @@
         },
         "43": {
             "elementReferences": [
-                "DEF2-ECP-REF"
+                "andrae:1990a"
             ],
             "elementECPElectrons": 28,
             "elementECP": [
@@ -723,7 +723,7 @@
         },
         "44": {
             "elementReferences": [
-                "DEF2-ECP-REF"
+                "andrae:1990a"
             ],
             "elementECPElectrons": 28,
             "elementECP": [
@@ -829,7 +829,7 @@
         },
         "45": {
             "elementReferences": [
-                "DEF2-ECP-REF"
+                "andrae:1990a"
             ],
             "elementECPElectrons": 28,
             "elementECP": [
@@ -935,7 +935,7 @@
         },
         "46": {
             "elementReferences": [
-                "DEF2-ECP-REF"
+                "andrae:1990a"
             ],
             "elementECPElectrons": 28,
             "elementECP": [
@@ -1041,7 +1041,7 @@
         },
         "47": {
             "elementReferences": [
-                "DEF2-ECP-REF"
+                "andrae:1990a"
             ],
             "elementECPElectrons": 28,
             "elementECP": [
@@ -1147,7 +1147,7 @@
         },
         "48": {
             "elementReferences": [
-                "DEF2-ECP-REF"
+                "andrae:1990a"
             ],
             "elementECPElectrons": 28,
             "elementECP": [
@@ -1253,7 +1253,7 @@
         },
         "49": {
             "elementReferences": [
-                "DEF2-ECP-REF"
+                "metz:2000a"
             ],
             "elementECPElectrons": 28,
             "elementECP": [
@@ -1371,7 +1371,7 @@
         },
         "50": {
             "elementReferences": [
-                "DEF2-ECP-REF"
+                "metz:2000a"
             ],
             "elementECPElectrons": 28,
             "elementECP": [
@@ -1489,7 +1489,7 @@
         },
         "51": {
             "elementReferences": [
-                "DEF2-ECP-REF"
+                "metz:2000a"
             ],
             "elementECPElectrons": 28,
             "elementECP": [
@@ -1607,7 +1607,7 @@
         },
         "52": {
             "elementReferences": [
-                "DEF2-ECP-REF"
+                "peterson:2003b"
             ],
             "elementECPElectrons": 28,
             "elementECP": [
@@ -1725,7 +1725,7 @@
         },
         "53": {
             "elementReferences": [
-                "DEF2-ECP-REF"
+                "peterson:2003b"
             ],
             "elementECPElectrons": 28,
             "elementECP": [
@@ -1876,7 +1876,7 @@
         },
         "54": {
             "elementReferences": [
-                "DEF2-ECP-REF"
+                "peterson:2003b"
             ],
             "elementECPElectrons": 28,
             "elementECP": [
@@ -2026,9 +2026,7 @@
             ]
         },
         "55": {
-            "elementReferences": [
-                "DEF2-ECP-REF"
-            ],
+            "elementReferences": [],
             "elementECPElectrons": 46,
             "elementECP": [
                 {
@@ -2120,9 +2118,7 @@
             ]
         },
         "56": {
-            "elementReferences": [
-                "DEF2-ECP-REF"
-            ],
+            "elementReferences": [],
             "elementECPElectrons": 46,
             "elementECP": [
                 {
@@ -2214,9 +2210,7 @@
             ]
         },
         "57": {
-            "elementReferences": [
-                "DEF2-ECP-REF"
-            ],
+            "elementReferences": [],
             "elementECPElectrons": 46,
             "elementECP": [
                 {
@@ -2308,9 +2302,7 @@
             ]
         },
         "72": {
-            "elementReferences": [
-                "DEF2-ECP-REF"
-            ],
+            "elementReferences": [],
             "elementECPElectrons": 60,
             "elementECP": [
                 {
@@ -2402,9 +2394,7 @@
             ]
         },
         "73": {
-            "elementReferences": [
-                "DEF2-ECP-REF"
-            ],
+            "elementReferences": [],
             "elementECPElectrons": 60,
             "elementECP": [
                 {
@@ -2496,9 +2486,7 @@
             ]
         },
         "74": {
-            "elementReferences": [
-                "DEF2-ECP-REF"
-            ],
+            "elementReferences": [],
             "elementECPElectrons": 60,
             "elementECP": [
                 {
@@ -2590,9 +2578,7 @@
             ]
         },
         "75": {
-            "elementReferences": [
-                "DEF2-ECP-REF"
-            ],
+            "elementReferences": [],
             "elementECPElectrons": 60,
             "elementECP": [
                 {
@@ -2684,9 +2670,7 @@
             ]
         },
         "76": {
-            "elementReferences": [
-                "DEF2-ECP-REF"
-            ],
+            "elementReferences": [],
             "elementECPElectrons": 60,
             "elementECP": [
                 {
@@ -2778,9 +2762,7 @@
             ]
         },
         "77": {
-            "elementReferences": [
-                "DEF2-ECP-REF"
-            ],
+            "elementReferences": [],
             "elementECPElectrons": 60,
             "elementECP": [
                 {
@@ -2872,9 +2854,7 @@
             ]
         },
         "78": {
-            "elementReferences": [
-                "DEF2-ECP-REF"
-            ],
+            "elementReferences": [],
             "elementECPElectrons": 60,
             "elementECP": [
                 {
@@ -2966,9 +2946,7 @@
             ]
         },
         "79": {
-            "elementReferences": [
-                "DEF2-ECP-REF"
-            ],
+            "elementReferences": [],
             "elementECPElectrons": 60,
             "elementECP": [
                 {
@@ -3072,9 +3050,7 @@
             ]
         },
         "80": {
-            "elementReferences": [
-                "DEF2-ECP-REF"
-            ],
+            "elementReferences": [],
             "elementECPElectrons": 60,
             "elementECP": [
                 {
@@ -3166,9 +3142,7 @@
             ]
         },
         "81": {
-            "elementReferences": [
-                "DEF2-ECP-REF"
-            ],
+            "elementReferences": [],
             "elementECPElectrons": 60,
             "elementECP": [
                 {
@@ -3308,9 +3282,7 @@
             ]
         },
         "82": {
-            "elementReferences": [
-                "DEF2-ECP-REF"
-            ],
+            "elementReferences": [],
             "elementECPElectrons": 60,
             "elementECP": [
                 {
@@ -3426,9 +3398,7 @@
             ]
         },
         "83": {
-            "elementReferences": [
-                "DEF2-ECP-REF"
-            ],
+            "elementReferences": [],
             "elementECPElectrons": 60,
             "elementECP": [
                 {
@@ -3544,9 +3514,7 @@
             ]
         },
         "84": {
-            "elementReferences": [
-                "DEF2-ECP-REF"
-            ],
+            "elementReferences": [],
             "elementECPElectrons": 60,
             "elementECP": [
                 {
@@ -3686,9 +3654,7 @@
             ]
         },
         "85": {
-            "elementReferences": [
-                "DEF2-ECP-REF"
-            ],
+            "elementReferences": [],
             "elementECPElectrons": 60,
             "elementECP": [
                 {
@@ -3831,9 +3797,7 @@
             ]
         },
         "86": {
-            "elementReferences": [
-                "DEF2-ECP-REF"
-            ],
+            "elementReferences": [],
             "elementECPElectrons": 60,
             "elementECP": [
                 {

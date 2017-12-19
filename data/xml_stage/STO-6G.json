@@ -5,7 +5,7 @@
     "basisSetElements": {
         "1": {
             "elementReferences": [
-                "STO-6G-BS-REF"
+                "hehre:1969a"
             ],
             "elementElectronShells": [
                 {
@@ -38,7 +38,7 @@
         },
         "2": {
             "elementReferences": [
-                "STO-6G-BS-REF"
+                "hehre:1969a"
             ],
             "elementElectronShells": [
                 {
@@ -71,7 +71,7 @@
         },
         "3": {
             "elementReferences": [
-                "STO-6G-BS-REF"
+                "hehre:1969a"
             ],
             "elementElectronShells": [
                 {
@@ -139,7 +139,7 @@
         },
         "4": {
             "elementReferences": [
-                "STO-6G-BS-REF"
+                "hehre:1969a"
             ],
             "elementElectronShells": [
                 {
@@ -207,7 +207,7 @@
         },
         "5": {
             "elementReferences": [
-                "STO-6G-BS-REF"
+                "hehre:1969a"
             ],
             "elementElectronShells": [
                 {
@@ -275,7 +275,7 @@
         },
         "6": {
             "elementReferences": [
-                "STO-6G-BS-REF"
+                "hehre:1969a"
             ],
             "elementElectronShells": [
                 {
@@ -343,7 +343,7 @@
         },
         "7": {
             "elementReferences": [
-                "STO-6G-BS-REF"
+                "hehre:1969a"
             ],
             "elementElectronShells": [
                 {
@@ -411,7 +411,7 @@
         },
         "8": {
             "elementReferences": [
-                "STO-6G-BS-REF"
+                "hehre:1969a"
             ],
             "elementElectronShells": [
                 {
@@ -479,7 +479,7 @@
         },
         "9": {
             "elementReferences": [
-                "STO-6G-BS-REF"
+                "hehre:1969a"
             ],
             "elementElectronShells": [
                 {
@@ -547,7 +547,7 @@
         },
         "10": {
             "elementReferences": [
-                "STO-6G-BS-REF"
+                "hehre:1969a"
             ],
             "elementElectronShells": [
                 {
@@ -615,7 +615,7 @@
         },
         "11": {
             "elementReferences": [
-                "STO-6G-BS-REF"
+                "hehre:1970a"
             ],
             "elementElectronShells": [
                 {
@@ -718,7 +718,7 @@
         },
         "12": {
             "elementReferences": [
-                "STO-6G-BS-REF"
+                "hehre:1970a"
             ],
             "elementElectronShells": [
                 {
@@ -821,7 +821,7 @@
         },
         "13": {
             "elementReferences": [
-                "STO-6G-BS-REF"
+                "hehre:1970a"
             ],
             "elementElectronShells": [
                 {
@@ -924,7 +924,7 @@
         },
         "14": {
             "elementReferences": [
-                "STO-6G-BS-REF"
+                "hehre:1970a"
             ],
             "elementElectronShells": [
                 {
@@ -1027,7 +1027,7 @@
         },
         "15": {
             "elementReferences": [
-                "STO-6G-BS-REF"
+                "hehre:1970a"
             ],
             "elementElectronShells": [
                 {
@@ -1130,7 +1130,7 @@
         },
         "16": {
             "elementReferences": [
-                "STO-6G-BS-REF"
+                "hehre:1970a"
             ],
             "elementElectronShells": [
                 {
@@ -1233,7 +1233,7 @@
         },
         "17": {
             "elementReferences": [
-                "STO-6G-BS-REF"
+                "hehre:1970a"
             ],
             "elementElectronShells": [
                 {
@@ -1336,7 +1336,7 @@
         },
         "18": {
             "elementReferences": [
-                "STO-6G-BS-REF"
+                "hehre:1970a"
             ],
             "elementElectronShells": [
                 {
@@ -1438,9 +1438,7 @@
             ]
         },
         "19": {
-            "elementReferences": [
-                "STO-6G-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -1576,9 +1574,7 @@
             ]
         },
         "20": {
-            "elementReferences": [
-                "STO-6G-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -1714,9 +1710,7 @@
             ]
         },
         "21": {
-            "elementReferences": [
-                "STO-6G-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -1878,9 +1872,7 @@
             ]
         },
         "22": {
-            "elementReferences": [
-                "STO-6G-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -2042,9 +2034,7 @@
             ]
         },
         "23": {
-            "elementReferences": [
-                "STO-6G-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -2206,9 +2196,7 @@
             ]
         },
         "24": {
-            "elementReferences": [
-                "STO-6G-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -2370,9 +2358,7 @@
             ]
         },
         "25": {
-            "elementReferences": [
-                "STO-6G-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -2534,9 +2520,7 @@
             ]
         },
         "26": {
-            "elementReferences": [
-                "STO-6G-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -2698,9 +2682,7 @@
             ]
         },
         "27": {
-            "elementReferences": [
-                "STO-6G-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -2862,9 +2844,7 @@
             ]
         },
         "28": {
-            "elementReferences": [
-                "STO-6G-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -3026,9 +3006,7 @@
             ]
         },
         "29": {
-            "elementReferences": [
-                "STO-6G-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -3190,9 +3168,7 @@
             ]
         },
         "30": {
-            "elementReferences": [
-                "STO-6G-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -3354,9 +3330,7 @@
             ]
         },
         "31": {
-            "elementReferences": [
-                "STO-6G-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -3518,9 +3492,7 @@
             ]
         },
         "32": {
-            "elementReferences": [
-                "STO-6G-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -3682,9 +3654,7 @@
             ]
         },
         "33": {
-            "elementReferences": [
-                "STO-6G-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -3846,9 +3816,7 @@
             ]
         },
         "34": {
-            "elementReferences": [
-                "STO-6G-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -4010,9 +3978,7 @@
             ]
         },
         "35": {
-            "elementReferences": [
-                "STO-6G-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -4174,9 +4140,7 @@
             ]
         },
         "36": {
-            "elementReferences": [
-                "STO-6G-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",

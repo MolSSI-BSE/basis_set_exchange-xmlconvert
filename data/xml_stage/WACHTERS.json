@@ -5,7 +5,8 @@
     "basisSetElements": {
         "21": {
             "elementReferences": [
-                "WACHTERS-BS-REF"
+                "wachters:1970a",
+                "bauschlicher:1989a"
             ],
             "elementElectronShells": [
                 {
@@ -346,7 +347,8 @@
         },
         "22": {
             "elementReferences": [
-                "WACHTERS-BS-REF"
+                "wachters:1970a",
+                "bauschlicher:1989a"
             ],
             "elementElectronShells": [
                 {
@@ -687,7 +689,8 @@
         },
         "23": {
             "elementReferences": [
-                "WACHTERS-BS-REF"
+                "wachters:1970a",
+                "bauschlicher:1989a"
             ],
             "elementElectronShells": [
                 {
@@ -1028,7 +1031,8 @@
         },
         "24": {
             "elementReferences": [
-                "WACHTERS-BS-REF"
+                "wachters:1970a",
+                "bauschlicher:1989a"
             ],
             "elementElectronShells": [
                 {
@@ -1369,7 +1373,8 @@
         },
         "25": {
             "elementReferences": [
-                "WACHTERS-BS-REF"
+                "wachters:1970a",
+                "bauschlicher:1989a"
             ],
             "elementElectronShells": [
                 {
@@ -1710,7 +1715,8 @@
         },
         "26": {
             "elementReferences": [
-                "WACHTERS-BS-REF"
+                "wachters:1970a",
+                "bauschlicher:1989a"
             ],
             "elementElectronShells": [
                 {
@@ -2051,7 +2057,8 @@
         },
         "27": {
             "elementReferences": [
-                "WACHTERS-BS-REF"
+                "wachters:1970a",
+                "bauschlicher:1989a"
             ],
             "elementElectronShells": [
                 {
@@ -2392,7 +2399,8 @@
         },
         "28": {
             "elementReferences": [
-                "WACHTERS-BS-REF"
+                "wachters:1970a",
+                "bauschlicher:1989a"
             ],
             "elementElectronShells": [
                 {
@@ -2733,7 +2741,8 @@
         },
         "29": {
             "elementReferences": [
-                "WACHTERS-BS-REF"
+                "wachters:1970a",
+                "bauschlicher:1989a"
             ],
             "elementElectronShells": [
                 {

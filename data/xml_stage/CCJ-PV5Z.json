@@ -5,7 +5,7 @@
     "basisSetElements": {
         "1": {
             "elementReferences": [
-                "CCJ-PV5Z-BS-REF"
+                "benedikt:2008a"
             ],
             "elementElectronShells": [
                 {
@@ -260,7 +260,7 @@
         },
         "2": {
             "elementReferences": [
-                "CCJ-PV5Z-BS-REF"
+                "benedikt:2008a"
             ],
             "elementElectronShells": [
                 {
@@ -515,7 +515,7 @@
         },
         "5": {
             "elementReferences": [
-                "CCJ-PV5Z-BS-REF"
+                "benedikt:2008a"
             ],
             "elementElectronShells": [
                 {
@@ -966,7 +966,7 @@
         },
         "6": {
             "elementReferences": [
-                "CCJ-PV5Z-BS-REF"
+                "benedikt:2008a"
             ],
             "elementElectronShells": [
                 {
@@ -1417,7 +1417,7 @@
         },
         "7": {
             "elementReferences": [
-                "CCJ-PV5Z-BS-REF"
+                "benedikt:2008a"
             ],
             "elementElectronShells": [
                 {
@@ -1868,7 +1868,7 @@
         },
         "8": {
             "elementReferences": [
-                "CCJ-PV5Z-BS-REF"
+                "benedikt:2008a"
             ],
             "elementElectronShells": [
                 {
@@ -2319,7 +2319,7 @@
         },
         "9": {
             "elementReferences": [
-                "CCJ-PV5Z-BS-REF"
+                "benedikt:2008a"
             ],
             "elementElectronShells": [
                 {
@@ -2770,7 +2770,7 @@
         },
         "10": {
             "elementReferences": [
-                "CCJ-PV5Z-BS-REF"
+                "benedikt:2008a"
             ],
             "elementElectronShells": [
                 {

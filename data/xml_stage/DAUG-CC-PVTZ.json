@@ -5,7 +5,7 @@
     "basisSetElements": {
         "1": {
             "elementReferences": [
-                "DAUG-CC-PVTZ-BS-REF"
+                "woon:1994a"
             ],
             "elementElectronShells": [
                 {
@@ -60,7 +60,7 @@
         },
         "2": {
             "elementReferences": [
-                "DAUG-CC-PVTZ-BS-REF"
+                "woon:1994a"
             ],
             "elementElectronShells": [
                 {
@@ -114,9 +114,7 @@
             ]
         },
         "5": {
-            "elementReferences": [
-                "DAUG-CC-PVTZ-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -185,9 +183,7 @@
             ]
         },
         "6": {
-            "elementReferences": [
-                "DAUG-CC-PVTZ-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -256,9 +252,7 @@
             ]
         },
         "7": {
-            "elementReferences": [
-                "DAUG-CC-PVTZ-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -327,9 +321,7 @@
             ]
         },
         "8": {
-            "elementReferences": [
-                "DAUG-CC-PVTZ-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -398,9 +390,7 @@
             ]
         },
         "9": {
-            "elementReferences": [
-                "DAUG-CC-PVTZ-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -469,9 +459,7 @@
             ]
         },
         "10": {
-            "elementReferences": [
-                "DAUG-CC-PVTZ-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",

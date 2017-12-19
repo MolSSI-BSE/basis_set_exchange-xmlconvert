@@ -4,9 +4,7 @@
     "basisSetDescription": "cc-pV6Z-RI",
     "basisSetElements": {
         "1": {
-            "elementReferences": [
-                "CC-PV6Z-RI-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -459,9 +457,7 @@
             ]
         },
         "2": {
-            "elementReferences": [
-                "CC-PV6Z-RI-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -914,9 +910,7 @@
             ]
         },
         "5": {
-            "elementReferences": [
-                "CC-PV6Z-RI-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -1737,9 +1731,7 @@
             ]
         },
         "6": {
-            "elementReferences": [
-                "CC-PV6Z-RI-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -2560,9 +2552,7 @@
             ]
         },
         "7": {
-            "elementReferences": [
-                "CC-PV6Z-RI-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -3383,9 +3373,7 @@
             ]
         },
         "8": {
-            "elementReferences": [
-                "CC-PV6Z-RI-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -4206,9 +4194,7 @@
             ]
         },
         "9": {
-            "elementReferences": [
-                "CC-PV6Z-RI-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -5029,9 +5015,7 @@
             ]
         },
         "10": {
-            "elementReferences": [
-                "CC-PV6Z-RI-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -5852,9 +5836,7 @@
             ]
         },
         "13": {
-            "elementReferences": [
-                "CC-PV6Z-RI-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -6851,9 +6833,7 @@
             ]
         },
         "14": {
-            "elementReferences": [
-                "CC-PV6Z-RI-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -7850,9 +7830,7 @@
             ]
         },
         "15": {
-            "elementReferences": [
-                "CC-PV6Z-RI-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -8849,9 +8827,7 @@
             ]
         },
         "16": {
-            "elementReferences": [
-                "CC-PV6Z-RI-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -9848,9 +9824,7 @@
             ]
         },
         "17": {
-            "elementReferences": [
-                "CC-PV6Z-RI-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -10847,9 +10821,7 @@
             ]
         },
         "18": {
-            "elementReferences": [
-                "CC-PV6Z-RI-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",

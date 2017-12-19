@@ -5,7 +5,7 @@
     "basisSetElements": {
         "1": {
             "elementReferences": [
-                "WEIGENDCOULOMBFITTING-BS-REF"
+                "weigend:2006a"
             ],
             "elementElectronShells": [
                 {
@@ -84,7 +84,7 @@
         },
         "2": {
             "elementReferences": [
-                "WEIGENDCOULOMBFITTING-BS-REF"
+                "weigend:2006a"
             ],
             "elementElectronShells": [
                 {
@@ -163,7 +163,7 @@
         },
         "3": {
             "elementReferences": [
-                "WEIGENDCOULOMBFITTING-BS-REF"
+                "weigend:2006a"
             ],
             "elementElectronShells": [
                 {
@@ -391,7 +391,7 @@
         },
         "4": {
             "elementReferences": [
-                "WEIGENDCOULOMBFITTING-BS-REF"
+                "weigend:2006a"
             ],
             "elementElectronShells": [
                 {
@@ -619,7 +619,7 @@
         },
         "5": {
             "elementReferences": [
-                "WEIGENDCOULOMBFITTING-BS-REF"
+                "weigend:2006a"
             ],
             "elementElectronShells": [
                 {
@@ -847,7 +847,7 @@
         },
         "6": {
             "elementReferences": [
-                "WEIGENDCOULOMBFITTING-BS-REF"
+                "weigend:2006a"
             ],
             "elementElectronShells": [
                 {
@@ -1075,7 +1075,7 @@
         },
         "7": {
             "elementReferences": [
-                "WEIGENDCOULOMBFITTING-BS-REF"
+                "weigend:2006a"
             ],
             "elementElectronShells": [
                 {
@@ -1303,7 +1303,7 @@
         },
         "8": {
             "elementReferences": [
-                "WEIGENDCOULOMBFITTING-BS-REF"
+                "weigend:2006a"
             ],
             "elementElectronShells": [
                 {
@@ -1531,7 +1531,7 @@
         },
         "9": {
             "elementReferences": [
-                "WEIGENDCOULOMBFITTING-BS-REF"
+                "weigend:2006a"
             ],
             "elementElectronShells": [
                 {
@@ -1759,7 +1759,7 @@
         },
         "10": {
             "elementReferences": [
-                "WEIGENDCOULOMBFITTING-BS-REF"
+                "weigend:2006a"
             ],
             "elementElectronShells": [
                 {
@@ -1987,7 +1987,7 @@
         },
         "11": {
             "elementReferences": [
-                "WEIGENDCOULOMBFITTING-BS-REF"
+                "weigend:2006a"
             ],
             "elementElectronShells": [
                 {
@@ -2272,7 +2272,7 @@
         },
         "12": {
             "elementReferences": [
-                "WEIGENDCOULOMBFITTING-BS-REF"
+                "weigend:2006a"
             ],
             "elementElectronShells": [
                 {
@@ -2557,7 +2557,7 @@
         },
         "13": {
             "elementReferences": [
-                "WEIGENDCOULOMBFITTING-BS-REF"
+                "weigend:2006a"
             ],
             "elementElectronShells": [
                 {
@@ -2835,7 +2835,7 @@
         },
         "14": {
             "elementReferences": [
-                "WEIGENDCOULOMBFITTING-BS-REF"
+                "weigend:2006a"
             ],
             "elementElectronShells": [
                 {
@@ -3113,7 +3113,7 @@
         },
         "15": {
             "elementReferences": [
-                "WEIGENDCOULOMBFITTING-BS-REF"
+                "weigend:2006a"
             ],
             "elementElectronShells": [
                 {
@@ -3391,7 +3391,7 @@
         },
         "16": {
             "elementReferences": [
-                "WEIGENDCOULOMBFITTING-BS-REF"
+                "weigend:2006a"
             ],
             "elementElectronShells": [
                 {
@@ -3669,7 +3669,7 @@
         },
         "17": {
             "elementReferences": [
-                "WEIGENDCOULOMBFITTING-BS-REF"
+                "weigend:2006a"
             ],
             "elementElectronShells": [
                 {
@@ -3947,7 +3947,7 @@
         },
         "18": {
             "elementReferences": [
-                "WEIGENDCOULOMBFITTING-BS-REF"
+                "weigend:2006a"
             ],
             "elementElectronShells": [
                 {
@@ -4225,7 +4225,7 @@
         },
         "19": {
             "elementReferences": [
-                "WEIGENDCOULOMBFITTING-BS-REF"
+                "weigend:2006a"
             ],
             "elementElectronShells": [
                 {
@@ -4557,7 +4557,7 @@
         },
         "20": {
             "elementReferences": [
-                "WEIGENDCOULOMBFITTING-BS-REF"
+                "weigend:2006a"
             ],
             "elementElectronShells": [
                 {
@@ -4889,7 +4889,7 @@
         },
         "21": {
             "elementReferences": [
-                "WEIGENDCOULOMBFITTING-BS-REF"
+                "weigend:2006a"
             ],
             "elementElectronShells": [
                 {
@@ -5254,7 +5254,7 @@
         },
         "22": {
             "elementReferences": [
-                "WEIGENDCOULOMBFITTING-BS-REF"
+                "weigend:2006a"
             ],
             "elementElectronShells": [
                 {
@@ -5619,7 +5619,7 @@
         },
         "23": {
             "elementReferences": [
-                "WEIGENDCOULOMBFITTING-BS-REF"
+                "weigend:2006a"
             ],
             "elementElectronShells": [
                 {
@@ -5984,7 +5984,7 @@
         },
         "24": {
             "elementReferences": [
-                "WEIGENDCOULOMBFITTING-BS-REF"
+                "weigend:2006a"
             ],
             "elementElectronShells": [
                 {
@@ -6349,7 +6349,7 @@
         },
         "25": {
             "elementReferences": [
-                "WEIGENDCOULOMBFITTING-BS-REF"
+                "weigend:2006a"
             ],
             "elementElectronShells": [
                 {
@@ -6714,7 +6714,7 @@
         },
         "26": {
             "elementReferences": [
-                "WEIGENDCOULOMBFITTING-BS-REF"
+                "weigend:2006a"
             ],
             "elementElectronShells": [
                 {
@@ -7079,7 +7079,7 @@
         },
         "27": {
             "elementReferences": [
-                "WEIGENDCOULOMBFITTING-BS-REF"
+                "weigend:2006a"
             ],
             "elementElectronShells": [
                 {
@@ -7444,7 +7444,7 @@
         },
         "28": {
             "elementReferences": [
-                "WEIGENDCOULOMBFITTING-BS-REF"
+                "weigend:2006a"
             ],
             "elementElectronShells": [
                 {
@@ -7809,7 +7809,7 @@
         },
         "29": {
             "elementReferences": [
-                "WEIGENDCOULOMBFITTING-BS-REF"
+                "weigend:2006a"
             ],
             "elementElectronShells": [
                 {
@@ -8172,7 +8172,7 @@
         },
         "30": {
             "elementReferences": [
-                "WEIGENDCOULOMBFITTING-BS-REF"
+                "weigend:2006a"
             ],
             "elementElectronShells": [
                 {
@@ -8537,7 +8537,7 @@
         },
         "31": {
             "elementReferences": [
-                "WEIGENDCOULOMBFITTING-BS-REF"
+                "weigend:2006a"
             ],
             "elementElectronShells": [
                 {
@@ -8867,7 +8867,7 @@
         },
         "32": {
             "elementReferences": [
-                "WEIGENDCOULOMBFITTING-BS-REF"
+                "weigend:2006a"
             ],
             "elementElectronShells": [
                 {
@@ -9197,7 +9197,7 @@
         },
         "33": {
             "elementReferences": [
-                "WEIGENDCOULOMBFITTING-BS-REF"
+                "weigend:2006a"
             ],
             "elementElectronShells": [
                 {
@@ -9527,7 +9527,7 @@
         },
         "34": {
             "elementReferences": [
-                "WEIGENDCOULOMBFITTING-BS-REF"
+                "weigend:2006a"
             ],
             "elementElectronShells": [
                 {
@@ -9857,7 +9857,7 @@
         },
         "35": {
             "elementReferences": [
-                "WEIGENDCOULOMBFITTING-BS-REF"
+                "weigend:2006a"
             ],
             "elementElectronShells": [
                 {
@@ -10187,7 +10187,7 @@
         },
         "36": {
             "elementReferences": [
-                "WEIGENDCOULOMBFITTING-BS-REF"
+                "weigend:2006a"
             ],
             "elementElectronShells": [
                 {
@@ -10517,7 +10517,7 @@
         },
         "37": {
             "elementReferences": [
-                "WEIGENDCOULOMBFITTING-BS-REF"
+                "weigend:2006a"
             ],
             "elementElectronShells": [
                 {
@@ -10777,7 +10777,7 @@
         },
         "38": {
             "elementReferences": [
-                "WEIGENDCOULOMBFITTING-BS-REF"
+                "weigend:2006a"
             ],
             "elementElectronShells": [
                 {
@@ -11037,7 +11037,7 @@
         },
         "39": {
             "elementReferences": [
-                "WEIGENDCOULOMBFITTING-BS-REF"
+                "weigend:2006a"
             ],
             "elementElectronShells": [
                 {
@@ -11330,7 +11330,7 @@
         },
         "40": {
             "elementReferences": [
-                "WEIGENDCOULOMBFITTING-BS-REF"
+                "weigend:2006a"
             ],
             "elementElectronShells": [
                 {
@@ -11623,7 +11623,7 @@
         },
         "41": {
             "elementReferences": [
-                "WEIGENDCOULOMBFITTING-BS-REF"
+                "weigend:2006a"
             ],
             "elementElectronShells": [
                 {
@@ -11916,7 +11916,7 @@
         },
         "42": {
             "elementReferences": [
-                "WEIGENDCOULOMBFITTING-BS-REF"
+                "weigend:2006a"
             ],
             "elementElectronShells": [
                 {
@@ -12209,7 +12209,7 @@
         },
         "43": {
             "elementReferences": [
-                "WEIGENDCOULOMBFITTING-BS-REF"
+                "weigend:2006a"
             ],
             "elementElectronShells": [
                 {
@@ -12502,7 +12502,7 @@
         },
         "44": {
             "elementReferences": [
-                "WEIGENDCOULOMBFITTING-BS-REF"
+                "weigend:2006a"
             ],
             "elementElectronShells": [
                 {
@@ -12795,7 +12795,7 @@
         },
         "45": {
             "elementReferences": [
-                "WEIGENDCOULOMBFITTING-BS-REF"
+                "weigend:2006a"
             ],
             "elementElectronShells": [
                 {
@@ -13088,7 +13088,7 @@
         },
         "46": {
             "elementReferences": [
-                "WEIGENDCOULOMBFITTING-BS-REF"
+                "weigend:2006a"
             ],
             "elementElectronShells": [
                 {
@@ -13381,7 +13381,7 @@
         },
         "47": {
             "elementReferences": [
-                "WEIGENDCOULOMBFITTING-BS-REF"
+                "weigend:2006a"
             ],
             "elementElectronShells": [
                 {
@@ -13674,7 +13674,7 @@
         },
         "48": {
             "elementReferences": [
-                "WEIGENDCOULOMBFITTING-BS-REF"
+                "weigend:2006a"
             ],
             "elementElectronShells": [
                 {
@@ -13967,7 +13967,7 @@
         },
         "49": {
             "elementReferences": [
-                "WEIGENDCOULOMBFITTING-BS-REF"
+                "weigend:2006a"
             ],
             "elementElectronShells": [
                 {
@@ -14225,7 +14225,7 @@
         },
         "50": {
             "elementReferences": [
-                "WEIGENDCOULOMBFITTING-BS-REF"
+                "weigend:2006a"
             ],
             "elementElectronShells": [
                 {
@@ -14483,7 +14483,7 @@
         },
         "51": {
             "elementReferences": [
-                "WEIGENDCOULOMBFITTING-BS-REF"
+                "weigend:2006a"
             ],
             "elementElectronShells": [
                 {
@@ -14740,9 +14740,7 @@
             ]
         },
         "52": {
-            "elementReferences": [
-                "WEIGENDCOULOMBFITTING-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -14999,7 +14997,7 @@
         },
         "53": {
             "elementReferences": [
-                "WEIGENDCOULOMBFITTING-BS-REF"
+                "weigend:2006a"
             ],
             "elementElectronShells": [
                 {
@@ -15257,7 +15255,7 @@
         },
         "54": {
             "elementReferences": [
-                "WEIGENDCOULOMBFITTING-BS-REF"
+                "weigend:2006a"
             ],
             "elementElectronShells": [
                 {
@@ -15515,7 +15513,7 @@
         },
         "55": {
             "elementReferences": [
-                "WEIGENDCOULOMBFITTING-BS-REF"
+                "weigend:2006a"
             ],
             "elementElectronShells": [
                 {
@@ -15775,7 +15773,7 @@
         },
         "56": {
             "elementReferences": [
-                "WEIGENDCOULOMBFITTING-BS-REF"
+                "weigend:2006a"
             ],
             "elementElectronShells": [
                 {
@@ -16035,7 +16033,7 @@
         },
         "57": {
             "elementReferences": [
-                "WEIGENDCOULOMBFITTING-BS-REF"
+                "weigend:2006a"
             ],
             "elementElectronShells": [
                 {
@@ -16328,7 +16326,7 @@
         },
         "72": {
             "elementReferences": [
-                "WEIGENDCOULOMBFITTING-BS-REF"
+                "weigend:2006a"
             ],
             "elementElectronShells": [
                 {
@@ -16621,7 +16619,7 @@
         },
         "73": {
             "elementReferences": [
-                "WEIGENDCOULOMBFITTING-BS-REF"
+                "weigend:2006a"
             ],
             "elementElectronShells": [
                 {
@@ -16914,7 +16912,7 @@
         },
         "74": {
             "elementReferences": [
-                "WEIGENDCOULOMBFITTING-BS-REF"
+                "weigend:2006a"
             ],
             "elementElectronShells": [
                 {
@@ -17207,7 +17205,7 @@
         },
         "75": {
             "elementReferences": [
-                "WEIGENDCOULOMBFITTING-BS-REF"
+                "weigend:2006a"
             ],
             "elementElectronShells": [
                 {
@@ -17500,7 +17498,7 @@
         },
         "76": {
             "elementReferences": [
-                "WEIGENDCOULOMBFITTING-BS-REF"
+                "weigend:2006a"
             ],
             "elementElectronShells": [
                 {
@@ -17793,7 +17791,7 @@
         },
         "77": {
             "elementReferences": [
-                "WEIGENDCOULOMBFITTING-BS-REF"
+                "weigend:2006a"
             ],
             "elementElectronShells": [
                 {
@@ -18086,7 +18084,7 @@
         },
         "78": {
             "elementReferences": [
-                "WEIGENDCOULOMBFITTING-BS-REF"
+                "weigend:2006a"
             ],
             "elementElectronShells": [
                 {
@@ -18379,7 +18377,7 @@
         },
         "79": {
             "elementReferences": [
-                "WEIGENDCOULOMBFITTING-BS-REF"
+                "weigend:2006a"
             ],
             "elementElectronShells": [
                 {
@@ -18672,7 +18670,7 @@
         },
         "80": {
             "elementReferences": [
-                "WEIGENDCOULOMBFITTING-BS-REF"
+                "weigend:2006a"
             ],
             "elementElectronShells": [
                 {
@@ -18965,7 +18963,7 @@
         },
         "81": {
             "elementReferences": [
-                "WEIGENDCOULOMBFITTING-BS-REF"
+                "weigend:2006a"
             ],
             "elementElectronShells": [
                 {
@@ -19223,7 +19221,7 @@
         },
         "82": {
             "elementReferences": [
-                "WEIGENDCOULOMBFITTING-BS-REF"
+                "weigend:2006a"
             ],
             "elementElectronShells": [
                 {
@@ -19481,7 +19479,7 @@
         },
         "83": {
             "elementReferences": [
-                "WEIGENDCOULOMBFITTING-BS-REF"
+                "weigend:2006a"
             ],
             "elementElectronShells": [
                 {
@@ -19739,7 +19737,7 @@
         },
         "84": {
             "elementReferences": [
-                "WEIGENDCOULOMBFITTING-BS-REF"
+                "weigend:2006a"
             ],
             "elementElectronShells": [
                 {
@@ -19997,7 +19995,7 @@
         },
         "85": {
             "elementReferences": [
-                "WEIGENDCOULOMBFITTING-BS-REF"
+                "weigend:2006a"
             ],
             "elementElectronShells": [
                 {
@@ -20255,7 +20253,7 @@
         },
         "86": {
             "elementReferences": [
-                "WEIGENDCOULOMBFITTING-BS-REF"
+                "weigend:2006a"
             ],
             "elementElectronShells": [
                 {

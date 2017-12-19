@@ -5,7 +5,7 @@
     "basisSetElements": {
         "1": {
             "elementReferences": [
-                "7ZAPA-NR-BS-REF"
+                "ranasinghe:2013a"
             ],
             "elementElectronShells": [
                 {
@@ -534,7 +534,7 @@
         },
         "2": {
             "elementReferences": [
-                "7ZAPA-NR-BS-REF"
+                "ranasinghe:2013a"
             ],
             "elementElectronShells": [
                 {
@@ -1053,7 +1053,7 @@
         },
         "3": {
             "elementReferences": [
-                "7ZAPA-NR-BS-REF"
+                "ranasinghe:2013a"
             ],
             "elementElectronShells": [
                 {
@@ -1866,7 +1866,7 @@
         },
         "4": {
             "elementReferences": [
-                "7ZAPA-NR-BS-REF"
+                "ranasinghe:2013a"
             ],
             "elementElectronShells": [
                 {
@@ -2747,7 +2747,7 @@
         },
         "5": {
             "elementReferences": [
-                "7ZAPA-NR-BS-REF"
+                "ranasinghe:2013a"
             ],
             "elementElectronShells": [
                 {
@@ -3609,7 +3609,7 @@
         },
         "6": {
             "elementReferences": [
-                "7ZAPA-NR-BS-REF"
+                "ranasinghe:2013a"
             ],
             "elementElectronShells": [
                 {
@@ -4470,7 +4470,7 @@
         },
         "7": {
             "elementReferences": [
-                "7ZAPA-NR-BS-REF"
+                "ranasinghe:2013a"
             ],
             "elementElectronShells": [
                 {
@@ -5373,7 +5373,7 @@
         },
         "8": {
             "elementReferences": [
-                "7ZAPA-NR-BS-REF"
+                "ranasinghe:2013a"
             ],
             "elementElectronShells": [
                 {
@@ -6244,7 +6244,7 @@
         },
         "9": {
             "elementReferences": [
-                "7ZAPA-NR-BS-REF"
+                "ranasinghe:2013a"
             ],
             "elementElectronShells": [
                 {
@@ -7134,7 +7134,7 @@
         },
         "10": {
             "elementReferences": [
-                "7ZAPA-NR-BS-REF"
+                "ranasinghe:2013a"
             ],
             "elementElectronShells": [
                 {

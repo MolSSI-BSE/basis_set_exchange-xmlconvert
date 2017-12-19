@@ -4,9 +4,7 @@
     "basisSetDescription": "Core/valence Functions (cc-pCV6Z(old))",
     "basisSetElements": {
         "8": {
-            "elementReferences": [
-                "CC-PCV6Z-OLD-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",

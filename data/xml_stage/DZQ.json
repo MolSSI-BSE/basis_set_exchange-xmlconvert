@@ -5,7 +5,7 @@
     "basisSetElements": {
         "39": {
             "elementReferences": [
-                "DZQ-BS-REF"
+                "schultz:2005a"
             ],
             "elementElectronShells": [
                 {
@@ -220,7 +220,7 @@
         },
         "40": {
             "elementReferences": [
-                "DZQ-BS-REF"
+                "schultz:2005a"
             ],
             "elementElectronShells": [
                 {
@@ -435,7 +435,7 @@
         },
         "41": {
             "elementReferences": [
-                "DZQ-BS-REF"
+                "schultz:2005a"
             ],
             "elementElectronShells": [
                 {
@@ -650,7 +650,7 @@
         },
         "42": {
             "elementReferences": [
-                "DZQ-BS-REF"
+                "schultz:2005a"
             ],
             "elementElectronShells": [
                 {
@@ -867,7 +867,7 @@
         },
         "43": {
             "elementReferences": [
-                "DZQ-BS-REF"
+                "schultz:2005a"
             ],
             "elementElectronShells": [
                 {
@@ -1084,7 +1084,7 @@
         },
         "44": {
             "elementReferences": [
-                "DZQ-BS-REF"
+                "schultz:2005a"
             ],
             "elementElectronShells": [
                 {
@@ -1301,7 +1301,7 @@
         },
         "45": {
             "elementReferences": [
-                "DZQ-BS-REF"
+                "schultz:2005a"
             ],
             "elementElectronShells": [
                 {
@@ -1518,7 +1518,7 @@
         },
         "46": {
             "elementReferences": [
-                "DZQ-BS-REF"
+                "schultz:2005a"
             ],
             "elementElectronShells": [
                 {
@@ -1735,7 +1735,7 @@
         },
         "47": {
             "elementReferences": [
-                "DZQ-BS-REF"
+                "schultz:2005a"
             ],
             "elementElectronShells": [
                 {

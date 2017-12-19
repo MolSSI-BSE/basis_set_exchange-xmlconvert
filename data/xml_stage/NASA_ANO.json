@@ -5,7 +5,8 @@
     "basisSetElements": {
         "1": {
             "elementReferences": [
-                "NASA_ANO-BS-REF"
+                "almlof:1987a",
+                "bauschlicher:1990a"
             ],
             "elementElectronShells": [
                 {
@@ -162,7 +163,8 @@
         },
         "5": {
             "elementReferences": [
-                "NASA_ANO-BS-REF"
+                "almlof:1987a",
+                "bauschlicher:1990a"
             ],
             "elementElectronShells": [
                 {
@@ -417,7 +419,8 @@
         },
         "6": {
             "elementReferences": [
-                "NASA_ANO-BS-REF"
+                "almlof:1987a",
+                "bauschlicher:1990a"
             ],
             "elementElectronShells": [
                 {
@@ -672,7 +675,8 @@
         },
         "7": {
             "elementReferences": [
-                "NASA_ANO-BS-REF"
+                "almlof:1987a",
+                "bauschlicher:1990a"
             ],
             "elementElectronShells": [
                 {
@@ -927,7 +931,8 @@
         },
         "8": {
             "elementReferences": [
-                "NASA_ANO-BS-REF"
+                "almlof:1987a",
+                "bauschlicher:1990a"
             ],
             "elementElectronShells": [
                 {
@@ -1182,7 +1187,8 @@
         },
         "9": {
             "elementReferences": [
-                "NASA_ANO-BS-REF"
+                "almlof:1987a",
+                "bauschlicher:1990a"
             ],
             "elementElectronShells": [
                 {
@@ -1437,7 +1443,8 @@
         },
         "10": {
             "elementReferences": [
-                "NASA_ANO-BS-REF"
+                "almlof:1987a",
+                "bauschlicher:1990a"
             ],
             "elementElectronShells": [
                 {
@@ -1692,7 +1699,8 @@
         },
         "13": {
             "elementReferences": [
-                "NASA_ANO-BS-REF"
+                "almlof:1987a",
+                "bauschlicher:1990a"
             ],
             "elementElectronShells": [
                 {
@@ -2051,7 +2059,8 @@
         },
         "15": {
             "elementReferences": [
-                "NASA_ANO-BS-REF"
+                "almlof:1987a",
+                "bauschlicher:1990a"
             ],
             "elementElectronShells": [
                 {
@@ -2396,7 +2405,8 @@
         },
         "22": {
             "elementReferences": [
-                "NASA_ANO-BS-REF"
+                "almlof:1987a",
+                "bauschlicher:1990a"
             ],
             "elementElectronShells": [
                 {
@@ -2837,7 +2847,8 @@
         },
         "26": {
             "elementReferences": [
-                "NASA_ANO-BS-REF"
+                "almlof:1987a",
+                "bauschlicher:1990a"
             ],
             "elementElectronShells": [
                 {
@@ -3299,7 +3310,8 @@
         },
         "28": {
             "elementReferences": [
-                "NASA_ANO-BS-REF"
+                "almlof:1987a",
+                "bauschlicher:1990a"
             ],
             "elementElectronShells": [
                 {

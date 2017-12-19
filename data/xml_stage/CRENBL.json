@@ -4,9 +4,7 @@
     "basisSetDescription": "CRENBL ECP",
     "basisSetElements": {
         "1": {
-            "elementReferences": [
-                "CRENBL-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -76,7 +74,7 @@
         },
         "3": {
             "elementReferences": [
-                "CRENBL-BS-REF"
+                "pacios:1985a"
             ],
             "elementElectronShells": [
                 {
@@ -211,7 +209,7 @@
         },
         "4": {
             "elementReferences": [
-                "CRENBL-BS-REF"
+                "pacios:1985a"
             ],
             "elementElectronShells": [
                 {
@@ -346,7 +344,7 @@
         },
         "5": {
             "elementReferences": [
-                "CRENBL-BS-REF"
+                "pacios:1985a"
             ],
             "elementElectronShells": [
                 {
@@ -481,7 +479,7 @@
         },
         "6": {
             "elementReferences": [
-                "CRENBL-BS-REF"
+                "pacios:1985a"
             ],
             "elementElectronShells": [
                 {
@@ -616,7 +614,7 @@
         },
         "7": {
             "elementReferences": [
-                "CRENBL-BS-REF"
+                "pacios:1985a"
             ],
             "elementElectronShells": [
                 {
@@ -751,7 +749,7 @@
         },
         "8": {
             "elementReferences": [
-                "CRENBL-BS-REF"
+                "pacios:1985a"
             ],
             "elementElectronShells": [
                 {
@@ -886,7 +884,7 @@
         },
         "9": {
             "elementReferences": [
-                "CRENBL-BS-REF"
+                "pacios:1985a"
             ],
             "elementElectronShells": [
                 {
@@ -1021,7 +1019,7 @@
         },
         "10": {
             "elementReferences": [
-                "CRENBL-BS-REF"
+                "pacios:1985a"
             ],
             "elementElectronShells": [
                 {
@@ -1156,7 +1154,7 @@
         },
         "11": {
             "elementReferences": [
-                "CRENBL-BS-REF"
+                "pacios:1985a"
             ],
             "elementElectronShells": [
                 {
@@ -1323,7 +1321,7 @@
         },
         "12": {
             "elementReferences": [
-                "CRENBL-BS-REF"
+                "pacios:1985a"
             ],
             "elementElectronShells": [
                 {
@@ -1490,7 +1488,7 @@
         },
         "13": {
             "elementReferences": [
-                "CRENBL-BS-REF"
+                "pacios:1985a"
             ],
             "elementElectronShells": [
                 {
@@ -1625,7 +1623,7 @@
         },
         "14": {
             "elementReferences": [
-                "CRENBL-BS-REF"
+                "pacios:1985a"
             ],
             "elementElectronShells": [
                 {
@@ -1760,7 +1758,7 @@
         },
         "15": {
             "elementReferences": [
-                "CRENBL-BS-REF"
+                "pacios:1985a"
             ],
             "elementElectronShells": [
                 {
@@ -1895,7 +1893,7 @@
         },
         "16": {
             "elementReferences": [
-                "CRENBL-BS-REF"
+                "pacios:1985a"
             ],
             "elementElectronShells": [
                 {
@@ -2030,7 +2028,7 @@
         },
         "17": {
             "elementReferences": [
-                "CRENBL-BS-REF"
+                "pacios:1985a"
             ],
             "elementElectronShells": [
                 {
@@ -2165,7 +2163,7 @@
         },
         "18": {
             "elementReferences": [
-                "CRENBL-BS-REF"
+                "pacios:1985a"
             ],
             "elementElectronShells": [
                 {
@@ -2300,7 +2298,7 @@
         },
         "19": {
             "elementReferences": [
-                "CRENBL-BS-REF"
+                "hurley:1986a"
             ],
             "elementElectronShells": [
                 {
@@ -2451,7 +2449,7 @@
         },
         "20": {
             "elementReferences": [
-                "CRENBL-BS-REF"
+                "hurley:1986a"
             ],
             "elementElectronShells": [
                 {
@@ -2602,7 +2600,7 @@
         },
         "21": {
             "elementReferences": [
-                "CRENBL-BS-REF"
+                "hurley:1986a"
             ],
             "elementElectronShells": [
                 {
@@ -2913,7 +2911,7 @@
         },
         "22": {
             "elementReferences": [
-                "CRENBL-BS-REF"
+                "hurley:1986a"
             ],
             "elementElectronShells": [
                 {
@@ -3224,7 +3222,7 @@
         },
         "23": {
             "elementReferences": [
-                "CRENBL-BS-REF"
+                "hurley:1986a"
             ],
             "elementElectronShells": [
                 {
@@ -3535,7 +3533,7 @@
         },
         "24": {
             "elementReferences": [
-                "CRENBL-BS-REF"
+                "hurley:1986a"
             ],
             "elementElectronShells": [
                 {
@@ -3846,7 +3844,7 @@
         },
         "25": {
             "elementReferences": [
-                "CRENBL-BS-REF"
+                "hurley:1986a"
             ],
             "elementElectronShells": [
                 {
@@ -4157,7 +4155,7 @@
         },
         "26": {
             "elementReferences": [
-                "CRENBL-BS-REF"
+                "hurley:1986a"
             ],
             "elementElectronShells": [
                 {
@@ -4468,7 +4466,7 @@
         },
         "27": {
             "elementReferences": [
-                "CRENBL-BS-REF"
+                "hurley:1986a"
             ],
             "elementElectronShells": [
                 {
@@ -4779,7 +4777,7 @@
         },
         "28": {
             "elementReferences": [
-                "CRENBL-BS-REF"
+                "hurley:1986a"
             ],
             "elementElectronShells": [
                 {
@@ -5090,7 +5088,7 @@
         },
         "29": {
             "elementReferences": [
-                "CRENBL-BS-REF"
+                "hurley:1986a"
             ],
             "elementElectronShells": [
                 {
@@ -5401,7 +5399,7 @@
         },
         "30": {
             "elementReferences": [
-                "CRENBL-BS-REF"
+                "hurley:1986a"
             ],
             "elementElectronShells": [
                 {
@@ -5712,7 +5710,7 @@
         },
         "31": {
             "elementReferences": [
-                "CRENBL-BS-REF"
+                "hurley:1986a"
             ],
             "elementElectronShells": [
                 {
@@ -5879,7 +5877,7 @@
         },
         "32": {
             "elementReferences": [
-                "CRENBL-BS-REF"
+                "hurley:1986a"
             ],
             "elementElectronShells": [
                 {
@@ -6046,7 +6044,7 @@
         },
         "33": {
             "elementReferences": [
-                "CRENBL-BS-REF"
+                "hurley:1986a"
             ],
             "elementElectronShells": [
                 {
@@ -6213,7 +6211,7 @@
         },
         "34": {
             "elementReferences": [
-                "CRENBL-BS-REF"
+                "hurley:1986a"
             ],
             "elementElectronShells": [
                 {
@@ -6380,7 +6378,7 @@
         },
         "35": {
             "elementReferences": [
-                "CRENBL-BS-REF"
+                "hurley:1986a"
             ],
             "elementElectronShells": [
                 {
@@ -6547,7 +6545,7 @@
         },
         "36": {
             "elementReferences": [
-                "CRENBL-BS-REF"
+                "hurley:1986a"
             ],
             "elementElectronShells": [
                 {
@@ -6714,7 +6712,7 @@
         },
         "37": {
             "elementReferences": [
-                "CRENBL-BS-REF"
+                "lajohn:1987a"
             ],
             "elementElectronShells": [
                 {
@@ -6881,7 +6879,7 @@
         },
         "38": {
             "elementReferences": [
-                "CRENBL-BS-REF"
+                "lajohn:1987a"
             ],
             "elementElectronShells": [
                 {
@@ -7048,7 +7046,7 @@
         },
         "39": {
             "elementReferences": [
-                "CRENBL-BS-REF"
+                "lajohn:1987a"
             ],
             "elementElectronShells": [
                 {
@@ -7279,7 +7277,7 @@
         },
         "40": {
             "elementReferences": [
-                "CRENBL-BS-REF"
+                "lajohn:1987a"
             ],
             "elementElectronShells": [
                 {
@@ -7510,7 +7508,7 @@
         },
         "41": {
             "elementReferences": [
-                "CRENBL-BS-REF"
+                "lajohn:1987a"
             ],
             "elementElectronShells": [
                 {
@@ -7741,7 +7739,7 @@
         },
         "42": {
             "elementReferences": [
-                "CRENBL-BS-REF"
+                "lajohn:1987a"
             ],
             "elementElectronShells": [
                 {
@@ -7972,7 +7970,7 @@
         },
         "43": {
             "elementReferences": [
-                "CRENBL-BS-REF"
+                "lajohn:1987a"
             ],
             "elementElectronShells": [
                 {
@@ -8203,7 +8201,7 @@
         },
         "44": {
             "elementReferences": [
-                "CRENBL-BS-REF"
+                "lajohn:1987a"
             ],
             "elementElectronShells": [
                 {
@@ -8434,7 +8432,7 @@
         },
         "45": {
             "elementReferences": [
-                "CRENBL-BS-REF"
+                "lajohn:1987a"
             ],
             "elementElectronShells": [
                 {
@@ -8665,7 +8663,7 @@
         },
         "46": {
             "elementReferences": [
-                "CRENBL-BS-REF"
+                "lajohn:1987a"
             ],
             "elementElectronShells": [
                 {
@@ -8896,7 +8894,7 @@
         },
         "47": {
             "elementReferences": [
-                "CRENBL-BS-REF"
+                "lajohn:1987a"
             ],
             "elementElectronShells": [
                 {
@@ -9127,7 +9125,7 @@
         },
         "48": {
             "elementReferences": [
-                "CRENBL-BS-REF"
+                "lajohn:1987a"
             ],
             "elementElectronShells": [
                 {
@@ -9358,7 +9356,7 @@
         },
         "49": {
             "elementReferences": [
-                "CRENBL-BS-REF"
+                "lajohn:1987a"
             ],
             "elementElectronShells": [
                 {
@@ -9525,7 +9523,7 @@
         },
         "50": {
             "elementReferences": [
-                "CRENBL-BS-REF"
+                "lajohn:1987a"
             ],
             "elementElectronShells": [
                 {
@@ -9692,7 +9690,7 @@
         },
         "51": {
             "elementReferences": [
-                "CRENBL-BS-REF"
+                "lajohn:1987a"
             ],
             "elementElectronShells": [
                 {
@@ -9859,7 +9857,7 @@
         },
         "52": {
             "elementReferences": [
-                "CRENBL-BS-REF"
+                "lajohn:1987a"
             ],
             "elementElectronShells": [
                 {
@@ -10026,7 +10024,7 @@
         },
         "53": {
             "elementReferences": [
-                "CRENBL-BS-REF"
+                "lajohn:1987a"
             ],
             "elementElectronShells": [
                 {
@@ -10193,7 +10191,7 @@
         },
         "54": {
             "elementReferences": [
-                "CRENBL-BS-REF"
+                "hurley:1986a"
             ],
             "elementElectronShells": [
                 {
@@ -10360,7 +10358,7 @@
         },
         "55": {
             "elementReferences": [
-                "CRENBL-BS-REF"
+                "ross:1990a"
             ],
             "elementElectronShells": [
                 {
@@ -10590,9 +10588,7 @@
             ]
         },
         "56": {
-            "elementReferences": [
-                "CRENBL-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -10822,7 +10818,7 @@
         },
         "57": {
             "elementReferences": [
-                "CRENBL-BS-REF"
+                "ross:1990a"
             ],
             "elementElectronShells": [
                 {
@@ -11052,9 +11048,7 @@
             ]
         },
         "58": {
-            "elementReferences": [
-                "CRENBL-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -11443,9 +11437,7 @@
             ]
         },
         "59": {
-            "elementReferences": [
-                "CRENBL-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -11834,9 +11826,7 @@
             ]
         },
         "60": {
-            "elementReferences": [
-                "CRENBL-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -12225,9 +12215,7 @@
             ]
         },
         "61": {
-            "elementReferences": [
-                "CRENBL-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -12616,9 +12604,7 @@
             ]
         },
         "62": {
-            "elementReferences": [
-                "CRENBL-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -13007,9 +12993,7 @@
             ]
         },
         "63": {
-            "elementReferences": [
-                "CRENBL-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -13398,9 +13382,7 @@
             ]
         },
         "64": {
-            "elementReferences": [
-                "CRENBL-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -13789,9 +13771,7 @@
             ]
         },
         "65": {
-            "elementReferences": [
-                "CRENBL-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -14180,9 +14160,7 @@
             ]
         },
         "66": {
-            "elementReferences": [
-                "CRENBL-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -14571,9 +14549,7 @@
             ]
         },
         "67": {
-            "elementReferences": [
-                "CRENBL-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -14962,9 +14938,7 @@
             ]
         },
         "68": {
-            "elementReferences": [
-                "CRENBL-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -15353,9 +15327,7 @@
             ]
         },
         "69": {
-            "elementReferences": [
-                "CRENBL-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -15744,9 +15716,7 @@
             ]
         },
         "70": {
-            "elementReferences": [
-                "CRENBL-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -16135,9 +16105,7 @@
             ]
         },
         "71": {
-            "elementReferences": [
-                "CRENBL-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -16527,7 +16495,7 @@
         },
         "72": {
             "elementReferences": [
-                "CRENBL-BS-REF"
+                "ross:1990a"
             ],
             "elementElectronShells": [
                 {
@@ -16758,7 +16726,7 @@
         },
         "73": {
             "elementReferences": [
-                "CRENBL-BS-REF"
+                "ross:1990a"
             ],
             "elementElectronShells": [
                 {
@@ -16989,7 +16957,7 @@
         },
         "74": {
             "elementReferences": [
-                "CRENBL-BS-REF"
+                "ross:1990a"
             ],
             "elementElectronShells": [
                 {
@@ -17220,7 +17188,7 @@
         },
         "75": {
             "elementReferences": [
-                "CRENBL-BS-REF"
+                "ross:1990a"
             ],
             "elementElectronShells": [
                 {
@@ -17451,7 +17419,7 @@
         },
         "76": {
             "elementReferences": [
-                "CRENBL-BS-REF"
+                "ross:1990a"
             ],
             "elementElectronShells": [
                 {
@@ -17682,7 +17650,7 @@
         },
         "77": {
             "elementReferences": [
-                "CRENBL-BS-REF"
+                "ross:1990a"
             ],
             "elementElectronShells": [
                 {
@@ -17913,7 +17881,7 @@
         },
         "78": {
             "elementReferences": [
-                "CRENBL-BS-REF"
+                "ross:1990a"
             ],
             "elementElectronShells": [
                 {
@@ -18144,7 +18112,7 @@
         },
         "79": {
             "elementReferences": [
-                "CRENBL-BS-REF"
+                "ross:1990a"
             ],
             "elementElectronShells": [
                 {
@@ -18375,7 +18343,7 @@
         },
         "80": {
             "elementReferences": [
-                "CRENBL-BS-REF"
+                "ross:1990a"
             ],
             "elementElectronShells": [
                 {
@@ -18606,7 +18574,7 @@
         },
         "81": {
             "elementReferences": [
-                "CRENBL-BS-REF"
+                "ross:1990a"
             ],
             "elementElectronShells": [
                 {
@@ -18773,7 +18741,7 @@
         },
         "82": {
             "elementReferences": [
-                "CRENBL-BS-REF"
+                "ross:1990a"
             ],
             "elementElectronShells": [
                 {
@@ -18940,7 +18908,7 @@
         },
         "83": {
             "elementReferences": [
-                "CRENBL-BS-REF"
+                "ross:1990a"
             ],
             "elementElectronShells": [
                 {
@@ -19107,7 +19075,7 @@
         },
         "84": {
             "elementReferences": [
-                "CRENBL-BS-REF"
+                "ross:1990a"
             ],
             "elementElectronShells": [
                 {
@@ -19274,7 +19242,7 @@
         },
         "85": {
             "elementReferences": [
-                "CRENBL-BS-REF"
+                "ross:1990a"
             ],
             "elementElectronShells": [
                 {
@@ -19441,7 +19409,7 @@
         },
         "86": {
             "elementReferences": [
-                "CRENBL-BS-REF"
+                "ross:1990a"
             ],
             "elementElectronShells": [
                 {
@@ -19608,7 +19576,7 @@
         },
         "87": {
             "elementReferences": [
-                "CRENBL-BS-REF"
+                "ermler:1991a"
             ],
             "elementElectronShells": [
                 {
@@ -19839,7 +19807,7 @@
         },
         "88": {
             "elementReferences": [
-                "CRENBL-BS-REF"
+                "ermler:1991a"
             ],
             "elementElectronShells": [
                 {
@@ -20070,7 +20038,7 @@
         },
         "89": {
             "elementReferences": [
-                "CRENBL-BS-REF"
+                "ermler:1991a"
             ],
             "elementElectronShells": [
                 {
@@ -20365,7 +20333,7 @@
         },
         "90": {
             "elementReferences": [
-                "CRENBL-BS-REF"
+                "ermler:1991a"
             ],
             "elementElectronShells": [
                 {
@@ -20660,7 +20628,7 @@
         },
         "91": {
             "elementReferences": [
-                "CRENBL-BS-REF"
+                "ermler:1991a"
             ],
             "elementElectronShells": [
                 {
@@ -20955,7 +20923,7 @@
         },
         "92": {
             "elementReferences": [
-                "CRENBL-BS-REF"
+                "ermler:1991a"
             ],
             "elementElectronShells": [
                 {
@@ -21250,7 +21218,7 @@
         },
         "93": {
             "elementReferences": [
-                "CRENBL-BS-REF"
+                "ermler:1991a"
             ],
             "elementElectronShells": [
                 {
@@ -21545,7 +21513,7 @@
         },
         "94": {
             "elementReferences": [
-                "CRENBL-BS-REF"
+                "ermler:1991a"
             ],
             "elementElectronShells": [
                 {
@@ -21840,7 +21808,8 @@
         },
         "95": {
             "elementReferences": [
-                "CRENBL-BS-REF"
+                "nash:1997a",
+                "nash:1999a"
             ],
             "elementElectronShells": [
                 {
@@ -22055,7 +22024,8 @@
         },
         "96": {
             "elementReferences": [
-                "CRENBL-BS-REF"
+                "nash:1997a",
+                "nash:1999a"
             ],
             "elementElectronShells": [
                 {
@@ -22270,7 +22240,8 @@
         },
         "97": {
             "elementReferences": [
-                "CRENBL-BS-REF"
+                "nash:1997a",
+                "nash:1999a"
             ],
             "elementElectronShells": [
                 {
@@ -22485,7 +22456,8 @@
         },
         "98": {
             "elementReferences": [
-                "CRENBL-BS-REF"
+                "nash:1997a",
+                "nash:1999a"
             ],
             "elementElectronShells": [
                 {
@@ -22700,7 +22672,8 @@
         },
         "99": {
             "elementReferences": [
-                "CRENBL-BS-REF"
+                "nash:1997a",
+                "nash:1999a"
             ],
             "elementElectronShells": [
                 {
@@ -22915,7 +22888,8 @@
         },
         "100": {
             "elementReferences": [
-                "CRENBL-BS-REF"
+                "nash:1997a",
+                "nash:1999a"
             ],
             "elementElectronShells": [
                 {
@@ -23130,7 +23104,8 @@
         },
         "101": {
             "elementReferences": [
-                "CRENBL-BS-REF"
+                "nash:1997a",
+                "nash:1999a"
             ],
             "elementElectronShells": [
                 {
@@ -23345,7 +23320,8 @@
         },
         "102": {
             "elementReferences": [
-                "CRENBL-BS-REF"
+                "nash:1997a",
+                "nash:1999a"
             ],
             "elementElectronShells": [
                 {
@@ -23560,7 +23536,8 @@
         },
         "103": {
             "elementReferences": [
-                "CRENBL-BS-REF"
+                "nash:1997a",
+                "nash:1999a"
             ],
             "elementElectronShells": [
                 {
@@ -23775,7 +23752,8 @@
         },
         "104": {
             "elementReferences": [
-                "CRENBL-BS-REF"
+                "nash:1997a",
+                "nash:1999a"
             ],
             "elementElectronShells": [
                 {
@@ -23990,7 +23968,8 @@
         },
         "105": {
             "elementReferences": [
-                "CRENBL-BS-REF"
+                "nash:1997a",
+                "nash:1999a"
             ],
             "elementElectronShells": [
                 {
@@ -24205,7 +24184,8 @@
         },
         "106": {
             "elementReferences": [
-                "CRENBL-BS-REF"
+                "nash:1997a",
+                "nash:1999a"
             ],
             "elementElectronShells": [
                 {
@@ -24420,7 +24400,8 @@
         },
         "107": {
             "elementReferences": [
-                "CRENBL-BS-REF"
+                "nash:1997a",
+                "nash:1999a"
             ],
             "elementElectronShells": [
                 {
@@ -24635,7 +24616,8 @@
         },
         "108": {
             "elementReferences": [
-                "CRENBL-BS-REF"
+                "nash:1997a",
+                "nash:1999a"
             ],
             "elementElectronShells": [
                 {
@@ -24850,7 +24832,8 @@
         },
         "109": {
             "elementReferences": [
-                "CRENBL-BS-REF"
+                "nash:1997a",
+                "nash:1999a"
             ],
             "elementElectronShells": [
                 {
@@ -25065,7 +25048,8 @@
         },
         "110": {
             "elementReferences": [
-                "CRENBL-BS-REF"
+                "nash:1997a",
+                "nash:1999a"
             ],
             "elementElectronShells": [
                 {
@@ -25280,7 +25264,8 @@
         },
         "111": {
             "elementReferences": [
-                "CRENBL-BS-REF"
+                "nash:1997a",
+                "nash:1999a"
             ],
             "elementElectronShells": [
                 {
@@ -25495,7 +25480,8 @@
         },
         "112": {
             "elementReferences": [
-                "CRENBL-BS-REF"
+                "nash:1997a",
+                "nash:1999a"
             ],
             "elementElectronShells": [
                 {
@@ -25710,7 +25696,8 @@
         },
         "113": {
             "elementReferences": [
-                "CRENBL-BS-REF"
+                "nash:1997a",
+                "nash:1999a"
             ],
             "elementElectronShells": [
                 {
@@ -25941,7 +25928,8 @@
         },
         "115": {
             "elementReferences": [
-                "CRENBL-BS-REF"
+                "nash:1997a",
+                "nash:1999a"
             ],
             "elementElectronShells": [
                 {
@@ -26172,7 +26160,8 @@
         },
         "116": {
             "elementReferences": [
-                "CRENBL-BS-REF"
+                "nash:1997a",
+                "nash:1999a"
             ],
             "elementElectronShells": [
                 {
@@ -26371,7 +26360,8 @@
         },
         "117": {
             "elementReferences": [
-                "CRENBL-BS-REF"
+                "nash:1997a",
+                "nash:1999a"
             ],
             "elementElectronShells": [
                 {
@@ -26602,7 +26592,8 @@
         },
         "118": {
             "elementReferences": [
-                "CRENBL-BS-REF"
+                "nash:1997a",
+                "nash:1999a"
             ],
             "elementElectronShells": [
                 {

@@ -5,7 +5,7 @@
     "basisSetElements": {
         "1": {
             "elementReferences": [
-                "CC-PVQZ_OPT1-BS-REF"
+                "dunning:1989a"
             ],
             "elementElectronShells": [
                 {
@@ -176,7 +176,7 @@
         },
         "2": {
             "elementReferences": [
-                "CC-PVQZ_OPT1-BS-REF"
+                "woon:1994a"
             ],
             "elementElectronShells": [
                 {
@@ -349,7 +349,7 @@
         },
         "6": {
             "elementReferences": [
-                "CC-PVQZ_OPT1-BS-REF"
+                "dunning:1989a"
             ],
             "elementElectronShells": [
                 {
@@ -628,7 +628,7 @@
         },
         "8": {
             "elementReferences": [
-                "CC-PVQZ_OPT1-BS-REF"
+                "dunning:1989a"
             ],
             "elementElectronShells": [
                 {

@@ -5,7 +5,7 @@
     "basisSetElements": {
         "1": {
             "elementReferences": [
-                "AHLRICHS-COULOMB-BS-REF"
+                "eichkorn:1995a"
             ],
             "elementElectronShells": [
                 {
@@ -110,7 +110,7 @@
         },
         "2": {
             "elementReferences": [
-                "AHLRICHS-COULOMB-BS-REF"
+                "eichkorn:1995a"
             ],
             "elementElectronShells": [
                 {
@@ -185,7 +185,7 @@
         },
         "3": {
             "elementReferences": [
-                "AHLRICHS-COULOMB-BS-REF"
+                "eichkorn:1995a"
             ],
             "elementElectronShells": [
                 {
@@ -388,7 +388,7 @@
         },
         "4": {
             "elementReferences": [
-                "AHLRICHS-COULOMB-BS-REF"
+                "eichkorn:1995a"
             ],
             "elementElectronShells": [
                 {
@@ -591,7 +591,7 @@
         },
         "5": {
             "elementReferences": [
-                "AHLRICHS-COULOMB-BS-REF"
+                "eichkorn:1995a"
             ],
             "elementElectronShells": [
                 {
@@ -826,7 +826,7 @@
         },
         "6": {
             "elementReferences": [
-                "AHLRICHS-COULOMB-BS-REF"
+                "eichkorn:1995a"
             ],
             "elementElectronShells": [
                 {
@@ -1061,7 +1061,7 @@
         },
         "7": {
             "elementReferences": [
-                "AHLRICHS-COULOMB-BS-REF"
+                "eichkorn:1995a"
             ],
             "elementElectronShells": [
                 {
@@ -1296,7 +1296,7 @@
         },
         "8": {
             "elementReferences": [
-                "AHLRICHS-COULOMB-BS-REF"
+                "eichkorn:1995a"
             ],
             "elementElectronShells": [
                 {
@@ -1531,7 +1531,7 @@
         },
         "9": {
             "elementReferences": [
-                "AHLRICHS-COULOMB-BS-REF"
+                "eichkorn:1995a"
             ],
             "elementElectronShells": [
                 {
@@ -1782,7 +1782,7 @@
         },
         "10": {
             "elementReferences": [
-                "AHLRICHS-COULOMB-BS-REF"
+                "eichkorn:1995a"
             ],
             "elementElectronShells": [
                 {
@@ -2001,7 +2001,7 @@
         },
         "11": {
             "elementReferences": [
-                "AHLRICHS-COULOMB-BS-REF"
+                "eichkorn:1995a"
             ],
             "elementElectronShells": [
                 {
@@ -2190,7 +2190,7 @@
         },
         "12": {
             "elementReferences": [
-                "AHLRICHS-COULOMB-BS-REF"
+                "eichkorn:1995a"
             ],
             "elementElectronShells": [
                 {
@@ -2379,7 +2379,7 @@
         },
         "13": {
             "elementReferences": [
-                "AHLRICHS-COULOMB-BS-REF"
+                "eichkorn:1995a"
             ],
             "elementElectronShells": [
                 {
@@ -2584,7 +2584,7 @@
         },
         "14": {
             "elementReferences": [
-                "AHLRICHS-COULOMB-BS-REF"
+                "eichkorn:1995a"
             ],
             "elementElectronShells": [
                 {
@@ -2809,7 +2809,7 @@
         },
         "15": {
             "elementReferences": [
-                "AHLRICHS-COULOMB-BS-REF"
+                "eichkorn:1995a"
             ],
             "elementElectronShells": [
                 {
@@ -3034,7 +3034,7 @@
         },
         "16": {
             "elementReferences": [
-                "AHLRICHS-COULOMB-BS-REF"
+                "eichkorn:1995a"
             ],
             "elementElectronShells": [
                 {
@@ -3259,7 +3259,7 @@
         },
         "17": {
             "elementReferences": [
-                "AHLRICHS-COULOMB-BS-REF"
+                "eichkorn:1995a"
             ],
             "elementElectronShells": [
                 {
@@ -3484,7 +3484,7 @@
         },
         "18": {
             "elementReferences": [
-                "AHLRICHS-COULOMB-BS-REF"
+                "eichkorn:1995a"
             ],
             "elementElectronShells": [
                 {
@@ -3693,7 +3693,7 @@
         },
         "19": {
             "elementReferences": [
-                "AHLRICHS-COULOMB-BS-REF"
+                "eichkorn:1995a"
             ],
             "elementElectronShells": [
                 {
@@ -3904,7 +3904,7 @@
         },
         "20": {
             "elementReferences": [
-                "AHLRICHS-COULOMB-BS-REF"
+                "eichkorn:1995a"
             ],
             "elementElectronShells": [
                 {
@@ -4115,7 +4115,7 @@
         },
         "21": {
             "elementReferences": [
-                "AHLRICHS-COULOMB-BS-REF"
+                "eichkorn:1995a"
             ],
             "elementElectronShells": [
                 {
@@ -4436,7 +4436,7 @@
         },
         "22": {
             "elementReferences": [
-                "AHLRICHS-COULOMB-BS-REF"
+                "eichkorn:1995a"
             ],
             "elementElectronShells": [
                 {
@@ -4743,7 +4743,7 @@
         },
         "23": {
             "elementReferences": [
-                "AHLRICHS-COULOMB-BS-REF"
+                "eichkorn:1995a"
             ],
             "elementElectronShells": [
                 {
@@ -5050,7 +5050,7 @@
         },
         "24": {
             "elementReferences": [
-                "AHLRICHS-COULOMB-BS-REF"
+                "eichkorn:1995a"
             ],
             "elementElectronShells": [
                 {
@@ -5357,7 +5357,7 @@
         },
         "25": {
             "elementReferences": [
-                "AHLRICHS-COULOMB-BS-REF"
+                "eichkorn:1995a"
             ],
             "elementElectronShells": [
                 {
@@ -5664,7 +5664,7 @@
         },
         "26": {
             "elementReferences": [
-                "AHLRICHS-COULOMB-BS-REF"
+                "eichkorn:1995a"
             ],
             "elementElectronShells": [
                 {
@@ -5971,7 +5971,7 @@
         },
         "27": {
             "elementReferences": [
-                "AHLRICHS-COULOMB-BS-REF"
+                "eichkorn:1995a"
             ],
             "elementElectronShells": [
                 {
@@ -6292,7 +6292,7 @@
         },
         "28": {
             "elementReferences": [
-                "AHLRICHS-COULOMB-BS-REF"
+                "eichkorn:1995a"
             ],
             "elementElectronShells": [
                 {
@@ -6615,7 +6615,7 @@
         },
         "29": {
             "elementReferences": [
-                "AHLRICHS-COULOMB-BS-REF"
+                "eichkorn:1995a"
             ],
             "elementElectronShells": [
                 {
@@ -6938,7 +6938,7 @@
         },
         "30": {
             "elementReferences": [
-                "AHLRICHS-COULOMB-BS-REF"
+                "eichkorn:1995a"
             ],
             "elementElectronShells": [
                 {
@@ -7261,7 +7261,7 @@
         },
         "31": {
             "elementReferences": [
-                "AHLRICHS-COULOMB-BS-REF"
+                "eichkorn:1995a"
             ],
             "elementElectronShells": [
                 {
@@ -7500,7 +7500,7 @@
         },
         "32": {
             "elementReferences": [
-                "AHLRICHS-COULOMB-BS-REF"
+                "eichkorn:1995a"
             ],
             "elementElectronShells": [
                 {
@@ -7757,7 +7757,7 @@
         },
         "33": {
             "elementReferences": [
-                "AHLRICHS-COULOMB-BS-REF"
+                "eichkorn:1995a"
             ],
             "elementElectronShells": [
                 {
@@ -8014,7 +8014,7 @@
         },
         "34": {
             "elementReferences": [
-                "AHLRICHS-COULOMB-BS-REF"
+                "eichkorn:1995a"
             ],
             "elementElectronShells": [
                 {
@@ -8271,7 +8271,7 @@
         },
         "35": {
             "elementReferences": [
-                "AHLRICHS-COULOMB-BS-REF"
+                "eichkorn:1995a"
             ],
             "elementElectronShells": [
                 {
@@ -8528,7 +8528,7 @@
         },
         "36": {
             "elementReferences": [
-                "AHLRICHS-COULOMB-BS-REF"
+                "eichkorn:1995a"
             ],
             "elementElectronShells": [
                 {
@@ -8801,7 +8801,7 @@
         },
         "37": {
             "elementReferences": [
-                "AHLRICHS-COULOMB-BS-REF"
+                "eichkorn:1995a"
             ],
             "elementElectronShells": [
                 {
@@ -8966,7 +8966,7 @@
         },
         "38": {
             "elementReferences": [
-                "AHLRICHS-COULOMB-BS-REF"
+                "eichkorn:1995a"
             ],
             "elementElectronShells": [
                 {
@@ -9219,7 +9219,7 @@
         },
         "39": {
             "elementReferences": [
-                "AHLRICHS-COULOMB-BS-REF"
+                "eichkorn:1995a"
             ],
             "elementElectronShells": [
                 {
@@ -9510,7 +9510,7 @@
         },
         "40": {
             "elementReferences": [
-                "AHLRICHS-COULOMB-BS-REF"
+                "eichkorn:1995a"
             ],
             "elementElectronShells": [
                 {
@@ -9805,7 +9805,7 @@
         },
         "41": {
             "elementReferences": [
-                "AHLRICHS-COULOMB-BS-REF"
+                "eichkorn:1995a"
             ],
             "elementElectronShells": [
                 {
@@ -10110,7 +10110,7 @@
         },
         "42": {
             "elementReferences": [
-                "AHLRICHS-COULOMB-BS-REF"
+                "eichkorn:1995a"
             ],
             "elementElectronShells": [
                 {
@@ -10431,7 +10431,7 @@
         },
         "43": {
             "elementReferences": [
-                "AHLRICHS-COULOMB-BS-REF"
+                "eichkorn:1995a"
             ],
             "elementElectronShells": [
                 {
@@ -10736,7 +10736,7 @@
         },
         "44": {
             "elementReferences": [
-                "AHLRICHS-COULOMB-BS-REF"
+                "eichkorn:1995a"
             ],
             "elementElectronShells": [
                 {
@@ -11057,7 +11057,7 @@
         },
         "45": {
             "elementReferences": [
-                "AHLRICHS-COULOMB-BS-REF"
+                "eichkorn:1995a"
             ],
             "elementElectronShells": [
                 {
@@ -11392,7 +11392,7 @@
         },
         "46": {
             "elementReferences": [
-                "AHLRICHS-COULOMB-BS-REF"
+                "eichkorn:1995a"
             ],
             "elementElectronShells": [
                 {
@@ -11699,7 +11699,7 @@
         },
         "47": {
             "elementReferences": [
-                "AHLRICHS-COULOMB-BS-REF"
+                "eichkorn:1995a"
             ],
             "elementElectronShells": [
                 {
@@ -12020,7 +12020,7 @@
         },
         "48": {
             "elementReferences": [
-                "AHLRICHS-COULOMB-BS-REF"
+                "eichkorn:1995a"
             ],
             "elementElectronShells": [
                 {
@@ -12327,7 +12327,7 @@
         },
         "49": {
             "elementReferences": [
-                "AHLRICHS-COULOMB-BS-REF"
+                "eichkorn:1995a"
             ],
             "elementElectronShells": [
                 {
@@ -12500,7 +12500,7 @@
         },
         "50": {
             "elementReferences": [
-                "AHLRICHS-COULOMB-BS-REF"
+                "eichkorn:1995a"
             ],
             "elementElectronShells": [
                 {
@@ -12705,7 +12705,7 @@
         },
         "51": {
             "elementReferences": [
-                "AHLRICHS-COULOMB-BS-REF"
+                "eichkorn:1995a"
             ],
             "elementElectronShells": [
                 {
@@ -12926,7 +12926,7 @@
         },
         "52": {
             "elementReferences": [
-                "AHLRICHS-COULOMB-BS-REF"
+                "eichkorn:1995a"
             ],
             "elementElectronShells": [
                 {
@@ -13131,7 +13131,7 @@
         },
         "53": {
             "elementReferences": [
-                "AHLRICHS-COULOMB-BS-REF"
+                "eichkorn:1995a"
             ],
             "elementElectronShells": [
                 {
@@ -13304,7 +13304,7 @@
         },
         "54": {
             "elementReferences": [
-                "AHLRICHS-COULOMB-BS-REF"
+                "eichkorn:1995a"
             ],
             "elementElectronShells": [
                 {
@@ -13511,7 +13511,7 @@
         },
         "55": {
             "elementReferences": [
-                "AHLRICHS-COULOMB-BS-REF"
+                "eichkorn:1995a"
             ],
             "elementElectronShells": [
                 {
@@ -13678,7 +13678,7 @@
         },
         "56": {
             "elementReferences": [
-                "AHLRICHS-COULOMB-BS-REF"
+                "eichkorn:1995a"
             ],
             "elementElectronShells": [
                 {
@@ -13931,7 +13931,7 @@
         },
         "72": {
             "elementReferences": [
-                "AHLRICHS-COULOMB-BS-REF"
+                "eichkorn:1997a"
             ],
             "elementElectronShells": [
                 {
@@ -14268,7 +14268,7 @@
         },
         "73": {
             "elementReferences": [
-                "AHLRICHS-COULOMB-BS-REF"
+                "eichkorn:1997a"
             ],
             "elementElectronShells": [
                 {
@@ -14603,7 +14603,7 @@
         },
         "74": {
             "elementReferences": [
-                "AHLRICHS-COULOMB-BS-REF"
+                "eichkorn:1997a"
             ],
             "elementElectronShells": [
                 {
@@ -14924,7 +14924,7 @@
         },
         "75": {
             "elementReferences": [
-                "AHLRICHS-COULOMB-BS-REF"
+                "eichkorn:1997a"
             ],
             "elementElectronShells": [
                 {
@@ -15245,7 +15245,7 @@
         },
         "76": {
             "elementReferences": [
-                "AHLRICHS-COULOMB-BS-REF"
+                "eichkorn:1997a"
             ],
             "elementElectronShells": [
                 {
@@ -15566,7 +15566,7 @@
         },
         "77": {
             "elementReferences": [
-                "AHLRICHS-COULOMB-BS-REF"
+                "eichkorn:1997a"
             ],
             "elementElectronShells": [
                 {
@@ -15887,7 +15887,7 @@
         },
         "78": {
             "elementReferences": [
-                "AHLRICHS-COULOMB-BS-REF"
+                "eichkorn:1997a"
             ],
             "elementElectronShells": [
                 {
@@ -16240,7 +16240,7 @@
         },
         "79": {
             "elementReferences": [
-                "AHLRICHS-COULOMB-BS-REF"
+                "eichkorn:1997a"
             ],
             "elementElectronShells": [
                 {
@@ -16575,7 +16575,7 @@
         },
         "80": {
             "elementReferences": [
-                "AHLRICHS-COULOMB-BS-REF"
+                "eichkorn:1997a"
             ],
             "elementElectronShells": [
                 {
@@ -16896,7 +16896,7 @@
         },
         "81": {
             "elementReferences": [
-                "AHLRICHS-COULOMB-BS-REF"
+                "eichkorn:1997a"
             ],
             "elementElectronShells": [
                 {
@@ -17069,7 +17069,7 @@
         },
         "82": {
             "elementReferences": [
-                "AHLRICHS-COULOMB-BS-REF"
+                "eichkorn:1997a"
             ],
             "elementElectronShells": [
                 {
@@ -17256,7 +17256,7 @@
         },
         "83": {
             "elementReferences": [
-                "AHLRICHS-COULOMB-BS-REF"
+                "eichkorn:1997a"
             ],
             "elementElectronShells": [
                 {
@@ -17457,7 +17457,7 @@
         },
         "84": {
             "elementReferences": [
-                "AHLRICHS-COULOMB-BS-REF"
+                "eichkorn:1997a"
             ],
             "elementElectronShells": [
                 {
@@ -17644,7 +17644,7 @@
         },
         "85": {
             "elementReferences": [
-                "AHLRICHS-COULOMB-BS-REF"
+                "eichkorn:1997a"
             ],
             "elementElectronShells": [
                 {

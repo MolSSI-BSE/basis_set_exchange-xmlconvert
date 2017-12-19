@@ -1,0 +1,28 @@
+{
+    "citations": [
+        {
+            "Z": [
+                6,
+                7,
+                8,
+                9,
+                16
+            ],
+            "article": "feller:1999a",
+            "original": "D. Feller and K.A. Peterson, J. Chem. Phys. 110, 8384 (1999)"
+        },
+        {
+            "Z": [
+                6,
+                7,
+                8,
+                9,
+                16
+            ],
+            "article": "feller:2000a",
+            "original": "D. Feller and J.A. Sordo, J. Chem. Phys. 113, 485 (2000)  "
+        }
+    ],
+    "original": "Elements                             References\n--------                             ----------\nC - F, S:  D. Feller and K.A. Peterson, J. Chem. Phys. 110, 8384 (1999)\nC - F, S: D. Feller and J.A. Sordo, J. Chem. Phys. 113, 485 (2000)\n\n\n",
+    "valid": true
+}

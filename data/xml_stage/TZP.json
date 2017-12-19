@@ -5,7 +5,7 @@
     "basisSetElements": {
         "1": {
             "elementReferences": [
-                "TZP-BS-REF"
+                "barbieri:2006a"
             ],
             "elementElectronShells": [
                 {
@@ -87,9 +87,7 @@
             ]
         },
         "2": {
-            "elementReferences": [
-                "TZP-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -171,7 +169,7 @@
         },
         "3": {
             "elementReferences": [
-                "TZP-BS-REF"
+                "barbieri:2006a"
             ],
             "elementElectronShells": [
                 {
@@ -340,7 +338,7 @@
         },
         "4": {
             "elementReferences": [
-                "TZP-BS-REF"
+                "barbieri:2006a"
             ],
             "elementElectronShells": [
                 {
@@ -509,7 +507,7 @@
         },
         "5": {
             "elementReferences": [
-                "TZP-BS-REF"
+                "barbieri:2006a"
             ],
             "elementElectronShells": [
                 {
@@ -678,7 +676,7 @@
         },
         "6": {
             "elementReferences": [
-                "TZP-BS-REF"
+                "barbieri:2006a"
             ],
             "elementElectronShells": [
                 {
@@ -847,7 +845,7 @@
         },
         "7": {
             "elementReferences": [
-                "TZP-BS-REF"
+                "barbieri:2006a"
             ],
             "elementElectronShells": [
                 {
@@ -1016,7 +1014,7 @@
         },
         "8": {
             "elementReferences": [
-                "TZP-BS-REF"
+                "barbieri:2006a"
             ],
             "elementElectronShells": [
                 {
@@ -1185,7 +1183,7 @@
         },
         "9": {
             "elementReferences": [
-                "TZP-BS-REF"
+                "barbieri:2006a"
             ],
             "elementElectronShells": [
                 {
@@ -1354,7 +1352,7 @@
         },
         "10": {
             "elementReferences": [
-                "TZP-BS-REF"
+                "barbieri:2006a"
             ],
             "elementElectronShells": [
                 {
@@ -1523,7 +1521,7 @@
         },
         "11": {
             "elementReferences": [
-                "TZP-BS-REF"
+                "barbieri:2006a"
             ],
             "elementElectronShells": [
                 {
@@ -1795,7 +1793,7 @@
         },
         "12": {
             "elementReferences": [
-                "TZP-BS-REF"
+                "barbieri:2006a"
             ],
             "elementElectronShells": [
                 {
@@ -2067,7 +2065,7 @@
         },
         "13": {
             "elementReferences": [
-                "TZP-BS-REF"
+                "barbieri:2006a"
             ],
             "elementElectronShells": [
                 {
@@ -2339,7 +2337,7 @@
         },
         "14": {
             "elementReferences": [
-                "TZP-BS-REF"
+                "barbieri:2006a"
             ],
             "elementElectronShells": [
                 {
@@ -2611,7 +2609,7 @@
         },
         "15": {
             "elementReferences": [
-                "TZP-BS-REF"
+                "barbieri:2006a"
             ],
             "elementElectronShells": [
                 {
@@ -2883,7 +2881,7 @@
         },
         "16": {
             "elementReferences": [
-                "TZP-BS-REF"
+                "barbieri:2006a"
             ],
             "elementElectronShells": [
                 {
@@ -3155,7 +3153,7 @@
         },
         "17": {
             "elementReferences": [
-                "TZP-BS-REF"
+                "barbieri:2006a"
             ],
             "elementElectronShells": [
                 {
@@ -3427,7 +3425,7 @@
         },
         "18": {
             "elementReferences": [
-                "TZP-BS-REF"
+                "barbieri:2006a"
             ],
             "elementElectronShells": [
                 {
@@ -3699,7 +3697,7 @@
         },
         "19": {
             "elementReferences": [
-                "TZP-BS-REF"
+                "machado:2009a"
             ],
             "elementElectronShells": [
                 {
@@ -4049,7 +4047,7 @@
         },
         "20": {
             "elementReferences": [
-                "TZP-BS-REF"
+                "machado:2009a"
             ],
             "elementElectronShells": [
                 {
@@ -4417,7 +4415,7 @@
         },
         "21": {
             "elementReferences": [
-                "TZP-BS-REF"
+                "machado:2009a"
             ],
             "elementElectronShells": [
                 {
@@ -4809,7 +4807,7 @@
         },
         "22": {
             "elementReferences": [
-                "TZP-BS-REF"
+                "machado:2009a"
             ],
             "elementElectronShells": [
                 {
@@ -5201,7 +5199,7 @@
         },
         "23": {
             "elementReferences": [
-                "TZP-BS-REF"
+                "machado:2009a"
             ],
             "elementElectronShells": [
                 {
@@ -5593,7 +5591,7 @@
         },
         "24": {
             "elementReferences": [
-                "TZP-BS-REF"
+                "machado:2009a"
             ],
             "elementElectronShells": [
                 {
@@ -5985,7 +5983,7 @@
         },
         "25": {
             "elementReferences": [
-                "TZP-BS-REF"
+                "machado:2009a"
             ],
             "elementElectronShells": [
                 {
@@ -6377,7 +6375,7 @@
         },
         "26": {
             "elementReferences": [
-                "TZP-BS-REF"
+                "machado:2009a"
             ],
             "elementElectronShells": [
                 {
@@ -6769,7 +6767,7 @@
         },
         "27": {
             "elementReferences": [
-                "TZP-BS-REF"
+                "machado:2009a"
             ],
             "elementElectronShells": [
                 {
@@ -7161,7 +7159,7 @@
         },
         "28": {
             "elementReferences": [
-                "TZP-BS-REF"
+                "machado:2009a"
             ],
             "elementElectronShells": [
                 {
@@ -7553,7 +7551,7 @@
         },
         "29": {
             "elementReferences": [
-                "TZP-BS-REF"
+                "machado:2009a"
             ],
             "elementElectronShells": [
                 {
@@ -7945,7 +7943,7 @@
         },
         "30": {
             "elementReferences": [
-                "TZP-BS-REF"
+                "machado:2009a"
             ],
             "elementElectronShells": [
                 {
@@ -8337,7 +8335,7 @@
         },
         "31": {
             "elementReferences": [
-                "TZP-BS-REF"
+                "machado:2009a"
             ],
             "elementElectronShells": [
                 {
@@ -8729,7 +8727,7 @@
         },
         "32": {
             "elementReferences": [
-                "TZP-BS-REF"
+                "machado:2009a"
             ],
             "elementElectronShells": [
                 {
@@ -9121,7 +9119,7 @@
         },
         "33": {
             "elementReferences": [
-                "TZP-BS-REF"
+                "machado:2009a"
             ],
             "elementElectronShells": [
                 {
@@ -9513,7 +9511,7 @@
         },
         "34": {
             "elementReferences": [
-                "TZP-BS-REF"
+                "machado:2009a"
             ],
             "elementElectronShells": [
                 {
@@ -9905,7 +9903,7 @@
         },
         "35": {
             "elementReferences": [
-                "TZP-BS-REF"
+                "machado:2009a"
             ],
             "elementElectronShells": [
                 {
@@ -10297,7 +10295,7 @@
         },
         "36": {
             "elementReferences": [
-                "TZP-BS-REF"
+                "machado:2009a"
             ],
             "elementElectronShells": [
                 {
@@ -10689,7 +10687,7 @@
         },
         "37": {
             "elementReferences": [
-                "TZP-BS-REF"
+                "campos:2013a"
             ],
             "elementElectronShells": [
                 {
@@ -11141,9 +11139,7 @@
             ]
         },
         "38": {
-            "elementReferences": [
-                "TZP-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -11595,7 +11591,7 @@
         },
         "39": {
             "elementReferences": [
-                "TZP-BS-REF"
+                "campos:2013a"
             ],
             "elementElectronShells": [
                 {
@@ -12064,7 +12060,7 @@
         },
         "40": {
             "elementReferences": [
-                "TZP-BS-REF"
+                "campos:2013a"
             ],
             "elementElectronShells": [
                 {
@@ -12533,7 +12529,7 @@
         },
         "41": {
             "elementReferences": [
-                "TZP-BS-REF"
+                "campos:2013a"
             ],
             "elementElectronShells": [
                 {
@@ -13027,7 +13023,7 @@
         },
         "42": {
             "elementReferences": [
-                "TZP-BS-REF"
+                "campos:2013a"
             ],
             "elementElectronShells": [
                 {
@@ -13521,7 +13517,7 @@
         },
         "43": {
             "elementReferences": [
-                "TZP-BS-REF"
+                "campos:2013a"
             ],
             "elementElectronShells": [
                 {
@@ -13990,7 +13986,7 @@
         },
         "44": {
             "elementReferences": [
-                "TZP-BS-REF"
+                "campos:2013a"
             ],
             "elementElectronShells": [
                 {
@@ -14484,7 +14480,7 @@
         },
         "45": {
             "elementReferences": [
-                "TZP-BS-REF"
+                "campos:2013a"
             ],
             "elementElectronShells": [
                 {
@@ -14953,7 +14949,7 @@
         },
         "46": {
             "elementReferences": [
-                "TZP-BS-REF"
+                "campos:2013a"
             ],
             "elementElectronShells": [
                 {
@@ -15422,7 +15418,7 @@
         },
         "47": {
             "elementReferences": [
-                "TZP-BS-REF"
+                "campos:2013a"
             ],
             "elementElectronShells": [
                 {
@@ -15916,7 +15912,7 @@
         },
         "48": {
             "elementReferences": [
-                "TZP-BS-REF"
+                "campos:2013a"
             ],
             "elementElectronShells": [
                 {
@@ -16410,7 +16406,7 @@
         },
         "49": {
             "elementReferences": [
-                "TZP-BS-REF"
+                "campos:2013a"
             ],
             "elementElectronShells": [
                 {
@@ -16904,7 +16900,7 @@
         },
         "50": {
             "elementReferences": [
-                "TZP-BS-REF"
+                "campos:2013a"
             ],
             "elementElectronShells": [
                 {
@@ -17398,7 +17394,7 @@
         },
         "51": {
             "elementReferences": [
-                "TZP-BS-REF"
+                "campos:2013a"
             ],
             "elementElectronShells": [
                 {
@@ -17897,7 +17893,7 @@
         },
         "52": {
             "elementReferences": [
-                "TZP-BS-REF"
+                "campos:2013a"
             ],
             "elementElectronShells": [
                 {
@@ -18391,7 +18387,7 @@
         },
         "53": {
             "elementReferences": [
-                "TZP-BS-REF"
+                "campos:2013a"
             ],
             "elementElectronShells": [
                 {
@@ -18885,7 +18881,7 @@
         },
         "54": {
             "elementReferences": [
-                "TZP-BS-REF"
+                "campos:2013a"
             ],
             "elementElectronShells": [
                 {

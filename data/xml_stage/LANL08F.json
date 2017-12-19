@@ -5,7 +5,9 @@
     "basisSetElements": {
         "21": {
             "elementReferences": [
-                "LANL08F-BS-REF"
+                "hay:1985a",
+                "roy:2008a",
+                "ehlers:1993a"
             ],
             "elementElectronShells": [
                 {
@@ -268,7 +270,9 @@
         },
         "22": {
             "elementReferences": [
-                "LANL08F-BS-REF"
+                "hay:1985a",
+                "roy:2008a",
+                "ehlers:1993a"
             ],
             "elementElectronShells": [
                 {
@@ -531,7 +535,9 @@
         },
         "23": {
             "elementReferences": [
-                "LANL08F-BS-REF"
+                "hay:1985a",
+                "roy:2008a",
+                "ehlers:1993a"
             ],
             "elementElectronShells": [
                 {
@@ -794,7 +800,9 @@
         },
         "24": {
             "elementReferences": [
-                "LANL08F-BS-REF"
+                "hay:1985a",
+                "roy:2008a",
+                "ehlers:1993a"
             ],
             "elementElectronShells": [
                 {
@@ -1057,7 +1065,9 @@
         },
         "25": {
             "elementReferences": [
-                "LANL08F-BS-REF"
+                "hay:1985a",
+                "roy:2008a",
+                "ehlers:1993a"
             ],
             "elementElectronShells": [
                 {
@@ -1320,7 +1330,9 @@
         },
         "26": {
             "elementReferences": [
-                "LANL08F-BS-REF"
+                "hay:1985a",
+                "roy:2008a",
+                "ehlers:1993a"
             ],
             "elementElectronShells": [
                 {
@@ -1583,7 +1595,9 @@
         },
         "27": {
             "elementReferences": [
-                "LANL08F-BS-REF"
+                "hay:1985a",
+                "roy:2008a",
+                "ehlers:1993a"
             ],
             "elementElectronShells": [
                 {
@@ -1846,7 +1860,9 @@
         },
         "28": {
             "elementReferences": [
-                "LANL08F-BS-REF"
+                "hay:1985a",
+                "roy:2008a",
+                "ehlers:1993a"
             ],
             "elementElectronShells": [
                 {
@@ -2109,7 +2125,9 @@
         },
         "29": {
             "elementReferences": [
-                "LANL08F-BS-REF"
+                "hay:1985a",
+                "roy:2008a",
+                "ehlers:1993a"
             ],
             "elementElectronShells": [
                 {
@@ -2372,7 +2390,9 @@
         },
         "39": {
             "elementReferences": [
-                "LANL08F-BS-REF"
+                "hay:1985a",
+                "roy:2008a",
+                "ehlers:1993a"
             ],
             "elementElectronShells": [
                 {
@@ -2619,7 +2639,9 @@
         },
         "40": {
             "elementReferences": [
-                "LANL08F-BS-REF"
+                "hay:1985a",
+                "roy:2008a",
+                "ehlers:1993a"
             ],
             "elementElectronShells": [
                 {
@@ -2866,7 +2888,9 @@
         },
         "41": {
             "elementReferences": [
-                "LANL08F-BS-REF"
+                "hay:1985a",
+                "roy:2008a",
+                "ehlers:1993a"
             ],
             "elementElectronShells": [
                 {
@@ -3113,7 +3137,9 @@
         },
         "42": {
             "elementReferences": [
-                "LANL08F-BS-REF"
+                "hay:1985a",
+                "roy:2008a",
+                "ehlers:1993a"
             ],
             "elementElectronShells": [
                 {
@@ -3360,7 +3386,9 @@
         },
         "43": {
             "elementReferences": [
-                "LANL08F-BS-REF"
+                "hay:1985a",
+                "roy:2008a",
+                "ehlers:1993a"
             ],
             "elementElectronShells": [
                 {
@@ -3607,7 +3635,9 @@
         },
         "44": {
             "elementReferences": [
-                "LANL08F-BS-REF"
+                "hay:1985a",
+                "roy:2008a",
+                "ehlers:1993a"
             ],
             "elementElectronShells": [
                 {
@@ -3854,7 +3884,9 @@
         },
         "45": {
             "elementReferences": [
-                "LANL08F-BS-REF"
+                "hay:1985a",
+                "roy:2008a",
+                "ehlers:1993a"
             ],
             "elementElectronShells": [
                 {
@@ -4101,7 +4133,9 @@
         },
         "46": {
             "elementReferences": [
-                "LANL08F-BS-REF"
+                "hay:1985a",
+                "roy:2008a",
+                "ehlers:1993a"
             ],
             "elementElectronShells": [
                 {
@@ -4348,7 +4382,9 @@
         },
         "47": {
             "elementReferences": [
-                "LANL08F-BS-REF"
+                "hay:1985a",
+                "roy:2008a",
+                "ehlers:1993a"
             ],
             "elementElectronShells": [
                 {
@@ -4595,7 +4631,9 @@
         },
         "57": {
             "elementReferences": [
-                "LANL08F-BS-REF"
+                "hay:1985a",
+                "roy:2008a",
+                "ehlers:1993a"
             ],
             "elementElectronShells": [
                 {
@@ -4826,7 +4864,9 @@
         },
         "72": {
             "elementReferences": [
-                "LANL08F-BS-REF"
+                "hay:1985a",
+                "roy:2008a",
+                "ehlers:1993a"
             ],
             "elementElectronShells": [
                 {
@@ -5057,7 +5097,9 @@
         },
         "73": {
             "elementReferences": [
-                "LANL08F-BS-REF"
+                "hay:1985a",
+                "roy:2008a",
+                "ehlers:1993a"
             ],
             "elementElectronShells": [
                 {
@@ -5288,7 +5330,9 @@
         },
         "74": {
             "elementReferences": [
-                "LANL08F-BS-REF"
+                "hay:1985a",
+                "roy:2008a",
+                "ehlers:1993a"
             ],
             "elementElectronShells": [
                 {
@@ -5519,7 +5563,9 @@
         },
         "75": {
             "elementReferences": [
-                "LANL08F-BS-REF"
+                "hay:1985a",
+                "roy:2008a",
+                "ehlers:1993a"
             ],
             "elementElectronShells": [
                 {
@@ -5750,7 +5796,9 @@
         },
         "76": {
             "elementReferences": [
-                "LANL08F-BS-REF"
+                "hay:1985a",
+                "roy:2008a",
+                "ehlers:1993a"
             ],
             "elementElectronShells": [
                 {
@@ -5981,7 +6029,9 @@
         },
         "77": {
             "elementReferences": [
-                "LANL08F-BS-REF"
+                "hay:1985a",
+                "roy:2008a",
+                "ehlers:1993a"
             ],
             "elementElectronShells": [
                 {
@@ -6212,7 +6262,9 @@
         },
         "78": {
             "elementReferences": [
-                "LANL08F-BS-REF"
+                "hay:1985a",
+                "roy:2008a",
+                "ehlers:1993a"
             ],
             "elementElectronShells": [
                 {
@@ -6443,7 +6495,9 @@
         },
         "79": {
             "elementReferences": [
-                "LANL08F-BS-REF"
+                "hay:1985a",
+                "roy:2008a",
+                "ehlers:1993a"
             ],
             "elementElectronShells": [
                 {

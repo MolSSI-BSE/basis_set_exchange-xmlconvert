@@ -5,7 +5,7 @@
     "basisSetElements": {
         "1": {
             "elementReferences": [
-                "DGAUSS-A2COULOMB-BS-REF"
+                "godbout:1992a"
             ],
             "elementElectronShells": [
                 {
@@ -96,7 +96,7 @@
         },
         "2": {
             "elementReferences": [
-                "DGAUSS-A2COULOMB-BS-REF"
+                "godbout:1992a"
             ],
             "elementElectronShells": [
                 {
@@ -187,7 +187,7 @@
         },
         "3": {
             "elementReferences": [
-                "DGAUSS-A2COULOMB-BS-REF"
+                "godbout:1992a"
             ],
             "elementElectronShells": [
                 {
@@ -330,7 +330,7 @@
         },
         "4": {
             "elementReferences": [
-                "DGAUSS-A2COULOMB-BS-REF"
+                "godbout:1992a"
             ],
             "elementElectronShells": [
                 {
@@ -473,7 +473,7 @@
         },
         "5": {
             "elementReferences": [
-                "DGAUSS-A2COULOMB-BS-REF"
+                "godbout:1992a"
             ],
             "elementElectronShells": [
                 {
@@ -688,7 +688,7 @@
         },
         "6": {
             "elementReferences": [
-                "DGAUSS-A2COULOMB-BS-REF"
+                "godbout:1992a"
             ],
             "elementElectronShells": [
                 {
@@ -903,7 +903,7 @@
         },
         "7": {
             "elementReferences": [
-                "DGAUSS-A2COULOMB-BS-REF"
+                "godbout:1992a"
             ],
             "elementElectronShells": [
                 {
@@ -1118,7 +1118,7 @@
         },
         "8": {
             "elementReferences": [
-                "DGAUSS-A2COULOMB-BS-REF"
+                "godbout:1992a"
             ],
             "elementElectronShells": [
                 {
@@ -1333,7 +1333,7 @@
         },
         "9": {
             "elementReferences": [
-                "DGAUSS-A2COULOMB-BS-REF"
+                "godbout:1992a"
             ],
             "elementElectronShells": [
                 {
@@ -1548,7 +1548,7 @@
         },
         "10": {
             "elementReferences": [
-                "DGAUSS-A2COULOMB-BS-REF"
+                "godbout:1992a"
             ],
             "elementElectronShells": [
                 {
@@ -1763,7 +1763,7 @@
         },
         "11": {
             "elementReferences": [
-                "DGAUSS-A2COULOMB-BS-REF"
+                "godbout:1992a"
             ],
             "elementElectronShells": [
                 {
@@ -1978,7 +1978,7 @@
         },
         "12": {
             "elementReferences": [
-                "DGAUSS-A2COULOMB-BS-REF"
+                "godbout:1992a"
             ],
             "elementElectronShells": [
                 {
@@ -2193,7 +2193,7 @@
         },
         "13": {
             "elementReferences": [
-                "DGAUSS-A2COULOMB-BS-REF"
+                "godbout:1992a"
             ],
             "elementElectronShells": [
                 {
@@ -2424,7 +2424,7 @@
         },
         "14": {
             "elementReferences": [
-                "DGAUSS-A2COULOMB-BS-REF"
+                "godbout:1992a"
             ],
             "elementElectronShells": [
                 {
@@ -2655,7 +2655,7 @@
         },
         "15": {
             "elementReferences": [
-                "DGAUSS-A2COULOMB-BS-REF"
+                "godbout:1992a"
             ],
             "elementElectronShells": [
                 {
@@ -2886,7 +2886,7 @@
         },
         "16": {
             "elementReferences": [
-                "DGAUSS-A2COULOMB-BS-REF"
+                "godbout:1992a"
             ],
             "elementElectronShells": [
                 {
@@ -3117,7 +3117,7 @@
         },
         "17": {
             "elementReferences": [
-                "DGAUSS-A2COULOMB-BS-REF"
+                "godbout:1992a"
             ],
             "elementElectronShells": [
                 {
@@ -3348,7 +3348,7 @@
         },
         "18": {
             "elementReferences": [
-                "DGAUSS-A2COULOMB-BS-REF"
+                "godbout:1992a"
             ],
             "elementElectronShells": [
                 {
@@ -3579,7 +3579,7 @@
         },
         "21": {
             "elementReferences": [
-                "DGAUSS-A2COULOMB-BS-REF"
+                "godbout:1992a"
             ],
             "elementElectronShells": [
                 {
@@ -3846,7 +3846,7 @@
         },
         "22": {
             "elementReferences": [
-                "DGAUSS-A2COULOMB-BS-REF"
+                "godbout:1992a"
             ],
             "elementElectronShells": [
                 {
@@ -4113,7 +4113,7 @@
         },
         "23": {
             "elementReferences": [
-                "DGAUSS-A2COULOMB-BS-REF"
+                "godbout:1992a"
             ],
             "elementElectronShells": [
                 {
@@ -4380,7 +4380,7 @@
         },
         "24": {
             "elementReferences": [
-                "DGAUSS-A2COULOMB-BS-REF"
+                "godbout:1992a"
             ],
             "elementElectronShells": [
                 {
@@ -4647,7 +4647,7 @@
         },
         "25": {
             "elementReferences": [
-                "DGAUSS-A2COULOMB-BS-REF"
+                "godbout:1992a"
             ],
             "elementElectronShells": [
                 {
@@ -4914,7 +4914,7 @@
         },
         "26": {
             "elementReferences": [
-                "DGAUSS-A2COULOMB-BS-REF"
+                "godbout:1992a"
             ],
             "elementElectronShells": [
                 {
@@ -5181,7 +5181,7 @@
         },
         "27": {
             "elementReferences": [
-                "DGAUSS-A2COULOMB-BS-REF"
+                "godbout:1992a"
             ],
             "elementElectronShells": [
                 {
@@ -5448,7 +5448,7 @@
         },
         "28": {
             "elementReferences": [
-                "DGAUSS-A2COULOMB-BS-REF"
+                "godbout:1992a"
             ],
             "elementElectronShells": [
                 {
@@ -5715,7 +5715,7 @@
         },
         "29": {
             "elementReferences": [
-                "DGAUSS-A2COULOMB-BS-REF"
+                "godbout:1992a"
             ],
             "elementElectronShells": [
                 {
@@ -5982,7 +5982,7 @@
         },
         "30": {
             "elementReferences": [
-                "DGAUSS-A2COULOMB-BS-REF"
+                "godbout:1992a"
             ],
             "elementElectronShells": [
                 {

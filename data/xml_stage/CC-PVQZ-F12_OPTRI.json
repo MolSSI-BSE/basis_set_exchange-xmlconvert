@@ -5,7 +5,7 @@
     "basisSetElements": {
         "1": {
             "elementReferences": [
-                "CC-PVQZ-F12_OPTRI-BS-REF"
+                "yousaf:2008a"
             ],
             "elementElectronShells": [
                 {
@@ -204,7 +204,7 @@
         },
         "3": {
             "elementReferences": [
-                "CC-PVQZ-F12_OPTRI-BS-REF"
+                "hill:2010b"
             ],
             "elementElectronShells": [
                 {
@@ -499,7 +499,7 @@
         },
         "4": {
             "elementReferences": [
-                "CC-PVQZ-F12_OPTRI-BS-REF"
+                "hill:2010b"
             ],
             "elementElectronShells": [
                 {
@@ -794,7 +794,7 @@
         },
         "5": {
             "elementReferences": [
-                "CC-PVQZ-F12_OPTRI-BS-REF"
+                "yousaf:2008a"
             ],
             "elementElectronShells": [
                 {
@@ -1089,7 +1089,7 @@
         },
         "6": {
             "elementReferences": [
-                "CC-PVQZ-F12_OPTRI-BS-REF"
+                "yousaf:2008a"
             ],
             "elementElectronShells": [
                 {
@@ -1384,7 +1384,7 @@
         },
         "7": {
             "elementReferences": [
-                "CC-PVQZ-F12_OPTRI-BS-REF"
+                "yousaf:2008a"
             ],
             "elementElectronShells": [
                 {
@@ -1679,7 +1679,7 @@
         },
         "8": {
             "elementReferences": [
-                "CC-PVQZ-F12_OPTRI-BS-REF"
+                "yousaf:2008a"
             ],
             "elementElectronShells": [
                 {
@@ -1974,7 +1974,7 @@
         },
         "9": {
             "elementReferences": [
-                "CC-PVQZ-F12_OPTRI-BS-REF"
+                "yousaf:2008a"
             ],
             "elementElectronShells": [
                 {
@@ -2269,7 +2269,7 @@
         },
         "10": {
             "elementReferences": [
-                "CC-PVQZ-F12_OPTRI-BS-REF"
+                "yousaf:2008a"
             ],
             "elementElectronShells": [
                 {
@@ -2564,7 +2564,7 @@
         },
         "11": {
             "elementReferences": [
-                "CC-PVQZ-F12_OPTRI-BS-REF"
+                "hill:2010b"
             ],
             "elementElectronShells": [
                 {
@@ -2859,7 +2859,7 @@
         },
         "12": {
             "elementReferences": [
-                "CC-PVQZ-F12_OPTRI-BS-REF"
+                "hill:2010b"
             ],
             "elementElectronShells": [
                 {
@@ -3154,7 +3154,7 @@
         },
         "13": {
             "elementReferences": [
-                "CC-PVQZ-F12_OPTRI-BS-REF"
+                "yousaf:2008a"
             ],
             "elementElectronShells": [
                 {
@@ -3449,7 +3449,7 @@
         },
         "14": {
             "elementReferences": [
-                "CC-PVQZ-F12_OPTRI-BS-REF"
+                "yousaf:2008a"
             ],
             "elementElectronShells": [
                 {
@@ -3744,7 +3744,7 @@
         },
         "15": {
             "elementReferences": [
-                "CC-PVQZ-F12_OPTRI-BS-REF"
+                "yousaf:2008a"
             ],
             "elementElectronShells": [
                 {
@@ -4039,7 +4039,7 @@
         },
         "16": {
             "elementReferences": [
-                "CC-PVQZ-F12_OPTRI-BS-REF"
+                "yousaf:2008a"
             ],
             "elementElectronShells": [
                 {
@@ -4334,7 +4334,7 @@
         },
         "17": {
             "elementReferences": [
-                "CC-PVQZ-F12_OPTRI-BS-REF"
+                "yousaf:2008a"
             ],
             "elementElectronShells": [
                 {
@@ -4629,7 +4629,7 @@
         },
         "18": {
             "elementReferences": [
-                "CC-PVQZ-F12_OPTRI-BS-REF"
+                "yousaf:2008a"
             ],
             "elementElectronShells": [
                 {

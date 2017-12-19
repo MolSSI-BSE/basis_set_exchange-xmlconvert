@@ -4,9 +4,7 @@
     "basisSetDescription": "LANL2DZ ECP",
     "basisSetElements": {
         "1": {
-            "elementReferences": [
-                "LANL2DZ-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -39,9 +37,7 @@
             ]
         },
         "3": {
-            "elementReferences": [
-                "LANL2DZ-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -132,9 +128,7 @@
             ]
         },
         "4": {
-            "elementReferences": [
-                "LANL2DZ-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -228,9 +222,7 @@
             ]
         },
         "5": {
-            "elementReferences": [
-                "LANL2DZ-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -324,9 +316,7 @@
             ]
         },
         "6": {
-            "elementReferences": [
-                "LANL2DZ-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -420,9 +410,7 @@
             ]
         },
         "7": {
-            "elementReferences": [
-                "LANL2DZ-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -516,9 +504,7 @@
             ]
         },
         "8": {
-            "elementReferences": [
-                "LANL2DZ-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -612,9 +598,7 @@
             ]
         },
         "9": {
-            "elementReferences": [
-                "LANL2DZ-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -708,9 +692,7 @@
             ]
         },
         "10": {
-            "elementReferences": [
-                "LANL2DZ-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -805,7 +787,9 @@
         },
         "11": {
             "elementReferences": [
-                "LANL2DZ-BS-REF"
+                "hay:1985b",
+                "wadt:1985a",
+                "hay:1985a"
             ],
             "elementElectronShells": [
                 {
@@ -862,7 +846,9 @@
         },
         "12": {
             "elementReferences": [
-                "LANL2DZ-BS-REF"
+                "hay:1985b",
+                "wadt:1985a",
+                "hay:1985a"
             ],
             "elementElectronShells": [
                 {
@@ -919,7 +905,9 @@
         },
         "13": {
             "elementReferences": [
-                "LANL2DZ-BS-REF"
+                "hay:1985b",
+                "wadt:1985a",
+                "hay:1985a"
             ],
             "elementElectronShells": [
                 {
@@ -976,7 +964,9 @@
         },
         "14": {
             "elementReferences": [
-                "LANL2DZ-BS-REF"
+                "hay:1985b",
+                "wadt:1985a",
+                "hay:1985a"
             ],
             "elementElectronShells": [
                 {
@@ -1033,7 +1023,9 @@
         },
         "15": {
             "elementReferences": [
-                "LANL2DZ-BS-REF"
+                "hay:1985b",
+                "wadt:1985a",
+                "hay:1985a"
             ],
             "elementElectronShells": [
                 {
@@ -1090,7 +1082,9 @@
         },
         "16": {
             "elementReferences": [
-                "LANL2DZ-BS-REF"
+                "hay:1985b",
+                "wadt:1985a",
+                "hay:1985a"
             ],
             "elementElectronShells": [
                 {
@@ -1147,7 +1141,9 @@
         },
         "17": {
             "elementReferences": [
-                "LANL2DZ-BS-REF"
+                "hay:1985b",
+                "wadt:1985a",
+                "hay:1985a"
             ],
             "elementElectronShells": [
                 {
@@ -1204,7 +1200,9 @@
         },
         "18": {
             "elementReferences": [
-                "LANL2DZ-BS-REF"
+                "hay:1985b",
+                "wadt:1985a",
+                "hay:1985a"
             ],
             "elementElectronShells": [
                 {
@@ -1261,7 +1259,9 @@
         },
         "19": {
             "elementReferences": [
-                "LANL2DZ-BS-REF"
+                "hay:1985b",
+                "wadt:1985a",
+                "hay:1985a"
             ],
             "elementElectronShells": [
                 {
@@ -1344,7 +1344,9 @@
         },
         "20": {
             "elementReferences": [
-                "LANL2DZ-BS-REF"
+                "hay:1985b",
+                "wadt:1985a",
+                "hay:1985a"
             ],
             "elementElectronShells": [
                 {
@@ -1427,7 +1429,9 @@
         },
         "21": {
             "elementReferences": [
-                "LANL2DZ-BS-REF"
+                "hay:1985b",
+                "wadt:1985a",
+                "hay:1985a"
             ],
             "elementElectronShells": [
                 {
@@ -1541,7 +1545,9 @@
         },
         "22": {
             "elementReferences": [
-                "LANL2DZ-BS-REF"
+                "hay:1985b",
+                "wadt:1985a",
+                "hay:1985a"
             ],
             "elementElectronShells": [
                 {
@@ -1655,7 +1661,9 @@
         },
         "23": {
             "elementReferences": [
-                "LANL2DZ-BS-REF"
+                "hay:1985b",
+                "wadt:1985a",
+                "hay:1985a"
             ],
             "elementElectronShells": [
                 {
@@ -1769,7 +1777,9 @@
         },
         "24": {
             "elementReferences": [
-                "LANL2DZ-BS-REF"
+                "hay:1985b",
+                "wadt:1985a",
+                "hay:1985a"
             ],
             "elementElectronShells": [
                 {
@@ -1883,7 +1893,9 @@
         },
         "25": {
             "elementReferences": [
-                "LANL2DZ-BS-REF"
+                "hay:1985b",
+                "wadt:1985a",
+                "hay:1985a"
             ],
             "elementElectronShells": [
                 {
@@ -1997,7 +2009,9 @@
         },
         "26": {
             "elementReferences": [
-                "LANL2DZ-BS-REF"
+                "hay:1985b",
+                "wadt:1985a",
+                "hay:1985a"
             ],
             "elementElectronShells": [
                 {
@@ -2111,7 +2125,9 @@
         },
         "27": {
             "elementReferences": [
-                "LANL2DZ-BS-REF"
+                "hay:1985b",
+                "wadt:1985a",
+                "hay:1985a"
             ],
             "elementElectronShells": [
                 {
@@ -2225,7 +2241,9 @@
         },
         "28": {
             "elementReferences": [
-                "LANL2DZ-BS-REF"
+                "hay:1985b",
+                "wadt:1985a",
+                "hay:1985a"
             ],
             "elementElectronShells": [
                 {
@@ -2339,7 +2357,9 @@
         },
         "29": {
             "elementReferences": [
-                "LANL2DZ-BS-REF"
+                "hay:1985b",
+                "wadt:1985a",
+                "hay:1985a"
             ],
             "elementElectronShells": [
                 {
@@ -2453,7 +2473,9 @@
         },
         "30": {
             "elementReferences": [
-                "LANL2DZ-BS-REF"
+                "hay:1985b",
+                "wadt:1985a",
+                "hay:1985a"
             ],
             "elementElectronShells": [
                 {
@@ -2538,7 +2560,9 @@
         },
         "31": {
             "elementReferences": [
-                "LANL2DZ-BS-REF"
+                "hay:1985b",
+                "wadt:1985a",
+                "hay:1985a"
             ],
             "elementElectronShells": [
                 {
@@ -2595,7 +2619,9 @@
         },
         "32": {
             "elementReferences": [
-                "LANL2DZ-BS-REF"
+                "hay:1985b",
+                "wadt:1985a",
+                "hay:1985a"
             ],
             "elementElectronShells": [
                 {
@@ -2652,7 +2678,9 @@
         },
         "33": {
             "elementReferences": [
-                "LANL2DZ-BS-REF"
+                "hay:1985b",
+                "wadt:1985a",
+                "hay:1985a"
             ],
             "elementElectronShells": [
                 {
@@ -2709,7 +2737,9 @@
         },
         "34": {
             "elementReferences": [
-                "LANL2DZ-BS-REF"
+                "hay:1985b",
+                "wadt:1985a",
+                "hay:1985a"
             ],
             "elementElectronShells": [
                 {
@@ -2766,7 +2796,9 @@
         },
         "35": {
             "elementReferences": [
-                "LANL2DZ-BS-REF"
+                "hay:1985b",
+                "wadt:1985a",
+                "hay:1985a"
             ],
             "elementElectronShells": [
                 {
@@ -2823,7 +2855,9 @@
         },
         "36": {
             "elementReferences": [
-                "LANL2DZ-BS-REF"
+                "hay:1985b",
+                "wadt:1985a",
+                "hay:1985a"
             ],
             "elementElectronShells": [
                 {
@@ -2880,7 +2914,9 @@
         },
         "37": {
             "elementReferences": [
-                "LANL2DZ-BS-REF"
+                "hay:1985b",
+                "wadt:1985a",
+                "hay:1985a"
             ],
             "elementElectronShells": [
                 {
@@ -2967,7 +3003,9 @@
         },
         "38": {
             "elementReferences": [
-                "LANL2DZ-BS-REF"
+                "hay:1985b",
+                "wadt:1985a",
+                "hay:1985a"
             ],
             "elementElectronShells": [
                 {
@@ -3054,7 +3092,9 @@
         },
         "39": {
             "elementReferences": [
-                "LANL2DZ-BS-REF"
+                "hay:1985b",
+                "wadt:1985a",
+                "hay:1985a"
             ],
             "elementElectronShells": [
                 {
@@ -3169,7 +3209,9 @@
         },
         "40": {
             "elementReferences": [
-                "LANL2DZ-BS-REF"
+                "hay:1985b",
+                "wadt:1985a",
+                "hay:1985a"
             ],
             "elementElectronShells": [
                 {
@@ -3284,7 +3326,9 @@
         },
         "41": {
             "elementReferences": [
-                "LANL2DZ-BS-REF"
+                "hay:1985b",
+                "wadt:1985a",
+                "hay:1985a"
             ],
             "elementElectronShells": [
                 {
@@ -3399,7 +3443,9 @@
         },
         "42": {
             "elementReferences": [
-                "LANL2DZ-BS-REF"
+                "hay:1985b",
+                "wadt:1985a",
+                "hay:1985a"
             ],
             "elementElectronShells": [
                 {
@@ -3514,7 +3560,9 @@
         },
         "43": {
             "elementReferences": [
-                "LANL2DZ-BS-REF"
+                "hay:1985b",
+                "wadt:1985a",
+                "hay:1985a"
             ],
             "elementElectronShells": [
                 {
@@ -3629,7 +3677,9 @@
         },
         "44": {
             "elementReferences": [
-                "LANL2DZ-BS-REF"
+                "hay:1985b",
+                "wadt:1985a",
+                "hay:1985a"
             ],
             "elementElectronShells": [
                 {
@@ -3744,7 +3794,9 @@
         },
         "45": {
             "elementReferences": [
-                "LANL2DZ-BS-REF"
+                "hay:1985b",
+                "wadt:1985a",
+                "hay:1985a"
             ],
             "elementElectronShells": [
                 {
@@ -3859,7 +3911,9 @@
         },
         "46": {
             "elementReferences": [
-                "LANL2DZ-BS-REF"
+                "hay:1985b",
+                "wadt:1985a",
+                "hay:1985a"
             ],
             "elementElectronShells": [
                 {
@@ -3974,7 +4028,9 @@
         },
         "47": {
             "elementReferences": [
-                "LANL2DZ-BS-REF"
+                "hay:1985b",
+                "wadt:1985a",
+                "hay:1985a"
             ],
             "elementElectronShells": [
                 {
@@ -4089,7 +4145,9 @@
         },
         "48": {
             "elementReferences": [
-                "LANL2DZ-BS-REF"
+                "hay:1985b",
+                "wadt:1985a",
+                "hay:1985a"
             ],
             "elementElectronShells": [
                 {
@@ -4174,7 +4232,9 @@
         },
         "49": {
             "elementReferences": [
-                "LANL2DZ-BS-REF"
+                "hay:1985b",
+                "wadt:1985a",
+                "hay:1985a"
             ],
             "elementElectronShells": [
                 {
@@ -4231,7 +4291,9 @@
         },
         "50": {
             "elementReferences": [
-                "LANL2DZ-BS-REF"
+                "hay:1985b",
+                "wadt:1985a",
+                "hay:1985a"
             ],
             "elementElectronShells": [
                 {
@@ -4288,7 +4350,9 @@
         },
         "51": {
             "elementReferences": [
-                "LANL2DZ-BS-REF"
+                "hay:1985b",
+                "wadt:1985a",
+                "hay:1985a"
             ],
             "elementElectronShells": [
                 {
@@ -4345,7 +4409,9 @@
         },
         "52": {
             "elementReferences": [
-                "LANL2DZ-BS-REF"
+                "hay:1985b",
+                "wadt:1985a",
+                "hay:1985a"
             ],
             "elementElectronShells": [
                 {
@@ -4402,7 +4468,9 @@
         },
         "53": {
             "elementReferences": [
-                "LANL2DZ-BS-REF"
+                "hay:1985b",
+                "wadt:1985a",
+                "hay:1985a"
             ],
             "elementElectronShells": [
                 {
@@ -4459,7 +4527,9 @@
         },
         "54": {
             "elementReferences": [
-                "LANL2DZ-BS-REF"
+                "hay:1985b",
+                "wadt:1985a",
+                "hay:1985a"
             ],
             "elementElectronShells": [
                 {
@@ -4516,7 +4586,9 @@
         },
         "55": {
             "elementReferences": [
-                "LANL2DZ-BS-REF"
+                "hay:1985b",
+                "wadt:1985a",
+                "hay:1985a"
             ],
             "elementElectronShells": [
                 {
@@ -4603,7 +4675,9 @@
         },
         "56": {
             "elementReferences": [
-                "LANL2DZ-BS-REF"
+                "hay:1985b",
+                "wadt:1985a",
+                "hay:1985a"
             ],
             "elementElectronShells": [
                 {
@@ -4690,7 +4764,9 @@
         },
         "57": {
             "elementReferences": [
-                "LANL2DZ-BS-REF"
+                "hay:1985b",
+                "wadt:1985a",
+                "hay:1985a"
             ],
             "elementElectronShells": [
                 {
@@ -4802,7 +4878,9 @@
         },
         "72": {
             "elementReferences": [
-                "LANL2DZ-BS-REF"
+                "hay:1985b",
+                "wadt:1985a",
+                "hay:1985a"
             ],
             "elementElectronShells": [
                 {
@@ -4914,7 +4992,9 @@
         },
         "73": {
             "elementReferences": [
-                "LANL2DZ-BS-REF"
+                "hay:1985b",
+                "wadt:1985a",
+                "hay:1985a"
             ],
             "elementElectronShells": [
                 {
@@ -5026,7 +5106,9 @@
         },
         "74": {
             "elementReferences": [
-                "LANL2DZ-BS-REF"
+                "hay:1985b",
+                "wadt:1985a",
+                "hay:1985a"
             ],
             "elementElectronShells": [
                 {
@@ -5138,7 +5220,9 @@
         },
         "75": {
             "elementReferences": [
-                "LANL2DZ-BS-REF"
+                "hay:1985b",
+                "wadt:1985a",
+                "hay:1985a"
             ],
             "elementElectronShells": [
                 {
@@ -5250,7 +5334,9 @@
         },
         "76": {
             "elementReferences": [
-                "LANL2DZ-BS-REF"
+                "hay:1985b",
+                "wadt:1985a",
+                "hay:1985a"
             ],
             "elementElectronShells": [
                 {
@@ -5362,7 +5448,9 @@
         },
         "77": {
             "elementReferences": [
-                "LANL2DZ-BS-REF"
+                "hay:1985b",
+                "wadt:1985a",
+                "hay:1985a"
             ],
             "elementElectronShells": [
                 {
@@ -5474,7 +5562,9 @@
         },
         "78": {
             "elementReferences": [
-                "LANL2DZ-BS-REF"
+                "hay:1985b",
+                "wadt:1985a",
+                "hay:1985a"
             ],
             "elementElectronShells": [
                 {
@@ -5586,7 +5676,9 @@
         },
         "79": {
             "elementReferences": [
-                "LANL2DZ-BS-REF"
+                "hay:1985b",
+                "wadt:1985a",
+                "hay:1985a"
             ],
             "elementElectronShells": [
                 {
@@ -5698,7 +5790,9 @@
         },
         "80": {
             "elementReferences": [
-                "LANL2DZ-BS-REF"
+                "hay:1985b",
+                "wadt:1985a",
+                "hay:1985a"
             ],
             "elementElectronShells": [
                 {
@@ -5779,9 +5873,7 @@
             ]
         },
         "81": {
-            "elementReferences": [
-                "LANL2DZ-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -5861,9 +5953,7 @@
             ]
         },
         "82": {
-            "elementReferences": [
-                "LANL2DZ-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -5918,9 +6008,7 @@
             ]
         },
         "83": {
-            "elementReferences": [
-                "LANL2DZ-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -5975,9 +6063,7 @@
             ]
         },
         "92": {
-            "elementReferences": [
-                "LANL2DZ-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -6112,9 +6198,7 @@
             ]
         },
         "93": {
-            "elementReferences": [
-                "LANL2DZ-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -6249,9 +6333,7 @@
             ]
         },
         "94": {
-            "elementReferences": [
-                "LANL2DZ-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",

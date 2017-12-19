@@ -4,9 +4,7 @@
     "basisSetDescription": "VDZ     Valence Double Zeta designed for an ECP",
     "basisSetElements": {
         "19": {
-            "elementReferences": [
-                "HAY-WADT2_VDZ-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -87,9 +85,7 @@
             ]
         },
         "20": {
-            "elementReferences": [
-                "HAY-WADT2_VDZ-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -170,9 +166,7 @@
             ]
         },
         "21": {
-            "elementReferences": [
-                "HAY-WADT2_VDZ-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -284,9 +278,7 @@
             ]
         },
         "22": {
-            "elementReferences": [
-                "HAY-WADT2_VDZ-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -398,9 +390,7 @@
             ]
         },
         "23": {
-            "elementReferences": [
-                "HAY-WADT2_VDZ-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -512,9 +502,7 @@
             ]
         },
         "24": {
-            "elementReferences": [
-                "HAY-WADT2_VDZ-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -626,9 +614,7 @@
             ]
         },
         "25": {
-            "elementReferences": [
-                "HAY-WADT2_VDZ-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -740,9 +726,7 @@
             ]
         },
         "26": {
-            "elementReferences": [
-                "HAY-WADT2_VDZ-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -854,9 +838,7 @@
             ]
         },
         "27": {
-            "elementReferences": [
-                "HAY-WADT2_VDZ-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -968,9 +950,7 @@
             ]
         },
         "28": {
-            "elementReferences": [
-                "HAY-WADT2_VDZ-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -1082,9 +1062,7 @@
             ]
         },
         "29": {
-            "elementReferences": [
-                "HAY-WADT2_VDZ-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -1196,9 +1174,7 @@
             ]
         },
         "37": {
-            "elementReferences": [
-                "HAY-WADT2_VDZ-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -1283,9 +1259,7 @@
             ]
         },
         "38": {
-            "elementReferences": [
-                "HAY-WADT2_VDZ-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -1370,9 +1344,7 @@
             ]
         },
         "39": {
-            "elementReferences": [
-                "HAY-WADT2_VDZ-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -1485,9 +1457,7 @@
             ]
         },
         "40": {
-            "elementReferences": [
-                "HAY-WADT2_VDZ-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -1600,9 +1570,7 @@
             ]
         },
         "41": {
-            "elementReferences": [
-                "HAY-WADT2_VDZ-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -1715,9 +1683,7 @@
             ]
         },
         "42": {
-            "elementReferences": [
-                "HAY-WADT2_VDZ-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -1830,9 +1796,7 @@
             ]
         },
         "43": {
-            "elementReferences": [
-                "HAY-WADT2_VDZ-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -1945,9 +1909,7 @@
             ]
         },
         "44": {
-            "elementReferences": [
-                "HAY-WADT2_VDZ-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -2060,9 +2022,7 @@
             ]
         },
         "45": {
-            "elementReferences": [
-                "HAY-WADT2_VDZ-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -2175,9 +2135,7 @@
             ]
         },
         "46": {
-            "elementReferences": [
-                "HAY-WADT2_VDZ-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -2290,9 +2248,7 @@
             ]
         },
         "47": {
-            "elementReferences": [
-                "HAY-WADT2_VDZ-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -2405,9 +2361,7 @@
             ]
         },
         "55": {
-            "elementReferences": [
-                "HAY-WADT2_VDZ-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -2492,9 +2446,7 @@
             ]
         },
         "56": {
-            "elementReferences": [
-                "HAY-WADT2_VDZ-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -2579,9 +2531,7 @@
             ]
         },
         "57": {
-            "elementReferences": [
-                "HAY-WADT2_VDZ-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -2691,9 +2641,7 @@
             ]
         },
         "73": {
-            "elementReferences": [
-                "HAY-WADT2_VDZ-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -2803,9 +2751,7 @@
             ]
         },
         "74": {
-            "elementReferences": [
-                "HAY-WADT2_VDZ-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -2915,9 +2861,7 @@
             ]
         },
         "75": {
-            "elementReferences": [
-                "HAY-WADT2_VDZ-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -3027,9 +2971,7 @@
             ]
         },
         "76": {
-            "elementReferences": [
-                "HAY-WADT2_VDZ-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -3139,9 +3081,7 @@
             ]
         },
         "77": {
-            "elementReferences": [
-                "HAY-WADT2_VDZ-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -3251,9 +3191,7 @@
             ]
         },
         "78": {
-            "elementReferences": [
-                "HAY-WADT2_VDZ-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -3363,9 +3301,7 @@
             ]
         },
         "79": {
-            "elementReferences": [
-                "HAY-WADT2_VDZ-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",

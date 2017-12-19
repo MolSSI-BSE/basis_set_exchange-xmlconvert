@@ -5,7 +5,7 @@
     "basisSetElements": {
         "1": {
             "elementReferences": [
-                "AUG-PCS-2-BS-REF"
+                "jensen:2008a"
             ],
             "elementElectronShells": [
                 {
@@ -123,7 +123,7 @@
         },
         "2": {
             "elementReferences": [
-                "AUG-PCS-2-BS-REF"
+                "jensen:2008a"
             ],
             "elementElectronShells": [
                 {
@@ -241,7 +241,7 @@
         },
         "3": {
             "elementReferences": [
-                "AUG-PCS-2-BS-REF"
+                "jensen:2008a"
             ],
             "elementElectronShells": [
                 {
@@ -408,7 +408,7 @@
         },
         "4": {
             "elementReferences": [
-                "AUG-PCS-2-BS-REF"
+                "jensen:2008a"
             ],
             "elementElectronShells": [
                 {
@@ -575,7 +575,7 @@
         },
         "5": {
             "elementReferences": [
-                "AUG-PCS-2-BS-REF"
+                "jensen:2008a"
             ],
             "elementElectronShells": [
                 {
@@ -792,7 +792,7 @@
         },
         "6": {
             "elementReferences": [
-                "AUG-PCS-2-BS-REF"
+                "jensen:2008a"
             ],
             "elementElectronShells": [
                 {
@@ -1009,7 +1009,7 @@
         },
         "7": {
             "elementReferences": [
-                "AUG-PCS-2-BS-REF"
+                "jensen:2008a"
             ],
             "elementElectronShells": [
                 {
@@ -1226,7 +1226,7 @@
         },
         "8": {
             "elementReferences": [
-                "AUG-PCS-2-BS-REF"
+                "jensen:2008a"
             ],
             "elementElectronShells": [
                 {
@@ -1443,7 +1443,7 @@
         },
         "9": {
             "elementReferences": [
-                "AUG-PCS-2-BS-REF"
+                "jensen:2008a"
             ],
             "elementElectronShells": [
                 {
@@ -1660,7 +1660,7 @@
         },
         "10": {
             "elementReferences": [
-                "AUG-PCS-2-BS-REF"
+                "jensen:2008a"
             ],
             "elementElectronShells": [
                 {
@@ -1877,7 +1877,7 @@
         },
         "11": {
             "elementReferences": [
-                "AUG-PCS-2-BS-REF"
+                "jensen:2008a"
             ],
             "elementElectronShells": [
                 {
@@ -2142,7 +2142,7 @@
         },
         "12": {
             "elementReferences": [
-                "AUG-PCS-2-BS-REF"
+                "jensen:2008a"
             ],
             "elementElectronShells": [
                 {
@@ -2407,7 +2407,7 @@
         },
         "13": {
             "elementReferences": [
-                "AUG-PCS-2-BS-REF"
+                "jensen:2008a"
             ],
             "elementElectronShells": [
                 {
@@ -2710,7 +2710,7 @@
         },
         "14": {
             "elementReferences": [
-                "AUG-PCS-2-BS-REF"
+                "jensen:2008a"
             ],
             "elementElectronShells": [
                 {
@@ -3013,7 +3013,7 @@
         },
         "15": {
             "elementReferences": [
-                "AUG-PCS-2-BS-REF"
+                "jensen:2008a"
             ],
             "elementElectronShells": [
                 {
@@ -3316,7 +3316,7 @@
         },
         "16": {
             "elementReferences": [
-                "AUG-PCS-2-BS-REF"
+                "jensen:2008a"
             ],
             "elementElectronShells": [
                 {
@@ -3619,7 +3619,7 @@
         },
         "17": {
             "elementReferences": [
-                "AUG-PCS-2-BS-REF"
+                "jensen:2008a"
             ],
             "elementElectronShells": [
                 {
@@ -3922,7 +3922,7 @@
         },
         "18": {
             "elementReferences": [
-                "AUG-PCS-2-BS-REF"
+                "jensen:2008a"
             ],
             "elementElectronShells": [
                 {

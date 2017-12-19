@@ -5,7 +5,7 @@
     "basisSetElements": {
         "1": {
             "elementReferences": [
-                "AUG-MCC-PV7Z-BS-REF"
+                "mielke:2002a"
             ],
             "elementElectronShells": [
                 {

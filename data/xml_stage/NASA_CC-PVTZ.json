@@ -5,7 +5,9 @@
     "basisSetElements": {
         "22": {
             "elementReferences": [
-                "NASA_CC-PVTZ-BS-REF"
+                "bauschlicher:1999a",
+                "bauschlicher:1995a",
+                "ricca:2001a"
             ],
             "elementElectronShells": [
                 {
@@ -503,7 +505,9 @@
         },
         "26": {
             "elementReferences": [
-                "NASA_CC-PVTZ-BS-REF"
+                "bauschlicher:1999a",
+                "bauschlicher:1995a",
+                "ricca:2001a"
             ],
             "elementElectronShells": [
                 {

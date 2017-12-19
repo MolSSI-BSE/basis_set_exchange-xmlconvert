@@ -4,9 +4,7 @@
     "basisSetDescription": "cc-pV8Z",
     "basisSetElements": {
         "1": {
-            "elementReferences": [
-                "CC-PV8Z-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -483,7 +481,7 @@
         },
         "10": {
             "elementReferences": [
-                "CC-PV8Z-BS-REF"
+                "feller:2003a"
             ],
             "elementElectronShells": [
                 {

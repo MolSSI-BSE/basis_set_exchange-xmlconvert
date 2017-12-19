@@ -5,7 +5,7 @@
     "basisSetElements": {
         "39": {
             "elementReferences": [
-                "CC-PWCV5Z-PPMP2FITTING-BS-REF"
+                "hill:2013a"
             ],
             "elementElectronShells": [
                 {
@@ -1308,7 +1308,7 @@
         },
         "40": {
             "elementReferences": [
-                "CC-PWCV5Z-PPMP2FITTING-BS-REF"
+                "hill:2013a"
             ],
             "elementElectronShells": [
                 {
@@ -2611,7 +2611,7 @@
         },
         "41": {
             "elementReferences": [
-                "CC-PWCV5Z-PPMP2FITTING-BS-REF"
+                "hill:2013a"
             ],
             "elementElectronShells": [
                 {
@@ -3914,7 +3914,7 @@
         },
         "42": {
             "elementReferences": [
-                "CC-PWCV5Z-PPMP2FITTING-BS-REF"
+                "hill:2013a"
             ],
             "elementElectronShells": [
                 {
@@ -5217,7 +5217,7 @@
         },
         "43": {
             "elementReferences": [
-                "CC-PWCV5Z-PPMP2FITTING-BS-REF"
+                "hill:2013a"
             ],
             "elementElectronShells": [
                 {
@@ -6520,7 +6520,7 @@
         },
         "44": {
             "elementReferences": [
-                "CC-PWCV5Z-PPMP2FITTING-BS-REF"
+                "hill:2013a"
             ],
             "elementElectronShells": [
                 {
@@ -7823,7 +7823,7 @@
         },
         "45": {
             "elementReferences": [
-                "CC-PWCV5Z-PPMP2FITTING-BS-REF"
+                "hill:2013a"
             ],
             "elementElectronShells": [
                 {
@@ -9126,7 +9126,7 @@
         },
         "46": {
             "elementReferences": [
-                "CC-PWCV5Z-PPMP2FITTING-BS-REF"
+                "hill:2013a"
             ],
             "elementElectronShells": [
                 {
@@ -10429,7 +10429,7 @@
         },
         "72": {
             "elementReferences": [
-                "CC-PWCV5Z-PPMP2FITTING-BS-REF"
+                "hill:2011a"
             ],
             "elementElectronShells": [
                 {
@@ -11716,7 +11716,7 @@
         },
         "73": {
             "elementReferences": [
-                "CC-PWCV5Z-PPMP2FITTING-BS-REF"
+                "hill:2011a"
             ],
             "elementElectronShells": [
                 {
@@ -13003,7 +13003,7 @@
         },
         "74": {
             "elementReferences": [
-                "CC-PWCV5Z-PPMP2FITTING-BS-REF"
+                "hill:2011a"
             ],
             "elementElectronShells": [
                 {
@@ -14290,7 +14290,7 @@
         },
         "75": {
             "elementReferences": [
-                "CC-PWCV5Z-PPMP2FITTING-BS-REF"
+                "hill:2011a"
             ],
             "elementElectronShells": [
                 {
@@ -15577,7 +15577,7 @@
         },
         "76": {
             "elementReferences": [
-                "CC-PWCV5Z-PPMP2FITTING-BS-REF"
+                "hill:2011a"
             ],
             "elementElectronShells": [
                 {
@@ -16864,7 +16864,7 @@
         },
         "77": {
             "elementReferences": [
-                "CC-PWCV5Z-PPMP2FITTING-BS-REF"
+                "hill:2011a"
             ],
             "elementElectronShells": [
                 {
@@ -18151,7 +18151,7 @@
         },
         "78": {
             "elementReferences": [
-                "CC-PWCV5Z-PPMP2FITTING-BS-REF"
+                "hill:2011a"
             ],
             "elementElectronShells": [
                 {

@@ -5,7 +5,7 @@
     "basisSetElements": {
         "19": {
             "elementReferences": [
-                "STUTTGART_RSC97-BS-REF"
+                "bergner:1993a"
             ],
             "elementElectronShells": [
                 {
@@ -126,7 +126,7 @@
         },
         "20": {
             "elementReferences": [
-                "STUTTGART_RSC97-BS-REF"
+                "kaupp:1991a"
             ],
             "elementElectronShells": [
                 {
@@ -263,9 +263,7 @@
             ]
         },
         "21": {
-            "elementReferences": [
-                "STUTTGART_RSC97-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -472,9 +470,7 @@
             ]
         },
         "22": {
-            "elementReferences": [
-                "STUTTGART_RSC97-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -681,9 +677,7 @@
             ]
         },
         "23": {
-            "elementReferences": [
-                "STUTTGART_RSC97-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -890,9 +884,7 @@
             ]
         },
         "24": {
-            "elementReferences": [
-                "STUTTGART_RSC97-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -1099,9 +1091,7 @@
             ]
         },
         "25": {
-            "elementReferences": [
-                "STUTTGART_RSC97-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -1308,9 +1298,7 @@
             ]
         },
         "26": {
-            "elementReferences": [
-                "STUTTGART_RSC97-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -1517,9 +1505,7 @@
             ]
         },
         "27": {
-            "elementReferences": [
-                "STUTTGART_RSC97-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -1726,9 +1712,7 @@
             ]
         },
         "28": {
-            "elementReferences": [
-                "STUTTGART_RSC97-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -1935,9 +1919,7 @@
             ]
         },
         "29": {
-            "elementReferences": [
-                "STUTTGART_RSC97-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -2128,9 +2110,7 @@
             ]
         },
         "30": {
-            "elementReferences": [
-                "STUTTGART_RSC97-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -2321,9 +2301,7 @@
             ]
         },
         "37": {
-            "elementReferences": [
-                "STUTTGART_RSC97-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -2442,9 +2420,7 @@
             ]
         },
         "38": {
-            "elementReferences": [
-                "STUTTGART_RSC97-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -2580,9 +2556,7 @@
             ]
         },
         "39": {
-            "elementReferences": [
-                "STUTTGART_RSC97-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -2773,9 +2747,7 @@
             ]
         },
         "40": {
-            "elementReferences": [
-                "STUTTGART_RSC97-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -2966,9 +2938,7 @@
             ]
         },
         "41": {
-            "elementReferences": [
-                "STUTTGART_RSC97-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -3159,9 +3129,7 @@
             ]
         },
         "42": {
-            "elementReferences": [
-                "STUTTGART_RSC97-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -3352,9 +3320,7 @@
             ]
         },
         "43": {
-            "elementReferences": [
-                "STUTTGART_RSC97-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -3545,9 +3511,7 @@
             ]
         },
         "44": {
-            "elementReferences": [
-                "STUTTGART_RSC97-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -3738,9 +3702,7 @@
             ]
         },
         "45": {
-            "elementReferences": [
-                "STUTTGART_RSC97-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -3931,9 +3893,7 @@
             ]
         },
         "46": {
-            "elementReferences": [
-                "STUTTGART_RSC97-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -4124,9 +4084,7 @@
             ]
         },
         "47": {
-            "elementReferences": [
-                "STUTTGART_RSC97-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -4317,9 +4275,7 @@
             ]
         },
         "48": {
-            "elementReferences": [
-                "STUTTGART_RSC97-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -4510,9 +4466,7 @@
             ]
         },
         "55": {
-            "elementReferences": [
-                "STUTTGART_RSC97-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -4631,9 +4585,7 @@
             ]
         },
         "56": {
-            "elementReferences": [
-                "STUTTGART_RSC97-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -4785,9 +4737,7 @@
             ]
         },
         "58": {
-            "elementReferences": [
-                "STUTTGART_RSC97-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -5089,9 +5039,7 @@
             ]
         },
         "59": {
-            "elementReferences": [
-                "STUTTGART_RSC97-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -5393,9 +5341,7 @@
             ]
         },
         "60": {
-            "elementReferences": [
-                "STUTTGART_RSC97-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -5686,9 +5632,7 @@
             ]
         },
         "61": {
-            "elementReferences": [
-                "STUTTGART_RSC97-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -5990,9 +5934,7 @@
             ]
         },
         "62": {
-            "elementReferences": [
-                "STUTTGART_RSC97-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -6294,9 +6236,7 @@
             ]
         },
         "63": {
-            "elementReferences": [
-                "STUTTGART_RSC97-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -6598,9 +6538,7 @@
             ]
         },
         "64": {
-            "elementReferences": [
-                "STUTTGART_RSC97-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -6902,9 +6840,7 @@
             ]
         },
         "65": {
-            "elementReferences": [
-                "STUTTGART_RSC97-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -7206,9 +7142,7 @@
             ]
         },
         "66": {
-            "elementReferences": [
-                "STUTTGART_RSC97-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -7510,9 +7444,7 @@
             ]
         },
         "67": {
-            "elementReferences": [
-                "STUTTGART_RSC97-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -7814,9 +7746,7 @@
             ]
         },
         "68": {
-            "elementReferences": [
-                "STUTTGART_RSC97-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -8107,9 +8037,7 @@
             ]
         },
         "69": {
-            "elementReferences": [
-                "STUTTGART_RSC97-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -8400,9 +8328,7 @@
             ]
         },
         "70": {
-            "elementReferences": [
-                "STUTTGART_RSC97-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -8693,9 +8619,7 @@
             ]
         },
         "72": {
-            "elementReferences": [
-                "STUTTGART_RSC97-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -8886,9 +8810,7 @@
             ]
         },
         "73": {
-            "elementReferences": [
-                "STUTTGART_RSC97-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -9079,9 +9001,7 @@
             ]
         },
         "74": {
-            "elementReferences": [
-                "STUTTGART_RSC97-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -9272,9 +9192,7 @@
             ]
         },
         "75": {
-            "elementReferences": [
-                "STUTTGART_RSC97-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -9465,9 +9383,7 @@
             ]
         },
         "76": {
-            "elementReferences": [
-                "STUTTGART_RSC97-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -9658,9 +9574,7 @@
             ]
         },
         "77": {
-            "elementReferences": [
-                "STUTTGART_RSC97-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -9851,9 +9765,7 @@
             ]
         },
         "78": {
-            "elementReferences": [
-                "STUTTGART_RSC97-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -10044,9 +9956,7 @@
             ]
         },
         "79": {
-            "elementReferences": [
-                "STUTTGART_RSC97-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -10228,9 +10138,7 @@
             ]
         },
         "80": {
-            "elementReferences": [
-                "STUTTGART_RSC97-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -10450,9 +10358,7 @@
             ]
         },
         "89": {
-            "elementReferences": [
-                "STUTTGART_RSC97-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -10861,9 +10767,7 @@
             ]
         },
         "90": {
-            "elementReferences": [
-                "STUTTGART_RSC97-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -11272,9 +11176,7 @@
             ]
         },
         "91": {
-            "elementReferences": [
-                "STUTTGART_RSC97-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -11683,9 +11585,7 @@
             ]
         },
         "92": {
-            "elementReferences": [
-                "STUTTGART_RSC97-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -12094,9 +11994,7 @@
             ]
         },
         "93": {
-            "elementReferences": [
-                "STUTTGART_RSC97-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -12505,9 +12403,7 @@
             ]
         },
         "94": {
-            "elementReferences": [
-                "STUTTGART_RSC97-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -12916,9 +12812,7 @@
             ]
         },
         "95": {
-            "elementReferences": [
-                "STUTTGART_RSC97-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -13327,9 +13221,7 @@
             ]
         },
         "96": {
-            "elementReferences": [
-                "STUTTGART_RSC97-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -13738,9 +13630,7 @@
             ]
         },
         "97": {
-            "elementReferences": [
-                "STUTTGART_RSC97-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -14149,9 +14039,7 @@
             ]
         },
         "98": {
-            "elementReferences": [
-                "STUTTGART_RSC97-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -14560,9 +14448,7 @@
             ]
         },
         "99": {
-            "elementReferences": [
-                "STUTTGART_RSC97-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -14971,9 +14857,7 @@
             ]
         },
         "100": {
-            "elementReferences": [
-                "STUTTGART_RSC97-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -15382,9 +15266,7 @@
             ]
         },
         "101": {
-            "elementReferences": [
-                "STUTTGART_RSC97-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -15793,9 +15675,7 @@
             ]
         },
         "102": {
-            "elementReferences": [
-                "STUTTGART_RSC97-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -16204,9 +16084,7 @@
             ]
         },
         "103": {
-            "elementReferences": [
-                "STUTTGART_RSC97-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -16616,7 +16494,7 @@
         },
         "105": {
             "elementReferences": [
-                "STUTTGART_RSC97-BS-REF"
+                "dolg:1993a"
             ],
             "elementElectronShells": [
                 {

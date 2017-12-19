@@ -4,9 +4,7 @@
     "basisSetDescription": "pV7Z",
     "basisSetElements": {
         "1": {
-            "elementReferences": [
-                "PV7Z-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -376,7 +374,8 @@
         },
         "6": {
             "elementReferences": [
-                "PV7Z-BS-REF"
+                "feller:1999a",
+                "feller:2000a"
             ],
             "elementElectronShells": [
                 {
@@ -921,7 +920,8 @@
         },
         "7": {
             "elementReferences": [
-                "PV7Z-BS-REF"
+                "feller:1999a",
+                "feller:2000a"
             ],
             "elementElectronShells": [
                 {
@@ -1466,7 +1466,8 @@
         },
         "8": {
             "elementReferences": [
-                "PV7Z-BS-REF"
+                "feller:1999a",
+                "feller:2000a"
             ],
             "elementElectronShells": [
                 {
@@ -2011,7 +2012,8 @@
         },
         "9": {
             "elementReferences": [
-                "PV7Z-BS-REF"
+                "feller:1999a",
+                "feller:2000a"
             ],
             "elementElectronShells": [
                 {
@@ -2555,9 +2557,7 @@
             ]
         },
         "10": {
-            "elementReferences": [
-                "PV7Z-BS-REF"
-            ],
+            "elementReferences": [],
             "elementElectronShells": [
                 {
                     "shellFunctionType": "gto",
@@ -3101,7 +3101,8 @@
         },
         "16": {
             "elementReferences": [
-                "PV7Z-BS-REF"
+                "feller:1999a",
+                "feller:2000a"
             ],
             "elementElectronShells": [
                 {
