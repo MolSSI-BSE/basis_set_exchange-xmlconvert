@@ -5,7 +5,7 @@
     "basisSetElements": {
         "1": {
             "elementReferences": [
-                "woon:1994a"
+                "woon1994a"
             ],
             "elementElectronShells": [
                 {
@@ -60,7 +60,7 @@
         },
         "2": {
             "elementReferences": [
-                "woon:1994a"
+                "woon1994a"
             ],
             "elementElectronShells": [
                 {

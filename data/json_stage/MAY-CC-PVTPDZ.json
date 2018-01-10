@@ -5,9 +5,9 @@
     "basisSetElements": {
         "1": {
             "elementReferences": [
-                "papajak:2011a",
-                "dunning:1989a",
-                "papajak:2010a"
+                "papajak2011a",
+                "dunning1989a",
+                "papajak2010a"
             ],
             "elementElectronShells": [
                 {
@@ -90,9 +90,9 @@
         },
         "2": {
             "elementReferences": [
-                "papajak:2011a",
-                "woon:1994a",
-                "papajak:2010a"
+                "papajak2011a",
+                "woon1994a",
+                "papajak2010a"
             ],
             "elementElectronShells": [
                 {
@@ -179,10 +179,10 @@
         },
         "3": {
             "elementReferences": [
-                "papajak:2011a",
-                "dunning:1989a",
-                "dunning:1989a",
-                "papajak:2010a"
+                "papajak2011a",
+                "dunning1989a",
+                "dunning1989a",
+                "papajak2010a"
             ],
             "elementElectronShells": [
                 {
@@ -371,10 +371,10 @@
         },
         "4": {
             "elementReferences": [
-                "papajak:2011a",
-                "dunning:1989a",
-                "dunning:1989a",
-                "papajak:2010a"
+                "papajak2011a",
+                "dunning1989a",
+                "dunning1989a",
+                "papajak2010a"
             ],
             "elementElectronShells": [
                 {
@@ -563,11 +563,11 @@
         },
         "5": {
             "elementReferences": [
-                "papajak:2011a",
-                "dunning:1989a",
-                "dunning:1989a",
-                "kendall:1992a",
-                "papajak:2010a"
+                "papajak2011a",
+                "dunning1989a",
+                "dunning1989a",
+                "kendall1992a",
+                "papajak2010a"
             ],
             "elementElectronShells": [
                 {
@@ -750,11 +750,11 @@
         },
         "6": {
             "elementReferences": [
-                "papajak:2011a",
-                "dunning:1989a",
-                "dunning:1989a",
-                "kendall:1992a",
-                "papajak:2010a"
+                "papajak2011a",
+                "dunning1989a",
+                "dunning1989a",
+                "kendall1992a",
+                "papajak2010a"
             ],
             "elementElectronShells": [
                 {
@@ -937,11 +937,11 @@
         },
         "7": {
             "elementReferences": [
-                "papajak:2011a",
-                "dunning:1989a",
-                "dunning:1989a",
-                "kendall:1992a",
-                "papajak:2010a"
+                "papajak2011a",
+                "dunning1989a",
+                "dunning1989a",
+                "kendall1992a",
+                "papajak2010a"
             ],
             "elementElectronShells": [
                 {
@@ -1124,11 +1124,11 @@
         },
         "8": {
             "elementReferences": [
-                "papajak:2011a",
-                "dunning:1989a",
-                "dunning:1989a",
-                "kendall:1992a",
-                "papajak:2010a"
+                "papajak2011a",
+                "dunning1989a",
+                "dunning1989a",
+                "kendall1992a",
+                "papajak2010a"
             ],
             "elementElectronShells": [
                 {
@@ -1311,11 +1311,11 @@
         },
         "9": {
             "elementReferences": [
-                "papajak:2011a",
-                "dunning:1989a",
-                "dunning:1989a",
-                "kendall:1992a",
-                "papajak:2010a"
+                "papajak2011a",
+                "dunning1989a",
+                "dunning1989a",
+                "kendall1992a",
+                "papajak2010a"
             ],
             "elementElectronShells": [
                 {
@@ -1498,10 +1498,10 @@
         },
         "10": {
             "elementReferences": [
-                "papajak:2011a",
-                "dunning:1989a",
-                "dunning:1989a",
-                "papajak:2010a"
+                "papajak2011a",
+                "dunning1989a",
+                "dunning1989a",
+                "papajak2010a"
             ],
             "elementElectronShells": [
                 {
@@ -1684,8 +1684,8 @@
         },
         "11": {
             "elementReferences": [
-                "papajak:2011a",
-                "papajak:2010a"
+                "papajak2011a",
+                "papajak2010a"
             ],
             "elementElectronShells": [
                 {
@@ -1961,8 +1961,8 @@
         },
         "12": {
             "elementReferences": [
-                "papajak:2011a",
-                "papajak:2010a"
+                "papajak2011a",
+                "papajak2010a"
             ],
             "elementElectronShells": [
                 {
@@ -2231,10 +2231,10 @@
         },
         "13": {
             "elementReferences": [
-                "papajak:2011a",
-                "papajak:2010a",
-                "woon:1993a",
-                "dunning:2001a"
+                "papajak2011a",
+                "papajak2010a",
+                "woon1993a",
+                "dunning2001a"
             ],
             "elementElectronShells": [
                 {
@@ -2505,10 +2505,10 @@
         },
         "14": {
             "elementReferences": [
-                "papajak:2011a",
-                "papajak:2010a",
-                "woon:1993a",
-                "dunning:2001a"
+                "papajak2011a",
+                "papajak2010a",
+                "woon1993a",
+                "dunning2001a"
             ],
             "elementElectronShells": [
                 {
@@ -2779,10 +2779,10 @@
         },
         "15": {
             "elementReferences": [
-                "papajak:2011a",
-                "papajak:2010a",
-                "woon:1993a",
-                "dunning:2001a"
+                "papajak2011a",
+                "papajak2010a",
+                "woon1993a",
+                "dunning2001a"
             ],
             "elementElectronShells": [
                 {
@@ -3053,10 +3053,10 @@
         },
         "16": {
             "elementReferences": [
-                "papajak:2011a",
-                "papajak:2010a",
-                "woon:1993a",
-                "dunning:2001a"
+                "papajak2011a",
+                "papajak2010a",
+                "woon1993a",
+                "dunning2001a"
             ],
             "elementElectronShells": [
                 {
@@ -3327,10 +3327,10 @@
         },
         "17": {
             "elementReferences": [
-                "papajak:2011a",
-                "papajak:2010a",
-                "woon:1993a",
-                "dunning:2001a"
+                "papajak2011a",
+                "papajak2010a",
+                "woon1993a",
+                "dunning2001a"
             ],
             "elementElectronShells": [
                 {
@@ -3601,10 +3601,10 @@
         },
         "18": {
             "elementReferences": [
-                "papajak:2011a",
-                "papajak:2010a",
-                "woon:1993a",
-                "dunning:2001a"
+                "papajak2011a",
+                "papajak2010a",
+                "woon1993a",
+                "dunning2001a"
             ],
             "elementElectronShells": [
                 {

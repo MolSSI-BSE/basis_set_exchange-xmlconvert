@@ -5,9 +5,9 @@
     "basisSetElements": {
         "22": {
             "elementReferences": [
-                "bauschlicher:1999a",
-                "bauschlicher:1995a",
-                "ricca:2001a"
+                "bauschlicher1999a",
+                "bauschlicher1995a",
+                "ricca2001a"
             ],
             "elementElectronShells": [
                 {
@@ -505,9 +505,9 @@
         },
         "26": {
             "elementReferences": [
-                "bauschlicher:1999a",
-                "bauschlicher:1995a",
-                "ricca:2001a"
+                "bauschlicher1999a",
+                "bauschlicher1995a",
+                "ricca2001a"
             ],
             "elementElectronShells": [
                 {

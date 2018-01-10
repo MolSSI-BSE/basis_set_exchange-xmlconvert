@@ -5,7 +5,7 @@
     "basisSetElements": {
         "3": {
             "elementReferences": [
-                "hill:2010b"
+                "hill2010b"
             ],
             "elementElectronShells": [
                 {
@@ -302,7 +302,7 @@
         },
         "4": {
             "elementReferences": [
-                "hill:2010b"
+                "hill2010b"
             ],
             "elementElectronShells": [
                 {
@@ -599,7 +599,7 @@
         },
         "5": {
             "elementReferences": [
-                "hill:2010a"
+                "hill2010a"
             ],
             "elementElectronShells": [
                 {
@@ -896,7 +896,7 @@
         },
         "6": {
             "elementReferences": [
-                "hill:2010a"
+                "hill2010a"
             ],
             "elementElectronShells": [
                 {
@@ -1193,7 +1193,7 @@
         },
         "7": {
             "elementReferences": [
-                "hill:2010a"
+                "hill2010a"
             ],
             "elementElectronShells": [
                 {
@@ -1490,7 +1490,7 @@
         },
         "8": {
             "elementReferences": [
-                "hill:2010a"
+                "hill2010a"
             ],
             "elementElectronShells": [
                 {
@@ -1787,7 +1787,7 @@
         },
         "9": {
             "elementReferences": [
-                "hill:2010a"
+                "hill2010a"
             ],
             "elementElectronShells": [
                 {
@@ -2084,7 +2084,7 @@
         },
         "10": {
             "elementReferences": [
-                "hill:2010a"
+                "hill2010a"
             ],
             "elementElectronShells": [
                 {
@@ -2381,7 +2381,7 @@
         },
         "11": {
             "elementReferences": [
-                "hill:2010b"
+                "hill2010b"
             ],
             "elementElectronShells": [
                 {
@@ -2850,7 +2850,7 @@
         },
         "12": {
             "elementReferences": [
-                "hill:2010b"
+                "hill2010b"
             ],
             "elementElectronShells": [
                 {
@@ -3292,7 +3292,7 @@
         },
         "13": {
             "elementReferences": [
-                "hill:2010a"
+                "hill2010a"
             ],
             "elementElectronShells": [
                 {
@@ -3725,7 +3725,7 @@
         },
         "14": {
             "elementReferences": [
-                "hill:2010a"
+                "hill2010a"
             ],
             "elementElectronShells": [
                 {
@@ -4158,7 +4158,7 @@
         },
         "15": {
             "elementReferences": [
-                "hill:2010a"
+                "hill2010a"
             ],
             "elementElectronShells": [
                 {
@@ -4591,7 +4591,7 @@
         },
         "16": {
             "elementReferences": [
-                "hill:2010a"
+                "hill2010a"
             ],
             "elementElectronShells": [
                 {
@@ -5024,7 +5024,7 @@
         },
         "17": {
             "elementReferences": [
-                "hill:2010a"
+                "hill2010a"
             ],
             "elementElectronShells": [
                 {
@@ -5457,7 +5457,7 @@
         },
         "18": {
             "elementReferences": [
-                "hill:2010a"
+                "hill2010a"
             ],
             "elementElectronShells": [
                 {

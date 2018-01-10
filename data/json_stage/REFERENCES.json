@@ -1,5 +1,5 @@
 {
-    "almlof:1987a": {
+    "almlof1987a": {
         "doi": "10.1063/1.451917",
         "authors": [
             "Jan Alml\u00f6f",
@@ -12,7 +12,7 @@
         "year": "1987",
         "type": "article"
     },
-    "amin:2008a": {
+    "amin2008a": {
         "authors": [
             "Elizabeth A. Amin",
             "Donald G. Truhlar"
@@ -25,7 +25,7 @@
         "doi": "10.1021/ct700205n",
         "type": "article"
     },
-    "andrae:1990a": {
+    "andrae1990a": {
         "doi": "10.1007/bf01114537",
         "authors": [
             "D. Andrae",
@@ -41,7 +41,7 @@
         "year": "1990",
         "type": "article"
     },
-    "aravena:2016a": {
+    "aravena2016a": {
         "doi": "10.1021/acs.jctc.5b01048",
         "authors": [
             "Daniel Aravena",
@@ -55,7 +55,7 @@
         "year": "2016",
         "type": "article"
     },
-    "balabanov:2005a": {
+    "balabanov2005a": {
         "doi": "10.1063/1.1998907",
         "authors": [
             "Nikolai B. Balabanov",
@@ -68,7 +68,7 @@
         "year": "2005",
         "type": "article"
     },
-    "balabanov:2006a": {
+    "balabanov2006a": {
         "doi": "10.1063/1.2335444",
         "authors": [
             "Nikolai B. Balabanov",
@@ -81,7 +81,7 @@
         "year": "2006",
         "type": "article"
     },
-    "barbieri:2006a": {
+    "barbieri2006a": {
         "doi": "10.1080/00268970600899018",
         "authors": [
             "P. L. Barbieri",
@@ -95,7 +95,7 @@
         "year": "2006",
         "type": "article"
     },
-    "barone:2003a": {
+    "barone2003a": {
         "doi": "10.1021/jp0300851",
         "authors": [
             "Ver\u00f3nica Barone",
@@ -112,7 +112,7 @@
         "year": "2003",
         "type": "article"
     },
-    "barros:2010a": {
+    "barros2010a": {
         "doi": "10.1080/00268976.2010.499377",
         "authors": [
             "C.L. Barros",
@@ -128,7 +128,7 @@
         "year": "2010",
         "type": "article"
     },
-    "bauschlicher:1989a": {
+    "bauschlicher1989a": {
         "doi": "10.1063/1.456998",
         "authors": [
             "Charles W. Bauschlicher",
@@ -143,7 +143,7 @@
         "year": "1989",
         "type": "article"
     },
-    "bauschlicher:1990a": {
+    "bauschlicher1990a": {
         "doi": "10.1007/bf01116550",
         "authors": [
             "Charles W. Bauschlicher",
@@ -157,7 +157,7 @@
         "year": "1990",
         "type": "article"
     },
-    "bauschlicher:1994a": {
+    "bauschlicher1994a": {
         "doi": "10.1063/1.466315",
         "authors": [
             "Charles W. Bauschlicher",
@@ -170,7 +170,7 @@
         "year": "1994",
         "type": "article"
     },
-    "bauschlicher:1995a": {
+    "bauschlicher1995a": {
         "doi": "10.1007/s002140050120",
         "authors": [
             "Charles W. Bauschlicher"
@@ -182,7 +182,7 @@
         "year": "1995",
         "type": "article"
     },
-    "bauschlicher:1999a": {
+    "bauschlicher1999a": {
         "authors": [
             "Charles W. Bauschlicher Jr"
         ],
@@ -194,7 +194,7 @@
         "doi": "10.1007/s002140050524",
         "type": "article"
     },
-    "benedikt:2008a": {
+    "benedikt2008a": {
         "doi": "10.1063/1.2962973",
         "authors": [
             "Udo Benedikt",
@@ -208,7 +208,7 @@
         "year": "2008",
         "type": "article"
     },
-    "bergner:1993a": {
+    "bergner1993a": {
         "doi": "10.1080/00268979300103121",
         "authors": [
             "Andreas Bergner",
@@ -224,7 +224,7 @@
         "year": "1993",
         "type": "article"
     },
-    "bernholdt:1998a": {
+    "bernholdt1998a": {
         "doi": "10.1063/1.476732",
         "authors": [
             "David E. Bernholdt",
@@ -237,7 +237,7 @@
         "year": "1998",
         "type": "article"
     },
-    "berreado:2010a": {
+    "berreado2010a": {
         "doi": "10.1016/j.theochem.2010.09.007",
         "authors": [
             "R.C. de Berr\u00eado",
@@ -250,7 +250,7 @@
         "year": "2010",
         "type": "article"
     },
-    "berreado:2011a": {
+    "berreado2011a": {
         "doi": "10.1016/j.comptc.2011.02.007",
         "authors": [
             "R.C. de Berr\u00eado",
@@ -265,7 +265,7 @@
         "year": "2011",
         "type": "article"
     },
-    "binkley:1980a": {
+    "binkley1980a": {
         "doi": "10.1021/ja00523a008",
         "authors": [
             "J. Stephen Binkley",
@@ -279,7 +279,7 @@
         "year": "1980",
         "type": "article"
     },
-    "binning:1990a": {
+    "binning1990a": {
         "doi": "10.1002/jcc.540111013",
         "authors": [
             "R. C. Binning",
@@ -292,7 +292,7 @@
         "year": "1990",
         "type": "article"
     },
-    "blaudeau:1997a": {
+    "blaudeau1997a": {
         "doi": "10.1063/1.474865",
         "authors": [
             "Jean-Philippe Blaudeau",
@@ -307,7 +307,7 @@
         "year": "1997",
         "type": "article"
     },
-    "bross:2013a": {
+    "bross2013a": {
         "doi": "10.1063/1.4818725",
         "authors": [
             "David H. Bross",
@@ -322,7 +322,7 @@
         "year": "2013",
         "type": "article"
     },
-    "camiletti:2008a": {
+    "camiletti2008a": {
         "doi": "10.1002/jcc.20996",
         "authors": [
             "G. G. Camiletti",
@@ -336,7 +336,7 @@
         "year": "2008",
         "type": "article"
     },
-    "camiletti:2009a": {
+    "camiletti2009a": {
         "doi": "10.1016/j.theochem.2009.06.024",
         "authors": [
             "G.G. Camiletti",
@@ -351,7 +351,7 @@
         "year": "2009",
         "type": "article"
     },
-    "campos:2011a": {
+    "campos2011a": {
         "doi": "10.1016/j.cplett.2011.09.073",
         "authors": [
             "C.T. Campos",
@@ -367,7 +367,7 @@
         "year": "2011",
         "type": "article"
     },
-    "campos:2013a": {
+    "campos2013a": {
         "doi": "10.1080/00268976.2012.709282",
         "authors": [
             "C.T. Campos",
@@ -380,7 +380,7 @@
         "year": "2013",
         "type": "article"
     },
-    "casida:1998a": {
+    "casida1998a": {
         "doi": "10.1063/1.475855",
         "authors": [
             "Mark E. Casida",
@@ -395,7 +395,7 @@
         "year": "1998",
         "type": "article"
     },
-    "castro:1998a": {
+    "castro1998a": {
         "doi": "10.1063/1.475959",
         "authors": [
             "E. V. R. de Castro",
@@ -408,7 +408,7 @@
         "year": "1998",
         "type": "article"
     },
-    "ceolin:2013a": {
+    "ceolin2013a": {
         "authors": [
             "G. A. Ceolin",
             "R. C. de Berr\u00eado",
@@ -422,7 +422,7 @@
         "doi": "10.1007/s00214-013-1339-7",
         "type": "article"
     },
-    "check:2001a": {
+    "check2001a": {
         "doi": "10.1021/jp011945l",
         "authors": [
             "Catherine E. Check",
@@ -439,7 +439,7 @@
         "year": "2001",
         "type": "article"
     },
-    "clark:1983a": {
+    "clark1983a": {
         "doi": "10.1002/jcc.540040303",
         "authors": [
             "Timothy Clark",
@@ -454,7 +454,7 @@
         "year": "1983",
         "type": "article"
     },
-    "collins:1976a": {
+    "collins1976a": {
         "doi": "10.1063/1.432189",
         "authors": [
             "John B. Collins",
@@ -469,7 +469,7 @@
         "year": "1976",
         "type": "article"
     },
-    "couty:1996a": {
+    "couty1996a": {
         "doi": "10.1002/(sici)1096-987x(199608)17:11<1359::aid-jcc9>3.3.co;2-z",
         "authors": [
             "Marc Couty",
@@ -482,7 +482,7 @@
         "year": "1996",
         "type": "article"
     },
-    "cundari:1993a": {
+    "cundari1993a": {
         "doi": "10.1063/1.464902",
         "authors": [
             "Thomas R. Cundari",
@@ -495,7 +495,7 @@
         "year": "1993",
         "type": "article"
     },
-    "curtiss:1995a": {
+    "curtiss1995a": {
         "doi": "10.1063/1.470438",
         "authors": [
             "Larry A. Curtiss",
@@ -512,7 +512,7 @@
         "year": "1995",
         "type": "article"
     },
-    "curtiss:1998a": {
+    "curtiss1998a": {
         "doi": "10.1063/1.477422",
         "authors": [
             "Larry A. Curtiss",
@@ -528,7 +528,7 @@
         "year": "1998",
         "type": "article"
     },
-    "curtiss:1999a": {
+    "curtiss1999a": {
         "doi": "10.1063/1.478385",
         "authors": [
             "Larry A. Curtiss",
@@ -544,7 +544,7 @@
         "year": "1999",
         "type": "article"
     },
-    "curtiss:2007a": {
+    "curtiss2007a": {
         "doi": "10.1063/1.2436888",
         "authors": [
             "Larry A. Curtiss",
@@ -558,7 +558,7 @@
         "year": "2007",
         "type": "article"
     },
-    "curtiss:2007b": {
+    "curtiss2007b": {
         "doi": "10.1063/1.2770701",
         "authors": [
             "Larry A. Curtiss",
@@ -572,7 +572,7 @@
         "year": "2007",
         "type": "article"
     },
-    "dill:1975a": {
+    "dill1975a": {
         "doi": "10.1063/1.430801",
         "authors": [
             "James D. Dill",
@@ -585,7 +585,7 @@
         "year": "1975",
         "type": "article"
     },
-    "ditchfield:1971a": {
+    "ditchfield1971a": {
         "doi": "10.1063/1.1674902",
         "authors": [
             "R. Ditchfield",
@@ -599,7 +599,7 @@
         "year": "1971",
         "type": "article"
     },
-    "dobbs:1986a": {
+    "dobbs1986a": {
         "doi": "10.1002/jcc.540070313",
         "authors": [
             "K. D. Dobbs",
@@ -612,7 +612,7 @@
         "year": "1986",
         "type": "article"
     },
-    "dobbs:1987a": {
+    "dobbs1987a": {
         "doi": "10.1002/jcc.540080614",
         "authors": [
             "K. D. Dobbs",
@@ -625,7 +625,7 @@
         "year": "1987",
         "type": "article"
     },
-    "dobbs:1987b": {
+    "dobbs1987b": {
         "doi": "10.1002/jcc.540080615",
         "authors": [
             "K. D. Dobbs",
@@ -638,7 +638,7 @@
         "year": "1987",
         "type": "article"
     },
-    "dolg:1993a": {
+    "dolg1993a": {
         "doi": "10.1021/j100124a012",
         "authors": [
             "Michael Dolg",
@@ -653,7 +653,7 @@
         "year": "1993",
         "type": "article"
     },
-    "dolg:2011a": {
+    "dolg2011a": {
         "doi": "10.1021/ct200504u",
         "authors": [
             "Michael Dolg"
@@ -665,7 +665,7 @@
         "year": "2011",
         "type": "article"
     },
-    "dunning:1970a": {
+    "dunning1970a": {
         "authors": [
             "Thom H. Dunning"
         ],
@@ -677,7 +677,7 @@
         "doi": "10.1063/1.1674408",
         "type": "article"
     },
-    "dunning:1971a": {
+    "dunning1971a": {
         "authors": [
             "Thom. H. Dunning"
         ],
@@ -689,7 +689,7 @@
         "doi": "10.1063/1.1676139",
         "type": "article"
     },
-    "dunning:1977a": {
+    "dunning1977a": {
         "doi": "10.1063/1.434039",
         "authors": [
             "Thom H. Dunning"
@@ -701,7 +701,7 @@
         "year": "1977",
         "type": "article"
     },
-    "dunning:1977b": {
+    "dunning1977b": {
         "isbn": "9781475708875",
         "doi": "10.1007/978-1-4757-0887-5",
         "authors": [
@@ -718,7 +718,7 @@
         "title": "Gaussian basis sets for molecular calculations",
         "type": "incollection"
     },
-    "dunning:1989a": {
+    "dunning1989a": {
         "authors": [
             "Thom H. Dunning"
         ],
@@ -730,7 +730,7 @@
         "doi": "10.1063/1.456153",
         "type": "article"
     },
-    "dunning:2001a": {
+    "dunning2001a": {
         "doi": "10.1063/1.1367373",
         "authors": [
             "Thom H. Dunning",
@@ -744,7 +744,7 @@
         "year": "2001",
         "type": "article"
     },
-    "easton:1996a": {
+    "easton1996a": {
         "doi": "10.1007/s002140050153",
         "authors": [
             "R. Evan Easton",
@@ -760,7 +760,7 @@
         "year": "1996",
         "type": "article"
     },
-    "ehlers:1993a": {
+    "ehlers1993a": {
         "doi": "10.1016/0009-2614(93)80086-5",
         "authors": [
             "A.W. Ehlers",
@@ -781,7 +781,7 @@
         "year": "1993",
         "type": "article"
     },
-    "eichkorn:1995a": {
+    "eichkorn1995a": {
         "authors": [
             "Karin Eichkorn",
             "Oliver Treutler",
@@ -797,7 +797,7 @@
         "doi": "10.1016/0009-2614(95)00621-a",
         "type": "article"
     },
-    "eichkorn:1997a": {
+    "eichkorn1997a": {
         "doi": "10.1007/s002140050244",
         "authors": [
             "Karin Eichkorn",
@@ -812,7 +812,7 @@
         "year": "1997",
         "type": "article"
     },
-    "enevoldsen:1998a": {
+    "enevoldsen1998a": {
         "doi": "10.1007/s002140050388",
         "authors": [
             "Thomas Enevoldsen",
@@ -826,7 +826,7 @@
         "year": "1998",
         "type": "article"
     },
-    "ermler:1991a": {
+    "ermler1991a": {
         "doi": "10.1002/qua.560400611",
         "authors": [
             "W. C. Ermler",
@@ -840,7 +840,7 @@
         "year": "1991",
         "type": "article"
     },
-    "fantin:2007a": {
+    "fantin2007a": {
         "doi": "10.1016/j.theochem.2007.02.003",
         "authors": [
             "P.A. Fantin",
@@ -855,7 +855,7 @@
         "year": "2007",
         "type": "article"
     },
-    "feller:1995a": {
+    "feller1995a": {
         "doi": "10.1063/1.470237",
         "authors": [
             "David Feller",
@@ -870,7 +870,7 @@
         "year": "1995",
         "type": "article"
     },
-    "feller:1999a": {
+    "feller1999a": {
         "doi": "10.1063/1.478747",
         "authors": [
             "David Feller",
@@ -883,7 +883,7 @@
         "year": "1999",
         "type": "article"
     },
-    "feller:2000a": {
+    "feller2000a": {
         "doi": "10.1063/1.481827",
         "authors": [
             "David Feller",
@@ -896,7 +896,7 @@
         "year": "2000",
         "type": "article"
     },
-    "feller:2003a": {
+    "feller2003a": {
         "doi": "10.1063/1.1532314",
         "authors": [
             "David Feller",
@@ -911,7 +911,7 @@
         "year": "2003",
         "type": "article"
     },
-    "feller:2011a": {
+    "feller2011a": {
         "doi": "10.1063/1.3613639",
         "authors": [
             "David Feller",
@@ -925,7 +925,7 @@
         "year": "2011",
         "type": "article"
     },
-    "feller:2013a": {
+    "feller2013a": {
         "doi": "10.1063/1.4791560",
         "authors": [
             "David Feller"
@@ -937,7 +937,7 @@
         "year": "2013",
         "type": "article"
     },
-    "figgen:2005a": {
+    "figgen2005a": {
         "doi": "10.1016/j.chemphys.2004.10.005",
         "authors": [
             "Detlev Figgen",
@@ -952,7 +952,7 @@
         "year": "2005",
         "type": "article"
     },
-    "figgen:2009a": {
+    "figgen2009a": {
         "doi": "10.1063/1.3119665",
         "authors": [
             "Detlev Figgen",
@@ -967,7 +967,7 @@
         "year": "2009",
         "type": "article"
     },
-    "francl:1982a": {
+    "francl1982a": {
         "doi": "10.1063/1.444267",
         "authors": [
             "Michelle M. Francl",
@@ -985,7 +985,7 @@
         "year": "1982",
         "type": "article"
     },
-    "frisch:1984a": {
+    "frisch1984a": {
         "doi": "10.1063/1.447079",
         "authors": [
             "Michael J. Frisch",
@@ -999,7 +999,7 @@
         "year": "1984",
         "type": "article"
     },
-    "fuentealba:1982a": {
+    "fuentealba1982a": {
         "doi": "10.1016/0009-2614(82)80012-2",
         "authors": [
             "Patricio Fuentealba",
@@ -1014,7 +1014,7 @@
         "year": "1982",
         "type": "article"
     },
-    "fuentealba:1985a": {
+    "fuentealba1985a": {
         "doi": "10.1088/0022-3700/18/7/010",
         "authors": [
             "P Fuentealba",
@@ -1029,7 +1029,7 @@
         "year": "1985",
         "type": "article"
     },
-    "gill:1992a": {
+    "gill1992a": {
         "doi": "10.1016/0009-2614(92)85807-m",
         "authors": [
             "Peter M.W. Gill",
@@ -1044,7 +1044,7 @@
         "year": "1992",
         "type": "article"
     },
-    "glendening:1995a": {
+    "glendening1995a": {
         "doi": "10.1021/j100010a015",
         "authors": [
             "Eric D. Glendening",
@@ -1057,7 +1057,7 @@
         "year": "1995",
         "type": "article"
     },
-    "glukhovstev:1995a": {
+    "glukhovstev1995a": {
         "authors": [
             "Mikhail N. Glukhovtsev",
             "Addy Pross",
@@ -1072,7 +1072,7 @@
         "doi": "10.1063/1.469712",
         "type": "article"
     },
-    "godbout:1992a": {
+    "godbout1992a": {
         "doi": "10.1139/v92-079",
         "authors": [
             "Nathalie Godbout",
@@ -1087,7 +1087,7 @@
         "year": "1992",
         "type": "article"
     },
-    "gordon:1982a": {
+    "gordon1982a": {
         "authors": [
             "Mark S. Gordon",
             "J. Stephen Binkley",
@@ -1103,7 +1103,7 @@
         "doi": "10.1021/ja00374a017",
         "type": "article"
     },
-    "hariharan:1973a": {
+    "hariharan1973a": {
         "doi": "10.1007/bf00533485",
         "authors": [
             "P. C. Hariharan",
@@ -1116,7 +1116,7 @@
         "year": "1973",
         "type": "article"
     },
-    "hattig:2005a": {
+    "hattig2005a": {
         "authors": [
             "Christof H\u00e4ttig"
         ],
@@ -1128,7 +1128,7 @@
         "doi": "10.1039/b415208e",
         "type": "article"
     },
-    "hay:1985a": {
+    "hay1985a": {
         "doi": "10.1063/1.448975",
         "authors": [
             "P. Jeffrey Hay",
@@ -1141,7 +1141,7 @@
         "year": "1985",
         "type": "article"
     },
-    "hay:1985b": {
+    "hay1985b": {
         "doi": "10.1063/1.448799",
         "authors": [
             "P. Jeffrey Hay",
@@ -1154,7 +1154,7 @@
         "year": "1985",
         "type": "article"
     },
-    "hedegard:2011a": {
+    "hedegard2011a": {
         "doi": "10.1021/ct200587k",
         "authors": [
             "Erik Donovan Hedeg\u00e5rd",
@@ -1168,7 +1168,7 @@
         "year": "2011",
         "type": "article"
     },
-    "hehre:1969a": {
+    "hehre1969a": {
         "doi": "10.1063/1.1672392",
         "authors": [
             "W. J. Hehre",
@@ -1182,7 +1182,7 @@
         "year": "1969",
         "type": "article"
     },
-    "hehre:1970a": {
+    "hehre1970a": {
         "authors": [
             "W. J. Hehre",
             "R. Ditchfield",
@@ -1197,7 +1197,7 @@
         "doi": "10.1063/1.1673374",
         "type": "article"
     },
-    "hehre:1972a": {
+    "hehre1972a": {
         "doi": "10.1063/1.1677527",
         "authors": [
             "W. J. Hehre",
@@ -1211,7 +1211,7 @@
         "year": "1972",
         "type": "article"
     },
-    "hill:2008a": {
+    "hill2008a": {
         "doi": "10.1063/1.2982790",
         "authors": [
             "J. Grant Hill",
@@ -1224,7 +1224,7 @@
         "year": "2008",
         "type": "article"
     },
-    "hill:2008b": {
+    "hill2008b": {
         "doi": "10.1063/1.2826348",
         "authors": [
             "J. Grant Hill",
@@ -1237,7 +1237,7 @@
         "year": "2008",
         "type": "article"
     },
-    "hill:2009a": {
+    "hill2009a": {
         "doi": "10.1021/ct8005584",
         "authors": [
             "J. Grant Hill",
@@ -1250,7 +1250,7 @@
         "year": "2009",
         "type": "article"
     },
-    "hill:2010a": {
+    "hill2010a": {
         "doi": "10.1063/1.3308483",
         "authors": [
             "J. Grant Hill",
@@ -1264,7 +1264,7 @@
         "year": "2010",
         "type": "article"
     },
-    "hill:2010b": {
+    "hill2010b": {
         "doi": "10.1039/c0cp00020e",
         "authors": [
             "J. Grant Hill",
@@ -1277,7 +1277,7 @@
         "year": "2010",
         "type": "article"
     },
-    "hill:2011a": {
+    "hill2011a": {
         "doi": "10.1063/1.3615062",
         "authors": [
             "J. Grant Hill"
@@ -1289,7 +1289,7 @@
         "year": "2011",
         "type": "article"
     },
-    "hill:2012a": {
+    "hill2012a": {
         "doi": "10.1021/ct200856f",
         "authors": [
             "J. Grant Hill",
@@ -1302,7 +1302,7 @@
         "year": "2012",
         "type": "article"
     },
-    "hill:2013a": {
+    "hill2013a": {
         "doi": "10.1002/jcc.23372",
         "authors": [
             "J. Grant Hill"
@@ -1314,7 +1314,7 @@
         "year": "2013",
         "type": "article"
     },
-    "hurley:1986a": {
+    "hurley1986a": {
         "doi": "10.1063/1.450689",
         "authors": [
             "M. M. Hurley",
@@ -1330,7 +1330,7 @@
         "year": "1986",
         "type": "article"
     },
-    "huzinaga:1990a": {
+    "huzinaga1990a": {
         "doi": "10.1016/0009-2614(90)80112-q",
         "authors": [
             "S. Huzinaga",
@@ -1343,7 +1343,7 @@
         "year": "1990",
         "type": "article"
     },
-    "huzinaga:1993a": {
+    "huzinaga1993a": {
         "doi": "10.1016/0009-2614(93)89323-a",
         "authors": [
             "Sigeru Huzinaga",
@@ -1356,7 +1356,7 @@
         "year": "1993",
         "type": "article"
     },
-    "igel-mann:1988a": {
+    "igel-mann1988a": {
         "doi": "10.1080/00268978800101811",
         "authors": [
             "G. Igel-Mann",
@@ -1370,7 +1370,7 @@
         "year": "1988",
         "type": "article"
     },
-    "iron:2003a": {
+    "iron2003a": {
         "doi": "10.1080/0026897031000094498",
         "authors": [
             "MARK A. IRON",
@@ -1384,7 +1384,7 @@
         "year": "2003",
         "type": "article"
     },
-    "jensen:2001a": {
+    "jensen2001a": {
         "authors": [
             "Frank Jensen"
         ],
@@ -1396,7 +1396,7 @@
         "doi": "10.1063/1.1413524",
         "type": "article"
     },
-    "jensen:2002a": {
+    "jensen2002a": {
         "doi": "10.1063/1.1465405",
         "authors": [
             "Frank Jensen"
@@ -1408,7 +1408,7 @@
         "year": "2002",
         "type": "article"
     },
-    "jensen:2002b": {
+    "jensen2002b": {
         "doi": "10.1063/1.1515484",
         "authors": [
             "Frank Jensen"
@@ -1420,7 +1420,7 @@
         "year": "2002",
         "type": "article"
     },
-    "jensen:2004a": {
+    "jensen2004a": {
         "doi": "10.1063/1.1756866",
         "authors": [
             "Frank Jensen",
@@ -1433,7 +1433,7 @@
         "year": "2004",
         "type": "article"
     },
-    "jensen:2006a": {
+    "jensen2006a": {
         "doi": "10.1021/ct600166u",
         "authors": [
             "Frank Jensen"
@@ -1445,7 +1445,7 @@
         "year": "2006",
         "type": "article"
     },
-    "jensen:2007a": {
+    "jensen2007a": {
         "doi": "10.1021/jp068677h",
         "authors": [
             "Frank Jensen"
@@ -1457,7 +1457,7 @@
         "year": "2007",
         "type": "article"
     },
-    "jensen:2008a": {
+    "jensen2008a": {
         "doi": "10.1021/ct800013z",
         "authors": [
             "Frank Jensen"
@@ -1469,7 +1469,7 @@
         "year": "2008",
         "type": "article"
     },
-    "jensen:2010a": {
+    "jensen2010a": {
         "doi": "10.1007/s00214-009-0699-5",
         "authors": [
             "Frank Jensen"
@@ -1481,7 +1481,7 @@
         "year": "2010",
         "type": "article"
     },
-    "jensen:2012a": {
+    "jensen2012a": {
         "authors": [
             "Frank Jensen"
         ],
@@ -1493,7 +1493,7 @@
         "doi": "10.1063/1.3690460",
         "type": "article"
     },
-    "jensen:2013a": {
+    "jensen2013a": {
         "doi": "10.1063/1.4773017",
         "authors": [
             "Frank Jensen"
@@ -1505,7 +1505,7 @@
         "year": "2013",
         "type": "article"
     },
-    "jensen:2014a": {
+    "jensen2014a": {
         "doi": "10.1021/ct401026a",
         "authors": [
             "Frank Jensen"
@@ -1517,7 +1517,7 @@
         "year": "2014",
         "type": "article"
     },
-    "jensen:2015a": {
+    "jensen2015a": {
         "doi": "10.1021/ct5009526",
         "authors": [
             "Frank Jensen"
@@ -1529,7 +1529,7 @@
         "year": "2015",
         "type": "article"
     },
-    "jong:2001a": {
+    "jong2001a": {
         "doi": "10.1063/1.1329891",
         "authors": [
             "W. A de Jong",
@@ -1543,7 +1543,7 @@
         "year": "2001",
         "type": "article"
     },
-    "jorge:2006a": {
+    "jorge2006a": {
         "doi": "10.1016/j.cplett.2006.10.026",
         "authors": [
             "F.E. Jorge",
@@ -1557,7 +1557,7 @@
         "year": "2006",
         "type": "article"
     },
-    "jorge:2009a": {
+    "jorge2009a": {
         "doi": "10.1063/1.3072360",
         "authors": [
             "F. E. Jorge",
@@ -1572,7 +1572,7 @@
         "year": "2009",
         "type": "article"
     },
-    "kaupp:1991a": {
+    "kaupp1991a": {
         "doi": "10.1063/1.459993",
         "authors": [
             "M. Kaupp",
@@ -1587,7 +1587,7 @@
         "year": "1991",
         "type": "article"
     },
-    "kendall:1992a": {
+    "kendall1992a": {
         "doi": "10.1063/1.462569",
         "authors": [
             "Rick A. Kendall",
@@ -1601,7 +1601,7 @@
         "year": "1992",
         "type": "article"
     },
-    "kjaer:2011a": {
+    "kjaer2011a": {
         "doi": "10.1021/ct200546q",
         "authors": [
             "Hanna Kj\u00e6r",
@@ -1614,7 +1614,7 @@
         "year": "2011",
         "type": "article"
     },
-    "koput:2002a": {
+    "koput2002a": {
         "doi": "10.1021/jp026283u",
         "authors": [
             "Jacek Koput",
@@ -1627,7 +1627,7 @@
         "year": "2002",
         "type": "article"
     },
-    "krishnan:1980a": {
+    "krishnan1980a": {
         "doi": "10.1063/1.438955",
         "authors": [
             "R. Krishnan",
@@ -1642,7 +1642,7 @@
         "year": "1980",
         "type": "article"
     },
-    "kritikou:2015a": {
+    "kritikou2015a": {
         "doi": "10.1021/acs.jctc.5b00816",
         "authors": [
             "Stella Kritikou",
@@ -1655,7 +1655,7 @@
         "year": "2015",
         "type": "article"
     },
-    "kuchle:1991a": {
+    "kuchle1991a": {
         "doi": "10.1080/00268979100102941",
         "authors": [
             "W. K\u00fcchle",
@@ -1670,7 +1670,7 @@
         "year": "1991",
         "type": "article"
     },
-    "labello:2006a": {
+    "labello2006a": {
         "doi": "10.1002/qua.21129",
         "authors": [
             "Nicholas P. Labello",
@@ -1684,7 +1684,7 @@
         "year": "2006",
         "type": "article"
     },
-    "lajohn:1987a": {
+    "lajohn1987a": {
         "doi": "10.1063/1.453069",
         "authors": [
             "L. A. LaJohn",
@@ -1700,7 +1700,7 @@
         "year": "1987",
         "type": "article"
     },
-    "lehtola:2012a": {
+    "lehtola2012a": {
         "doi": "10.1063/1.4749272",
         "authors": [
             "Jussi Lehtola",
@@ -1715,7 +1715,7 @@
         "year": "2012",
         "type": "article"
     },
-    "lehtola:2013a": {
+    "lehtola2013a": {
         "doi": "10.1063/1.4788635",
         "authors": [
             "Susi Lehtola",
@@ -1730,7 +1730,7 @@
         "year": "2013",
         "type": "article"
     },
-    "leininger:1996a": {
+    "leininger1996a": {
         "doi": "10.1016/0009-2614(96)00382-x",
         "authors": [
             "Thierry Leininger",
@@ -1747,7 +1747,7 @@
         "year": "1996",
         "type": "article"
     },
-    "lim:2005a": {
+    "lim2005a": {
         "doi": "10.1063/1.1856451",
         "authors": [
             "Ivan S. Lim",
@@ -1762,7 +1762,7 @@
         "year": "2005",
         "type": "article"
     },
-    "lim:2006a": {
+    "lim2006a": {
         "doi": "10.1063/1.2148945",
         "authors": [
             "Ivan S. Lim",
@@ -1776,7 +1776,7 @@
         "year": "2006",
         "type": "article"
     },
-    "lu:2016a": {
+    "lu2016a": {
         "doi": "10.1063/1.4959280",
         "authors": [
             "Qing Lu",
@@ -1789,7 +1789,7 @@
         "year": "2016",
         "type": "article"
     },
-    "lynch:2003a": {
+    "lynch2003a": {
         "doi": "10.1021/jp021590l",
         "authors": [
             "Benjamin J. Lynch",
@@ -1803,7 +1803,7 @@
         "year": "2003",
         "type": "article"
     },
-    "machado:2009a": {
+    "machado2009a": {
         "doi": "10.1080/00268970903042258",
         "authors": [
             "S.F. Machado",
@@ -1819,7 +1819,7 @@
         "year": "2009",
         "type": "article"
     },
-    "magnusson:1985a": {
+    "magnusson1985a": {
         "doi": "10.1063/1.449647",
         "authors": [
             "Eric Magnusson",
@@ -1832,7 +1832,7 @@
         "year": "1985",
         "type": "article"
     },
-    "martin:2001a": {
+    "martin2001a": {
         "doi": "10.1063/1.1337864",
         "authors": [
             "Jan M. L. Martin",
@@ -1845,7 +1845,7 @@
         "year": "2001",
         "type": "article"
     },
-    "martins:2013a": {
+    "martins2013a": {
         "doi": "10.1016/j.comptc.2013.03.004",
         "authors": [
             "L.S.C. Martins",
@@ -1862,7 +1862,7 @@
         "year": "2013",
         "type": "article"
     },
-    "mclean:1980a": {
+    "mclean1980a": {
         "doi": "10.1063/1.438980",
         "authors": [
             "A. D. McLean",
@@ -1875,7 +1875,7 @@
         "year": "1980",
         "type": "article"
     },
-    "metz:2000a": {
+    "metz2000a": {
         "doi": "10.1063/1.1305880",
         "authors": [
             "Bernhard Metz",
@@ -1889,7 +1889,7 @@
         "year": "2000",
         "type": "article"
     },
-    "metz:2000b": {
+    "metz2000b": {
         "doi": "10.1007/s002149900101",
         "authors": [
             "Bernhard Metz",
@@ -1905,7 +1905,7 @@
         "year": "2000",
         "type": "article"
     },
-    "mielke:1999a": {
+    "mielke1999a": {
         "doi": "10.1063/1.479683",
         "authors": [
             "Steven L. Mielke",
@@ -1919,7 +1919,7 @@
         "year": "1999",
         "type": "article"
     },
-    "mielke:2002a": {
+    "mielke2002a": {
         "doi": "10.1063/1.1432319",
         "authors": [
             "Steven L. Mielke",
@@ -1933,7 +1933,7 @@
         "year": "2002",
         "type": "article"
     },
-    "mielke:2005a": {
+    "mielke2005a": {
         "doi": "10.1063/1.1917838",
         "authors": [
             "Steven L. Mielke",
@@ -1947,7 +1947,7 @@
         "year": "2005",
         "type": "article"
     },
-    "mitin:1996a": {
+    "mitin1996a": {
         "doi": "10.1016/0009-2614(96)00713-0",
         "authors": [
             "Alexander V. Mitin",
@@ -1961,7 +1961,7 @@
         "year": "1996",
         "type": "article"
     },
-    "mitin:1997a": {
+    "mitin1997a": {
         "doi": "10.1002/(sici)1096-987x(19970715)18:9<1200::aid-jcc8>3.0.co;2-v",
         "authors": [
             "Alexander V. Mitin",
@@ -1975,7 +1975,7 @@
         "year": "1997",
         "type": "article"
     },
-    "mitin:2003a": {
+    "mitin2003a": {
         "doi": "10.1063/1.1563619",
         "authors": [
             "Alexander V. Mitin",
@@ -1989,7 +1989,7 @@
         "year": "2003",
         "type": "article"
     },
-    "nash:1997a": {
+    "nash1997a": {
         "authors": [
             "Clinton S. Nash",
             "Bruce E. Bursten",
@@ -2003,7 +2003,7 @@
         "doi": "10.1063/1.473992",
         "type": "article"
     },
-    "nash:1999a": {
+    "nash1999a": {
         "doi": "10.1063/1.479506",
         "authors": [
             "Clinton S. Nash",
@@ -2017,7 +2017,7 @@
         "year": "1999",
         "type": "article"
     },
-    "neto:2005a": {
+    "neto2005a": {
         "doi": "10.1016/j.theochem.2004.11.037",
         "authors": [
             "A. Canal Neto",
@@ -2032,7 +2032,7 @@
         "year": "2005",
         "type": "article"
     },
-    "neto:2013a": {
+    "neto2013a": {
         "doi": "10.1016/j.cplett.2013.07.045",
         "authors": [
             "A. Canal Neto",
@@ -2045,7 +2045,7 @@
         "year": "2013",
         "type": "article"
     },
-    "oliveira:2008a": {
+    "oliveira2008a": {
         "doi": "10.1016/j.cplett.2008.08.004",
         "authors": [
             "P.J.P. de Oliveira",
@@ -2058,7 +2058,7 @@
         "year": "2008",
         "type": "article"
     },
-    "oliveira:2010a": {
+    "oliveira2010a": {
         "doi": "10.1016/j.theochem.2010.02.017",
         "authors": [
             "P.J.P. de Oliveira",
@@ -2074,7 +2074,7 @@
         "year": "2010",
         "type": "article"
     },
-    "otero-de-la-roza:2017a": {
+    "otero-de-la-roza2017a": {
         "doi": "10.1021/acs.jctc.7b00300",
         "authors": [
             "A. Otero-de-la-Roza",
@@ -2087,7 +2087,7 @@
         "year": "2017",
         "type": "article"
     },
-    "pacios:1985a": {
+    "pacios1985a": {
         "doi": "10.1063/1.448263",
         "authors": [
             "Luis Fernandez Pacios",
@@ -2100,7 +2100,7 @@
         "year": "1985",
         "type": "article"
     },
-    "pantazis:2008a": {
+    "pantazis2008a": {
         "doi": "10.1021/ct800047t",
         "authors": [
             "Dimitrios A. Pantazis",
@@ -2115,7 +2115,7 @@
         "year": "2008",
         "type": "article"
     },
-    "pantazis:2009a": {
+    "pantazis2009a": {
         "doi": "10.1021/ct900090f",
         "authors": [
             "Dimitrios A. Pantazis",
@@ -2128,7 +2128,7 @@
         "year": "2009",
         "type": "article"
     },
-    "pantazis:2011a": {
+    "pantazis2011a": {
         "doi": "10.1021/ct100736b",
         "authors": [
             "Dimitrios A. Pantazis",
@@ -2141,7 +2141,7 @@
         "year": "2011",
         "type": "article"
     },
-    "pantazis:2012a": {
+    "pantazis2012a": {
         "authors": [
             "Dimitrios A. Pantazis",
             "Frank Neese"
@@ -2154,7 +2154,7 @@
         "doi": "10.1007/s00214-012-1292-x",
         "type": "article"
     },
-    "papajak:2009a": {
+    "papajak2009a": {
         "doi": "10.1021/ct800575z",
         "authors": [
             "Ewa Papajak",
@@ -2169,7 +2169,7 @@
         "year": "2009",
         "type": "article"
     },
-    "papajak:2010a": {
+    "papajak2010a": {
         "doi": "10.1021/ct900566x",
         "authors": [
             "Ewa Papajak",
@@ -2182,7 +2182,7 @@
         "year": "2010",
         "type": "article"
     },
-    "papajak:2011a": {
+    "papajak2011a": {
         "doi": "10.1021/ct1005533",
         "authors": [
             "Ewa Papajak",
@@ -2195,7 +2195,7 @@
         "year": "2011",
         "type": "article"
     },
-    "partridge:1987a": {
+    "partridge1987a": {
         "doi": "10.1063/1.453450",
         "authors": [
             "Harry Partridge"
@@ -2207,7 +2207,7 @@
         "year": "1987",
         "type": "article"
     },
-    "partridge:1989a": {
+    "partridge1989a": {
         "doi": "10.1063/1.456157",
         "authors": [
             "Harry Partridge"
@@ -2219,7 +2219,7 @@
         "year": "1989",
         "type": "article"
     },
-    "paschoal:2012a": {
+    "paschoal2012a": {
         "doi": "10.1002/jcc.23061",
         "authors": [
             "Diego Paschoal",
@@ -2235,7 +2235,7 @@
         "year": "2012",
         "type": "article"
     },
-    "paschoal:2013a": {
+    "paschoal2013a": {
         "doi": "10.1007/s00894-012-1644-4",
         "authors": [
             "Diego Paschoal",
@@ -2248,7 +2248,7 @@
         "year": "2013",
         "type": "article"
     },
-    "paschoal:2016a": {
+    "paschoal2016a": {
         "doi": "10.1002/jcc.24461",
         "authors": [
             "D. Paschoal",
@@ -2264,7 +2264,7 @@
         "year": "2016",
         "type": "article"
     },
-    "peterson:2002a": {
+    "peterson2002a": {
         "doi": "10.1063/1.1520138",
         "authors": [
             "Kirk A. Peterson",
@@ -2277,7 +2277,7 @@
         "year": "2002",
         "type": "article"
     },
-    "peterson:2003a": {
+    "peterson2003a": {
         "doi": "10.1063/1.1622923",
         "authors": [
             "Kirk A. Peterson"
@@ -2289,7 +2289,7 @@
         "year": "2003",
         "type": "article"
     },
-    "peterson:2003b": {
+    "peterson2003b": {
         "doi": "10.1063/1.1622924",
         "authors": [
             "Kirk A. Peterson",
@@ -2305,7 +2305,7 @@
         "year": "2003",
         "type": "article"
     },
-    "peterson:2005a": {
+    "peterson2005a": {
         "doi": "10.1007/s00214-005-0681-9",
         "authors": [
             "Kirk A Peterson",
@@ -2318,7 +2318,7 @@
         "year": "2005",
         "type": "article"
     },
-    "peterson:2006a": {
+    "peterson2006a": {
         "doi": "10.1021/jp065887l",
         "authors": [
             "Kirk A. Peterson",
@@ -2333,7 +2333,7 @@
         "year": "2006",
         "type": "article"
     },
-    "peterson:2007a": {
+    "peterson2007a": {
         "doi": "10.1063/1.2647019",
         "authors": [
             "Kirk A. Peterson",
@@ -2348,7 +2348,7 @@
         "year": "2007",
         "type": "article"
     },
-    "peterson:2008a": {
+    "peterson2008a": {
         "doi": "10.1063/1.2831537",
         "authors": [
             "Kirk A. Peterson",
@@ -2362,7 +2362,7 @@
         "year": "2008",
         "type": "article"
     },
-    "peterson:2010a": {
+    "peterson2010a": {
         "doi": "10.1063/1.3503659",
         "authors": [
             "Kirk A. Peterson",
@@ -2375,7 +2375,7 @@
         "year": "2010",
         "type": "article"
     },
-    "pietro:1980a": {
+    "pietro1980a": {
         "doi": "10.1021/ic50210a005",
         "authors": [
             "William J. Pietro",
@@ -2390,7 +2390,7 @@
         "year": "1980",
         "type": "article"
     },
-    "pietro:1982a": {
+    "pietro1982a": {
         "doi": "10.1021/ja00383a007",
         "authors": [
             "W. J. Pietro",
@@ -2407,7 +2407,7 @@
         "year": "1982",
         "type": "article"
     },
-    "pietro:1983a": {
+    "pietro1983a": {
         "authors": [
             "William J. Pietro",
             "Warren J. Hehre"
@@ -2420,7 +2420,7 @@
         "doi": "10.1002/jcc.540040215",
         "type": "article"
     },
-    "pollak:2017a": {
+    "pollak2017a": {
         "doi": "10.1021/acs.jctc.7b00593",
         "authors": [
             "Patrik Pollak",
@@ -2433,7 +2433,7 @@
         "year": "2017",
         "type": "article"
     },
-    "pou-amerigo:1995a": {
+    "pou-amerigo1995a": {
         "doi": "10.1007/s002140050119",
         "authors": [
             "Rosendo Pou-Am\u00e9rigo",
@@ -2449,7 +2449,7 @@
         "year": "1995",
         "type": "article"
     },
-    "pradhan:1994a": {
+    "pradhan1994a": {
         "doi": "10.1063/1.467503",
         "authors": [
             "Atul D. Pradhan",
@@ -2463,7 +2463,7 @@
         "year": "1994",
         "type": "article"
     },
-    "provasi:2001a": {
+    "provasi2001a": {
         "doi": "10.1063/1.1379331",
         "authors": [
             "Patricio F. Provasi",
@@ -2477,7 +2477,7 @@
         "year": "2001",
         "type": "article"
     },
-    "provasi:2010a": {
+    "provasi2010a": {
         "doi": "10.1063/1.3465553",
         "authors": [
             "Patricio F. Provasi",
@@ -2490,7 +2490,7 @@
         "year": "2010",
         "type": "article"
     },
-    "ranasinghe:2013a": {
+    "ranasinghe2013a": {
         "doi": "10.1063/1.4798707",
         "authors": [
             "Duminda S. Ranasinghe",
@@ -2503,7 +2503,7 @@
         "year": "2013",
         "type": "article"
     },
-    "ranasinghe:2015a": {
+    "ranasinghe2015a": {
         "doi": "10.1063/1.4935972",
         "authors": [
             "Duminda S. Ranasinghe",
@@ -2517,7 +2517,7 @@
         "year": "2015",
         "type": "article"
     },
-    "rappoport:2010a": {
+    "rappoport2010a": {
         "doi": "10.1063/1.3484283",
         "authors": [
             "Dmitrij Rappoport",
@@ -2530,7 +2530,7 @@
         "year": "2010",
         "type": "article"
     },
-    "rassolov:1998a": {
+    "rassolov1998a": {
         "doi": "10.1063/1.476673",
         "authors": [
             "Vitaly A. Rassolov",
@@ -2545,7 +2545,7 @@
         "year": "1998",
         "type": "article"
     },
-    "rassolov:2001a": {
+    "rassolov2001a": {
         "doi": "10.1002/jcc.1058.abs",
         "authors": [
             "Vitaly A. Rassolov",
@@ -2561,7 +2561,7 @@
         "year": "2001",
         "type": "article"
     },
-    "ricca:2001a": {
+    "ricca2001a": {
         "authors": [
             "Alessandra Ricca",
             "Charles W. Bauschlicher Jr"
@@ -2574,7 +2574,7 @@
         "doi": "10.1007/s002140100279",
         "type": "article"
     },
-    "roos:2004a": {
+    "roos2004a": {
         "authors": [
             "Valera Veryazov",
             "Per-Olof Widmark",
@@ -2588,7 +2588,7 @@
         "doi": "10.1007/s00214-003-0537-0",
         "type": "article"
     },
-    "roos:2004b": {
+    "roos2004b": {
         "authors": [
             "Bj\u00f6rn O. Roos",
             "Roland Lindh",
@@ -2604,7 +2604,7 @@
         "doi": "10.1021/jp031064+",
         "type": "article"
     },
-    "roos:2005a": {
+    "roos2005a": {
         "doi": "10.1021/jp0581126",
         "authors": [
             "Bj\u00f6rn O. Roos",
@@ -2620,7 +2620,7 @@
         "year": "2005",
         "type": "article"
     },
-    "roos:2005b": {
+    "roos2005b": {
         "doi": "10.1016/j.cplett.2005.05.011",
         "authors": [
             "Bj\u00f6rn O. Roos",
@@ -2636,7 +2636,7 @@
         "year": "2005",
         "type": "article"
     },
-    "roos:2008a": {
+    "roos2008a": {
         "doi": "10.1021/jp803213j",
         "authors": [
             "Bjo\u0308rn O. Roos",
@@ -2653,7 +2653,7 @@
         "year": "2008",
         "type": "article"
     },
-    "roscioni:2012a": {
+    "roscioni2012a": {
         "doi": "10.1002/jcc.23034",
         "authors": [
             "Otello M. Roscioni",
@@ -2667,7 +2667,7 @@
         "year": "2012",
         "type": "article"
     },
-    "ross:1990a": {
+    "ross1990a": {
         "authors": [
             "R. B. Ross",
             "J. M. Powers",
@@ -2684,7 +2684,7 @@
         "doi": "10.1063/1.458934",
         "type": "article"
     },
-    "roy:2008a": {
+    "roy2008a": {
         "doi": "10.1021/ct8000409",
         "authors": [
             "Lindsay E. Roy",
@@ -2698,7 +2698,7 @@
         "year": "2008",
         "type": "article"
     },
-    "rusakov:2010a": {
+    "rusakov2010a": {
         "authors": [
             "Yury Yu. Rusakov",
             "Leonid B. Krivdin",
@@ -2714,7 +2714,7 @@
         "doi": "10.1002/mrc.2537",
         "type": "article"
     },
-    "sadlej:1988a": {
+    "sadlej1988a": {
         "doi": "10.1135/cccc19881995",
         "authors": [
             "Andrzej J. Sadlej"
@@ -2726,7 +2726,7 @@
         "year": "1988",
         "type": "article"
     },
-    "sadlej:1991a": {
+    "sadlej1991a": {
         "doi": "10.1016/0166-1280(91)89010-x",
         "authors": [
             "Andrzej J. Sadlej",
@@ -2739,7 +2739,7 @@
         "year": "1991",
         "type": "article"
     },
-    "sadlej:1991b": {
+    "sadlej1991b": {
         "authors": [
             "Andrzej J. Sadlej"
         ],
@@ -2751,7 +2751,7 @@
         "doi": "10.1007/bf01127101",
         "type": "article"
     },
-    "sadlej:1991c": {
+    "sadlej1991c": {
         "authors": [
             "Andrzej J. Sadlej"
         ],
@@ -2763,7 +2763,7 @@
         "doi": "10.1007/bf01113377",
         "type": "article"
     },
-    "sadlej:1992a": {
+    "sadlej1992a": {
         "authors": [
             "Andrzej J. Sadlej"
         ],
@@ -2775,7 +2775,7 @@
         "doi": "10.1007/bf01118573",
         "type": "article"
     },
-    "sauer:2000a": {
+    "sauer2000a": {
         "doi": "10.1063/1.1287277",
         "authors": [
             "Stephan P. A. Sauer",
@@ -2788,7 +2788,7 @@
         "year": "2000",
         "type": "article"
     },
-    "sauer:2001a": {
+    "sauer2001a": {
         "doi": "10.1063/1.1398091",
         "authors": [
             "Stephan P. A. Sauer",
@@ -2802,7 +2802,7 @@
         "year": "2001",
         "type": "article"
     },
-    "schafer:1992a": {
+    "schafer1992a": {
         "doi": "10.1063/1.463096",
         "authors": [
             "Ansgar Sch\u00e4fer",
@@ -2816,7 +2816,7 @@
         "year": "1992",
         "type": "article"
     },
-    "schafer:1994a": {
+    "schafer1994a": {
         "doi": "10.1063/1.467146",
         "authors": [
             "Ansgar Sch\u00e4fer",
@@ -2830,7 +2830,7 @@
         "year": "1994",
         "type": "article"
     },
-    "schultz:2005a": {
+    "schultz2005a": {
         "doi": "10.1021/jp0539223",
         "authors": [
             "Nathan E. Schultz",
@@ -2844,7 +2844,7 @@
         "year": "2005",
         "type": "article"
     },
-    "stevens:1984a": {
+    "stevens1984a": {
         "doi": "10.1063/1.447604",
         "authors": [
             "Walter J. Stevens",
@@ -2858,7 +2858,7 @@
         "year": "1984",
         "type": "article"
     },
-    "stevens:1992a": {
+    "stevens1992a": {
         "doi": "10.1139/v92-085",
         "authors": [
             "Walter J. Stevens",
@@ -2873,7 +2873,7 @@
         "year": "1992",
         "type": "article"
     },
-    "swart:2010a": {
+    "swart2010a": {
         "doi": "10.1021/jp102712z",
         "authors": [
             "Marcel Swart",
@@ -2888,7 +2888,7 @@
         "year": "2010",
         "type": "article"
     },
-    "vidal:2012a": {
+    "vidal2012a": {
         "authors": [
             "Luciano N. Vidal",
             "Pedro A. M. Vazquez"
@@ -2901,7 +2901,7 @@
         "doi": "10.1007/s00214-012-1111-4",
         "type": "article"
     },
-    "wachters:1970a": {
+    "wachters1970a": {
         "authors": [
             "A. J. H. Wachters"
         ],
@@ -2913,7 +2913,7 @@
         "doi": "10.1063/1.1673095",
         "type": "article"
     },
-    "wadt:1985a": {
+    "wadt1985a": {
         "doi": "10.1063/1.448800",
         "authors": [
             "Willard R. Wadt",
@@ -2926,7 +2926,7 @@
         "year": "1985",
         "type": "article"
     },
-    "weigend:2002a": {
+    "weigend2002a": {
         "doi": "10.1063/1.1445115",
         "authors": [
             "Florian Weigend",
@@ -2940,7 +2940,7 @@
         "year": "2002",
         "type": "article"
     },
-    "weigend:2005a": {
+    "weigend2005a": {
         "doi": "10.1039/b508541a",
         "authors": [
             "Florian Weigend",
@@ -2953,7 +2953,7 @@
         "year": "2005",
         "type": "article"
     },
-    "weigend:2006a": {
+    "weigend2006a": {
         "doi": "10.1039/b515623h",
         "authors": [
             "Florian Weigend"
@@ -2965,7 +2965,7 @@
         "year": "2006",
         "type": "article"
     },
-    "weigend:2010a": {
+    "weigend2010a": {
         "doi": "10.1063/1.3495681",
         "authors": [
             "Florian Weigend",
@@ -2978,7 +2978,7 @@
         "year": "2010",
         "type": "article"
     },
-    "widmark:1990a": {
+    "widmark1990a": {
         "doi": "10.1007/bf01120130",
         "authors": [
             "Per-Olof Widmark",
@@ -2992,7 +2992,7 @@
         "year": "1990",
         "type": "article"
     },
-    "widmark:1991a": {
+    "widmark1991a": {
         "doi": "10.1007/bf01112569",
         "authors": [
             "Per-Olof Widmark",
@@ -3006,7 +3006,7 @@
         "year": "1991",
         "type": "article"
     },
-    "wilson:1996a": {
+    "wilson1996a": {
         "authors": [
             "Angela K. Wilson",
             "Tanja van Mourik",
@@ -3020,7 +3020,7 @@
         "doi": "10.1016/s0166-1280(96)80048-0",
         "type": "article"
     },
-    "wilson:1999a": {
+    "wilson1999a": {
         "doi": "10.1063/1.478678",
         "authors": [
             "Angela K. Wilson",
@@ -3035,7 +3035,7 @@
         "year": "1999",
         "type": "article"
     },
-    "woon:1993a": {
+    "woon1993a": {
         "doi": "10.1063/1.464303",
         "authors": [
             "David E. Woon",
@@ -3048,7 +3048,7 @@
         "year": "1993",
         "type": "article"
     },
-    "woon:1994a": {
+    "woon1994a": {
         "doi": "10.1063/1.466439",
         "authors": [
             "David E. Woon",
@@ -3061,7 +3061,7 @@
         "year": "1994",
         "type": "article"
     },
-    "woon:1995a": {
+    "woon1995a": {
         "authors": [
             "David E. Woon",
             "Thom H. Dunning"
@@ -3074,7 +3074,7 @@
         "doi": "10.1063/1.470645",
         "type": "article"
     },
-    "yockel:2008a": {
+    "yockel2008a": {
         "doi": "10.1007/s00214-007-0309-3",
         "authors": [
             "Scott Yockel",
@@ -3087,7 +3087,7 @@
         "year": "2008",
         "type": "article"
     },
-    "yousaf:2008a": {
+    "yousaf2008a": {
         "doi": "10.1063/1.3009271",
         "authors": [
             "Kazim E. Yousaf",
@@ -3100,7 +3100,7 @@
         "year": "2008",
         "type": "article"
     },
-    "yousaf:2009a": {
+    "yousaf2009a": {
         "doi": "10.1016/j.cplett.2009.06.003",
         "authors": [
             "Kazim E. Yousaf",

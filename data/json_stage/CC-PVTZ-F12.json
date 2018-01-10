@@ -5,7 +5,7 @@
     "basisSetElements": {
         "1": {
             "elementReferences": [
-                "peterson:2008a"
+                "peterson2008a"
             ],
             "elementElectronShells": [
                 {
@@ -108,7 +108,7 @@
         },
         "2": {
             "elementReferences": [
-                "peterson:2008a"
+                "peterson2008a"
             ],
             "elementElectronShells": [
                 {
@@ -231,7 +231,7 @@
         },
         "3": {
             "elementReferences": [
-                "hill:2010b"
+                "hill2010b"
             ],
             "elementElectronShells": [
                 {
@@ -478,7 +478,7 @@
         },
         "4": {
             "elementReferences": [
-                "hill:2010b"
+                "hill2010b"
             ],
             "elementElectronShells": [
                 {
@@ -725,7 +725,7 @@
         },
         "5": {
             "elementReferences": [
-                "peterson:2008a"
+                "peterson2008a"
             ],
             "elementElectronShells": [
                 {
@@ -972,7 +972,7 @@
         },
         "6": {
             "elementReferences": [
-                "peterson:2008a"
+                "peterson2008a"
             ],
             "elementElectronShells": [
                 {
@@ -1219,7 +1219,7 @@
         },
         "7": {
             "elementReferences": [
-                "peterson:2008a"
+                "peterson2008a"
             ],
             "elementElectronShells": [
                 {
@@ -1466,7 +1466,7 @@
         },
         "8": {
             "elementReferences": [
-                "peterson:2008a"
+                "peterson2008a"
             ],
             "elementElectronShells": [
                 {
@@ -1713,7 +1713,7 @@
         },
         "9": {
             "elementReferences": [
-                "peterson:2008a"
+                "peterson2008a"
             ],
             "elementElectronShells": [
                 {
@@ -1960,7 +1960,7 @@
         },
         "10": {
             "elementReferences": [
-                "peterson:2008a"
+                "peterson2008a"
             ],
             "elementElectronShells": [
                 {
@@ -2207,7 +2207,7 @@
         },
         "11": {
             "elementReferences": [
-                "hill:2010b"
+                "hill2010b"
             ],
             "elementElectronShells": [
                 {
@@ -2600,7 +2600,7 @@
         },
         "12": {
             "elementReferences": [
-                "hill:2010b"
+                "hill2010b"
             ],
             "elementElectronShells": [
                 {
@@ -2969,7 +2969,7 @@
         },
         "13": {
             "elementReferences": [
-                "peterson:2008a"
+                "peterson2008a"
             ],
             "elementElectronShells": [
                 {
@@ -3330,7 +3330,7 @@
         },
         "14": {
             "elementReferences": [
-                "peterson:2008a"
+                "peterson2008a"
             ],
             "elementElectronShells": [
                 {
@@ -3691,7 +3691,7 @@
         },
         "15": {
             "elementReferences": [
-                "peterson:2008a"
+                "peterson2008a"
             ],
             "elementElectronShells": [
                 {
@@ -4052,7 +4052,7 @@
         },
         "16": {
             "elementReferences": [
-                "peterson:2008a"
+                "peterson2008a"
             ],
             "elementElectronShells": [
                 {
@@ -4413,7 +4413,7 @@
         },
         "17": {
             "elementReferences": [
-                "peterson:2008a"
+                "peterson2008a"
             ],
             "elementElectronShells": [
                 {
@@ -4774,7 +4774,7 @@
         },
         "18": {
             "elementReferences": [
-                "peterson:2008a"
+                "peterson2008a"
             ],
             "elementElectronShells": [
                 {

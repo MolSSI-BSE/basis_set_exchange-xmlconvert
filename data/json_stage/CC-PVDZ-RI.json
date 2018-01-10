@@ -5,7 +5,7 @@
     "basisSetElements": {
         "1": {
             "elementReferences": [
-                "weigend:2002a"
+                "weigend2002a"
             ],
             "elementElectronShells": [
                 {
@@ -108,7 +108,7 @@
         },
         "2": {
             "elementReferences": [
-                "weigend:2002a"
+                "weigend2002a"
             ],
             "elementElectronShells": [
                 {
@@ -597,7 +597,7 @@
         },
         "5": {
             "elementReferences": [
-                "weigend:2002a"
+                "weigend2002a"
             ],
             "elementElectronShells": [
                 {
@@ -892,8 +892,8 @@
         },
         "6": {
             "elementReferences": [
-                "weigend:2002a",
-                "hattig:2005a"
+                "weigend2002a",
+                "hattig2005a"
             ],
             "elementElectronShells": [
                 {
@@ -1188,8 +1188,8 @@
         },
         "7": {
             "elementReferences": [
-                "weigend:2002a",
-                "hattig:2005a"
+                "weigend2002a",
+                "hattig2005a"
             ],
             "elementElectronShells": [
                 {
@@ -1484,8 +1484,8 @@
         },
         "8": {
             "elementReferences": [
-                "weigend:2002a",
-                "hattig:2005a"
+                "weigend2002a",
+                "hattig2005a"
             ],
             "elementElectronShells": [
                 {
@@ -1780,8 +1780,8 @@
         },
         "9": {
             "elementReferences": [
-                "weigend:2002a",
-                "hattig:2005a"
+                "weigend2002a",
+                "hattig2005a"
             ],
             "elementElectronShells": [
                 {
@@ -2076,7 +2076,7 @@
         },
         "10": {
             "elementReferences": [
-                "weigend:2002a"
+                "weigend2002a"
             ],
             "elementElectronShells": [
                 {

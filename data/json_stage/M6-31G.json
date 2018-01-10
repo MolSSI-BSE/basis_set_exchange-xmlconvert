@@ -5,7 +5,7 @@
     "basisSetElements": {
         "21": {
             "elementReferences": [
-                "mitin:2003a"
+                "mitin2003a"
             ],
             "elementElectronShells": [
                 {
@@ -190,7 +190,7 @@
         },
         "22": {
             "elementReferences": [
-                "mitin:2003a"
+                "mitin2003a"
             ],
             "elementElectronShells": [
                 {
@@ -375,7 +375,7 @@
         },
         "23": {
             "elementReferences": [
-                "mitin:2003a"
+                "mitin2003a"
             ],
             "elementElectronShells": [
                 {
@@ -560,7 +560,7 @@
         },
         "24": {
             "elementReferences": [
-                "mitin:2003a"
+                "mitin2003a"
             ],
             "elementElectronShells": [
                 {
@@ -745,7 +745,7 @@
         },
         "25": {
             "elementReferences": [
-                "mitin:2003a"
+                "mitin2003a"
             ],
             "elementElectronShells": [
                 {
@@ -930,7 +930,7 @@
         },
         "26": {
             "elementReferences": [
-                "mitin:2003a"
+                "mitin2003a"
             ],
             "elementElectronShells": [
                 {
@@ -1115,7 +1115,7 @@
         },
         "27": {
             "elementReferences": [
-                "mitin:2003a"
+                "mitin2003a"
             ],
             "elementElectronShells": [
                 {
@@ -1300,7 +1300,7 @@
         },
         "28": {
             "elementReferences": [
-                "mitin:2003a"
+                "mitin2003a"
             ],
             "elementElectronShells": [
                 {
@@ -1485,7 +1485,7 @@
         },
         "29": {
             "elementReferences": [
-                "mitin:2003a"
+                "mitin2003a"
             ],
             "elementElectronShells": [
                 {

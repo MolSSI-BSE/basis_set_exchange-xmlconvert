@@ -5,9 +5,9 @@
     "basisSetElements": {
         "1": {
             "elementReferences": [
-                "papajak:2009a",
-                "clark:1983a",
-                "dunning:1989a"
+                "papajak2009a",
+                "clark1983a",
+                "dunning1989a"
             ],
             "elementElectronShells": [
                 {
@@ -118,10 +118,10 @@
         },
         "6": {
             "elementReferences": [
-                "papajak:2009a",
-                "clark:1983a",
-                "dunning:1989a",
-                "kendall:1992a"
+                "papajak2009a",
+                "clark1983a",
+                "dunning1989a",
+                "kendall1992a"
             ],
             "elementElectronShells": [
                 {
@@ -352,10 +352,10 @@
         },
         "7": {
             "elementReferences": [
-                "papajak:2009a",
-                "clark:1983a",
-                "dunning:1989a",
-                "kendall:1992a"
+                "papajak2009a",
+                "clark1983a",
+                "dunning1989a",
+                "kendall1992a"
             ],
             "elementElectronShells": [
                 {
@@ -586,10 +586,10 @@
         },
         "8": {
             "elementReferences": [
-                "papajak:2009a",
-                "clark:1983a",
-                "dunning:1989a",
-                "kendall:1992a"
+                "papajak2009a",
+                "clark1983a",
+                "dunning1989a",
+                "kendall1992a"
             ],
             "elementElectronShells": [
                 {
@@ -820,10 +820,10 @@
         },
         "16": {
             "elementReferences": [
-                "papajak:2009a",
-                "clark:1983a",
-                "woon:1993a",
-                "dunning:2001a"
+                "papajak2009a",
+                "clark1983a",
+                "woon1993a",
+                "dunning2001a"
             ],
             "elementElectronShells": [
                 {
@@ -1174,10 +1174,10 @@
         },
         "17": {
             "elementReferences": [
-                "papajak:2009a",
-                "clark:1983a",
-                "woon:1993a",
-                "dunning:2001a"
+                "papajak2009a",
+                "clark1983a",
+                "woon1993a",
+                "dunning2001a"
             ],
             "elementElectronShells": [
                 {

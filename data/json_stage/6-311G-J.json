@@ -5,8 +5,8 @@
     "basisSetElements": {
         "1": {
             "elementReferences": [
-                "krishnan:1980a",
-                "kjaer:2011a"
+                "krishnan1980a",
+                "kjaer2011a"
             ],
             "elementElectronShells": [
                 {
@@ -93,8 +93,8 @@
         },
         "6": {
             "elementReferences": [
-                "krishnan:1980a",
-                "kjaer:2011a"
+                "krishnan1980a",
+                "kjaer2011a"
             ],
             "elementElectronShells": [
                 {
@@ -297,8 +297,8 @@
         },
         "7": {
             "elementReferences": [
-                "krishnan:1980a",
-                "kjaer:2011a"
+                "krishnan1980a",
+                "kjaer2011a"
             ],
             "elementElectronShells": [
                 {
@@ -501,8 +501,8 @@
         },
         "8": {
             "elementReferences": [
-                "krishnan:1980a",
-                "kjaer:2011a"
+                "krishnan1980a",
+                "kjaer2011a"
             ],
             "elementElectronShells": [
                 {

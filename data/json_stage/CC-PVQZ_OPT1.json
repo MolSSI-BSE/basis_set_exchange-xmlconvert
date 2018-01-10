@@ -5,7 +5,7 @@
     "basisSetElements": {
         "1": {
             "elementReferences": [
-                "dunning:1989a"
+                "dunning1989a"
             ],
             "elementElectronShells": [
                 {
@@ -176,7 +176,7 @@
         },
         "2": {
             "elementReferences": [
-                "woon:1994a"
+                "woon1994a"
             ],
             "elementElectronShells": [
                 {
@@ -349,7 +349,7 @@
         },
         "6": {
             "elementReferences": [
-                "dunning:1989a"
+                "dunning1989a"
             ],
             "elementElectronShells": [
                 {
@@ -628,7 +628,7 @@
         },
         "8": {
             "elementReferences": [
-                "dunning:1989a"
+                "dunning1989a"
             ],
             "elementElectronShells": [
                 {

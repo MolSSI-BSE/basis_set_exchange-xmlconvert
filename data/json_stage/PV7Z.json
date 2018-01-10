@@ -374,8 +374,8 @@
         },
         "6": {
             "elementReferences": [
-                "feller:1999a",
-                "feller:2000a"
+                "feller1999a",
+                "feller2000a"
             ],
             "elementElectronShells": [
                 {
@@ -920,8 +920,8 @@
         },
         "7": {
             "elementReferences": [
-                "feller:1999a",
-                "feller:2000a"
+                "feller1999a",
+                "feller2000a"
             ],
             "elementElectronShells": [
                 {
@@ -1466,8 +1466,8 @@
         },
         "8": {
             "elementReferences": [
-                "feller:1999a",
-                "feller:2000a"
+                "feller1999a",
+                "feller2000a"
             ],
             "elementElectronShells": [
                 {
@@ -2012,8 +2012,8 @@
         },
         "9": {
             "elementReferences": [
-                "feller:1999a",
-                "feller:2000a"
+                "feller1999a",
+                "feller2000a"
             ],
             "elementElectronShells": [
                 {
@@ -3101,8 +3101,8 @@
         },
         "16": {
             "elementReferences": [
-                "feller:1999a",
-                "feller:2000a"
+                "feller1999a",
+                "feller2000a"
             ],
             "elementElectronShells": [
                 {

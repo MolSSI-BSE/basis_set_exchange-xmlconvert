@@ -5,7 +5,7 @@
     "basisSetElements": {
         "13": {
             "elementReferences": [
-                "weigend:2002a"
+                "weigend2002a"
             ],
             "elementElectronShells": [
                 {
@@ -396,7 +396,7 @@
         },
         "14": {
             "elementReferences": [
-                "weigend:2002a"
+                "weigend2002a"
             ],
             "elementElectronShells": [
                 {
@@ -787,7 +787,7 @@
         },
         "15": {
             "elementReferences": [
-                "weigend:2002a"
+                "weigend2002a"
             ],
             "elementElectronShells": [
                 {
@@ -1178,7 +1178,7 @@
         },
         "16": {
             "elementReferences": [
-                "weigend:2002a"
+                "weigend2002a"
             ],
             "elementElectronShells": [
                 {
@@ -1569,7 +1569,7 @@
         },
         "17": {
             "elementReferences": [
-                "weigend:2002a"
+                "weigend2002a"
             ],
             "elementElectronShells": [
                 {
@@ -1960,7 +1960,7 @@
         },
         "18": {
             "elementReferences": [
-                "weigend:2002a"
+                "weigend2002a"
             ],
             "elementElectronShells": [
                 {

@@ -5,7 +5,7 @@
     "basisSetElements": {
         "19": {
             "elementReferences": [
-                "hay:1985a"
+                "hay1985a"
             ],
             "elementECPElectrons": 10,
             "elementECP": [
@@ -94,7 +94,7 @@
         },
         "20": {
             "elementReferences": [
-                "hay:1985a"
+                "hay1985a"
             ],
             "elementECPElectrons": 10,
             "elementECP": [
@@ -183,7 +183,7 @@
         },
         "21": {
             "elementReferences": [
-                "hay:1985a"
+                "hay1985a"
             ],
             "elementECPElectrons": 10,
             "elementECP": [
@@ -275,7 +275,7 @@
         },
         "22": {
             "elementReferences": [
-                "hay:1985a"
+                "hay1985a"
             ],
             "elementECPElectrons": 10,
             "elementECP": [
@@ -364,7 +364,7 @@
         },
         "23": {
             "elementReferences": [
-                "hay:1985a"
+                "hay1985a"
             ],
             "elementECPElectrons": 10,
             "elementECP": [
@@ -453,7 +453,7 @@
         },
         "24": {
             "elementReferences": [
-                "hay:1985a"
+                "hay1985a"
             ],
             "elementECPElectrons": 10,
             "elementECP": [
@@ -542,7 +542,7 @@
         },
         "25": {
             "elementReferences": [
-                "hay:1985a"
+                "hay1985a"
             ],
             "elementECPElectrons": 10,
             "elementECP": [
@@ -631,7 +631,7 @@
         },
         "26": {
             "elementReferences": [
-                "hay:1985a"
+                "hay1985a"
             ],
             "elementECPElectrons": 10,
             "elementECP": [
@@ -720,7 +720,7 @@
         },
         "27": {
             "elementReferences": [
-                "hay:1985a"
+                "hay1985a"
             ],
             "elementECPElectrons": 10,
             "elementECP": [
@@ -803,7 +803,7 @@
         },
         "28": {
             "elementReferences": [
-                "hay:1985a"
+                "hay1985a"
             ],
             "elementECPElectrons": 10,
             "elementECP": [
@@ -886,7 +886,7 @@
         },
         "29": {
             "elementReferences": [
-                "hay:1985a"
+                "hay1985a"
             ],
             "elementECPElectrons": 10,
             "elementECP": [
@@ -969,7 +969,7 @@
         },
         "37": {
             "elementReferences": [
-                "hay:1985a"
+                "hay1985a"
             ],
             "elementECPElectrons": 28,
             "elementECP": [
@@ -1087,7 +1087,7 @@
         },
         "38": {
             "elementReferences": [
-                "hay:1985a"
+                "hay1985a"
             ],
             "elementECPElectrons": 28,
             "elementECP": [
@@ -1208,7 +1208,7 @@
         },
         "39": {
             "elementReferences": [
-                "hay:1985a"
+                "hay1985a"
             ],
             "elementECPElectrons": 28,
             "elementECP": [
@@ -1326,7 +1326,7 @@
         },
         "40": {
             "elementReferences": [
-                "hay:1985a"
+                "hay1985a"
             ],
             "elementECPElectrons": 28,
             "elementECP": [
@@ -1441,7 +1441,7 @@
         },
         "41": {
             "elementReferences": [
-                "hay:1985a"
+                "hay1985a"
             ],
             "elementECPElectrons": 28,
             "elementECP": [
@@ -1556,7 +1556,7 @@
         },
         "42": {
             "elementReferences": [
-                "hay:1985a"
+                "hay1985a"
             ],
             "elementECPElectrons": 28,
             "elementECP": [
@@ -1671,7 +1671,7 @@
         },
         "43": {
             "elementReferences": [
-                "hay:1985a"
+                "hay1985a"
             ],
             "elementECPElectrons": 28,
             "elementECP": [
@@ -1786,7 +1786,7 @@
         },
         "44": {
             "elementReferences": [
-                "hay:1985a"
+                "hay1985a"
             ],
             "elementECPElectrons": 28,
             "elementECP": [
@@ -1907,7 +1907,7 @@
         },
         "45": {
             "elementReferences": [
-                "hay:1985a"
+                "hay1985a"
             ],
             "elementECPElectrons": 28,
             "elementECP": [
@@ -2028,7 +2028,7 @@
         },
         "46": {
             "elementReferences": [
-                "hay:1985a"
+                "hay1985a"
             ],
             "elementECPElectrons": 28,
             "elementECP": [
@@ -2152,7 +2152,7 @@
         },
         "47": {
             "elementReferences": [
-                "hay:1985a"
+                "hay1985a"
             ],
             "elementECPElectrons": 28,
             "elementECP": [
@@ -2276,7 +2276,7 @@
         },
         "55": {
             "elementReferences": [
-                "hay:1985a"
+                "hay1985a"
             ],
             "elementECPElectrons": 46,
             "elementECP": [
@@ -2391,7 +2391,7 @@
         },
         "56": {
             "elementReferences": [
-                "hay:1985a"
+                "hay1985a"
             ],
             "elementECPElectrons": 46,
             "elementECP": [
@@ -2515,7 +2515,7 @@
         },
         "57": {
             "elementReferences": [
-                "hay:1985a"
+                "hay1985a"
             ],
             "elementECPElectrons": 46,
             "elementECP": [
@@ -2636,7 +2636,7 @@
         },
         "72": {
             "elementReferences": [
-                "hay:1985a"
+                "hay1985a"
             ],
             "elementECPElectrons": 60,
             "elementECP": [
@@ -2798,7 +2798,7 @@
         },
         "73": {
             "elementReferences": [
-                "hay:1985a"
+                "hay1985a"
             ],
             "elementECPElectrons": 60,
             "elementECP": [
@@ -2960,7 +2960,7 @@
         },
         "74": {
             "elementReferences": [
-                "hay:1985a"
+                "hay1985a"
             ],
             "elementECPElectrons": 60,
             "elementECP": [
@@ -3122,7 +3122,7 @@
         },
         "75": {
             "elementReferences": [
-                "hay:1985a"
+                "hay1985a"
             ],
             "elementECPElectrons": 60,
             "elementECP": [
@@ -3284,7 +3284,7 @@
         },
         "76": {
             "elementReferences": [
-                "hay:1985a"
+                "hay1985a"
             ],
             "elementECPElectrons": 60,
             "elementECP": [
@@ -3440,7 +3440,7 @@
         },
         "77": {
             "elementReferences": [
-                "hay:1985a"
+                "hay1985a"
             ],
             "elementECPElectrons": 60,
             "elementECP": [
@@ -3596,7 +3596,7 @@
         },
         "78": {
             "elementReferences": [
-                "hay:1985a"
+                "hay1985a"
             ],
             "elementECPElectrons": 60,
             "elementECP": [
@@ -3749,7 +3749,7 @@
         },
         "79": {
             "elementReferences": [
-                "hay:1985a"
+                "hay1985a"
             ],
             "elementECPElectrons": 60,
             "elementECP": [

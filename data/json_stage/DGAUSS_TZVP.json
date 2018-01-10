@@ -5,7 +5,7 @@
     "basisSetElements": {
         "1": {
             "elementReferences": [
-                "godbout:1992a"
+                "godbout1992a"
             ],
             "elementElectronShells": [
                 {
@@ -80,7 +80,7 @@
         },
         "6": {
             "elementReferences": [
-                "godbout:1992a"
+                "godbout1992a"
             ],
             "elementElectronShells": [
                 {
@@ -233,7 +233,7 @@
         },
         "7": {
             "elementReferences": [
-                "godbout:1992a"
+                "godbout1992a"
             ],
             "elementElectronShells": [
                 {
@@ -386,7 +386,7 @@
         },
         "8": {
             "elementReferences": [
-                "godbout:1992a"
+                "godbout1992a"
             ],
             "elementElectronShells": [
                 {
@@ -539,7 +539,7 @@
         },
         "9": {
             "elementReferences": [
-                "godbout:1992a"
+                "godbout1992a"
             ],
             "elementElectronShells": [
                 {
@@ -692,7 +692,7 @@
         },
         "13": {
             "elementReferences": [
-                "godbout:1992a"
+                "godbout1992a"
             ],
             "elementElectronShells": [
                 {
@@ -885,7 +885,7 @@
         },
         "14": {
             "elementReferences": [
-                "godbout:1992a"
+                "godbout1992a"
             ],
             "elementElectronShells": [
                 {
@@ -1078,7 +1078,7 @@
         },
         "15": {
             "elementReferences": [
-                "godbout:1992a"
+                "godbout1992a"
             ],
             "elementElectronShells": [
                 {
@@ -1271,7 +1271,7 @@
         },
         "16": {
             "elementReferences": [
-                "godbout:1992a"
+                "godbout1992a"
             ],
             "elementElectronShells": [
                 {
@@ -1464,7 +1464,7 @@
         },
         "17": {
             "elementReferences": [
-                "godbout:1992a"
+                "godbout1992a"
             ],
             "elementElectronShells": [
                 {
@@ -1657,7 +1657,7 @@
         },
         "18": {
             "elementReferences": [
-                "godbout:1992a"
+                "godbout1992a"
             ],
             "elementElectronShells": [
                 {

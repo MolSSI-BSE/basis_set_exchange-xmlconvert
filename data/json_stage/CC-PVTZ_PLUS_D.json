@@ -5,7 +5,7 @@
     "basisSetElements": {
         "13": {
             "elementReferences": [
-                "dunning:2001a"
+                "dunning2001a"
             ],
             "elementElectronShells": [
                 {
@@ -235,7 +235,7 @@
         },
         "14": {
             "elementReferences": [
-                "dunning:2001a"
+                "dunning2001a"
             ],
             "elementElectronShells": [
                 {
@@ -465,7 +465,7 @@
         },
         "15": {
             "elementReferences": [
-                "dunning:2001a"
+                "dunning2001a"
             ],
             "elementElectronShells": [
                 {
@@ -695,7 +695,7 @@
         },
         "16": {
             "elementReferences": [
-                "dunning:2001a"
+                "dunning2001a"
             ],
             "elementElectronShells": [
                 {
@@ -925,7 +925,7 @@
         },
         "17": {
             "elementReferences": [
-                "dunning:2001a"
+                "dunning2001a"
             ],
             "elementElectronShells": [
                 {
@@ -1155,7 +1155,7 @@
         },
         "18": {
             "elementReferences": [
-                "dunning:2001a"
+                "dunning2001a"
             ],
             "elementElectronShells": [
                 {

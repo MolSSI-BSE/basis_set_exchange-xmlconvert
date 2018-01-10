@@ -5,8 +5,8 @@
     "basisSetElements": {
         "1": {
             "elementReferences": [
-                "casida:1998a",
-                "sadlej:1991b"
+                "casida1998a",
+                "sadlej1991b"
             ],
             "elementElectronShells": [
                 {
@@ -121,8 +121,8 @@
         },
         "6": {
             "elementReferences": [
-                "casida:1998a",
-                "sadlej:1991b"
+                "casida1998a",
+                "sadlej1991b"
             ],
             "elementElectronShells": [
                 {
@@ -344,8 +344,8 @@
         },
         "7": {
             "elementReferences": [
-                "casida:1998a",
-                "sadlej:1991b"
+                "casida1998a",
+                "sadlej1991b"
             ],
             "elementElectronShells": [
                 {
@@ -567,8 +567,8 @@
         },
         "8": {
             "elementReferences": [
-                "casida:1998a",
-                "sadlej:1991b"
+                "casida1998a",
+                "sadlej1991b"
             ],
             "elementElectronShells": [
                 {

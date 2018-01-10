@@ -5,8 +5,8 @@
     "basisSetElements": {
         "21": {
             "elementReferences": [
-                "wachters:1970a",
-                "bauschlicher:1989a"
+                "wachters1970a",
+                "bauschlicher1989a"
             ],
             "elementElectronShells": [
                 {
@@ -347,8 +347,8 @@
         },
         "22": {
             "elementReferences": [
-                "wachters:1970a",
-                "bauschlicher:1989a"
+                "wachters1970a",
+                "bauschlicher1989a"
             ],
             "elementElectronShells": [
                 {
@@ -689,8 +689,8 @@
         },
         "23": {
             "elementReferences": [
-                "wachters:1970a",
-                "bauschlicher:1989a"
+                "wachters1970a",
+                "bauschlicher1989a"
             ],
             "elementElectronShells": [
                 {
@@ -1031,8 +1031,8 @@
         },
         "24": {
             "elementReferences": [
-                "wachters:1970a",
-                "bauschlicher:1989a"
+                "wachters1970a",
+                "bauschlicher1989a"
             ],
             "elementElectronShells": [
                 {
@@ -1373,8 +1373,8 @@
         },
         "25": {
             "elementReferences": [
-                "wachters:1970a",
-                "bauschlicher:1989a"
+                "wachters1970a",
+                "bauschlicher1989a"
             ],
             "elementElectronShells": [
                 {
@@ -1715,8 +1715,8 @@
         },
         "26": {
             "elementReferences": [
-                "wachters:1970a",
-                "bauschlicher:1989a"
+                "wachters1970a",
+                "bauschlicher1989a"
             ],
             "elementElectronShells": [
                 {
@@ -2057,8 +2057,8 @@
         },
         "27": {
             "elementReferences": [
-                "wachters:1970a",
-                "bauschlicher:1989a"
+                "wachters1970a",
+                "bauschlicher1989a"
             ],
             "elementElectronShells": [
                 {
@@ -2399,8 +2399,8 @@
         },
         "28": {
             "elementReferences": [
-                "wachters:1970a",
-                "bauschlicher:1989a"
+                "wachters1970a",
+                "bauschlicher1989a"
             ],
             "elementElectronShells": [
                 {
@@ -2741,8 +2741,8 @@
         },
         "29": {
             "elementReferences": [
-                "wachters:1970a",
-                "bauschlicher:1989a"
+                "wachters1970a",
+                "bauschlicher1989a"
             ],
             "elementElectronShells": [
                 {

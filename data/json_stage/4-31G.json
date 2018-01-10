@@ -5,7 +5,7 @@
     "basisSetElements": {
         "1": {
             "elementReferences": [
-                "ditchfield:1971a"
+                "ditchfield1971a"
             ],
             "elementElectronShells": [
                 {
@@ -306,7 +306,7 @@
         },
         "6": {
             "elementReferences": [
-                "ditchfield:1971a"
+                "ditchfield1971a"
             ],
             "elementElectronShells": [
                 {
@@ -381,7 +381,7 @@
         },
         "7": {
             "elementReferences": [
-                "ditchfield:1971a"
+                "ditchfield1971a"
             ],
             "elementElectronShells": [
                 {
@@ -456,7 +456,7 @@
         },
         "8": {
             "elementReferences": [
-                "ditchfield:1971a"
+                "ditchfield1971a"
             ],
             "elementElectronShells": [
                 {
@@ -531,7 +531,7 @@
         },
         "9": {
             "elementReferences": [
-                "ditchfield:1971a"
+                "ditchfield1971a"
             ],
             "elementElectronShells": [
                 {
@@ -679,7 +679,7 @@
         },
         "15": {
             "elementReferences": [
-                "gordon:1982a"
+                "gordon1982a"
             ],
             "elementElectronShells": [
                 {
@@ -783,7 +783,7 @@
         },
         "16": {
             "elementReferences": [
-                "gordon:1982a"
+                "gordon1982a"
             ],
             "elementElectronShells": [
                 {
@@ -887,7 +887,7 @@
         },
         "17": {
             "elementReferences": [
-                "gordon:1982a"
+                "gordon1982a"
             ],
             "elementElectronShells": [
                 {

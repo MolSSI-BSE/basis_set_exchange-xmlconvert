@@ -5,7 +5,7 @@
     "basisSetElements": {
         "19": {
             "elementReferences": [
-                "bergner:1993a"
+                "bergner1993a"
             ],
             "elementElectronShells": [
                 {
@@ -126,7 +126,7 @@
         },
         "20": {
             "elementReferences": [
-                "kaupp:1991a"
+                "kaupp1991a"
             ],
             "elementElectronShells": [
                 {
@@ -16494,7 +16494,7 @@
         },
         "105": {
             "elementReferences": [
-                "dolg:1993a"
+                "dolg1993a"
             ],
             "elementElectronShells": [
                 {

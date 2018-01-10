@@ -5,7 +5,7 @@
     "basisSetElements": {
         "5": {
             "elementReferences": [
-                "peterson:2002a"
+                "peterson2002a"
             ],
             "elementElectronShells": [
                 {
@@ -44,7 +44,7 @@
         },
         "6": {
             "elementReferences": [
-                "peterson:2002a"
+                "peterson2002a"
             ],
             "elementElectronShells": [
                 {
@@ -83,7 +83,7 @@
         },
         "7": {
             "elementReferences": [
-                "peterson:2002a"
+                "peterson2002a"
             ],
             "elementElectronShells": [
                 {
@@ -122,7 +122,7 @@
         },
         "8": {
             "elementReferences": [
-                "peterson:2002a"
+                "peterson2002a"
             ],
             "elementElectronShells": [
                 {
@@ -161,7 +161,7 @@
         },
         "9": {
             "elementReferences": [
-                "peterson:2002a"
+                "peterson2002a"
             ],
             "elementElectronShells": [
                 {
@@ -200,7 +200,7 @@
         },
         "10": {
             "elementReferences": [
-                "peterson:2002a"
+                "peterson2002a"
             ],
             "elementElectronShells": [
                 {

@@ -5,7 +5,7 @@
     "basisSetElements": {
         "1": {
             "elementReferences": [
-                "lynch:2003a"
+                "lynch2003a"
             ],
             "elementElectronShells": [
                 {
@@ -72,7 +72,7 @@
         },
         "2": {
             "elementReferences": [
-                "lynch:2003a"
+                "lynch2003a"
             ],
             "elementElectronShells": [
                 {
@@ -151,7 +151,7 @@
         },
         "3": {
             "elementReferences": [
-                "lynch:2003a"
+                "lynch2003a"
             ],
             "elementElectronShells": [
                 {
@@ -340,7 +340,7 @@
         },
         "4": {
             "elementReferences": [
-                "lynch:2003a"
+                "lynch2003a"
             ],
             "elementElectronShells": [
                 {
@@ -529,7 +529,7 @@
         },
         "5": {
             "elementReferences": [
-                "lynch:2003a"
+                "lynch2003a"
             ],
             "elementElectronShells": [
                 {
@@ -718,7 +718,7 @@
         },
         "6": {
             "elementReferences": [
-                "lynch:2003a"
+                "lynch2003a"
             ],
             "elementElectronShells": [
                 {
@@ -907,7 +907,7 @@
         },
         "7": {
             "elementReferences": [
-                "lynch:2003a"
+                "lynch2003a"
             ],
             "elementElectronShells": [
                 {
@@ -1096,7 +1096,7 @@
         },
         "8": {
             "elementReferences": [
-                "lynch:2003a"
+                "lynch2003a"
             ],
             "elementElectronShells": [
                 {
@@ -1285,7 +1285,7 @@
         },
         "9": {
             "elementReferences": [
-                "lynch:2003a"
+                "lynch2003a"
             ],
             "elementElectronShells": [
                 {
@@ -1474,7 +1474,7 @@
         },
         "10": {
             "elementReferences": [
-                "lynch:2003a"
+                "lynch2003a"
             ],
             "elementElectronShells": [
                 {
@@ -1663,7 +1663,7 @@
         },
         "11": {
             "elementReferences": [
-                "lynch:2003a"
+                "lynch2003a"
             ],
             "elementElectronShells": [
                 {
@@ -1954,7 +1954,7 @@
         },
         "12": {
             "elementReferences": [
-                "lynch:2003a"
+                "lynch2003a"
             ],
             "elementElectronShells": [
                 {
@@ -2245,7 +2245,7 @@
         },
         "13": {
             "elementReferences": [
-                "lynch:2003a"
+                "lynch2003a"
             ],
             "elementElectronShells": [
                 {
@@ -2536,7 +2536,7 @@
         },
         "14": {
             "elementReferences": [
-                "lynch:2003a"
+                "lynch2003a"
             ],
             "elementElectronShells": [
                 {
@@ -2827,7 +2827,7 @@
         },
         "15": {
             "elementReferences": [
-                "lynch:2003a"
+                "lynch2003a"
             ],
             "elementElectronShells": [
                 {
@@ -3118,7 +3118,7 @@
         },
         "16": {
             "elementReferences": [
-                "lynch:2003a"
+                "lynch2003a"
             ],
             "elementElectronShells": [
                 {
@@ -3409,7 +3409,7 @@
         },
         "17": {
             "elementReferences": [
-                "lynch:2003a"
+                "lynch2003a"
             ],
             "elementElectronShells": [
                 {
@@ -3700,7 +3700,7 @@
         },
         "18": {
             "elementReferences": [
-                "lynch:2003a"
+                "lynch2003a"
             ],
             "elementElectronShells": [
                 {

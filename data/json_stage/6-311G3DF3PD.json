@@ -5,7 +5,7 @@
     "basisSetElements": {
         "1": {
             "elementReferences": [
-                "frisch:1984a"
+                "frisch1984a"
             ],
             "elementElectronShells": [
                 {
@@ -76,7 +76,7 @@
         },
         "2": {
             "elementReferences": [
-                "frisch:1984a"
+                "frisch1984a"
             ],
             "elementElectronShells": [
                 {
@@ -147,7 +147,7 @@
         },
         "3": {
             "elementReferences": [
-                "frisch:1984a"
+                "frisch1984a"
             ],
             "elementElectronShells": [
                 {
@@ -218,7 +218,7 @@
         },
         "4": {
             "elementReferences": [
-                "frisch:1984a"
+                "frisch1984a"
             ],
             "elementElectronShells": [
                 {
@@ -289,7 +289,7 @@
         },
         "5": {
             "elementReferences": [
-                "frisch:1984a"
+                "frisch1984a"
             ],
             "elementElectronShells": [
                 {
@@ -360,7 +360,7 @@
         },
         "6": {
             "elementReferences": [
-                "frisch:1984a"
+                "frisch1984a"
             ],
             "elementElectronShells": [
                 {
@@ -431,7 +431,7 @@
         },
         "7": {
             "elementReferences": [
-                "frisch:1984a"
+                "frisch1984a"
             ],
             "elementElectronShells": [
                 {
@@ -502,7 +502,7 @@
         },
         "8": {
             "elementReferences": [
-                "frisch:1984a"
+                "frisch1984a"
             ],
             "elementElectronShells": [
                 {
@@ -573,7 +573,7 @@
         },
         "9": {
             "elementReferences": [
-                "frisch:1984a"
+                "frisch1984a"
             ],
             "elementElectronShells": [
                 {
@@ -644,7 +644,7 @@
         },
         "10": {
             "elementReferences": [
-                "frisch:1984a"
+                "frisch1984a"
             ],
             "elementElectronShells": [
                 {

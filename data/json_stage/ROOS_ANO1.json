@@ -5,7 +5,7 @@
     "basisSetElements": {
         "1": {
             "elementReferences": [
-                "widmark:1990a"
+                "widmark1990a"
             ],
             "elementElectronShells": [
                 {
@@ -90,7 +90,7 @@
         },
         "2": {
             "elementReferences": [
-                "widmark:1990a"
+                "widmark1990a"
             ],
             "elementElectronShells": [
                 {
@@ -179,7 +179,7 @@
         },
         "3": {
             "elementReferences": [
-                "widmark:1990a"
+                "widmark1990a"
             ],
             "elementElectronShells": [
                 {
@@ -358,7 +358,7 @@
         },
         "4": {
             "elementReferences": [
-                "widmark:1990a"
+                "widmark1990a"
             ],
             "elementElectronShells": [
                 {
@@ -537,7 +537,7 @@
         },
         "5": {
             "elementReferences": [
-                "widmark:1990a"
+                "widmark1990a"
             ],
             "elementElectronShells": [
                 {
@@ -716,7 +716,7 @@
         },
         "6": {
             "elementReferences": [
-                "widmark:1990a"
+                "widmark1990a"
             ],
             "elementElectronShells": [
                 {
@@ -895,7 +895,7 @@
         },
         "7": {
             "elementReferences": [
-                "widmark:1990a"
+                "widmark1990a"
             ],
             "elementElectronShells": [
                 {
@@ -1074,7 +1074,7 @@
         },
         "8": {
             "elementReferences": [
-                "widmark:1990a"
+                "widmark1990a"
             ],
             "elementElectronShells": [
                 {
@@ -1253,7 +1253,7 @@
         },
         "9": {
             "elementReferences": [
-                "widmark:1990a"
+                "widmark1990a"
             ],
             "elementElectronShells": [
                 {
@@ -1432,7 +1432,7 @@
         },
         "10": {
             "elementReferences": [
-                "widmark:1990a"
+                "widmark1990a"
             ],
             "elementElectronShells": [
                 {
@@ -1611,7 +1611,7 @@
         },
         "11": {
             "elementReferences": [
-                "widmark:1991a"
+                "widmark1991a"
             ],
             "elementElectronShells": [
                 {
@@ -1853,7 +1853,7 @@
         },
         "12": {
             "elementReferences": [
-                "widmark:1991a"
+                "widmark1991a"
             ],
             "elementElectronShells": [
                 {
@@ -2095,7 +2095,7 @@
         },
         "13": {
             "elementReferences": [
-                "widmark:1991a"
+                "widmark1991a"
             ],
             "elementElectronShells": [
                 {
@@ -2337,7 +2337,7 @@
         },
         "14": {
             "elementReferences": [
-                "widmark:1991a"
+                "widmark1991a"
             ],
             "elementElectronShells": [
                 {
@@ -2579,7 +2579,7 @@
         },
         "15": {
             "elementReferences": [
-                "widmark:1991a"
+                "widmark1991a"
             ],
             "elementElectronShells": [
                 {
@@ -2821,7 +2821,7 @@
         },
         "16": {
             "elementReferences": [
-                "widmark:1991a"
+                "widmark1991a"
             ],
             "elementElectronShells": [
                 {
@@ -3063,7 +3063,7 @@
         },
         "17": {
             "elementReferences": [
-                "widmark:1991a"
+                "widmark1991a"
             ],
             "elementElectronShells": [
                 {
@@ -3305,7 +3305,7 @@
         },
         "18": {
             "elementReferences": [
-                "widmark:1991a"
+                "widmark1991a"
             ],
             "elementElectronShells": [
                 {
@@ -4099,7 +4099,7 @@
         },
         "21": {
             "elementReferences": [
-                "pou-amerigo:1995a"
+                "pou-amerigo1995a"
             ],
             "elementElectronShells": [
                 {
@@ -4493,7 +4493,7 @@
         },
         "22": {
             "elementReferences": [
-                "pou-amerigo:1995a"
+                "pou-amerigo1995a"
             ],
             "elementElectronShells": [
                 {
@@ -4887,7 +4887,7 @@
         },
         "23": {
             "elementReferences": [
-                "pou-amerigo:1995a"
+                "pou-amerigo1995a"
             ],
             "elementElectronShells": [
                 {
@@ -5281,7 +5281,7 @@
         },
         "24": {
             "elementReferences": [
-                "pou-amerigo:1995a"
+                "pou-amerigo1995a"
             ],
             "elementElectronShells": [
                 {
@@ -5675,7 +5675,7 @@
         },
         "25": {
             "elementReferences": [
-                "pou-amerigo:1995a"
+                "pou-amerigo1995a"
             ],
             "elementElectronShells": [
                 {
@@ -6069,7 +6069,7 @@
         },
         "26": {
             "elementReferences": [
-                "pou-amerigo:1995a"
+                "pou-amerigo1995a"
             ],
             "elementElectronShells": [
                 {
@@ -6463,7 +6463,7 @@
         },
         "27": {
             "elementReferences": [
-                "pou-amerigo:1995a"
+                "pou-amerigo1995a"
             ],
             "elementElectronShells": [
                 {
@@ -6857,7 +6857,7 @@
         },
         "28": {
             "elementReferences": [
-                "pou-amerigo:1995a"
+                "pou-amerigo1995a"
             ],
             "elementElectronShells": [
                 {
@@ -7251,7 +7251,7 @@
         },
         "29": {
             "elementReferences": [
-                "pou-amerigo:1995a"
+                "pou-amerigo1995a"
             ],
             "elementElectronShells": [
                 {
@@ -7645,7 +7645,7 @@
         },
         "30": {
             "elementReferences": [
-                "pou-amerigo:1995a"
+                "pou-amerigo1995a"
             ],
             "elementElectronShells": [
                 {

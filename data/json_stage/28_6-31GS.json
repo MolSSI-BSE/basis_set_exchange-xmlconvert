@@ -5,7 +5,7 @@
     "basisSetElements": {
         "1": {
             "elementReferences": [
-                "hariharan:1973a"
+                "hariharan1973a"
             ],
             "elementElectronShells": [
                 {
@@ -48,7 +48,7 @@
         },
         "2": {
             "elementReferences": [
-                "hariharan:1973a"
+                "hariharan1973a"
             ],
             "elementElectronShells": [
                 {
@@ -91,7 +91,7 @@
         },
         "3": {
             "elementReferences": [
-                "hariharan:1973a"
+                "hariharan1973a"
             ],
             "elementElectronShells": [
                 {
@@ -186,7 +186,7 @@
         },
         "4": {
             "elementReferences": [
-                "hariharan:1973a"
+                "hariharan1973a"
             ],
             "elementElectronShells": [
                 {
@@ -281,7 +281,7 @@
         },
         "5": {
             "elementReferences": [
-                "hariharan:1973a"
+                "hariharan1973a"
             ],
             "elementElectronShells": [
                 {
@@ -376,7 +376,7 @@
         },
         "6": {
             "elementReferences": [
-                "hariharan:1973a"
+                "hariharan1973a"
             ],
             "elementElectronShells": [
                 {
@@ -471,7 +471,7 @@
         },
         "7": {
             "elementReferences": [
-                "hariharan:1973a"
+                "hariharan1973a"
             ],
             "elementElectronShells": [
                 {
@@ -566,7 +566,7 @@
         },
         "8": {
             "elementReferences": [
-                "hariharan:1973a"
+                "hariharan1973a"
             ],
             "elementElectronShells": [
                 {
@@ -661,7 +661,7 @@
         },
         "9": {
             "elementReferences": [
-                "hariharan:1973a"
+                "hariharan1973a"
             ],
             "elementElectronShells": [
                 {
@@ -756,7 +756,7 @@
         },
         "10": {
             "elementReferences": [
-                "hariharan:1973a"
+                "hariharan1973a"
             ],
             "elementElectronShells": [
                 {
@@ -851,7 +851,7 @@
         },
         "11": {
             "elementReferences": [
-                "francl:1982a"
+                "francl1982a"
             ],
             "elementElectronShells": [
                 {
@@ -981,7 +981,7 @@
         },
         "12": {
             "elementReferences": [
-                "francl:1982a"
+                "francl1982a"
             ],
             "elementElectronShells": [
                 {
@@ -1111,7 +1111,7 @@
         },
         "13": {
             "elementReferences": [
-                "francl:1982a"
+                "francl1982a"
             ],
             "elementElectronShells": [
                 {
@@ -1241,7 +1241,7 @@
         },
         "14": {
             "elementReferences": [
-                "francl:1982a"
+                "francl1982a"
             ],
             "elementElectronShells": [
                 {
@@ -1371,7 +1371,7 @@
         },
         "15": {
             "elementReferences": [
-                "francl:1982a"
+                "francl1982a"
             ],
             "elementElectronShells": [
                 {
@@ -1501,7 +1501,7 @@
         },
         "16": {
             "elementReferences": [
-                "francl:1982a"
+                "francl1982a"
             ],
             "elementElectronShells": [
                 {
@@ -1631,7 +1631,7 @@
         },
         "17": {
             "elementReferences": [
-                "francl:1982a"
+                "francl1982a"
             ],
             "elementElectronShells": [
                 {
@@ -1761,7 +1761,7 @@
         },
         "18": {
             "elementReferences": [
-                "francl:1982a"
+                "francl1982a"
             ],
             "elementElectronShells": [
                 {
@@ -1891,7 +1891,7 @@
         },
         "19": {
             "elementReferences": [
-                "rassolov:1998a"
+                "rassolov1998a"
             ],
             "elementElectronShells": [
                 {
@@ -2056,7 +2056,7 @@
         },
         "20": {
             "elementReferences": [
-                "rassolov:1998a"
+                "rassolov1998a"
             ],
             "elementElectronShells": [
                 {
@@ -2221,7 +2221,7 @@
         },
         "21": {
             "elementReferences": [
-                "rassolov:1998a"
+                "rassolov1998a"
             ],
             "elementElectronShells": [
                 {
@@ -2422,7 +2422,7 @@
         },
         "22": {
             "elementReferences": [
-                "rassolov:1998a"
+                "rassolov1998a"
             ],
             "elementElectronShells": [
                 {
@@ -2623,7 +2623,7 @@
         },
         "23": {
             "elementReferences": [
-                "rassolov:1998a"
+                "rassolov1998a"
             ],
             "elementElectronShells": [
                 {
@@ -2824,7 +2824,7 @@
         },
         "24": {
             "elementReferences": [
-                "rassolov:1998a"
+                "rassolov1998a"
             ],
             "elementElectronShells": [
                 {
@@ -3025,7 +3025,7 @@
         },
         "25": {
             "elementReferences": [
-                "rassolov:1998a"
+                "rassolov1998a"
             ],
             "elementElectronShells": [
                 {
@@ -3226,7 +3226,7 @@
         },
         "26": {
             "elementReferences": [
-                "rassolov:1998a"
+                "rassolov1998a"
             ],
             "elementElectronShells": [
                 {
@@ -3427,7 +3427,7 @@
         },
         "27": {
             "elementReferences": [
-                "rassolov:1998a"
+                "rassolov1998a"
             ],
             "elementElectronShells": [
                 {
@@ -3628,7 +3628,7 @@
         },
         "28": {
             "elementReferences": [
-                "rassolov:1998a"
+                "rassolov1998a"
             ],
             "elementElectronShells": [
                 {
@@ -3829,7 +3829,7 @@
         },
         "29": {
             "elementReferences": [
-                "rassolov:1998a"
+                "rassolov1998a"
             ],
             "elementElectronShells": [
                 {
@@ -4030,7 +4030,7 @@
         },
         "30": {
             "elementReferences": [
-                "rassolov:1998a"
+                "rassolov1998a"
             ],
             "elementElectronShells": [
                 {
@@ -4231,7 +4231,7 @@
         },
         "31": {
             "elementReferences": [
-                "rassolov:2001a"
+                "rassolov2001a"
             ],
             "elementElectronShells": [
                 {
@@ -4432,7 +4432,7 @@
         },
         "32": {
             "elementReferences": [
-                "rassolov:2001a"
+                "rassolov2001a"
             ],
             "elementElectronShells": [
                 {
@@ -4633,7 +4633,7 @@
         },
         "33": {
             "elementReferences": [
-                "rassolov:2001a"
+                "rassolov2001a"
             ],
             "elementElectronShells": [
                 {
@@ -4834,7 +4834,7 @@
         },
         "34": {
             "elementReferences": [
-                "rassolov:2001a"
+                "rassolov2001a"
             ],
             "elementElectronShells": [
                 {
@@ -5035,7 +5035,7 @@
         },
         "35": {
             "elementReferences": [
-                "rassolov:2001a"
+                "rassolov2001a"
             ],
             "elementElectronShells": [
                 {
@@ -5236,7 +5236,7 @@
         },
         "36": {
             "elementReferences": [
-                "rassolov:2001a"
+                "rassolov2001a"
             ],
             "elementElectronShells": [
                 {

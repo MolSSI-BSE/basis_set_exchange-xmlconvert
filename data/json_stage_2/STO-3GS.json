@@ -5,7 +5,7 @@
     "basisSetElements": {
         "11": {
             "elementReferences": [
-                "collins:1976a"
+                "collins1976a"
             ],
             "elementElectronShells": [
                 {
@@ -28,7 +28,7 @@
         },
         "12": {
             "elementReferences": [
-                "collins:1976a"
+                "collins1976a"
             ],
             "elementElectronShells": [
                 {
@@ -51,7 +51,7 @@
         },
         "13": {
             "elementReferences": [
-                "collins:1976a"
+                "collins1976a"
             ],
             "elementElectronShells": [
                 {
@@ -74,7 +74,7 @@
         },
         "14": {
             "elementReferences": [
-                "collins:1976a"
+                "collins1976a"
             ],
             "elementElectronShells": [
                 {
@@ -97,7 +97,7 @@
         },
         "15": {
             "elementReferences": [
-                "collins:1976a"
+                "collins1976a"
             ],
             "elementElectronShells": [
                 {
@@ -120,7 +120,7 @@
         },
         "16": {
             "elementReferences": [
-                "collins:1976a"
+                "collins1976a"
             ],
             "elementElectronShells": [
                 {
@@ -143,7 +143,7 @@
         },
         "17": {
             "elementReferences": [
-                "collins:1976a"
+                "collins1976a"
             ],
             "elementElectronShells": [
                 {
@@ -166,7 +166,7 @@
         },
         "18": {
             "elementReferences": [
-                "collins:1976a"
+                "collins1976a"
             ],
             "elementElectronShells": [
                 {

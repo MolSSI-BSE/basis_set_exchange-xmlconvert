@@ -5,7 +5,7 @@
     "basisSetElements": {
         "3": {
             "elementReferences": [
-                "fuentealba:1982a"
+                "fuentealba1982a"
             ],
             "elementElectronShells": [
                 {
@@ -84,7 +84,7 @@
         },
         "4": {
             "elementReferences": [
-                "fuentealba:1982a"
+                "fuentealba1982a"
             ],
             "elementElectronShells": [
                 {
@@ -163,7 +163,7 @@
         },
         "5": {
             "elementReferences": [
-                "bergner:1993a"
+                "bergner1993a"
             ],
             "elementElectronShells": [
                 {
@@ -242,7 +242,7 @@
         },
         "6": {
             "elementReferences": [
-                "bergner:1993a"
+                "bergner1993a"
             ],
             "elementElectronShells": [
                 {
@@ -321,7 +321,7 @@
         },
         "7": {
             "elementReferences": [
-                "bergner:1993a"
+                "bergner1993a"
             ],
             "elementElectronShells": [
                 {
@@ -400,7 +400,7 @@
         },
         "8": {
             "elementReferences": [
-                "bergner:1993a"
+                "bergner1993a"
             ],
             "elementElectronShells": [
                 {
@@ -495,7 +495,7 @@
         },
         "9": {
             "elementReferences": [
-                "bergner:1993a"
+                "bergner1993a"
             ],
             "elementElectronShells": [
                 {
@@ -590,7 +590,7 @@
         },
         "10": {
             "elementReferences": [
-                "bergner:1993a"
+                "bergner1993a"
             ],
             "elementElectronShells": [
                 {
@@ -878,7 +878,7 @@
         },
         "12": {
             "elementReferences": [
-                "fuentealba:1985a"
+                "fuentealba1985a"
             ],
             "elementElectronShells": [
                 {
@@ -957,7 +957,7 @@
         },
         "13": {
             "elementReferences": [
-                "igel-mann:1988a"
+                "igel-mann1988a"
             ],
             "elementElectronShells": [
                 {
@@ -3374,7 +3374,7 @@
         },
         "80": {
             "elementReferences": [
-                "kuchle:1991a"
+                "kuchle1991a"
             ],
             "elementElectronShells": [
                 {
@@ -3469,7 +3469,7 @@
         },
         "81": {
             "elementReferences": [
-                "kuchle:1991a"
+                "kuchle1991a"
             ],
             "elementElectronShells": [
                 {
@@ -3564,7 +3564,7 @@
         },
         "82": {
             "elementReferences": [
-                "kuchle:1991a"
+                "kuchle1991a"
             ],
             "elementElectronShells": [
                 {
@@ -3659,7 +3659,7 @@
         },
         "83": {
             "elementReferences": [
-                "kuchle:1991a"
+                "kuchle1991a"
             ],
             "elementElectronShells": [
                 {
@@ -3754,7 +3754,7 @@
         },
         "84": {
             "elementReferences": [
-                "kuchle:1991a"
+                "kuchle1991a"
             ],
             "elementElectronShells": [
                 {
@@ -3865,7 +3865,7 @@
         },
         "85": {
             "elementReferences": [
-                "kuchle:1991a"
+                "kuchle1991a"
             ],
             "elementElectronShells": [
                 {
@@ -3976,7 +3976,7 @@
         },
         "86": {
             "elementReferences": [
-                "kuchle:1991a"
+                "kuchle1991a"
             ],
             "elementElectronShells": [
                 {

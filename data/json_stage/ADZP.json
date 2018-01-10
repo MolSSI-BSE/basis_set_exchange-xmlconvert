@@ -5,7 +5,7 @@
     "basisSetElements": {
         "1": {
             "elementReferences": [
-                "neto:2005a"
+                "neto2005a"
             ],
             "elementElectronShells": [
                 {
@@ -72,7 +72,7 @@
         },
         "3": {
             "elementReferences": [
-                "neto:2005a"
+                "neto2005a"
             ],
             "elementElectronShells": [
                 {
@@ -225,7 +225,7 @@
         },
         "4": {
             "elementReferences": [
-                "neto:2005a"
+                "neto2005a"
             ],
             "elementElectronShells": [
                 {
@@ -378,7 +378,7 @@
         },
         "5": {
             "elementReferences": [
-                "neto:2005a"
+                "neto2005a"
             ],
             "elementElectronShells": [
                 {
@@ -531,7 +531,7 @@
         },
         "6": {
             "elementReferences": [
-                "neto:2005a"
+                "neto2005a"
             ],
             "elementElectronShells": [
                 {
@@ -684,7 +684,7 @@
         },
         "7": {
             "elementReferences": [
-                "neto:2005a"
+                "neto2005a"
             ],
             "elementElectronShells": [
                 {
@@ -837,7 +837,7 @@
         },
         "8": {
             "elementReferences": [
-                "neto:2005a"
+                "neto2005a"
             ],
             "elementElectronShells": [
                 {
@@ -990,7 +990,7 @@
         },
         "9": {
             "elementReferences": [
-                "neto:2005a"
+                "neto2005a"
             ],
             "elementElectronShells": [
                 {
@@ -1143,7 +1143,7 @@
         },
         "10": {
             "elementReferences": [
-                "neto:2005a"
+                "neto2005a"
             ],
             "elementElectronShells": [
                 {
@@ -1296,7 +1296,7 @@
         },
         "11": {
             "elementReferences": [
-                "neto:2005a"
+                "neto2005a"
             ],
             "elementElectronShells": [
                 {
@@ -1552,7 +1552,7 @@
         },
         "12": {
             "elementReferences": [
-                "neto:2005a"
+                "neto2005a"
             ],
             "elementElectronShells": [
                 {
@@ -1808,7 +1808,7 @@
         },
         "13": {
             "elementReferences": [
-                "neto:2005a"
+                "neto2005a"
             ],
             "elementElectronShells": [
                 {
@@ -2064,7 +2064,7 @@
         },
         "14": {
             "elementReferences": [
-                "neto:2005a"
+                "neto2005a"
             ],
             "elementElectronShells": [
                 {
@@ -2320,7 +2320,7 @@
         },
         "15": {
             "elementReferences": [
-                "neto:2005a"
+                "neto2005a"
             ],
             "elementElectronShells": [
                 {
@@ -2576,7 +2576,7 @@
         },
         "16": {
             "elementReferences": [
-                "neto:2005a"
+                "neto2005a"
             ],
             "elementElectronShells": [
                 {
@@ -2832,7 +2832,7 @@
         },
         "17": {
             "elementReferences": [
-                "neto:2005a"
+                "neto2005a"
             ],
             "elementElectronShells": [
                 {
@@ -3088,7 +3088,7 @@
         },
         "18": {
             "elementReferences": [
-                "neto:2005a"
+                "neto2005a"
             ],
             "elementElectronShells": [
                 {
@@ -3344,7 +3344,7 @@
         },
         "19": {
             "elementReferences": [
-                "camiletti:2009a"
+                "camiletti2009a"
             ],
             "elementElectronShells": [
                 {
@@ -3693,7 +3693,7 @@
         },
         "21": {
             "elementReferences": [
-                "camiletti:2009a"
+                "camiletti2009a"
             ],
             "elementElectronShells": [
                 {
@@ -4084,7 +4084,7 @@
         },
         "22": {
             "elementReferences": [
-                "camiletti:2009a"
+                "camiletti2009a"
             ],
             "elementElectronShells": [
                 {
@@ -4475,7 +4475,7 @@
         },
         "23": {
             "elementReferences": [
-                "camiletti:2009a"
+                "camiletti2009a"
             ],
             "elementElectronShells": [
                 {
@@ -5255,7 +5255,7 @@
         },
         "25": {
             "elementReferences": [
-                "camiletti:2009a"
+                "camiletti2009a"
             ],
             "elementElectronShells": [
                 {
@@ -5646,7 +5646,7 @@
         },
         "26": {
             "elementReferences": [
-                "camiletti:2009a"
+                "camiletti2009a"
             ],
             "elementElectronShells": [
                 {
@@ -6037,7 +6037,7 @@
         },
         "27": {
             "elementReferences": [
-                "camiletti:2009a"
+                "camiletti2009a"
             ],
             "elementElectronShells": [
                 {
@@ -6428,7 +6428,7 @@
         },
         "28": {
             "elementReferences": [
-                "camiletti:2009a"
+                "camiletti2009a"
             ],
             "elementElectronShells": [
                 {
@@ -6819,7 +6819,7 @@
         },
         "29": {
             "elementReferences": [
-                "camiletti:2009a"
+                "camiletti2009a"
             ],
             "elementElectronShells": [
                 {
@@ -7210,7 +7210,7 @@
         },
         "30": {
             "elementReferences": [
-                "camiletti:2009a"
+                "camiletti2009a"
             ],
             "elementElectronShells": [
                 {
@@ -7601,7 +7601,7 @@
         },
         "31": {
             "elementReferences": [
-                "camiletti:2009a"
+                "camiletti2009a"
             ],
             "elementElectronShells": [
                 {
@@ -7992,7 +7992,7 @@
         },
         "32": {
             "elementReferences": [
-                "camiletti:2009a"
+                "camiletti2009a"
             ],
             "elementElectronShells": [
                 {
@@ -8383,7 +8383,7 @@
         },
         "33": {
             "elementReferences": [
-                "camiletti:2009a"
+                "camiletti2009a"
             ],
             "elementElectronShells": [
                 {
@@ -8774,7 +8774,7 @@
         },
         "34": {
             "elementReferences": [
-                "camiletti:2009a"
+                "camiletti2009a"
             ],
             "elementElectronShells": [
                 {
@@ -9165,7 +9165,7 @@
         },
         "35": {
             "elementReferences": [
-                "camiletti:2009a"
+                "camiletti2009a"
             ],
             "elementElectronShells": [
                 {
@@ -9556,7 +9556,7 @@
         },
         "36": {
             "elementReferences": [
-                "camiletti:2009a"
+                "camiletti2009a"
             ],
             "elementElectronShells": [
                 {
@@ -9947,7 +9947,7 @@
         },
         "37": {
             "elementReferences": [
-                "oliveira:2010a"
+                "oliveira2010a"
             ],
             "elementElectronShells": [
                 {
@@ -10328,7 +10328,7 @@
         },
         "39": {
             "elementReferences": [
-                "oliveira:2010a"
+                "oliveira2010a"
             ],
             "elementElectronShells": [
                 {
@@ -10775,7 +10775,7 @@
         },
         "40": {
             "elementReferences": [
-                "oliveira:2010a"
+                "oliveira2010a"
             ],
             "elementElectronShells": [
                 {
@@ -11253,7 +11253,7 @@
         },
         "41": {
             "elementReferences": [
-                "oliveira:2010a"
+                "oliveira2010a"
             ],
             "elementElectronShells": [
                 {
@@ -11700,7 +11700,7 @@
         },
         "42": {
             "elementReferences": [
-                "oliveira:2010a"
+                "oliveira2010a"
             ],
             "elementElectronShells": [
                 {
@@ -12178,7 +12178,7 @@
         },
         "43": {
             "elementReferences": [
-                "oliveira:2010a"
+                "oliveira2010a"
             ],
             "elementElectronShells": [
                 {
@@ -12656,7 +12656,7 @@
         },
         "44": {
             "elementReferences": [
-                "oliveira:2010a"
+                "oliveira2010a"
             ],
             "elementElectronShells": [
                 {
@@ -13134,7 +13134,7 @@
         },
         "45": {
             "elementReferences": [
-                "oliveira:2010a"
+                "oliveira2010a"
             ],
             "elementElectronShells": [
                 {
@@ -13581,7 +13581,7 @@
         },
         "46": {
             "elementReferences": [
-                "oliveira:2010a"
+                "oliveira2010a"
             ],
             "elementElectronShells": [
                 {
@@ -14059,7 +14059,7 @@
         },
         "47": {
             "elementReferences": [
-                "oliveira:2010a"
+                "oliveira2010a"
             ],
             "elementElectronShells": [
                 {
@@ -14506,7 +14506,7 @@
         },
         "48": {
             "elementReferences": [
-                "oliveira:2010a"
+                "oliveira2010a"
             ],
             "elementElectronShells": [
                 {
@@ -14984,7 +14984,7 @@
         },
         "49": {
             "elementReferences": [
-                "oliveira:2010a"
+                "oliveira2010a"
             ],
             "elementElectronShells": [
                 {
@@ -15462,7 +15462,7 @@
         },
         "50": {
             "elementReferences": [
-                "oliveira:2010a"
+                "oliveira2010a"
             ],
             "elementElectronShells": [
                 {
@@ -15940,7 +15940,7 @@
         },
         "51": {
             "elementReferences": [
-                "oliveira:2010a"
+                "oliveira2010a"
             ],
             "elementElectronShells": [
                 {
@@ -16418,7 +16418,7 @@
         },
         "52": {
             "elementReferences": [
-                "oliveira:2010a"
+                "oliveira2010a"
             ],
             "elementElectronShells": [
                 {
@@ -16896,7 +16896,7 @@
         },
         "53": {
             "elementReferences": [
-                "oliveira:2010a"
+                "oliveira2010a"
             ],
             "elementElectronShells": [
                 {
@@ -17374,7 +17374,7 @@
         },
         "54": {
             "elementReferences": [
-                "oliveira:2010a"
+                "oliveira2010a"
             ],
             "elementElectronShells": [
                 {
@@ -17852,7 +17852,7 @@
         },
         "55": {
             "elementReferences": [
-                "neto:2013a"
+                "neto2013a"
             ],
             "elementElectronShells": [
                 {
@@ -18293,7 +18293,7 @@
         },
         "56": {
             "elementReferences": [
-                "neto:2013a"
+                "neto2013a"
             ],
             "elementElectronShells": [
                 {
@@ -18702,7 +18702,7 @@
         },
         "57": {
             "elementReferences": [
-                "neto:2013a"
+                "neto2013a"
             ],
             "elementElectronShells": [
                 {
@@ -19207,7 +19207,7 @@
         },
         "72": {
             "elementReferences": [
-                "neto:2013a"
+                "neto2013a"
             ],
             "elementElectronShells": [
                 {
@@ -19707,7 +19707,7 @@
         },
         "73": {
             "elementReferences": [
-                "neto:2013a"
+                "neto2013a"
             ],
             "elementElectronShells": [
                 {
@@ -20207,7 +20207,7 @@
         },
         "74": {
             "elementReferences": [
-                "neto:2013a"
+                "neto2013a"
             ],
             "elementElectronShells": [
                 {
@@ -20732,7 +20732,7 @@
         },
         "75": {
             "elementReferences": [
-                "neto:2013a"
+                "neto2013a"
             ],
             "elementElectronShells": [
                 {
@@ -21232,7 +21232,7 @@
         },
         "76": {
             "elementReferences": [
-                "neto:2013a"
+                "neto2013a"
             ],
             "elementElectronShells": [
                 {
@@ -21732,7 +21732,7 @@
         },
         "77": {
             "elementReferences": [
-                "neto:2013a"
+                "neto2013a"
             ],
             "elementElectronShells": [
                 {
@@ -22232,7 +22232,7 @@
         },
         "78": {
             "elementReferences": [
-                "berreado:2011a"
+                "berreado2011a"
             ],
             "elementElectronShells": [
                 {
@@ -22784,7 +22784,7 @@
         },
         "79": {
             "elementReferences": [
-                "neto:2013a"
+                "neto2013a"
             ],
             "elementElectronShells": [
                 {
@@ -23336,7 +23336,7 @@
         },
         "80": {
             "elementReferences": [
-                "neto:2013a"
+                "neto2013a"
             ],
             "elementElectronShells": [
                 {
@@ -23836,7 +23836,7 @@
         },
         "81": {
             "elementReferences": [
-                "neto:2013a"
+                "neto2013a"
             ],
             "elementElectronShells": [
                 {
@@ -24388,7 +24388,7 @@
         },
         "82": {
             "elementReferences": [
-                "neto:2013a"
+                "neto2013a"
             ],
             "elementElectronShells": [
                 {
@@ -24940,7 +24940,7 @@
         },
         "83": {
             "elementReferences": [
-                "neto:2013a"
+                "neto2013a"
             ],
             "elementElectronShells": [
                 {
@@ -25492,7 +25492,7 @@
         },
         "84": {
             "elementReferences": [
-                "neto:2013a"
+                "neto2013a"
             ],
             "elementElectronShells": [
                 {
@@ -26044,7 +26044,7 @@
         },
         "85": {
             "elementReferences": [
-                "neto:2013a"
+                "neto2013a"
             ],
             "elementElectronShells": [
                 {
@@ -26596,7 +26596,7 @@
         },
         "86": {
             "elementReferences": [
-                "neto:2013a"
+                "neto2013a"
             ],
             "elementElectronShells": [
                 {

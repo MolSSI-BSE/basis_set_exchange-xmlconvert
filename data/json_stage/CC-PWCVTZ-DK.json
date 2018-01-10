@@ -5,7 +5,7 @@
     "basisSetElements": {
         "21": {
             "elementReferences": [
-                "balabanov:2005a"
+                "balabanov2005a"
             ],
             "elementElectronShells": [
                 {
@@ -598,7 +598,7 @@
         },
         "22": {
             "elementReferences": [
-                "balabanov:2005a"
+                "balabanov2005a"
             ],
             "elementElectronShells": [
                 {
@@ -1191,7 +1191,7 @@
         },
         "23": {
             "elementReferences": [
-                "balabanov:2005a"
+                "balabanov2005a"
             ],
             "elementElectronShells": [
                 {
@@ -1777,7 +1777,7 @@
         },
         "24": {
             "elementReferences": [
-                "balabanov:2005a"
+                "balabanov2005a"
             ],
             "elementElectronShells": [
                 {
@@ -2370,7 +2370,7 @@
         },
         "25": {
             "elementReferences": [
-                "balabanov:2005a"
+                "balabanov2005a"
             ],
             "elementElectronShells": [
                 {
@@ -2963,7 +2963,7 @@
         },
         "26": {
             "elementReferences": [
-                "balabanov:2005a"
+                "balabanov2005a"
             ],
             "elementElectronShells": [
                 {
@@ -3556,7 +3556,7 @@
         },
         "27": {
             "elementReferences": [
-                "balabanov:2005a"
+                "balabanov2005a"
             ],
             "elementElectronShells": [
                 {
@@ -4149,7 +4149,7 @@
         },
         "28": {
             "elementReferences": [
-                "balabanov:2005a"
+                "balabanov2005a"
             ],
             "elementElectronShells": [
                 {
@@ -4742,7 +4742,7 @@
         },
         "29": {
             "elementReferences": [
-                "balabanov:2005a"
+                "balabanov2005a"
             ],
             "elementElectronShells": [
                 {
@@ -5335,7 +5335,7 @@
         },
         "30": {
             "elementReferences": [
-                "balabanov:2005a"
+                "balabanov2005a"
             ],
             "elementElectronShells": [
                 {
@@ -5928,7 +5928,7 @@
         },
         "39": {
             "elementReferences": [
-                "peterson:2007a"
+                "peterson2007a"
             ],
             "elementElectronShells": [
                 {
@@ -6741,7 +6741,7 @@
         },
         "40": {
             "elementReferences": [
-                "peterson:2007a"
+                "peterson2007a"
             ],
             "elementElectronShells": [
                 {
@@ -7554,7 +7554,7 @@
         },
         "41": {
             "elementReferences": [
-                "peterson:2007a"
+                "peterson2007a"
             ],
             "elementElectronShells": [
                 {
@@ -8367,7 +8367,7 @@
         },
         "42": {
             "elementReferences": [
-                "peterson:2007a"
+                "peterson2007a"
             ],
             "elementElectronShells": [
                 {
@@ -9180,7 +9180,7 @@
         },
         "43": {
             "elementReferences": [
-                "peterson:2007a"
+                "peterson2007a"
             ],
             "elementElectronShells": [
                 {
@@ -9993,7 +9993,7 @@
         },
         "44": {
             "elementReferences": [
-                "peterson:2007a"
+                "peterson2007a"
             ],
             "elementElectronShells": [
                 {
@@ -10806,7 +10806,7 @@
         },
         "45": {
             "elementReferences": [
-                "peterson:2007a"
+                "peterson2007a"
             ],
             "elementElectronShells": [
                 {
@@ -11619,7 +11619,7 @@
         },
         "46": {
             "elementReferences": [
-                "peterson:2007a"
+                "peterson2007a"
             ],
             "elementElectronShells": [
                 {

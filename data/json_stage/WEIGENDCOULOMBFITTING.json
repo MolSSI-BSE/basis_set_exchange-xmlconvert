@@ -5,7 +5,7 @@
     "basisSetElements": {
         "1": {
             "elementReferences": [
-                "weigend:2006a"
+                "weigend2006a"
             ],
             "elementElectronShells": [
                 {
@@ -84,7 +84,7 @@
         },
         "2": {
             "elementReferences": [
-                "weigend:2006a"
+                "weigend2006a"
             ],
             "elementElectronShells": [
                 {
@@ -163,7 +163,7 @@
         },
         "3": {
             "elementReferences": [
-                "weigend:2006a"
+                "weigend2006a"
             ],
             "elementElectronShells": [
                 {
@@ -391,7 +391,7 @@
         },
         "4": {
             "elementReferences": [
-                "weigend:2006a"
+                "weigend2006a"
             ],
             "elementElectronShells": [
                 {
@@ -619,7 +619,7 @@
         },
         "5": {
             "elementReferences": [
-                "weigend:2006a"
+                "weigend2006a"
             ],
             "elementElectronShells": [
                 {
@@ -847,7 +847,7 @@
         },
         "6": {
             "elementReferences": [
-                "weigend:2006a"
+                "weigend2006a"
             ],
             "elementElectronShells": [
                 {
@@ -1075,7 +1075,7 @@
         },
         "7": {
             "elementReferences": [
-                "weigend:2006a"
+                "weigend2006a"
             ],
             "elementElectronShells": [
                 {
@@ -1303,7 +1303,7 @@
         },
         "8": {
             "elementReferences": [
-                "weigend:2006a"
+                "weigend2006a"
             ],
             "elementElectronShells": [
                 {
@@ -1531,7 +1531,7 @@
         },
         "9": {
             "elementReferences": [
-                "weigend:2006a"
+                "weigend2006a"
             ],
             "elementElectronShells": [
                 {
@@ -1759,7 +1759,7 @@
         },
         "10": {
             "elementReferences": [
-                "weigend:2006a"
+                "weigend2006a"
             ],
             "elementElectronShells": [
                 {
@@ -1987,7 +1987,7 @@
         },
         "11": {
             "elementReferences": [
-                "weigend:2006a"
+                "weigend2006a"
             ],
             "elementElectronShells": [
                 {
@@ -2272,7 +2272,7 @@
         },
         "12": {
             "elementReferences": [
-                "weigend:2006a"
+                "weigend2006a"
             ],
             "elementElectronShells": [
                 {
@@ -2557,7 +2557,7 @@
         },
         "13": {
             "elementReferences": [
-                "weigend:2006a"
+                "weigend2006a"
             ],
             "elementElectronShells": [
                 {
@@ -2835,7 +2835,7 @@
         },
         "14": {
             "elementReferences": [
-                "weigend:2006a"
+                "weigend2006a"
             ],
             "elementElectronShells": [
                 {
@@ -3113,7 +3113,7 @@
         },
         "15": {
             "elementReferences": [
-                "weigend:2006a"
+                "weigend2006a"
             ],
             "elementElectronShells": [
                 {
@@ -3391,7 +3391,7 @@
         },
         "16": {
             "elementReferences": [
-                "weigend:2006a"
+                "weigend2006a"
             ],
             "elementElectronShells": [
                 {
@@ -3669,7 +3669,7 @@
         },
         "17": {
             "elementReferences": [
-                "weigend:2006a"
+                "weigend2006a"
             ],
             "elementElectronShells": [
                 {
@@ -3947,7 +3947,7 @@
         },
         "18": {
             "elementReferences": [
-                "weigend:2006a"
+                "weigend2006a"
             ],
             "elementElectronShells": [
                 {
@@ -4225,7 +4225,7 @@
         },
         "19": {
             "elementReferences": [
-                "weigend:2006a"
+                "weigend2006a"
             ],
             "elementElectronShells": [
                 {
@@ -4557,7 +4557,7 @@
         },
         "20": {
             "elementReferences": [
-                "weigend:2006a"
+                "weigend2006a"
             ],
             "elementElectronShells": [
                 {
@@ -4889,7 +4889,7 @@
         },
         "21": {
             "elementReferences": [
-                "weigend:2006a"
+                "weigend2006a"
             ],
             "elementElectronShells": [
                 {
@@ -5254,7 +5254,7 @@
         },
         "22": {
             "elementReferences": [
-                "weigend:2006a"
+                "weigend2006a"
             ],
             "elementElectronShells": [
                 {
@@ -5619,7 +5619,7 @@
         },
         "23": {
             "elementReferences": [
-                "weigend:2006a"
+                "weigend2006a"
             ],
             "elementElectronShells": [
                 {
@@ -5984,7 +5984,7 @@
         },
         "24": {
             "elementReferences": [
-                "weigend:2006a"
+                "weigend2006a"
             ],
             "elementElectronShells": [
                 {
@@ -6349,7 +6349,7 @@
         },
         "25": {
             "elementReferences": [
-                "weigend:2006a"
+                "weigend2006a"
             ],
             "elementElectronShells": [
                 {
@@ -6714,7 +6714,7 @@
         },
         "26": {
             "elementReferences": [
-                "weigend:2006a"
+                "weigend2006a"
             ],
             "elementElectronShells": [
                 {
@@ -7079,7 +7079,7 @@
         },
         "27": {
             "elementReferences": [
-                "weigend:2006a"
+                "weigend2006a"
             ],
             "elementElectronShells": [
                 {
@@ -7444,7 +7444,7 @@
         },
         "28": {
             "elementReferences": [
-                "weigend:2006a"
+                "weigend2006a"
             ],
             "elementElectronShells": [
                 {
@@ -7809,7 +7809,7 @@
         },
         "29": {
             "elementReferences": [
-                "weigend:2006a"
+                "weigend2006a"
             ],
             "elementElectronShells": [
                 {
@@ -8172,7 +8172,7 @@
         },
         "30": {
             "elementReferences": [
-                "weigend:2006a"
+                "weigend2006a"
             ],
             "elementElectronShells": [
                 {
@@ -8537,7 +8537,7 @@
         },
         "31": {
             "elementReferences": [
-                "weigend:2006a"
+                "weigend2006a"
             ],
             "elementElectronShells": [
                 {
@@ -8867,7 +8867,7 @@
         },
         "32": {
             "elementReferences": [
-                "weigend:2006a"
+                "weigend2006a"
             ],
             "elementElectronShells": [
                 {
@@ -9197,7 +9197,7 @@
         },
         "33": {
             "elementReferences": [
-                "weigend:2006a"
+                "weigend2006a"
             ],
             "elementElectronShells": [
                 {
@@ -9527,7 +9527,7 @@
         },
         "34": {
             "elementReferences": [
-                "weigend:2006a"
+                "weigend2006a"
             ],
             "elementElectronShells": [
                 {
@@ -9857,7 +9857,7 @@
         },
         "35": {
             "elementReferences": [
-                "weigend:2006a"
+                "weigend2006a"
             ],
             "elementElectronShells": [
                 {
@@ -10187,7 +10187,7 @@
         },
         "36": {
             "elementReferences": [
-                "weigend:2006a"
+                "weigend2006a"
             ],
             "elementElectronShells": [
                 {
@@ -10517,7 +10517,7 @@
         },
         "37": {
             "elementReferences": [
-                "weigend:2006a"
+                "weigend2006a"
             ],
             "elementElectronShells": [
                 {
@@ -10777,7 +10777,7 @@
         },
         "38": {
             "elementReferences": [
-                "weigend:2006a"
+                "weigend2006a"
             ],
             "elementElectronShells": [
                 {
@@ -11037,7 +11037,7 @@
         },
         "39": {
             "elementReferences": [
-                "weigend:2006a"
+                "weigend2006a"
             ],
             "elementElectronShells": [
                 {
@@ -11330,7 +11330,7 @@
         },
         "40": {
             "elementReferences": [
-                "weigend:2006a"
+                "weigend2006a"
             ],
             "elementElectronShells": [
                 {
@@ -11623,7 +11623,7 @@
         },
         "41": {
             "elementReferences": [
-                "weigend:2006a"
+                "weigend2006a"
             ],
             "elementElectronShells": [
                 {
@@ -11916,7 +11916,7 @@
         },
         "42": {
             "elementReferences": [
-                "weigend:2006a"
+                "weigend2006a"
             ],
             "elementElectronShells": [
                 {
@@ -12209,7 +12209,7 @@
         },
         "43": {
             "elementReferences": [
-                "weigend:2006a"
+                "weigend2006a"
             ],
             "elementElectronShells": [
                 {
@@ -12502,7 +12502,7 @@
         },
         "44": {
             "elementReferences": [
-                "weigend:2006a"
+                "weigend2006a"
             ],
             "elementElectronShells": [
                 {
@@ -12795,7 +12795,7 @@
         },
         "45": {
             "elementReferences": [
-                "weigend:2006a"
+                "weigend2006a"
             ],
             "elementElectronShells": [
                 {
@@ -13088,7 +13088,7 @@
         },
         "46": {
             "elementReferences": [
-                "weigend:2006a"
+                "weigend2006a"
             ],
             "elementElectronShells": [
                 {
@@ -13381,7 +13381,7 @@
         },
         "47": {
             "elementReferences": [
-                "weigend:2006a"
+                "weigend2006a"
             ],
             "elementElectronShells": [
                 {
@@ -13674,7 +13674,7 @@
         },
         "48": {
             "elementReferences": [
-                "weigend:2006a"
+                "weigend2006a"
             ],
             "elementElectronShells": [
                 {
@@ -13967,7 +13967,7 @@
         },
         "49": {
             "elementReferences": [
-                "weigend:2006a"
+                "weigend2006a"
             ],
             "elementElectronShells": [
                 {
@@ -14225,7 +14225,7 @@
         },
         "50": {
             "elementReferences": [
-                "weigend:2006a"
+                "weigend2006a"
             ],
             "elementElectronShells": [
                 {
@@ -14483,7 +14483,7 @@
         },
         "51": {
             "elementReferences": [
-                "weigend:2006a"
+                "weigend2006a"
             ],
             "elementElectronShells": [
                 {
@@ -14997,7 +14997,7 @@
         },
         "53": {
             "elementReferences": [
-                "weigend:2006a"
+                "weigend2006a"
             ],
             "elementElectronShells": [
                 {
@@ -15255,7 +15255,7 @@
         },
         "54": {
             "elementReferences": [
-                "weigend:2006a"
+                "weigend2006a"
             ],
             "elementElectronShells": [
                 {
@@ -15513,7 +15513,7 @@
         },
         "55": {
             "elementReferences": [
-                "weigend:2006a"
+                "weigend2006a"
             ],
             "elementElectronShells": [
                 {
@@ -15773,7 +15773,7 @@
         },
         "56": {
             "elementReferences": [
-                "weigend:2006a"
+                "weigend2006a"
             ],
             "elementElectronShells": [
                 {
@@ -16033,7 +16033,7 @@
         },
         "57": {
             "elementReferences": [
-                "weigend:2006a"
+                "weigend2006a"
             ],
             "elementElectronShells": [
                 {
@@ -16326,7 +16326,7 @@
         },
         "72": {
             "elementReferences": [
-                "weigend:2006a"
+                "weigend2006a"
             ],
             "elementElectronShells": [
                 {
@@ -16619,7 +16619,7 @@
         },
         "73": {
             "elementReferences": [
-                "weigend:2006a"
+                "weigend2006a"
             ],
             "elementElectronShells": [
                 {
@@ -16912,7 +16912,7 @@
         },
         "74": {
             "elementReferences": [
-                "weigend:2006a"
+                "weigend2006a"
             ],
             "elementElectronShells": [
                 {
@@ -17205,7 +17205,7 @@
         },
         "75": {
             "elementReferences": [
-                "weigend:2006a"
+                "weigend2006a"
             ],
             "elementElectronShells": [
                 {
@@ -17498,7 +17498,7 @@
         },
         "76": {
             "elementReferences": [
-                "weigend:2006a"
+                "weigend2006a"
             ],
             "elementElectronShells": [
                 {
@@ -17791,7 +17791,7 @@
         },
         "77": {
             "elementReferences": [
-                "weigend:2006a"
+                "weigend2006a"
             ],
             "elementElectronShells": [
                 {
@@ -18084,7 +18084,7 @@
         },
         "78": {
             "elementReferences": [
-                "weigend:2006a"
+                "weigend2006a"
             ],
             "elementElectronShells": [
                 {
@@ -18377,7 +18377,7 @@
         },
         "79": {
             "elementReferences": [
-                "weigend:2006a"
+                "weigend2006a"
             ],
             "elementElectronShells": [
                 {
@@ -18670,7 +18670,7 @@
         },
         "80": {
             "elementReferences": [
-                "weigend:2006a"
+                "weigend2006a"
             ],
             "elementElectronShells": [
                 {
@@ -18963,7 +18963,7 @@
         },
         "81": {
             "elementReferences": [
-                "weigend:2006a"
+                "weigend2006a"
             ],
             "elementElectronShells": [
                 {
@@ -19221,7 +19221,7 @@
         },
         "82": {
             "elementReferences": [
-                "weigend:2006a"
+                "weigend2006a"
             ],
             "elementElectronShells": [
                 {
@@ -19479,7 +19479,7 @@
         },
         "83": {
             "elementReferences": [
-                "weigend:2006a"
+                "weigend2006a"
             ],
             "elementElectronShells": [
                 {
@@ -19737,7 +19737,7 @@
         },
         "84": {
             "elementReferences": [
-                "weigend:2006a"
+                "weigend2006a"
             ],
             "elementElectronShells": [
                 {
@@ -19995,7 +19995,7 @@
         },
         "85": {
             "elementReferences": [
-                "weigend:2006a"
+                "weigend2006a"
             ],
             "elementElectronShells": [
                 {
@@ -20253,7 +20253,7 @@
         },
         "86": {
             "elementReferences": [
-                "weigend:2006a"
+                "weigend2006a"
             ],
             "elementElectronShells": [
                 {

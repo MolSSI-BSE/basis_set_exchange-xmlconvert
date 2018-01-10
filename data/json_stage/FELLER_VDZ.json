@@ -5,8 +5,8 @@
     "basisSetElements": {
         "19": {
             "elementReferences": [
-                "schafer:1992a",
-                "feller:1995a"
+                "schafer1992a",
+                "feller1995a"
             ],
             "elementElectronShells": [
                 {

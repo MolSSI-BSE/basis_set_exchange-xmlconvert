@@ -5,10 +5,10 @@
     "basisSetElements": {
         "1": {
             "elementReferences": [
-                "dunning:1989a",
-                "woon:1994a",
-                "dunning:1989a",
-                "woon:1993a"
+                "dunning1989a",
+                "woon1994a",
+                "dunning1989a",
+                "woon1993a"
             ],
             "elementElectronShells": [
                 {
@@ -193,10 +193,10 @@
         },
         "2": {
             "elementReferences": [
-                "dunning:1989a",
-                "woon:1994a",
-                "dunning:1989a",
-                "woon:1993a"
+                "dunning1989a",
+                "woon1994a",
+                "dunning1989a",
+                "woon1993a"
             ],
             "elementElectronShells": [
                 {
@@ -381,10 +381,10 @@
         },
         "5": {
             "elementReferences": [
-                "dunning:1989a",
-                "woon:1994a",
-                "dunning:1989a",
-                "woon:1993a"
+                "dunning1989a",
+                "woon1994a",
+                "dunning1989a",
+                "woon1993a"
             ],
             "elementElectronShells": [
                 {
@@ -691,10 +691,10 @@
         },
         "6": {
             "elementReferences": [
-                "dunning:1989a",
-                "woon:1994a",
-                "dunning:1989a",
-                "woon:1993a"
+                "dunning1989a",
+                "woon1994a",
+                "dunning1989a",
+                "woon1993a"
             ],
             "elementElectronShells": [
                 {
@@ -1001,10 +1001,10 @@
         },
         "7": {
             "elementReferences": [
-                "dunning:1989a",
-                "woon:1994a",
-                "dunning:1989a",
-                "woon:1993a"
+                "dunning1989a",
+                "woon1994a",
+                "dunning1989a",
+                "woon1993a"
             ],
             "elementElectronShells": [
                 {
@@ -1311,10 +1311,10 @@
         },
         "8": {
             "elementReferences": [
-                "dunning:1989a",
-                "woon:1994a",
-                "dunning:1989a",
-                "woon:1993a"
+                "dunning1989a",
+                "woon1994a",
+                "dunning1989a",
+                "woon1993a"
             ],
             "elementElectronShells": [
                 {
@@ -1621,10 +1621,10 @@
         },
         "9": {
             "elementReferences": [
-                "dunning:1989a",
-                "woon:1994a",
-                "dunning:1989a",
-                "woon:1993a"
+                "dunning1989a",
+                "woon1994a",
+                "dunning1989a",
+                "woon1993a"
             ],
             "elementElectronShells": [
                 {
@@ -1931,10 +1931,10 @@
         },
         "10": {
             "elementReferences": [
-                "dunning:1989a",
-                "woon:1994a",
-                "dunning:1989a",
-                "woon:1993a"
+                "dunning1989a",
+                "woon1994a",
+                "dunning1989a",
+                "woon1993a"
             ],
             "elementElectronShells": [
                 {
@@ -2241,10 +2241,10 @@
         },
         "13": {
             "elementReferences": [
-                "dunning:1989a",
-                "woon:1994a",
-                "dunning:1989a",
-                "woon:1993a"
+                "dunning1989a",
+                "woon1994a",
+                "dunning1989a",
+                "woon1993a"
             ],
             "elementElectronShells": [
                 {
@@ -2653,10 +2653,10 @@
         },
         "14": {
             "elementReferences": [
-                "dunning:1989a",
-                "woon:1994a",
-                "dunning:1989a",
-                "woon:1993a"
+                "dunning1989a",
+                "woon1994a",
+                "dunning1989a",
+                "woon1993a"
             ],
             "elementElectronShells": [
                 {
@@ -3065,10 +3065,10 @@
         },
         "15": {
             "elementReferences": [
-                "dunning:1989a",
-                "woon:1994a",
-                "dunning:1989a",
-                "woon:1993a"
+                "dunning1989a",
+                "woon1994a",
+                "dunning1989a",
+                "woon1993a"
             ],
             "elementElectronShells": [
                 {
@@ -3477,10 +3477,10 @@
         },
         "16": {
             "elementReferences": [
-                "dunning:1989a",
-                "woon:1994a",
-                "dunning:1989a",
-                "woon:1993a"
+                "dunning1989a",
+                "woon1994a",
+                "dunning1989a",
+                "woon1993a"
             ],
             "elementElectronShells": [
                 {
@@ -3889,10 +3889,10 @@
         },
         "17": {
             "elementReferences": [
-                "dunning:1989a",
-                "woon:1994a",
-                "dunning:1989a",
-                "woon:1993a"
+                "dunning1989a",
+                "woon1994a",
+                "dunning1989a",
+                "woon1993a"
             ],
             "elementElectronShells": [
                 {
@@ -4301,10 +4301,10 @@
         },
         "18": {
             "elementReferences": [
-                "dunning:1989a",
-                "woon:1994a",
-                "dunning:1989a",
-                "woon:1993a"
+                "dunning1989a",
+                "woon1994a",
+                "dunning1989a",
+                "woon1993a"
             ],
             "elementElectronShells": [
                 {
@@ -4713,10 +4713,10 @@
         },
         "31": {
             "elementReferences": [
-                "dunning:1989a",
-                "woon:1994a",
-                "dunning:1989a",
-                "woon:1993a"
+                "dunning1989a",
+                "woon1994a",
+                "dunning1989a",
+                "woon1993a"
             ],
             "elementElectronShells": [
                 {
@@ -5315,10 +5315,10 @@
         },
         "32": {
             "elementReferences": [
-                "dunning:1989a",
-                "woon:1994a",
-                "dunning:1989a",
-                "woon:1993a"
+                "dunning1989a",
+                "woon1994a",
+                "dunning1989a",
+                "woon1993a"
             ],
             "elementElectronShells": [
                 {
@@ -5917,10 +5917,10 @@
         },
         "33": {
             "elementReferences": [
-                "dunning:1989a",
-                "woon:1994a",
-                "dunning:1989a",
-                "woon:1993a"
+                "dunning1989a",
+                "woon1994a",
+                "dunning1989a",
+                "woon1993a"
             ],
             "elementElectronShells": [
                 {
@@ -6519,10 +6519,10 @@
         },
         "34": {
             "elementReferences": [
-                "dunning:1989a",
-                "woon:1994a",
-                "dunning:1989a",
-                "woon:1993a"
+                "dunning1989a",
+                "woon1994a",
+                "dunning1989a",
+                "woon1993a"
             ],
             "elementElectronShells": [
                 {
@@ -7121,10 +7121,10 @@
         },
         "35": {
             "elementReferences": [
-                "dunning:1989a",
-                "woon:1994a",
-                "dunning:1989a",
-                "woon:1993a"
+                "dunning1989a",
+                "woon1994a",
+                "dunning1989a",
+                "woon1993a"
             ],
             "elementElectronShells": [
                 {
@@ -7723,10 +7723,10 @@
         },
         "36": {
             "elementReferences": [
-                "dunning:1989a",
-                "woon:1994a",
-                "dunning:1989a",
-                "woon:1993a"
+                "dunning1989a",
+                "woon1994a",
+                "dunning1989a",
+                "woon1993a"
             ],
             "elementElectronShells": [
                 {

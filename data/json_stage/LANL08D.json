@@ -5,9 +5,9 @@
     "basisSetElements": {
         "14": {
             "elementReferences": [
-                "wadt:1985a",
-                "roy:2008a",
-                "check:2001a"
+                "wadt1985a",
+                "roy2008a",
+                "check2001a"
             ],
             "elementElectronShells": [
                 {
@@ -142,9 +142,9 @@
         },
         "15": {
             "elementReferences": [
-                "wadt:1985a",
-                "roy:2008a",
-                "check:2001a"
+                "wadt1985a",
+                "roy2008a",
+                "check2001a"
             ],
             "elementElectronShells": [
                 {
@@ -279,9 +279,9 @@
         },
         "16": {
             "elementReferences": [
-                "wadt:1985a",
-                "roy:2008a",
-                "check:2001a"
+                "wadt1985a",
+                "roy2008a",
+                "check2001a"
             ],
             "elementElectronShells": [
                 {
@@ -416,9 +416,9 @@
         },
         "17": {
             "elementReferences": [
-                "wadt:1985a",
-                "roy:2008a",
-                "check:2001a"
+                "wadt1985a",
+                "roy2008a",
+                "check2001a"
             ],
             "elementElectronShells": [
                 {
@@ -553,9 +553,9 @@
         },
         "32": {
             "elementReferences": [
-                "wadt:1985a",
-                "roy:2008a",
-                "check:2001a"
+                "wadt1985a",
+                "roy2008a",
+                "check2001a"
             ],
             "elementElectronShells": [
                 {
@@ -690,9 +690,9 @@
         },
         "33": {
             "elementReferences": [
-                "wadt:1985a",
-                "roy:2008a",
-                "check:2001a"
+                "wadt1985a",
+                "roy2008a",
+                "check2001a"
             ],
             "elementElectronShells": [
                 {
@@ -827,9 +827,9 @@
         },
         "34": {
             "elementReferences": [
-                "wadt:1985a",
-                "roy:2008a",
-                "check:2001a"
+                "wadt1985a",
+                "roy2008a",
+                "check2001a"
             ],
             "elementElectronShells": [
                 {
@@ -964,9 +964,9 @@
         },
         "35": {
             "elementReferences": [
-                "wadt:1985a",
-                "roy:2008a",
-                "check:2001a"
+                "wadt1985a",
+                "roy2008a",
+                "check2001a"
             ],
             "elementElectronShells": [
                 {
@@ -1101,9 +1101,9 @@
         },
         "50": {
             "elementReferences": [
-                "wadt:1985a",
-                "roy:2008a",
-                "check:2001a"
+                "wadt1985a",
+                "roy2008a",
+                "check2001a"
             ],
             "elementElectronShells": [
                 {
@@ -1238,9 +1238,9 @@
         },
         "51": {
             "elementReferences": [
-                "wadt:1985a",
-                "roy:2008a",
-                "check:2001a"
+                "wadt1985a",
+                "roy2008a",
+                "check2001a"
             ],
             "elementElectronShells": [
                 {
@@ -1375,9 +1375,9 @@
         },
         "52": {
             "elementReferences": [
-                "wadt:1985a",
-                "roy:2008a",
-                "check:2001a"
+                "wadt1985a",
+                "roy2008a",
+                "check2001a"
             ],
             "elementElectronShells": [
                 {
@@ -1512,9 +1512,9 @@
         },
         "53": {
             "elementReferences": [
-                "wadt:1985a",
-                "roy:2008a",
-                "check:2001a"
+                "wadt1985a",
+                "roy2008a",
+                "check2001a"
             ],
             "elementElectronShells": [
                 {
@@ -1649,9 +1649,9 @@
         },
         "82": {
             "elementReferences": [
-                "wadt:1985a",
-                "roy:2008a",
-                "check:2001a"
+                "wadt1985a",
+                "roy2008a",
+                "check2001a"
             ],
             "elementElectronShells": [
                 {
@@ -1786,9 +1786,9 @@
         },
         "83": {
             "elementReferences": [
-                "wadt:1985a",
-                "roy:2008a",
-                "check:2001a"
+                "wadt1985a",
+                "roy2008a",
+                "check2001a"
             ],
             "elementElectronShells": [
                 {

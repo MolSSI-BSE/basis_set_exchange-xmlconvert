@@ -5,7 +5,7 @@
     "basisSetElements": {
         "1": {
             "elementReferences": [
-                "mielke:1999a"
+                "mielke1999a"
             ],
             "elementElectronShells": [
                 {

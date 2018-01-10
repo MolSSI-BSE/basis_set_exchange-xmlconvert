@@ -5,7 +5,7 @@
     "basisSetElements": {
         "1": {
             "elementReferences": [
-                "dunning:1989a"
+                "dunning1989a"
             ],
             "elementElectronShells": [
                 {
@@ -88,7 +88,7 @@
         },
         "2": {
             "elementReferences": [
-                "woon:1994a"
+                "woon1994a"
             ],
             "elementElectronShells": [
                 {
@@ -175,7 +175,7 @@
         },
         "5": {
             "elementReferences": [
-                "dunning:1989a"
+                "dunning1989a"
             ],
             "elementElectronShells": [
                 {
@@ -328,7 +328,7 @@
         },
         "6": {
             "elementReferences": [
-                "dunning:1989a"
+                "dunning1989a"
             ],
             "elementElectronShells": [
                 {
@@ -481,7 +481,7 @@
         },
         "7": {
             "elementReferences": [
-                "dunning:1989a"
+                "dunning1989a"
             ],
             "elementElectronShells": [
                 {
@@ -634,7 +634,7 @@
         },
         "8": {
             "elementReferences": [
-                "dunning:1989a"
+                "dunning1989a"
             ],
             "elementElectronShells": [
                 {
@@ -787,7 +787,7 @@
         },
         "9": {
             "elementReferences": [
-                "dunning:1989a"
+                "dunning1989a"
             ],
             "elementElectronShells": [
                 {
@@ -940,7 +940,7 @@
         },
         "10": {
             "elementReferences": [
-                "dunning:1989a"
+                "dunning1989a"
             ],
             "elementElectronShells": [
                 {
@@ -1093,7 +1093,7 @@
         },
         "13": {
             "elementReferences": [
-                "woon:1993a"
+                "woon1993a"
             ],
             "elementElectronShells": [
                 {
@@ -1315,7 +1315,7 @@
         },
         "14": {
             "elementReferences": [
-                "woon:1993a"
+                "woon1993a"
             ],
             "elementElectronShells": [
                 {
@@ -1537,7 +1537,7 @@
         },
         "15": {
             "elementReferences": [
-                "woon:1993a"
+                "woon1993a"
             ],
             "elementElectronShells": [
                 {
@@ -1759,7 +1759,7 @@
         },
         "16": {
             "elementReferences": [
-                "woon:1993a"
+                "woon1993a"
             ],
             "elementElectronShells": [
                 {
@@ -1981,7 +1981,7 @@
         },
         "17": {
             "elementReferences": [
-                "woon:1993a"
+                "woon1993a"
             ],
             "elementElectronShells": [
                 {
@@ -2203,7 +2203,7 @@
         },
         "18": {
             "elementReferences": [
-                "woon:1993a"
+                "woon1993a"
             ],
             "elementElectronShells": [
                 {
@@ -2425,7 +2425,7 @@
         },
         "31": {
             "elementReferences": [
-                "wilson:1999a"
+                "wilson1999a"
             ],
             "elementElectronShells": [
                 {
@@ -2766,7 +2766,7 @@
         },
         "32": {
             "elementReferences": [
-                "wilson:1999a"
+                "wilson1999a"
             ],
             "elementElectronShells": [
                 {
@@ -3107,7 +3107,7 @@
         },
         "33": {
             "elementReferences": [
-                "wilson:1999a"
+                "wilson1999a"
             ],
             "elementElectronShells": [
                 {
@@ -3448,7 +3448,7 @@
         },
         "34": {
             "elementReferences": [
-                "wilson:1999a"
+                "wilson1999a"
             ],
             "elementElectronShells": [
                 {
@@ -3789,7 +3789,7 @@
         },
         "35": {
             "elementReferences": [
-                "wilson:1999a"
+                "wilson1999a"
             ],
             "elementElectronShells": [
                 {
@@ -4130,7 +4130,7 @@
         },
         "36": {
             "elementReferences": [
-                "wilson:1999a"
+                "wilson1999a"
             ],
             "elementElectronShells": [
                 {

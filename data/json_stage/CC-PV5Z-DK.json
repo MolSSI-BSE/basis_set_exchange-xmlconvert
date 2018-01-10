@@ -5,8 +5,8 @@
     "basisSetElements": {
         "1": {
             "elementReferences": [
-                "dunning:1989a",
-                "jong:2001a"
+                "dunning1989a",
+                "jong2001a"
             ],
             "elementElectronShells": [
                 {
@@ -191,8 +191,8 @@
         },
         "2": {
             "elementReferences": [
-                "woon:1994a",
-                "jong:2001a"
+                "woon1994a",
+                "jong2001a"
             ],
             "elementElectronShells": [
                 {
@@ -377,7 +377,7 @@
         },
         "3": {
             "elementReferences": [
-                "jong:2001a"
+                "jong2001a"
             ],
             "elementElectronShells": [
                 {
@@ -678,7 +678,7 @@
         },
         "4": {
             "elementReferences": [
-                "jong:2001a"
+                "jong2001a"
             ],
             "elementElectronShells": [
                 {
@@ -985,8 +985,8 @@
         },
         "5": {
             "elementReferences": [
-                "dunning:1989a",
-                "jong:2001a"
+                "dunning1989a",
+                "jong2001a"
             ],
             "elementElectronShells": [
                 {
@@ -1293,8 +1293,8 @@
         },
         "6": {
             "elementReferences": [
-                "dunning:1989a",
-                "jong:2001a"
+                "dunning1989a",
+                "jong2001a"
             ],
             "elementElectronShells": [
                 {
@@ -1601,8 +1601,8 @@
         },
         "7": {
             "elementReferences": [
-                "dunning:1989a",
-                "jong:2001a"
+                "dunning1989a",
+                "jong2001a"
             ],
             "elementElectronShells": [
                 {
@@ -1909,8 +1909,8 @@
         },
         "8": {
             "elementReferences": [
-                "dunning:1989a",
-                "jong:2001a"
+                "dunning1989a",
+                "jong2001a"
             ],
             "elementElectronShells": [
                 {
@@ -2217,8 +2217,8 @@
         },
         "9": {
             "elementReferences": [
-                "dunning:1989a",
-                "jong:2001a"
+                "dunning1989a",
+                "jong2001a"
             ],
             "elementElectronShells": [
                 {
@@ -2525,8 +2525,8 @@
         },
         "10": {
             "elementReferences": [
-                "dunning:1989a",
-                "jong:2001a"
+                "dunning1989a",
+                "jong2001a"
             ],
             "elementElectronShells": [
                 {
@@ -2833,7 +2833,7 @@
         },
         "11": {
             "elementReferences": [
-                "jong:2001a"
+                "jong2001a"
             ],
             "elementElectronShells": [
                 {
@@ -3234,7 +3234,7 @@
         },
         "12": {
             "elementReferences": [
-                "jong:2001a"
+                "jong2001a"
             ],
             "elementElectronShells": [
                 {
@@ -3657,8 +3657,8 @@
         },
         "13": {
             "elementReferences": [
-                "woon:1993a",
-                "jong:2001a"
+                "woon1993a",
+                "jong2001a"
             ],
             "elementElectronShells": [
                 {
@@ -4067,8 +4067,8 @@
         },
         "14": {
             "elementReferences": [
-                "woon:1993a",
-                "jong:2001a"
+                "woon1993a",
+                "jong2001a"
             ],
             "elementElectronShells": [
                 {
@@ -4477,8 +4477,8 @@
         },
         "15": {
             "elementReferences": [
-                "woon:1993a",
-                "jong:2001a"
+                "woon1993a",
+                "jong2001a"
             ],
             "elementElectronShells": [
                 {
@@ -4887,8 +4887,8 @@
         },
         "16": {
             "elementReferences": [
-                "woon:1993a",
-                "jong:2001a"
+                "woon1993a",
+                "jong2001a"
             ],
             "elementElectronShells": [
                 {
@@ -5297,8 +5297,8 @@
         },
         "17": {
             "elementReferences": [
-                "woon:1993a",
-                "jong:2001a"
+                "woon1993a",
+                "jong2001a"
             ],
             "elementElectronShells": [
                 {
@@ -5707,8 +5707,8 @@
         },
         "18": {
             "elementReferences": [
-                "woon:1993a",
-                "jong:2001a"
+                "woon1993a",
+                "jong2001a"
             ],
             "elementElectronShells": [
                 {
@@ -6117,8 +6117,8 @@
         },
         "21": {
             "elementReferences": [
-                "jong:2001a",
-                "balabanov:2005a"
+                "jong2001a",
+                "balabanov2005a"
             ],
             "elementElectronShells": [
                 {
@@ -6859,8 +6859,8 @@
         },
         "22": {
             "elementReferences": [
-                "jong:2001a",
-                "balabanov:2005a"
+                "jong2001a",
+                "balabanov2005a"
             ],
             "elementElectronShells": [
                 {
@@ -7601,8 +7601,8 @@
         },
         "23": {
             "elementReferences": [
-                "jong:2001a",
-                "balabanov:2005a"
+                "jong2001a",
+                "balabanov2005a"
             ],
             "elementElectronShells": [
                 {
@@ -8343,8 +8343,8 @@
         },
         "24": {
             "elementReferences": [
-                "jong:2001a",
-                "balabanov:2005a"
+                "jong2001a",
+                "balabanov2005a"
             ],
             "elementElectronShells": [
                 {
@@ -9085,8 +9085,8 @@
         },
         "25": {
             "elementReferences": [
-                "jong:2001a",
-                "balabanov:2005a"
+                "jong2001a",
+                "balabanov2005a"
             ],
             "elementElectronShells": [
                 {
@@ -9827,8 +9827,8 @@
         },
         "26": {
             "elementReferences": [
-                "jong:2001a",
-                "balabanov:2005a"
+                "jong2001a",
+                "balabanov2005a"
             ],
             "elementElectronShells": [
                 {
@@ -10569,8 +10569,8 @@
         },
         "27": {
             "elementReferences": [
-                "jong:2001a",
-                "balabanov:2005a"
+                "jong2001a",
+                "balabanov2005a"
             ],
             "elementElectronShells": [
                 {
@@ -11311,8 +11311,8 @@
         },
         "28": {
             "elementReferences": [
-                "jong:2001a",
-                "balabanov:2005a"
+                "jong2001a",
+                "balabanov2005a"
             ],
             "elementElectronShells": [
                 {
@@ -12053,8 +12053,8 @@
         },
         "29": {
             "elementReferences": [
-                "jong:2001a",
-                "balabanov:2005a"
+                "jong2001a",
+                "balabanov2005a"
             ],
             "elementElectronShells": [
                 {
@@ -12795,8 +12795,8 @@
         },
         "30": {
             "elementReferences": [
-                "jong:2001a",
-                "balabanov:2005a"
+                "jong2001a",
+                "balabanov2005a"
             ],
             "elementElectronShells": [
                 {
@@ -13537,8 +13537,8 @@
         },
         "31": {
             "elementReferences": [
-                "wilson:1999a",
-                "jong:2001a"
+                "wilson1999a",
+                "jong2001a"
             ],
             "elementElectronShells": [
                 {
@@ -14137,8 +14137,8 @@
         },
         "32": {
             "elementReferences": [
-                "wilson:1999a",
-                "jong:2001a"
+                "wilson1999a",
+                "jong2001a"
             ],
             "elementElectronShells": [
                 {
@@ -14737,8 +14737,8 @@
         },
         "33": {
             "elementReferences": [
-                "wilson:1999a",
-                "jong:2001a"
+                "wilson1999a",
+                "jong2001a"
             ],
             "elementElectronShells": [
                 {
@@ -15337,8 +15337,8 @@
         },
         "34": {
             "elementReferences": [
-                "wilson:1999a",
-                "jong:2001a"
+                "wilson1999a",
+                "jong2001a"
             ],
             "elementElectronShells": [
                 {
@@ -15937,8 +15937,8 @@
         },
         "35": {
             "elementReferences": [
-                "wilson:1999a",
-                "jong:2001a"
+                "wilson1999a",
+                "jong2001a"
             ],
             "elementElectronShells": [
                 {
@@ -16537,8 +16537,8 @@
         },
         "36": {
             "elementReferences": [
-                "wilson:1999a",
-                "jong:2001a"
+                "wilson1999a",
+                "jong2001a"
             ],
             "elementElectronShells": [
                 {

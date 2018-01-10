@@ -5,7 +5,7 @@
     "basisSetElements": {
         "21": {
             "elementReferences": [
-                "balabanov:2005a"
+                "balabanov2005a"
             ],
             "elementElectronShells": [
                 {
@@ -760,7 +760,7 @@
         },
         "22": {
             "elementReferences": [
-                "balabanov:2005a"
+                "balabanov2005a"
             ],
             "elementElectronShells": [
                 {
@@ -1515,7 +1515,7 @@
         },
         "23": {
             "elementReferences": [
-                "balabanov:2005a"
+                "balabanov2005a"
             ],
             "elementElectronShells": [
                 {
@@ -2270,7 +2270,7 @@
         },
         "24": {
             "elementReferences": [
-                "balabanov:2005a"
+                "balabanov2005a"
             ],
             "elementElectronShells": [
                 {
@@ -3025,7 +3025,7 @@
         },
         "25": {
             "elementReferences": [
-                "balabanov:2005a"
+                "balabanov2005a"
             ],
             "elementElectronShells": [
                 {
@@ -3780,7 +3780,7 @@
         },
         "26": {
             "elementReferences": [
-                "balabanov:2005a"
+                "balabanov2005a"
             ],
             "elementElectronShells": [
                 {
@@ -4535,7 +4535,7 @@
         },
         "27": {
             "elementReferences": [
-                "balabanov:2005a"
+                "balabanov2005a"
             ],
             "elementElectronShells": [
                 {
@@ -5290,7 +5290,7 @@
         },
         "28": {
             "elementReferences": [
-                "balabanov:2005a"
+                "balabanov2005a"
             ],
             "elementElectronShells": [
                 {
@@ -6045,7 +6045,7 @@
         },
         "29": {
             "elementReferences": [
-                "balabanov:2005a"
+                "balabanov2005a"
             ],
             "elementElectronShells": [
                 {
@@ -6800,7 +6800,7 @@
         },
         "30": {
             "elementReferences": [
-                "balabanov:2005a"
+                "balabanov2005a"
             ],
             "elementElectronShells": [
                 {

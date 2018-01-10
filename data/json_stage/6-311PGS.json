@@ -5,8 +5,8 @@
     "basisSetElements": {
         "1": {
             "elementReferences": [
-                "krishnan:1980a",
-                "clark:1983a"
+                "krishnan1980a",
+                "clark1983a"
             ],
             "elementElectronShells": [
                 {
@@ -122,9 +122,9 @@
         },
         "3": {
             "elementReferences": [
-                "krishnan:1980a",
-                "krishnan:1980a",
-                "clark:1983a"
+                "krishnan1980a",
+                "krishnan1980a",
+                "clark1983a"
             ],
             "elementElectronShells": [
                 {
@@ -259,9 +259,9 @@
         },
         "4": {
             "elementReferences": [
-                "krishnan:1980a",
-                "krishnan:1980a",
-                "clark:1983a"
+                "krishnan1980a",
+                "krishnan1980a",
+                "clark1983a"
             ],
             "elementElectronShells": [
                 {
@@ -396,9 +396,9 @@
         },
         "5": {
             "elementReferences": [
-                "krishnan:1980a",
-                "krishnan:1980a",
-                "clark:1983a"
+                "krishnan1980a",
+                "krishnan1980a",
+                "clark1983a"
             ],
             "elementElectronShells": [
                 {
@@ -533,9 +533,9 @@
         },
         "6": {
             "elementReferences": [
-                "krishnan:1980a",
-                "krishnan:1980a",
-                "clark:1983a"
+                "krishnan1980a",
+                "krishnan1980a",
+                "clark1983a"
             ],
             "elementElectronShells": [
                 {
@@ -670,9 +670,9 @@
         },
         "7": {
             "elementReferences": [
-                "krishnan:1980a",
-                "krishnan:1980a",
-                "clark:1983a"
+                "krishnan1980a",
+                "krishnan1980a",
+                "clark1983a"
             ],
             "elementElectronShells": [
                 {
@@ -807,9 +807,9 @@
         },
         "8": {
             "elementReferences": [
-                "krishnan:1980a",
-                "krishnan:1980a",
-                "clark:1983a"
+                "krishnan1980a",
+                "krishnan1980a",
+                "clark1983a"
             ],
             "elementElectronShells": [
                 {
@@ -944,9 +944,9 @@
         },
         "9": {
             "elementReferences": [
-                "krishnan:1980a",
-                "krishnan:1980a",
-                "clark:1983a"
+                "krishnan1980a",
+                "krishnan1980a",
+                "clark1983a"
             ],
             "elementElectronShells": [
                 {
@@ -1081,9 +1081,9 @@
         },
         "10": {
             "elementReferences": [
-                "krishnan:1980a",
-                "krishnan:1980a",
-                "clark:1983a"
+                "krishnan1980a",
+                "krishnan1980a",
+                "clark1983a"
             ],
             "elementElectronShells": [
                 {
@@ -1218,10 +1218,10 @@
         },
         "11": {
             "elementReferences": [
-                "mclean:1980a",
-                "krishnan:1980a",
-                "krishnan:1980a",
-                "gill:1992a"
+                "mclean1980a",
+                "krishnan1980a",
+                "krishnan1980a",
+                "gill1992a"
             ],
             "elementElectronShells": [
                 {
@@ -1462,10 +1462,10 @@
         },
         "12": {
             "elementReferences": [
-                "mclean:1980a",
-                "krishnan:1980a",
-                "krishnan:1980a",
-                "gill:1992a"
+                "mclean1980a",
+                "krishnan1980a",
+                "krishnan1980a",
+                "gill1992a"
             ],
             "elementElectronShells": [
                 {
@@ -1706,10 +1706,10 @@
         },
         "13": {
             "elementReferences": [
-                "mclean:1980a",
-                "krishnan:1980a",
-                "krishnan:1980a",
-                "gill:1992a"
+                "mclean1980a",
+                "krishnan1980a",
+                "krishnan1980a",
+                "gill1992a"
             ],
             "elementElectronShells": [
                 {
@@ -1950,10 +1950,10 @@
         },
         "14": {
             "elementReferences": [
-                "mclean:1980a",
-                "krishnan:1980a",
-                "krishnan:1980a",
-                "gill:1992a"
+                "mclean1980a",
+                "krishnan1980a",
+                "krishnan1980a",
+                "gill1992a"
             ],
             "elementElectronShells": [
                 {
@@ -2194,10 +2194,10 @@
         },
         "15": {
             "elementReferences": [
-                "mclean:1980a",
-                "krishnan:1980a",
-                "krishnan:1980a",
-                "gill:1992a"
+                "mclean1980a",
+                "krishnan1980a",
+                "krishnan1980a",
+                "gill1992a"
             ],
             "elementElectronShells": [
                 {
@@ -2438,10 +2438,10 @@
         },
         "16": {
             "elementReferences": [
-                "mclean:1980a",
-                "krishnan:1980a",
-                "krishnan:1980a",
-                "gill:1992a"
+                "mclean1980a",
+                "krishnan1980a",
+                "krishnan1980a",
+                "gill1992a"
             ],
             "elementElectronShells": [
                 {
@@ -2682,10 +2682,10 @@
         },
         "17": {
             "elementReferences": [
-                "mclean:1980a",
-                "krishnan:1980a",
-                "krishnan:1980a",
-                "gill:1992a"
+                "mclean1980a",
+                "krishnan1980a",
+                "krishnan1980a",
+                "gill1992a"
             ],
             "elementElectronShells": [
                 {
@@ -2928,10 +2928,10 @@
         },
         "18": {
             "elementReferences": [
-                "mclean:1980a",
-                "krishnan:1980a",
-                "krishnan:1980a",
-                "gill:1992a"
+                "mclean1980a",
+                "krishnan1980a",
+                "krishnan1980a",
+                "gill1992a"
             ],
             "elementElectronShells": [
                 {
@@ -3174,8 +3174,8 @@
         },
         "19": {
             "elementReferences": [
-                "blaudeau:1997a",
-                "blaudeau:1997a"
+                "blaudeau1997a",
+                "blaudeau1997a"
             ],
             "elementElectronShells": [
                 {
@@ -3498,8 +3498,8 @@
         },
         "20": {
             "elementReferences": [
-                "blaudeau:1997a",
-                "blaudeau:1997a"
+                "blaudeau1997a",
+                "blaudeau1997a"
             ],
             "elementElectronShells": [
                 {

@@ -5,7 +5,7 @@
     "basisSetElements": {
         "1": {
             "elementReferences": [
-                "paschoal:2013a"
+                "paschoal2013a"
             ],
             "elementElectronShells": [
                 {
@@ -64,7 +64,7 @@
         },
         "5": {
             "elementReferences": [
-                "paschoal:2013a"
+                "paschoal2013a"
             ],
             "elementElectronShells": [
                 {
@@ -187,7 +187,7 @@
         },
         "6": {
             "elementReferences": [
-                "paschoal:2013a"
+                "paschoal2013a"
             ],
             "elementElectronShells": [
                 {
@@ -310,7 +310,7 @@
         },
         "7": {
             "elementReferences": [
-                "paschoal:2013a"
+                "paschoal2013a"
             ],
             "elementElectronShells": [
                 {
@@ -433,7 +433,7 @@
         },
         "8": {
             "elementReferences": [
-                "paschoal:2013a"
+                "paschoal2013a"
             ],
             "elementElectronShells": [
                 {
@@ -556,7 +556,7 @@
         },
         "9": {
             "elementReferences": [
-                "paschoal:2013a"
+                "paschoal2013a"
             ],
             "elementElectronShells": [
                 {
@@ -679,7 +679,7 @@
         },
         "14": {
             "elementReferences": [
-                "paschoal:2013a"
+                "paschoal2013a"
             ],
             "elementElectronShells": [
                 {
@@ -860,7 +860,7 @@
         },
         "15": {
             "elementReferences": [
-                "paschoal:2013a"
+                "paschoal2013a"
             ],
             "elementElectronShells": [
                 {
@@ -1041,7 +1041,7 @@
         },
         "16": {
             "elementReferences": [
-                "paschoal:2013a"
+                "paschoal2013a"
             ],
             "elementElectronShells": [
                 {
@@ -1222,7 +1222,7 @@
         },
         "17": {
             "elementReferences": [
-                "paschoal:2013a"
+                "paschoal2013a"
             ],
             "elementElectronShells": [
                 {

@@ -5,7 +5,7 @@
     "basisSetElements": {
         "1": {
             "elementReferences": [
-                "hehre:1972a"
+                "hehre1972a"
             ],
             "elementElectronShells": [
                 {
@@ -48,7 +48,7 @@
         },
         "2": {
             "elementReferences": [
-                "hehre:1972a"
+                "hehre1972a"
             ],
             "elementElectronShells": [
                 {
@@ -91,8 +91,8 @@
         },
         "3": {
             "elementReferences": [
-                "dill:1975a",
-                "clark:1983a"
+                "dill1975a",
+                "clark1983a"
             ],
             "elementElectronShells": [
                 {
@@ -191,8 +191,8 @@
         },
         "4": {
             "elementReferences": [
-                "hehre:1972a",
-                "clark:1983a"
+                "hehre1972a",
+                "clark1983a"
             ],
             "elementElectronShells": [
                 {
@@ -291,8 +291,8 @@
         },
         "5": {
             "elementReferences": [
-                "dill:1975a",
-                "clark:1983a"
+                "dill1975a",
+                "clark1983a"
             ],
             "elementElectronShells": [
                 {
@@ -391,8 +391,8 @@
         },
         "6": {
             "elementReferences": [
-                "hehre:1972a",
-                "clark:1983a"
+                "hehre1972a",
+                "clark1983a"
             ],
             "elementElectronShells": [
                 {
@@ -491,8 +491,8 @@
         },
         "7": {
             "elementReferences": [
-                "hehre:1972a",
-                "clark:1983a"
+                "hehre1972a",
+                "clark1983a"
             ],
             "elementElectronShells": [
                 {
@@ -591,8 +591,8 @@
         },
         "8": {
             "elementReferences": [
-                "hehre:1972a",
-                "clark:1983a"
+                "hehre1972a",
+                "clark1983a"
             ],
             "elementElectronShells": [
                 {
@@ -691,8 +691,8 @@
         },
         "9": {
             "elementReferences": [
-                "hehre:1972a",
-                "clark:1983a"
+                "hehre1972a",
+                "clark1983a"
             ],
             "elementElectronShells": [
                 {
@@ -791,8 +791,8 @@
         },
         "10": {
             "elementReferences": [
-                "hehre:1972a",
-                "clark:1983a"
+                "hehre1972a",
+                "clark1983a"
             ],
             "elementElectronShells": [
                 {
@@ -891,8 +891,8 @@
         },
         "11": {
             "elementReferences": [
-                "francl:1982a",
-                "frisch:1984a"
+                "francl1982a",
+                "frisch1984a"
             ],
             "elementElectronShells": [
                 {
@@ -1026,8 +1026,8 @@
         },
         "12": {
             "elementReferences": [
-                "francl:1982a",
-                "frisch:1984a"
+                "francl1982a",
+                "frisch1984a"
             ],
             "elementElectronShells": [
                 {
@@ -1161,8 +1161,8 @@
         },
         "13": {
             "elementReferences": [
-                "francl:1982a",
-                "frisch:1984a"
+                "francl1982a",
+                "frisch1984a"
             ],
             "elementElectronShells": [
                 {
@@ -1296,8 +1296,8 @@
         },
         "14": {
             "elementReferences": [
-                "francl:1982a",
-                "frisch:1984a"
+                "francl1982a",
+                "frisch1984a"
             ],
             "elementElectronShells": [
                 {
@@ -1431,8 +1431,8 @@
         },
         "15": {
             "elementReferences": [
-                "francl:1982a",
-                "frisch:1984a"
+                "francl1982a",
+                "frisch1984a"
             ],
             "elementElectronShells": [
                 {
@@ -1566,8 +1566,8 @@
         },
         "16": {
             "elementReferences": [
-                "francl:1982a",
-                "frisch:1984a"
+                "francl1982a",
+                "frisch1984a"
             ],
             "elementElectronShells": [
                 {
@@ -1701,8 +1701,8 @@
         },
         "17": {
             "elementReferences": [
-                "francl:1982a",
-                "frisch:1984a"
+                "francl1982a",
+                "frisch1984a"
             ],
             "elementElectronShells": [
                 {
@@ -1836,8 +1836,8 @@
         },
         "18": {
             "elementReferences": [
-                "francl:1982a",
-                "frisch:1984a"
+                "francl1982a",
+                "frisch1984a"
             ],
             "elementElectronShells": [
                 {
@@ -1971,8 +1971,8 @@
         },
         "19": {
             "elementReferences": [
-                "rassolov:1998a",
-                "frisch:1984a"
+                "rassolov1998a",
+                "frisch1984a"
             ],
             "elementElectronShells": [
                 {
@@ -2141,8 +2141,8 @@
         },
         "20": {
             "elementReferences": [
-                "rassolov:1998a",
-                "frisch:1984a"
+                "rassolov1998a",
+                "frisch1984a"
             ],
             "elementElectronShells": [
                 {

@@ -5,7 +5,7 @@
     "basisSetElements": {
         "1": {
             "elementReferences": [
-                "jensen:2006a"
+                "jensen2006a"
             ],
             "elementElectronShells": [
                 {
@@ -290,7 +290,7 @@
         },
         "2": {
             "elementReferences": [
-                "jensen:2006a"
+                "jensen2006a"
             ],
             "elementElectronShells": [
                 {
@@ -575,7 +575,7 @@
         },
         "5": {
             "elementReferences": [
-                "jensen:2006a"
+                "jensen2006a"
             ],
             "elementElectronShells": [
                 {
@@ -1088,7 +1088,7 @@
         },
         "6": {
             "elementReferences": [
-                "jensen:2006a"
+                "jensen2006a"
             ],
             "elementElectronShells": [
                 {
@@ -1601,7 +1601,7 @@
         },
         "7": {
             "elementReferences": [
-                "jensen:2006a"
+                "jensen2006a"
             ],
             "elementElectronShells": [
                 {
@@ -2114,7 +2114,7 @@
         },
         "8": {
             "elementReferences": [
-                "jensen:2006a"
+                "jensen2006a"
             ],
             "elementElectronShells": [
                 {
@@ -2627,7 +2627,7 @@
         },
         "9": {
             "elementReferences": [
-                "jensen:2006a"
+                "jensen2006a"
             ],
             "elementElectronShells": [
                 {
@@ -3140,7 +3140,7 @@
         },
         "10": {
             "elementReferences": [
-                "jensen:2006a"
+                "jensen2006a"
             ],
             "elementElectronShells": [
                 {
@@ -3653,7 +3653,7 @@
         },
         "13": {
             "elementReferences": [
-                "jensen:2006a"
+                "jensen2006a"
             ],
             "elementElectronShells": [
                 {
@@ -4298,7 +4298,7 @@
         },
         "14": {
             "elementReferences": [
-                "jensen:2006a"
+                "jensen2006a"
             ],
             "elementElectronShells": [
                 {
@@ -4943,7 +4943,7 @@
         },
         "15": {
             "elementReferences": [
-                "jensen:2006a"
+                "jensen2006a"
             ],
             "elementElectronShells": [
                 {
@@ -5588,7 +5588,7 @@
         },
         "16": {
             "elementReferences": [
-                "jensen:2006a"
+                "jensen2006a"
             ],
             "elementElectronShells": [
                 {
@@ -6233,7 +6233,7 @@
         },
         "17": {
             "elementReferences": [
-                "jensen:2006a"
+                "jensen2006a"
             ],
             "elementElectronShells": [
                 {
@@ -6878,7 +6878,7 @@
         },
         "18": {
             "elementReferences": [
-                "jensen:2006a"
+                "jensen2006a"
             ],
             "elementElectronShells": [
                 {

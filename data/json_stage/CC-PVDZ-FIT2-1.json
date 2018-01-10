@@ -5,7 +5,7 @@
     "basisSetElements": {
         "1": {
             "elementReferences": [
-                "bernholdt:1998a"
+                "bernholdt1998a"
             ],
             "elementElectronShells": [
                 {
@@ -316,7 +316,7 @@
         },
         "2": {
             "elementReferences": [
-                "bernholdt:1998a"
+                "bernholdt1998a"
             ],
             "elementElectronShells": [
                 {
@@ -627,7 +627,7 @@
         },
         "3": {
             "elementReferences": [
-                "bernholdt:1998a"
+                "bernholdt1998a"
             ],
             "elementElectronShells": [
                 {
@@ -954,7 +954,7 @@
         },
         "4": {
             "elementReferences": [
-                "bernholdt:1998a"
+                "bernholdt1998a"
             ],
             "elementElectronShells": [
                 {
@@ -1281,7 +1281,7 @@
         },
         "5": {
             "elementReferences": [
-                "bernholdt:1998a"
+                "bernholdt1998a"
             ],
             "elementElectronShells": [
                 {
@@ -1608,7 +1608,7 @@
         },
         "6": {
             "elementReferences": [
-                "bernholdt:1998a"
+                "bernholdt1998a"
             ],
             "elementElectronShells": [
                 {
@@ -1935,7 +1935,7 @@
         },
         "7": {
             "elementReferences": [
-                "bernholdt:1998a"
+                "bernholdt1998a"
             ],
             "elementElectronShells": [
                 {
@@ -2262,7 +2262,7 @@
         },
         "8": {
             "elementReferences": [
-                "bernholdt:1998a"
+                "bernholdt1998a"
             ],
             "elementElectronShells": [
                 {
@@ -2589,7 +2589,7 @@
         },
         "9": {
             "elementReferences": [
-                "bernholdt:1998a"
+                "bernholdt1998a"
             ],
             "elementElectronShells": [
                 {
@@ -2916,7 +2916,7 @@
         },
         "10": {
             "elementReferences": [
-                "bernholdt:1998a"
+                "bernholdt1998a"
             ],
             "elementElectronShells": [
                 {

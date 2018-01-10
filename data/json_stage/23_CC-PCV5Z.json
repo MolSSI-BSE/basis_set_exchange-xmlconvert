@@ -5,7 +5,7 @@
     "basisSetElements": {
         "5": {
             "elementReferences": [
-                "peterson:2002a"
+                "peterson2002a"
             ],
             "elementElectronShells": [
                 {
@@ -572,7 +572,7 @@
         },
         "6": {
             "elementReferences": [
-                "peterson:2002a"
+                "peterson2002a"
             ],
             "elementElectronShells": [
                 {
@@ -1139,7 +1139,7 @@
         },
         "7": {
             "elementReferences": [
-                "peterson:2002a"
+                "peterson2002a"
             ],
             "elementElectronShells": [
                 {
@@ -1706,7 +1706,7 @@
         },
         "8": {
             "elementReferences": [
-                "peterson:2002a"
+                "peterson2002a"
             ],
             "elementElectronShells": [
                 {
@@ -2273,7 +2273,7 @@
         },
         "9": {
             "elementReferences": [
-                "peterson:2002a"
+                "peterson2002a"
             ],
             "elementElectronShells": [
                 {
@@ -2840,7 +2840,7 @@
         },
         "10": {
             "elementReferences": [
-                "peterson:2002a"
+                "peterson2002a"
             ],
             "elementElectronShells": [
                 {
@@ -4943,7 +4943,7 @@
         },
         "13": {
             "elementReferences": [
-                "peterson:2002a"
+                "peterson2002a"
             ],
             "elementElectronShells": [
                 {
@@ -5616,7 +5616,7 @@
         },
         "14": {
             "elementReferences": [
-                "peterson:2002a"
+                "peterson2002a"
             ],
             "elementElectronShells": [
                 {
@@ -6289,7 +6289,7 @@
         },
         "15": {
             "elementReferences": [
-                "peterson:2002a"
+                "peterson2002a"
             ],
             "elementElectronShells": [
                 {
@@ -6962,7 +6962,7 @@
         },
         "16": {
             "elementReferences": [
-                "peterson:2002a"
+                "peterson2002a"
             ],
             "elementElectronShells": [
                 {
@@ -7635,7 +7635,7 @@
         },
         "17": {
             "elementReferences": [
-                "peterson:2002a"
+                "peterson2002a"
             ],
             "elementElectronShells": [
                 {
@@ -8308,7 +8308,7 @@
         },
         "18": {
             "elementReferences": [
-                "peterson:2002a"
+                "peterson2002a"
             ],
             "elementElectronShells": [
                 {
@@ -8981,7 +8981,7 @@
         },
         "20": {
             "elementReferences": [
-                "koput:2002a"
+                "koput2002a"
             ],
             "elementElectronShells": [
                 {

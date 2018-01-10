@@ -5,8 +5,8 @@
     "basisSetElements": {
         "31": {
             "elementReferences": [
-                "binning:1990a",
-                "dunning:1977a"
+                "binning1990a",
+                "dunning1977a"
             ],
             "elementElectronShells": [
                 {
@@ -45,8 +45,8 @@
         },
         "32": {
             "elementReferences": [
-                "binning:1990a",
-                "dunning:1977a"
+                "binning1990a",
+                "dunning1977a"
             ],
             "elementElectronShells": [
                 {
@@ -85,8 +85,8 @@
         },
         "33": {
             "elementReferences": [
-                "binning:1990a",
-                "dunning:1977a"
+                "binning1990a",
+                "dunning1977a"
             ],
             "elementElectronShells": [
                 {
@@ -125,8 +125,8 @@
         },
         "34": {
             "elementReferences": [
-                "binning:1990a",
-                "dunning:1977a"
+                "binning1990a",
+                "dunning1977a"
             ],
             "elementElectronShells": [
                 {
@@ -165,8 +165,8 @@
         },
         "35": {
             "elementReferences": [
-                "binning:1990a",
-                "dunning:1977a"
+                "binning1990a",
+                "dunning1977a"
             ],
             "elementElectronShells": [
                 {
@@ -205,8 +205,8 @@
         },
         "36": {
             "elementReferences": [
-                "binning:1990a",
-                "dunning:1977a"
+                "binning1990a",
+                "dunning1977a"
             ],
             "elementElectronShells": [
                 {

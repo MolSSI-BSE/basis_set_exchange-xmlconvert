@@ -5,7 +5,7 @@
     "basisSetElements": {
         "37": {
             "elementReferences": [
-                "lim:2005a"
+                "lim2005a"
             ],
             "elementECPElectrons": 28,
             "elementECP": [
@@ -122,8 +122,8 @@
         },
         "38": {
             "elementReferences": [
-                "lim:2005a",
-                "lim:2006a"
+                "lim2005a",
+                "lim2006a"
             ],
             "elementECPElectrons": 28,
             "elementECP": [
@@ -240,9 +240,9 @@
         },
         "39": {
             "elementReferences": [
-                "figgen:2009a",
-                "lim:2005a",
-                "lim:2006a"
+                "figgen2009a",
+                "lim2005a",
+                "lim2006a"
             ],
             "elementECPElectrons": 28,
             "elementECP": [
@@ -359,9 +359,9 @@
         },
         "40": {
             "elementReferences": [
-                "figgen:2009a",
-                "lim:2005a",
-                "lim:2006a"
+                "figgen2009a",
+                "lim2005a",
+                "lim2006a"
             ],
             "elementECPElectrons": 28,
             "elementECP": [
@@ -478,9 +478,9 @@
         },
         "41": {
             "elementReferences": [
-                "figgen:2009a",
-                "lim:2005a",
-                "lim:2006a"
+                "figgen2009a",
+                "lim2005a",
+                "lim2006a"
             ],
             "elementECPElectrons": 28,
             "elementECP": [
@@ -597,9 +597,9 @@
         },
         "42": {
             "elementReferences": [
-                "figgen:2009a",
-                "lim:2005a",
-                "lim:2006a"
+                "figgen2009a",
+                "lim2005a",
+                "lim2006a"
             ],
             "elementECPElectrons": 28,
             "elementECP": [
@@ -716,9 +716,9 @@
         },
         "43": {
             "elementReferences": [
-                "figgen:2009a",
-                "lim:2005a",
-                "lim:2006a"
+                "figgen2009a",
+                "lim2005a",
+                "lim2006a"
             ],
             "elementECPElectrons": 28,
             "elementECP": [
@@ -835,9 +835,9 @@
         },
         "44": {
             "elementReferences": [
-                "figgen:2009a",
-                "lim:2005a",
-                "lim:2006a"
+                "figgen2009a",
+                "lim2005a",
+                "lim2006a"
             ],
             "elementECPElectrons": 28,
             "elementECP": [
@@ -954,9 +954,9 @@
         },
         "45": {
             "elementReferences": [
-                "figgen:2009a",
-                "lim:2005a",
-                "lim:2006a"
+                "figgen2009a",
+                "lim2005a",
+                "lim2006a"
             ],
             "elementECPElectrons": 28,
             "elementECP": [
@@ -1073,9 +1073,9 @@
         },
         "46": {
             "elementReferences": [
-                "figgen:2009a",
-                "lim:2005a",
-                "lim:2006a"
+                "figgen2009a",
+                "lim2005a",
+                "lim2006a"
             ],
             "elementECPElectrons": 28,
             "elementECP": [
@@ -1192,9 +1192,9 @@
         },
         "47": {
             "elementReferences": [
-                "figgen:2009a",
-                "lim:2005a",
-                "lim:2006a"
+                "figgen2009a",
+                "lim2005a",
+                "lim2006a"
             ],
             "elementECPElectrons": 28,
             "elementECP": [
@@ -1311,9 +1311,9 @@
         },
         "48": {
             "elementReferences": [
-                "figgen:2009a",
-                "lim:2005a",
-                "lim:2006a"
+                "figgen2009a",
+                "lim2005a",
+                "lim2006a"
             ],
             "elementECPElectrons": 28,
             "elementECP": [
@@ -1430,8 +1430,8 @@
         },
         "49": {
             "elementReferences": [
-                "lim:2005a",
-                "lim:2006a"
+                "lim2005a",
+                "lim2006a"
             ],
             "elementECPElectrons": 28,
             "elementECP": [
@@ -1548,8 +1548,8 @@
         },
         "50": {
             "elementReferences": [
-                "lim:2005a",
-                "lim:2006a"
+                "lim2005a",
+                "lim2006a"
             ],
             "elementECPElectrons": 28,
             "elementECP": [
@@ -1666,8 +1666,8 @@
         },
         "51": {
             "elementReferences": [
-                "lim:2005a",
-                "lim:2006a"
+                "lim2005a",
+                "lim2006a"
             ],
             "elementECPElectrons": 28,
             "elementECP": [
@@ -1784,8 +1784,8 @@
         },
         "52": {
             "elementReferences": [
-                "lim:2005a",
-                "lim:2006a"
+                "lim2005a",
+                "lim2006a"
             ],
             "elementECPElectrons": 28,
             "elementECP": [
@@ -1902,8 +1902,8 @@
         },
         "53": {
             "elementReferences": [
-                "lim:2005a",
-                "lim:2006a"
+                "lim2005a",
+                "lim2006a"
             ],
             "elementECPElectrons": 28,
             "elementECP": [
@@ -2029,8 +2029,8 @@
         },
         "54": {
             "elementReferences": [
-                "lim:2005a",
-                "lim:2006a"
+                "lim2005a",
+                "lim2006a"
             ],
             "elementECPElectrons": 28,
             "elementECP": [
@@ -2162,8 +2162,8 @@
         },
         "55": {
             "elementReferences": [
-                "lim:2005a",
-                "lim:2006a"
+                "lim2005a",
+                "lim2006a"
             ],
             "elementECPElectrons": 46,
             "elementECP": [
@@ -2306,7 +2306,7 @@
         },
         "56": {
             "elementReferences": [
-                "lim:2006a"
+                "lim2006a"
             ],
             "elementECPElectrons": 46,
             "elementECP": [

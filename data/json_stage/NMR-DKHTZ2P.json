@@ -5,7 +5,7 @@
     "basisSetElements": {
         "1": {
             "elementReferences": [
-                "paschoal:2016a"
+                "paschoal2016a"
             ],
             "elementElectronShells": [
                 {
@@ -80,7 +80,7 @@
         },
         "2": {
             "elementReferences": [
-                "paschoal:2016a"
+                "paschoal2016a"
             ],
             "elementElectronShells": [
                 {
@@ -155,7 +155,7 @@
         },
         "3": {
             "elementReferences": [
-                "paschoal:2016a"
+                "paschoal2016a"
             ],
             "elementElectronShells": [
                 {
@@ -327,7 +327,7 @@
         },
         "4": {
             "elementReferences": [
-                "paschoal:2016a"
+                "paschoal2016a"
             ],
             "elementElectronShells": [
                 {
@@ -499,7 +499,7 @@
         },
         "5": {
             "elementReferences": [
-                "paschoal:2016a"
+                "paschoal2016a"
             ],
             "elementElectronShells": [
                 {
@@ -671,7 +671,7 @@
         },
         "6": {
             "elementReferences": [
-                "paschoal:2016a"
+                "paschoal2016a"
             ],
             "elementElectronShells": [
                 {
@@ -843,7 +843,7 @@
         },
         "7": {
             "elementReferences": [
-                "paschoal:2016a"
+                "paschoal2016a"
             ],
             "elementElectronShells": [
                 {
@@ -1015,7 +1015,7 @@
         },
         "8": {
             "elementReferences": [
-                "paschoal:2016a"
+                "paschoal2016a"
             ],
             "elementElectronShells": [
                 {
@@ -1187,7 +1187,7 @@
         },
         "9": {
             "elementReferences": [
-                "paschoal:2016a"
+                "paschoal2016a"
             ],
             "elementElectronShells": [
                 {
@@ -1359,7 +1359,7 @@
         },
         "10": {
             "elementReferences": [
-                "paschoal:2016a"
+                "paschoal2016a"
             ],
             "elementElectronShells": [
                 {
@@ -1531,7 +1531,7 @@
         },
         "11": {
             "elementReferences": [
-                "paschoal:2016a"
+                "paschoal2016a"
             ],
             "elementElectronShells": [
                 {
@@ -1834,7 +1834,7 @@
         },
         "12": {
             "elementReferences": [
-                "paschoal:2016a"
+                "paschoal2016a"
             ],
             "elementElectronShells": [
                 {
@@ -2137,7 +2137,7 @@
         },
         "13": {
             "elementReferences": [
-                "paschoal:2016a"
+                "paschoal2016a"
             ],
             "elementElectronShells": [
                 {
@@ -2440,7 +2440,7 @@
         },
         "14": {
             "elementReferences": [
-                "paschoal:2016a"
+                "paschoal2016a"
             ],
             "elementElectronShells": [
                 {
@@ -2743,7 +2743,7 @@
         },
         "15": {
             "elementReferences": [
-                "paschoal:2016a"
+                "paschoal2016a"
             ],
             "elementElectronShells": [
                 {
@@ -3046,7 +3046,7 @@
         },
         "16": {
             "elementReferences": [
-                "paschoal:2016a"
+                "paschoal2016a"
             ],
             "elementElectronShells": [
                 {
@@ -3349,7 +3349,7 @@
         },
         "17": {
             "elementReferences": [
-                "paschoal:2016a"
+                "paschoal2016a"
             ],
             "elementElectronShells": [
                 {
@@ -3652,7 +3652,7 @@
         },
         "18": {
             "elementReferences": [
-                "paschoal:2016a"
+                "paschoal2016a"
             ],
             "elementElectronShells": [
                 {
@@ -3955,7 +3955,7 @@
         },
         "19": {
             "elementReferences": [
-                "paschoal:2016a"
+                "paschoal2016a"
             ],
             "elementElectronShells": [
                 {
@@ -4414,7 +4414,7 @@
         },
         "20": {
             "elementReferences": [
-                "paschoal:2016a"
+                "paschoal2016a"
             ],
             "elementElectronShells": [
                 {
@@ -4873,7 +4873,7 @@
         },
         "31": {
             "elementReferences": [
-                "paschoal:2016a"
+                "paschoal2016a"
             ],
             "elementElectronShells": [
                 {
@@ -5374,7 +5374,7 @@
         },
         "32": {
             "elementReferences": [
-                "paschoal:2016a"
+                "paschoal2016a"
             ],
             "elementElectronShells": [
                 {
@@ -5875,7 +5875,7 @@
         },
         "33": {
             "elementReferences": [
-                "paschoal:2016a"
+                "paschoal2016a"
             ],
             "elementElectronShells": [
                 {
@@ -6376,7 +6376,7 @@
         },
         "34": {
             "elementReferences": [
-                "paschoal:2016a"
+                "paschoal2016a"
             ],
             "elementElectronShells": [
                 {
@@ -6877,7 +6877,7 @@
         },
         "35": {
             "elementReferences": [
-                "paschoal:2016a"
+                "paschoal2016a"
             ],
             "elementElectronShells": [
                 {
@@ -7378,7 +7378,7 @@
         },
         "36": {
             "elementReferences": [
-                "paschoal:2016a"
+                "paschoal2016a"
             ],
             "elementElectronShells": [
                 {
@@ -7879,7 +7879,7 @@
         },
         "37": {
             "elementReferences": [
-                "paschoal:2016a"
+                "paschoal2016a"
             ],
             "elementElectronShells": [
                 {
@@ -8633,7 +8633,7 @@
         },
         "38": {
             "elementReferences": [
-                "paschoal:2016a"
+                "paschoal2016a"
             ],
             "elementElectronShells": [
                 {
@@ -9387,7 +9387,7 @@
         },
         "49": {
             "elementReferences": [
-                "paschoal:2016a"
+                "paschoal2016a"
             ],
             "elementElectronShells": [
                 {
@@ -10141,7 +10141,7 @@
         },
         "50": {
             "elementReferences": [
-                "paschoal:2016a"
+                "paschoal2016a"
             ],
             "elementElectronShells": [
                 {
@@ -10895,7 +10895,7 @@
         },
         "51": {
             "elementReferences": [
-                "paschoal:2016a"
+                "paschoal2016a"
             ],
             "elementElectronShells": [
                 {
@@ -11649,7 +11649,7 @@
         },
         "52": {
             "elementReferences": [
-                "paschoal:2016a"
+                "paschoal2016a"
             ],
             "elementElectronShells": [
                 {
@@ -12403,7 +12403,7 @@
         },
         "53": {
             "elementReferences": [
-                "paschoal:2016a"
+                "paschoal2016a"
             ],
             "elementElectronShells": [
                 {
@@ -13157,7 +13157,7 @@
         },
         "54": {
             "elementReferences": [
-                "paschoal:2016a"
+                "paschoal2016a"
             ],
             "elementElectronShells": [
                 {
@@ -13911,7 +13911,7 @@
         },
         "78": {
             "elementReferences": [
-                "paschoal:2016a"
+                "paschoal2016a"
             ],
             "elementElectronShells": [
                 {

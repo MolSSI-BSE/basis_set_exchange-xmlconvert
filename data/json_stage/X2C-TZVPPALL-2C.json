@@ -5,7 +5,7 @@
     "basisSetElements": {
         "1": {
             "elementReferences": [
-                "pollak:2017a"
+                "pollak2017a"
             ],
             "elementElectronShells": [
                 {
@@ -88,7 +88,7 @@
         },
         "2": {
             "elementReferences": [
-                "pollak:2017a"
+                "pollak2017a"
             ],
             "elementElectronShells": [
                 {
@@ -171,7 +171,7 @@
         },
         "3": {
             "elementReferences": [
-                "pollak:2017a"
+                "pollak2017a"
             ],
             "elementElectronShells": [
                 {
@@ -312,7 +312,7 @@
         },
         "4": {
             "elementReferences": [
-                "pollak:2017a"
+                "pollak2017a"
             ],
             "elementElectronShells": [
                 {
@@ -457,7 +457,7 @@
         },
         "5": {
             "elementReferences": [
-                "pollak:2017a"
+                "pollak2017a"
             ],
             "elementElectronShells": [
                 {
@@ -632,7 +632,7 @@
         },
         "6": {
             "elementReferences": [
-                "pollak:2017a"
+                "pollak2017a"
             ],
             "elementElectronShells": [
                 {
@@ -807,7 +807,7 @@
         },
         "7": {
             "elementReferences": [
-                "pollak:2017a"
+                "pollak2017a"
             ],
             "elementElectronShells": [
                 {
@@ -982,7 +982,7 @@
         },
         "8": {
             "elementReferences": [
-                "pollak:2017a"
+                "pollak2017a"
             ],
             "elementElectronShells": [
                 {
@@ -1157,7 +1157,7 @@
         },
         "9": {
             "elementReferences": [
-                "pollak:2017a"
+                "pollak2017a"
             ],
             "elementElectronShells": [
                 {
@@ -1332,7 +1332,7 @@
         },
         "10": {
             "elementReferences": [
-                "pollak:2017a"
+                "pollak2017a"
             ],
             "elementElectronShells": [
                 {
@@ -1507,7 +1507,7 @@
         },
         "11": {
             "elementReferences": [
-                "pollak:2017a"
+                "pollak2017a"
             ],
             "elementElectronShells": [
                 {
@@ -1750,7 +1750,7 @@
         },
         "12": {
             "elementReferences": [
-                "pollak:2017a"
+                "pollak2017a"
             ],
             "elementElectronShells": [
                 {
@@ -1993,7 +1993,7 @@
         },
         "13": {
             "elementReferences": [
-                "pollak:2017a"
+                "pollak2017a"
             ],
             "elementElectronShells": [
                 {
@@ -2274,7 +2274,7 @@
         },
         "14": {
             "elementReferences": [
-                "pollak:2017a"
+                "pollak2017a"
             ],
             "elementElectronShells": [
                 {
@@ -2555,7 +2555,7 @@
         },
         "15": {
             "elementReferences": [
-                "pollak:2017a"
+                "pollak2017a"
             ],
             "elementElectronShells": [
                 {
@@ -2836,7 +2836,7 @@
         },
         "16": {
             "elementReferences": [
-                "pollak:2017a"
+                "pollak2017a"
             ],
             "elementElectronShells": [
                 {
@@ -3117,7 +3117,7 @@
         },
         "17": {
             "elementReferences": [
-                "pollak:2017a"
+                "pollak2017a"
             ],
             "elementElectronShells": [
                 {
@@ -3398,7 +3398,7 @@
         },
         "18": {
             "elementReferences": [
-                "pollak:2017a"
+                "pollak2017a"
             ],
             "elementElectronShells": [
                 {
@@ -3679,7 +3679,7 @@
         },
         "19": {
             "elementReferences": [
-                "pollak:2017a"
+                "pollak2017a"
             ],
             "elementElectronShells": [
                 {
@@ -4009,7 +4009,7 @@
         },
         "20": {
             "elementReferences": [
-                "pollak:2017a"
+                "pollak2017a"
             ],
             "elementElectronShells": [
                 {
@@ -4371,7 +4371,7 @@
         },
         "21": {
             "elementReferences": [
-                "pollak:2017a"
+                "pollak2017a"
             ],
             "elementElectronShells": [
                 {
@@ -4792,7 +4792,7 @@
         },
         "22": {
             "elementReferences": [
-                "pollak:2017a"
+                "pollak2017a"
             ],
             "elementElectronShells": [
                 {
@@ -5213,7 +5213,7 @@
         },
         "23": {
             "elementReferences": [
-                "pollak:2017a"
+                "pollak2017a"
             ],
             "elementElectronShells": [
                 {
@@ -5634,7 +5634,7 @@
         },
         "24": {
             "elementReferences": [
-                "pollak:2017a"
+                "pollak2017a"
             ],
             "elementElectronShells": [
                 {
@@ -6055,7 +6055,7 @@
         },
         "25": {
             "elementReferences": [
-                "pollak:2017a"
+                "pollak2017a"
             ],
             "elementElectronShells": [
                 {
@@ -6476,7 +6476,7 @@
         },
         "26": {
             "elementReferences": [
-                "pollak:2017a"
+                "pollak2017a"
             ],
             "elementElectronShells": [
                 {
@@ -6897,7 +6897,7 @@
         },
         "27": {
             "elementReferences": [
-                "pollak:2017a"
+                "pollak2017a"
             ],
             "elementElectronShells": [
                 {
@@ -7318,7 +7318,7 @@
         },
         "28": {
             "elementReferences": [
-                "pollak:2017a"
+                "pollak2017a"
             ],
             "elementElectronShells": [
                 {
@@ -7739,7 +7739,7 @@
         },
         "29": {
             "elementReferences": [
-                "pollak:2017a"
+                "pollak2017a"
             ],
             "elementElectronShells": [
                 {
@@ -8160,7 +8160,7 @@
         },
         "30": {
             "elementReferences": [
-                "pollak:2017a"
+                "pollak2017a"
             ],
             "elementElectronShells": [
                 {
@@ -8581,7 +8581,7 @@
         },
         "31": {
             "elementReferences": [
-                "pollak:2017a"
+                "pollak2017a"
             ],
             "elementElectronShells": [
                 {
@@ -8985,7 +8985,7 @@
         },
         "32": {
             "elementReferences": [
-                "pollak:2017a"
+                "pollak2017a"
             ],
             "elementElectronShells": [
                 {
@@ -9389,7 +9389,7 @@
         },
         "33": {
             "elementReferences": [
-                "pollak:2017a"
+                "pollak2017a"
             ],
             "elementElectronShells": [
                 {
@@ -9801,7 +9801,7 @@
         },
         "34": {
             "elementReferences": [
-                "pollak:2017a"
+                "pollak2017a"
             ],
             "elementElectronShells": [
                 {
@@ -10213,7 +10213,7 @@
         },
         "35": {
             "elementReferences": [
-                "pollak:2017a"
+                "pollak2017a"
             ],
             "elementElectronShells": [
                 {
@@ -10625,7 +10625,7 @@
         },
         "36": {
             "elementReferences": [
-                "pollak:2017a"
+                "pollak2017a"
             ],
             "elementElectronShells": [
                 {
@@ -11037,7 +11037,7 @@
         },
         "37": {
             "elementReferences": [
-                "pollak:2017a"
+                "pollak2017a"
             ],
             "elementElectronShells": [
                 {
@@ -11742,7 +11742,7 @@
         },
         "38": {
             "elementReferences": [
-                "pollak:2017a"
+                "pollak2017a"
             ],
             "elementElectronShells": [
                 {
@@ -12447,7 +12447,7 @@
         },
         "39": {
             "elementReferences": [
-                "pollak:2017a"
+                "pollak2017a"
             ],
             "elementElectronShells": [
                 {
@@ -13160,7 +13160,7 @@
         },
         "40": {
             "elementReferences": [
-                "pollak:2017a"
+                "pollak2017a"
             ],
             "elementElectronShells": [
                 {
@@ -13873,7 +13873,7 @@
         },
         "41": {
             "elementReferences": [
-                "pollak:2017a"
+                "pollak2017a"
             ],
             "elementElectronShells": [
                 {
@@ -14586,7 +14586,7 @@
         },
         "42": {
             "elementReferences": [
-                "pollak:2017a"
+                "pollak2017a"
             ],
             "elementElectronShells": [
                 {
@@ -15299,7 +15299,7 @@
         },
         "43": {
             "elementReferences": [
-                "pollak:2017a"
+                "pollak2017a"
             ],
             "elementElectronShells": [
                 {
@@ -16012,7 +16012,7 @@
         },
         "44": {
             "elementReferences": [
-                "pollak:2017a"
+                "pollak2017a"
             ],
             "elementElectronShells": [
                 {
@@ -16725,7 +16725,7 @@
         },
         "45": {
             "elementReferences": [
-                "pollak:2017a"
+                "pollak2017a"
             ],
             "elementElectronShells": [
                 {
@@ -17438,7 +17438,7 @@
         },
         "46": {
             "elementReferences": [
-                "pollak:2017a"
+                "pollak2017a"
             ],
             "elementElectronShells": [
                 {
@@ -18151,7 +18151,7 @@
         },
         "47": {
             "elementReferences": [
-                "pollak:2017a"
+                "pollak2017a"
             ],
             "elementElectronShells": [
                 {
@@ -18864,7 +18864,7 @@
         },
         "48": {
             "elementReferences": [
-                "pollak:2017a"
+                "pollak2017a"
             ],
             "elementElectronShells": [
                 {
@@ -19577,7 +19577,7 @@
         },
         "49": {
             "elementReferences": [
-                "pollak:2017a"
+                "pollak2017a"
             ],
             "elementElectronShells": [
                 {
@@ -20238,7 +20238,7 @@
         },
         "50": {
             "elementReferences": [
-                "pollak:2017a"
+                "pollak2017a"
             ],
             "elementElectronShells": [
                 {
@@ -20899,7 +20899,7 @@
         },
         "51": {
             "elementReferences": [
-                "pollak:2017a"
+                "pollak2017a"
             ],
             "elementElectronShells": [
                 {
@@ -21560,7 +21560,7 @@
         },
         "52": {
             "elementReferences": [
-                "pollak:2017a"
+                "pollak2017a"
             ],
             "elementElectronShells": [
                 {
@@ -22221,7 +22221,7 @@
         },
         "53": {
             "elementReferences": [
-                "pollak:2017a"
+                "pollak2017a"
             ],
             "elementElectronShells": [
                 {
@@ -22882,7 +22882,7 @@
         },
         "54": {
             "elementReferences": [
-                "pollak:2017a"
+                "pollak2017a"
             ],
             "elementElectronShells": [
                 {
@@ -23543,7 +23543,7 @@
         },
         "55": {
             "elementReferences": [
-                "pollak:2017a"
+                "pollak2017a"
             ],
             "elementElectronShells": [
                 {
@@ -24563,7 +24563,7 @@
         },
         "56": {
             "elementReferences": [
-                "pollak:2017a"
+                "pollak2017a"
             ],
             "elementElectronShells": [
                 {
@@ -25583,7 +25583,7 @@
         },
         "57": {
             "elementReferences": [
-                "pollak:2017a"
+                "pollak2017a"
             ],
             "elementElectronShells": [
                 {
@@ -26643,7 +26643,7 @@
         },
         "58": {
             "elementReferences": [
-                "pollak:2017a"
+                "pollak2017a"
             ],
             "elementElectronShells": [
                 {
@@ -27730,7 +27730,7 @@
         },
         "59": {
             "elementReferences": [
-                "pollak:2017a"
+                "pollak2017a"
             ],
             "elementElectronShells": [
                 {
@@ -28817,7 +28817,7 @@
         },
         "60": {
             "elementReferences": [
-                "pollak:2017a"
+                "pollak2017a"
             ],
             "elementElectronShells": [
                 {
@@ -29904,7 +29904,7 @@
         },
         "61": {
             "elementReferences": [
-                "pollak:2017a"
+                "pollak2017a"
             ],
             "elementElectronShells": [
                 {
@@ -30991,7 +30991,7 @@
         },
         "62": {
             "elementReferences": [
-                "pollak:2017a"
+                "pollak2017a"
             ],
             "elementElectronShells": [
                 {
@@ -32078,7 +32078,7 @@
         },
         "63": {
             "elementReferences": [
-                "pollak:2017a"
+                "pollak2017a"
             ],
             "elementElectronShells": [
                 {
@@ -33165,7 +33165,7 @@
         },
         "64": {
             "elementReferences": [
-                "pollak:2017a"
+                "pollak2017a"
             ],
             "elementElectronShells": [
                 {
@@ -34252,7 +34252,7 @@
         },
         "65": {
             "elementReferences": [
-                "pollak:2017a"
+                "pollak2017a"
             ],
             "elementElectronShells": [
                 {
@@ -35339,7 +35339,7 @@
         },
         "66": {
             "elementReferences": [
-                "pollak:2017a"
+                "pollak2017a"
             ],
             "elementElectronShells": [
                 {
@@ -36426,7 +36426,7 @@
         },
         "67": {
             "elementReferences": [
-                "pollak:2017a"
+                "pollak2017a"
             ],
             "elementElectronShells": [
                 {
@@ -37513,7 +37513,7 @@
         },
         "68": {
             "elementReferences": [
-                "pollak:2017a"
+                "pollak2017a"
             ],
             "elementElectronShells": [
                 {
@@ -38600,7 +38600,7 @@
         },
         "69": {
             "elementReferences": [
-                "pollak:2017a"
+                "pollak2017a"
             ],
             "elementElectronShells": [
                 {
@@ -39687,7 +39687,7 @@
         },
         "70": {
             "elementReferences": [
-                "pollak:2017a"
+                "pollak2017a"
             ],
             "elementElectronShells": [
                 {
@@ -40774,7 +40774,7 @@
         },
         "71": {
             "elementReferences": [
-                "pollak:2017a"
+                "pollak2017a"
             ],
             "elementElectronShells": [
                 {
@@ -41838,7 +41838,7 @@
         },
         "72": {
             "elementReferences": [
-                "pollak:2017a"
+                "pollak2017a"
             ],
             "elementElectronShells": [
                 {
@@ -42906,7 +42906,7 @@
         },
         "73": {
             "elementReferences": [
-                "pollak:2017a"
+                "pollak2017a"
             ],
             "elementElectronShells": [
                 {
@@ -43974,7 +43974,7 @@
         },
         "74": {
             "elementReferences": [
-                "pollak:2017a"
+                "pollak2017a"
             ],
             "elementElectronShells": [
                 {
@@ -45042,7 +45042,7 @@
         },
         "75": {
             "elementReferences": [
-                "pollak:2017a"
+                "pollak2017a"
             ],
             "elementElectronShells": [
                 {
@@ -46110,7 +46110,7 @@
         },
         "76": {
             "elementReferences": [
-                "pollak:2017a"
+                "pollak2017a"
             ],
             "elementElectronShells": [
                 {
@@ -47178,7 +47178,7 @@
         },
         "77": {
             "elementReferences": [
-                "pollak:2017a"
+                "pollak2017a"
             ],
             "elementElectronShells": [
                 {
@@ -48246,7 +48246,7 @@
         },
         "78": {
             "elementReferences": [
-                "pollak:2017a"
+                "pollak2017a"
             ],
             "elementElectronShells": [
                 {
@@ -49314,7 +49314,7 @@
         },
         "79": {
             "elementReferences": [
-                "pollak:2017a"
+                "pollak2017a"
             ],
             "elementElectronShells": [
                 {
@@ -50382,7 +50382,7 @@
         },
         "80": {
             "elementReferences": [
-                "pollak:2017a"
+                "pollak2017a"
             ],
             "elementElectronShells": [
                 {
@@ -51450,7 +51450,7 @@
         },
         "81": {
             "elementReferences": [
-                "pollak:2017a"
+                "pollak2017a"
             ],
             "elementElectronShells": [
                 {
@@ -52483,7 +52483,7 @@
         },
         "82": {
             "elementReferences": [
-                "pollak:2017a"
+                "pollak2017a"
             ],
             "elementElectronShells": [
                 {
@@ -53516,7 +53516,7 @@
         },
         "83": {
             "elementReferences": [
-                "pollak:2017a"
+                "pollak2017a"
             ],
             "elementElectronShells": [
                 {
@@ -54549,7 +54549,7 @@
         },
         "84": {
             "elementReferences": [
-                "pollak:2017a"
+                "pollak2017a"
             ],
             "elementElectronShells": [
                 {
@@ -55582,7 +55582,7 @@
         },
         "85": {
             "elementReferences": [
-                "pollak:2017a"
+                "pollak2017a"
             ],
             "elementElectronShells": [
                 {
@@ -56615,7 +56615,7 @@
         },
         "86": {
             "elementReferences": [
-                "pollak:2017a"
+                "pollak2017a"
             ],
             "elementElectronShells": [
                 {
