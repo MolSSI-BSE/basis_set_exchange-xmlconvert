@@ -5,42 +5,42 @@
     "basisSetElements": {
         "11": {
             "elementComponents": [
-                "STO-3GS.json"
+                "STO-3GS_collins1976a.json"
             ]
         },
         "12": {
             "elementComponents": [
-                "STO-3GS.json"
+                "STO-3GS_collins1976a.json"
             ]
         },
         "13": {
             "elementComponents": [
-                "STO-3GS.json"
+                "STO-3GS_collins1976a.json"
             ]
         },
         "14": {
             "elementComponents": [
-                "STO-3GS.json"
+                "STO-3GS_collins1976a.json"
             ]
         },
         "15": {
             "elementComponents": [
-                "STO-3GS.json"
+                "STO-3GS_collins1976a.json"
             ]
         },
         "16": {
             "elementComponents": [
-                "STO-3GS.json"
+                "STO-3GS_collins1976a.json"
             ]
         },
         "17": {
             "elementComponents": [
-                "STO-3GS.json"
+                "STO-3GS_collins1976a.json"
             ]
         },
         "18": {
             "elementComponents": [
-                "STO-3GS.json"
+                "STO-3GS_collins1976a.json"
             ]
         }
     }
