@@ -5,6 +5,7 @@ import sys
 import glob
 import time
 import requests
+import subprocess
 
 import bse
 
@@ -73,7 +74,7 @@ for k,v in refdata.items():
         filename = k.replace(':', '') + ".pdf"
         filename = os.path.join('pdf', filename)
         if not os.path.isfile(filename):
-            print('-'*80)
-            print(filename)
-            print(v['DOI'])
-            get_pdf(v['DOI'],filename)
+            #print('-'*80)
+            print("{} {}".format(v['DOI'], filename))
+            subprocess.call(["firefox", "https://dx.doi.org/{}".format(v["DOI"])])
+            #get_pdf(v['DOI'],filename)
