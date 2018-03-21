@@ -1,0 +1,3085 @@
+{
+    "molssi_bse_magic": 1,
+    "basisSetName": "Wachters+f",
+    "basisSetDescription": "VDZP    Valence Double Zeta + Polarization on All Atoms",
+    "basisSetElements": {
+        "21": {
+            "elementReferences": [
+                "wachters1970a",
+                "bauschlicher1989a"
+            ],
+            "elementElectronShells": [
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "valence",
+                    "shellAngularMomentum": [
+                        0
+                    ],
+                    "shellExponents": [
+                        "188961.",
+                        "28491.4",
+                        "6572.43",
+                        "1881.03",
+                        "617.979",
+                        "225.127"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "0.00025",
+                            "0.00193",
+                            "0.00980",
+                            "0.03940",
+                            "0.12532",
+                            "0.29577"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "valence",
+                    "shellAngularMomentum": [
+                        0
+                    ],
+                    "shellExponents": [
+                        "88.5664",
+                        "36.5819"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "0.41900",
+                            "0.24139"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "valence",
+                    "shellAngularMomentum": [
+                        0
+                    ],
+                    "shellExponents": [
+                        "11.0358"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "valence",
+                    "shellAngularMomentum": [
+                        0
+                    ],
+                    "shellExponents": [
+                        "4.49063"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "valence",
+                    "shellAngularMomentum": [
+                        0
+                    ],
+                    "shellExponents": [
+                        "1.12935"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "valence",
+                    "shellAngularMomentum": [
+                        0
+                    ],
+                    "shellExponents": [
+                        "0.454613"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "valence",
+                    "shellAngularMomentum": [
+                        0
+                    ],
+                    "shellExponents": [
+                        "0.077533"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "valence",
+                    "shellAngularMomentum": [
+                        0
+                    ],
+                    "shellExponents": [
+                        "0.030790"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "valence",
+                    "shellAngularMomentum": [
+                        1
+                    ],
+                    "shellExponents": [
+                        "1113.82",
+                        "266.244",
+                        "86.5763"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "0.00223",
+                            "0.01764",
+                            "0.08123"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "valence",
+                    "shellAngularMomentum": [
+                        1
+                    ],
+                    "shellExponents": [
+                        "32.5934",
+                        "13.2190",
+                        "5.58357"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "0.24040",
+                            "0.42517",
+                            "0.35972"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "valence",
+                    "shellAngularMomentum": [
+                        1
+                    ],
+                    "shellExponents": [
+                        "2.18594"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "valence",
+                    "shellAngularMomentum": [
+                        1
+                    ],
+                    "shellExponents": [
+                        "0.895011",
+                        "0.351975"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "0.57602",
+                            "0.30890"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "valence",
+                    "shellAngularMomentum": [
+                        1
+                    ],
+                    "shellExponents": [
+                        "0.13462"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "valence",
+                    "shellAngularMomentum": [
+                        1
+                    ],
+                    "shellExponents": [
+                        "0.046548"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "valence",
+                    "shellAngularMomentum": [
+                        2
+                    ],
+                    "shellExponents": [
+                        "22.4283",
+                        "6.03479",
+                        "1.97905"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "0.02140",
+                            "0.11304",
+                            "0.31393"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "valence",
+                    "shellAngularMomentum": [
+                        2
+                    ],
+                    "shellExponents": [
+                        "0.666750"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "valence",
+                    "shellAngularMomentum": [
+                        2
+                    ],
+                    "shellExponents": [
+                        "0.218231"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "valence",
+                    "shellAngularMomentum": [
+                        2
+                    ],
+                    "shellExponents": [
+                        "0.0588"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "valence",
+                    "shellAngularMomentum": [
+                        3
+                    ],
+                    "shellExponents": [
+                        "0.8918597",
+                        "0.3198414",
+                        "0.1369599"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "0.1737857",
+                            "0.5973381",
+                            "0.3929396"
+                        ]
+                    ]
+                }
+            ]
+        },
+        "22": {
+            "elementReferences": [
+                "wachters1970a",
+                "bauschlicher1989a"
+            ],
+            "elementElectronShells": [
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "valence",
+                    "shellAngularMomentum": [
+                        0
+                    ],
+                    "shellExponents": [
+                        "206082.",
+                        "31226.8",
+                        "7199.32",
+                        "2048.75",
+                        "670.79",
+                        "243.65"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "0.00025",
+                            "0.00193",
+                            "0.00988",
+                            "0.03994",
+                            "0.12737",
+                            "0.29981"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "valence",
+                    "shellAngularMomentum": [
+                        0
+                    ],
+                    "shellExponents": [
+                        "95.9250",
+                        "39.8101"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "0.41825",
+                            "0.23582"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "valence",
+                    "shellAngularMomentum": [
+                        0
+                    ],
+                    "shellExponents": [
+                        "12.2205"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "valence",
+                    "shellAngularMomentum": [
+                        0
+                    ],
+                    "shellExponents": [
+                        "5.00882"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "valence",
+                    "shellAngularMomentum": [
+                        0
+                    ],
+                    "shellExponents": [
+                        "1.28569"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "valence",
+                    "shellAngularMomentum": [
+                        0
+                    ],
+                    "shellExponents": [
+                        "0.512806"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "valence",
+                    "shellAngularMomentum": [
+                        0
+                    ],
+                    "shellExponents": [
+                        "0.085576"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "valence",
+                    "shellAngularMomentum": [
+                        0
+                    ],
+                    "shellExponents": [
+                        "0.033302"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "valence",
+                    "shellAngularMomentum": [
+                        1
+                    ],
+                    "shellExponents": [
+                        "1264.70",
+                        "301.23",
+                        "96.9777"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "0.00214",
+                            "0.01725",
+                            "0.08117"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "valence",
+                    "shellAngularMomentum": [
+                        1
+                    ],
+                    "shellExponents": [
+                        "36.3727",
+                        "14.7814",
+                        "6.27465"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "0.24143",
+                            "0.42631",
+                            "0.35714"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "valence",
+                    "shellAngularMomentum": [
+                        1
+                    ],
+                    "shellExponents": [
+                        "2.47878"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "valence",
+                    "shellAngularMomentum": [
+                        1
+                    ],
+                    "shellExponents": [
+                        "1.01618",
+                        "0.398162"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "0.57709",
+                            "0.29986"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "valence",
+                    "shellAngularMomentum": [
+                        1
+                    ],
+                    "shellExponents": [
+                        "0.15234"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "valence",
+                    "shellAngularMomentum": [
+                        1
+                    ],
+                    "shellExponents": [
+                        "0.05108"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "valence",
+                    "shellAngularMomentum": [
+                        2
+                    ],
+                    "shellExponents": [
+                        "25.9924",
+                        "7.08634",
+                        "2.34871"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "0.02253",
+                            "0.11961",
+                            "0.32700"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "valence",
+                    "shellAngularMomentum": [
+                        2
+                    ],
+                    "shellExponents": [
+                        "0.800198"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "valence",
+                    "shellAngularMomentum": [
+                        2
+                    ],
+                    "shellExponents": [
+                        "0.262049"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "valence",
+                    "shellAngularMomentum": [
+                        2
+                    ],
+                    "shellExponents": [
+                        "0.0720"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "valence",
+                    "shellAngularMomentum": [
+                        3
+                    ],
+                    "shellExponents": [
+                        "1.3935308",
+                        "0.4997522",
+                        "0.2139998"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "0.1737857",
+                            "0.5973381",
+                            "0.3929396"
+                        ]
+                    ]
+                }
+            ]
+        },
+        "23": {
+            "elementReferences": [
+                "wachters1970a",
+                "bauschlicher1989a"
+            ],
+            "elementElectronShells": [
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "valence",
+                    "shellAngularMomentum": [
+                        0
+                    ],
+                    "shellExponents": [
+                        "226878.",
+                        "33899.6",
+                        "7720.24",
+                        "2191.53",
+                        "719.169",
+                        "262.086"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            ".00025",
+                            ".00197",
+                            ".01017",
+                            ".04098",
+                            ".12980",
+                            ".30259"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "valence",
+                    "shellAngularMomentum": [
+                        0
+                    ],
+                    "shellExponents": [
+                        "103.653",
+                        "43.2548"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            ".41637",
+                            ".23133"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "valence",
+                    "shellAngularMomentum": [
+                        0
+                    ],
+                    "shellExponents": [
+                        "13.5088"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "valence",
+                    "shellAngularMomentum": [
+                        0
+                    ],
+                    "shellExponents": [
+                        "5.56715"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "valence",
+                    "shellAngularMomentum": [
+                        0
+                    ],
+                    "shellExponents": [
+                        "1.45174"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "valence",
+                    "shellAngularMomentum": [
+                        0
+                    ],
+                    "shellExponents": [
+                        ".574445"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "valence",
+                    "shellAngularMomentum": [
+                        0
+                    ],
+                    "shellExponents": [
+                        ".092820"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "valence",
+                    "shellAngularMomentum": [
+                        0
+                    ],
+                    "shellExponents": [
+                        ".035532"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "valence",
+                    "shellAngularMomentum": [
+                        1
+                    ],
+                    "shellExponents": [
+                        "1398.43",
+                        "331.571",
+                        "107.002"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            ".00214",
+                            ".01735",
+                            ".08128"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "valence",
+                    "shellAngularMomentum": [
+                        1
+                    ],
+                    "shellExponents": [
+                        "40.3183",
+                        "16.4635",
+                        "7.02352"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            ".24130",
+                            ".42622",
+                            ".35578"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "valence",
+                    "shellAngularMomentum": [
+                        1
+                    ],
+                    "shellExponents": [
+                        "2.79025"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "valence",
+                    "shellAngularMomentum": [
+                        1
+                    ],
+                    "shellExponents": [
+                        "1.14609",
+                        ".447272"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            ".57693",
+                            ".29470"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "valence",
+                    "shellAngularMomentum": [
+                        1
+                    ],
+                    "shellExponents": [
+                        ".166872"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "valence",
+                    "shellAngularMomentum": [
+                        1
+                    ],
+                    "shellExponents": [
+                        ".054567"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "valence",
+                    "shellAngularMomentum": [
+                        2
+                    ],
+                    "shellExponents": [
+                        "30.2212",
+                        "8.27218",
+                        "2.75823"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            ".02270",
+                            ".12248",
+                            ".33286"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "valence",
+                    "shellAngularMomentum": [
+                        2
+                    ],
+                    "shellExponents": [
+                        ".942137"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "valence",
+                    "shellAngularMomentum": [
+                        2
+                    ],
+                    "shellExponents": [
+                        ".305298"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "valence",
+                    "shellAngularMomentum": [
+                        2
+                    ],
+                    "shellExponents": [
+                        ".082000"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "valence",
+                    "shellAngularMomentum": [
+                        3
+                    ],
+                    "shellExponents": [
+                        "2.0066843",
+                        "0.7196432",
+                        "0.3081598"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "0.1737857",
+                            "0.5973381",
+                            "0.3929396"
+                        ]
+                    ]
+                }
+            ]
+        },
+        "24": {
+            "elementReferences": [
+                "wachters1970a",
+                "bauschlicher1989a"
+            ],
+            "elementElectronShells": [
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "valence",
+                    "shellAngularMomentum": [
+                        0
+                    ],
+                    "shellExponents": [
+                        "236658.",
+                        "35364.0",
+                        "8058.31",
+                        "2294.23",
+                        "756.118",
+                        "277.000"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            ".00027",
+                            ".00208",
+                            ".01071",
+                            ".04284",
+                            ".13420",
+                            ".30798"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "valence",
+                    "shellAngularMomentum": [
+                        0
+                    ],
+                    "shellExponents": [
+                        "110.179",
+                        "46.3710"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            ".41361",
+                            ".22241"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "valence",
+                    "shellAngularMomentum": [
+                        0
+                    ],
+                    "shellExponents": [
+                        "14.8215"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "valence",
+                    "shellAngularMomentum": [
+                        0
+                    ],
+                    "shellExponents": [
+                        "6.13262"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "valence",
+                    "shellAngularMomentum": [
+                        0
+                    ],
+                    "shellExponents": [
+                        "1.62959"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "valence",
+                    "shellAngularMomentum": [
+                        0
+                    ],
+                    "shellExponents": [
+                        ".641177"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "valence",
+                    "shellAngularMomentum": [
+                        0
+                    ],
+                    "shellExponents": [
+                        ".099511"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "valence",
+                    "shellAngularMomentum": [
+                        0
+                    ],
+                    "shellExponents": [
+                        ".037588"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "valence",
+                    "shellAngularMomentum": [
+                        1
+                    ],
+                    "shellExponents": [
+                        "1478.77",
+                        "351.490",
+                        "113.826"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            ".00228",
+                            ".01836",
+                            ".08503"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "valence",
+                    "shellAngularMomentum": [
+                        1
+                    ],
+                    "shellExponents": [
+                        "43.1567",
+                        "17.7775",
+                        "7.66128"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            ".24761",
+                            ".42718",
+                            ".34579"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "valence",
+                    "shellAngularMomentum": [
+                        1
+                    ],
+                    "shellExponents": [
+                        "3.07765"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "valence",
+                    "shellAngularMomentum": [
+                        1
+                    ],
+                    "shellExponents": [
+                        "1.26619",
+                        ".493534"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            ".57490",
+                            ".28473"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "valence",
+                    "shellAngularMomentum": [
+                        1
+                    ],
+                    "shellExponents": [
+                        ".18101"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "valence",
+                    "shellAngularMomentum": [
+                        1
+                    ],
+                    "shellExponents": [
+                        ".05792"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "valence",
+                    "shellAngularMomentum": [
+                        2
+                    ],
+                    "shellExponents": [
+                        "34.0221",
+                        "9.43161",
+                        "3.15918"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            ".02328",
+                            ".12564",
+                            ".33897"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "valence",
+                    "shellAngularMomentum": [
+                        2
+                    ],
+                    "shellExponents": [
+                        "1.07995"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "valence",
+                    "shellAngularMomentum": [
+                        2
+                    ],
+                    "shellExponents": [
+                        ".346582"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "valence",
+                    "shellAngularMomentum": [
+                        2
+                    ],
+                    "shellExponents": [
+                        ".091200"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "valence",
+                    "shellAngularMomentum": [
+                        3
+                    ],
+                    "shellExponents": [
+                        "2.7313203",
+                        "0.9795143",
+                        "0.4194397"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "0.1737857",
+                            "0.5973381",
+                            "0.3929396"
+                        ]
+                    ]
+                }
+            ]
+        },
+        "25": {
+            "elementReferences": [
+                "wachters1970a",
+                "bauschlicher1989a"
+            ],
+            "elementElectronShells": [
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "valence",
+                    "shellAngularMomentum": [
+                        0
+                    ],
+                    "shellExponents": [
+                        "243694.",
+                        "35995.0",
+                        "8223.56",
+                        "2353.12",
+                        "780.965",
+                        "288.519"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            ".00029",
+                            ".00225",
+                            ".01152",
+                            ".04559",
+                            ".14039",
+                            ".31472"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "valence",
+                    "shellAngularMomentum": [
+                        0
+                    ],
+                    "shellExponents": [
+                        "115.701",
+                        "49.1175"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            ".40974",
+                            ".21079"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "valence",
+                    "shellAngularMomentum": [
+                        0
+                    ],
+                    "shellExponents": [
+                        "16.0885"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "valence",
+                    "shellAngularMomentum": [
+                        0
+                    ],
+                    "shellExponents": [
+                        "6.70430"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "valence",
+                    "shellAngularMomentum": [
+                        0
+                    ],
+                    "shellExponents": [
+                        "1.80517"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "valence",
+                    "shellAngularMomentum": [
+                        0
+                    ],
+                    "shellExponents": [
+                        ".703011"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "valence",
+                    "shellAngularMomentum": [
+                        0
+                    ],
+                    "shellExponents": [
+                        ".106385"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "valence",
+                    "shellAngularMomentum": [
+                        0
+                    ],
+                    "shellExponents": [
+                        ".039616"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "valence",
+                    "shellAngularMomentum": [
+                        1
+                    ],
+                    "shellExponents": [
+                        "1500.39",
+                        "358.800",
+                        "116.699"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            ".00258",
+                            ".02048",
+                            ".09293"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "valence",
+                    "shellAngularMomentum": [
+                        1
+                    ],
+                    "shellExponents": [
+                        "44.6132",
+                        "18.5985",
+                        "8.13778"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            ".26074",
+                            ".42889",
+                            ".32598"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "valence",
+                    "shellAngularMomentum": [
+                        1
+                    ],
+                    "shellExponents": [
+                        "3.33734"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "valence",
+                    "shellAngularMomentum": [
+                        1
+                    ],
+                    "shellExponents": [
+                        "1.37895",
+                        ".538639"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            ".56935",
+                            ".27354"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "valence",
+                    "shellAngularMomentum": [
+                        1
+                    ],
+                    "shellExponents": [
+                        ".191475"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "valence",
+                    "shellAngularMomentum": [
+                        1
+                    ],
+                    "shellExponents": [
+                        ".060420"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "valence",
+                    "shellAngularMomentum": [
+                        2
+                    ],
+                    "shellExponents": [
+                        "37.8977",
+                        "10.5201",
+                        "3.53764"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            ".02409",
+                            ".13073",
+                            ".34648"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "valence",
+                    "shellAngularMomentum": [
+                        2
+                    ],
+                    "shellExponents": [
+                        "1.21217"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "valence",
+                    "shellAngularMomentum": [
+                        2
+                    ],
+                    "shellExponents": [
+                        ".387912"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "valence",
+                    "shellAngularMomentum": [
+                        2
+                    ],
+                    "shellExponents": [
+                        ".105400"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "valence",
+                    "shellAngularMomentum": [
+                        3
+                    ],
+                    "shellExponents": [
+                        "3.5674388",
+                        "1.2793657",
+                        "0.5478396"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "0.1737857",
+                            "0.5973381",
+                            "0.3929396"
+                        ]
+                    ]
+                }
+            ]
+        },
+        "26": {
+            "elementReferences": [
+                "wachters1970a",
+                "bauschlicher1989a"
+            ],
+            "elementElectronShells": [
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "valence",
+                    "shellAngularMomentum": [
+                        0
+                    ],
+                    "shellExponents": [
+                        "257539.",
+                        "38636.9",
+                        "8891.44",
+                        "2544.01",
+                        "844.777",
+                        "312.527"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            ".00029",
+                            ".00226",
+                            ".01152",
+                            ".04566",
+                            ".14035",
+                            ".31420"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "valence",
+                    "shellAngularMomentum": [
+                        0
+                    ],
+                    "shellExponents": [
+                        "125.593",
+                        "53.4987"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            ".40878",
+                            ".21163"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "valence",
+                    "shellAngularMomentum": [
+                        0
+                    ],
+                    "shellExponents": [
+                        "17.7151"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "valence",
+                    "shellAngularMomentum": [
+                        0
+                    ],
+                    "shellExponents": [
+                        "7.37677"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "valence",
+                    "shellAngularMomentum": [
+                        0
+                    ],
+                    "shellExponents": [
+                        "2.01847"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "valence",
+                    "shellAngularMomentum": [
+                        0
+                    ],
+                    "shellExponents": [
+                        ".779935"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "valence",
+                    "shellAngularMomentum": [
+                        0
+                    ],
+                    "shellExponents": [
+                        ".114220"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "valence",
+                    "shellAngularMomentum": [
+                        0
+                    ],
+                    "shellExponents": [
+                        ".041889"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "valence",
+                    "shellAngularMomentum": [
+                        1
+                    ],
+                    "shellExponents": [
+                        "1678.40",
+                        "396.392",
+                        "128.588"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            ".00249",
+                            ".02015",
+                            ".09199"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "valence",
+                    "shellAngularMomentum": [
+                        1
+                    ],
+                    "shellExponents": [
+                        "49.1158",
+                        "20.5035",
+                        "8.98712"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            ".25991",
+                            ".42887",
+                            ".32691"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "valence",
+                    "shellAngularMomentum": [
+                        1
+                    ],
+                    "shellExponents": [
+                        "3.68249"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "valence",
+                    "shellAngularMomentum": [
+                        1
+                    ],
+                    "shellExponents": [
+                        "1.52175",
+                        ".592684"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            ".56925",
+                            ".26863"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "valence",
+                    "shellAngularMomentum": [
+                        1
+                    ],
+                    "shellExponents": [
+                        ".20237"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "valence",
+                    "shellAngularMomentum": [
+                        1
+                    ],
+                    "shellExponents": [
+                        ".06276"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "valence",
+                    "shellAngularMomentum": [
+                        2
+                    ],
+                    "shellExponents": [
+                        "41.4526",
+                        "11.5403",
+                        "3.88543"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            ".02511",
+                            ".13626",
+                            ".35323"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "valence",
+                    "shellAngularMomentum": [
+                        2
+                    ],
+                    "shellExponents": [
+                        "1.32380"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "valence",
+                    "shellAngularMomentum": [
+                        2
+                    ],
+                    "shellExponents": [
+                        ".416680"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "valence",
+                    "shellAngularMomentum": [
+                        2
+                    ],
+                    "shellExponents": [
+                        ".11330"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "valence",
+                    "shellAngularMomentum": [
+                        3
+                    ],
+                    "shellExponents": [
+                        "4.5150397",
+                        "1.6191972",
+                        ".6933595"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            ".1737857",
+                            ".5973381",
+                            ".3929396"
+                        ]
+                    ]
+                }
+            ]
+        },
+        "27": {
+            "elementReferences": [
+                "wachters1970a",
+                "bauschlicher1989a"
+            ],
+            "elementElectronShells": [
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "valence",
+                    "shellAngularMomentum": [
+                        0
+                    ],
+                    "shellExponents": [
+                        "270991.",
+                        "39734.8",
+                        "9057.46",
+                        "2598.21",
+                        "868.200",
+                        "323.431"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            ".00031",
+                            ".00242",
+                            ".01238",
+                            ".04849",
+                            ".14672",
+                            ".32127"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "valence",
+                    "shellAngularMomentum": [
+                        0
+                    ],
+                    "shellExponents": [
+                        "130.860",
+                        "56.1219"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            ".40497",
+                            ".19961"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "valence",
+                    "shellAngularMomentum": [
+                        0
+                    ],
+                    "shellExponents": [
+                        "18.9219"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "valence",
+                    "shellAngularMomentum": [
+                        0
+                    ],
+                    "shellExponents": [
+                        "7.95238"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "valence",
+                    "shellAngularMomentum": [
+                        0
+                    ],
+                    "shellExponents": [
+                        "2.19754"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "valence",
+                    "shellAngularMomentum": [
+                        0
+                    ],
+                    "shellExponents": [
+                        ".846713"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "valence",
+                    "shellAngularMomentum": [
+                        0
+                    ],
+                    "shellExponents": [
+                        ".122266"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "valence",
+                    "shellAngularMomentum": [
+                        0
+                    ],
+                    "shellExponents": [
+                        ".044172"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "valence",
+                    "shellAngularMomentum": [
+                        1
+                    ],
+                    "shellExponents": [
+                        "1636.21",
+                        "390.903",
+                        "127.884"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            ".00296",
+                            ".02336",
+                            ".10343"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "valence",
+                    "shellAngularMomentum": [
+                        1
+                    ],
+                    "shellExponents": [
+                        "49.2413",
+                        "20.7512",
+                        "9.20368"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            ".27954",
+                            ".43268",
+                            ".29861"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "valence",
+                    "shellAngularMomentum": [
+                        1
+                    ],
+                    "shellExponents": [
+                        "3.81779"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "valence",
+                    "shellAngularMomentum": [
+                        1
+                    ],
+                    "shellExponents": [
+                        "1.58762",
+                        ".624660"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            ".55625",
+                            ".24345"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "valence",
+                    "shellAngularMomentum": [
+                        1
+                    ],
+                    "shellExponents": [
+                        ".211962"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "valence",
+                    "shellAngularMomentum": [
+                        1
+                    ],
+                    "shellExponents": [
+                        ".065103"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "valence",
+                    "shellAngularMomentum": [
+                        2
+                    ],
+                    "shellExponents": [
+                        "44.9774",
+                        "12.5690",
+                        "4.24422"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            ".02627",
+                            ".14182",
+                            ".35942"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "valence",
+                    "shellAngularMomentum": [
+                        2
+                    ],
+                    "shellExponents": [
+                        "1.44330"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "valence",
+                    "shellAngularMomentum": [
+                        2
+                    ],
+                    "shellExponents": [
+                        ".449965"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "valence",
+                    "shellAngularMomentum": [
+                        2
+                    ],
+                    "shellExponents": [
+                        ".12190"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "valence",
+                    "shellAngularMomentum": [
+                        3
+                    ],
+                    "shellExponents": [
+                        "5.5741231",
+                        "1.9990089",
+                        ".8559993"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            ".1737857",
+                            ".5973381",
+                            ".3929396"
+                        ]
+                    ]
+                }
+            ]
+        },
+        "28": {
+            "elementReferences": [
+                "wachters1970a",
+                "bauschlicher1989a"
+            ],
+            "elementElectronShells": [
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "valence",
+                    "shellAngularMomentum": [
+                        0
+                    ],
+                    "shellExponents": [
+                        "284878.",
+                        "41997.9",
+                        "9627.67",
+                        "2761.96",
+                        "920.488",
+                        "341.805"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "0.00032",
+                            "0.00246",
+                            "0.01254",
+                            "0.04926",
+                            "0.14950",
+                            "0.32640"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "valence",
+                    "shellAngularMomentum": [
+                        0
+                    ],
+                    "shellExponents": [
+                        "138.023",
+                        "59.2587"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "0.40474",
+                            "0.19186"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "valence",
+                    "shellAngularMomentum": [
+                        0
+                    ],
+                    "shellExponents": [
+                        "20.3712"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "valence",
+                    "shellAngularMomentum": [
+                        0
+                    ],
+                    "shellExponents": [
+                        "8.59400"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "valence",
+                    "shellAngularMomentum": [
+                        0
+                    ],
+                    "shellExponents": [
+                        "2.39417"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "valence",
+                    "shellAngularMomentum": [
+                        0
+                    ],
+                    "shellExponents": [
+                        "0.918169"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "valence",
+                    "shellAngularMomentum": [
+                        0
+                    ],
+                    "shellExponents": [
+                        "0.130176"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "valence",
+                    "shellAngularMomentum": [
+                        0
+                    ],
+                    "shellExponents": [
+                        "0.046392"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "valence",
+                    "shellAngularMomentum": [
+                        1
+                    ],
+                    "shellExponents": [
+                        "1774.18",
+                        "423.403",
+                        "138.311"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            ".00295",
+                            ".02337",
+                            ".10406"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "valence",
+                    "shellAngularMomentum": [
+                        1
+                    ],
+                    "shellExponents": [
+                        "53.1703",
+                        "22.3874",
+                        "9.92848"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            ".28226",
+                            ".43486",
+                            ".29442"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "valence",
+                    "shellAngularMomentum": [
+                        1
+                    ],
+                    "shellExponents": [
+                        "4.11625"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "valence",
+                    "shellAngularMomentum": [
+                        1
+                    ],
+                    "shellExponents": [
+                        "1.71031",
+                        "0.672528"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            ".55273",
+                            ".23441"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "valence",
+                    "shellAngularMomentum": [
+                        1
+                    ],
+                    "shellExponents": [
+                        "0.219882"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "valence",
+                    "shellAngularMomentum": [
+                        1
+                    ],
+                    "shellExponents": [
+                        "0.066670"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "valence",
+                    "shellAngularMomentum": [
+                        2
+                    ],
+                    "shellExponents": [
+                        "48.9403",
+                        "13.7169",
+                        "4.63951"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            ".02706",
+                            ".14598",
+                            ".36418"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "valence",
+                    "shellAngularMomentum": [
+                        2
+                    ],
+                    "shellExponents": [
+                        "1.57433"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "valence",
+                    "shellAngularMomentum": [
+                        2
+                    ],
+                    "shellExponents": [
+                        "0.486409"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "valence",
+                    "shellAngularMomentum": [
+                        2
+                    ],
+                    "shellExponents": [
+                        "0.1316"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.0"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "valence",
+                    "shellAngularMomentum": [
+                        3
+                    ],
+                    "shellExponents": [
+                        "6.7446890",
+                        "2.4188007",
+                        "1.0357592"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "0.1737857",
+                            "0.5973381",
+                            "0.3929396"
+                        ]
+                    ]
+                }
+            ]
+        },
+        "29": {
+            "elementReferences": [
+                "wachters1970a",
+                "bauschlicher1989a"
+            ],
+            "elementElectronShells": [
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "valence",
+                    "shellAngularMomentum": [
+                        0
+                    ],
+                    "shellExponents": [
+                        "337200.00",
+                        "50072.90",
+                        "11373.40",
+                        "3239.820",
+                        "1071.9700",
+                        "395.0990"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "0.000280",
+                            "0.002170",
+                            "0.011220",
+                            "0.044621",
+                            "0.138360",
+                            "0.312550"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "valence",
+                    "shellAngularMomentum": [
+                        0
+                    ],
+                    "shellExponents": [
+                        "158.39900",
+                        "67.35910"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "0.410600",
+                            "0.214530"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "valence",
+                    "shellAngularMomentum": [
+                        0
+                    ],
+                    "shellExponents": [
+                        "22.29830"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.00"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "valence",
+                    "shellAngularMomentum": [
+                        0
+                    ],
+                    "shellExponents": [
+                        "9.393570"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.00"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "valence",
+                    "shellAngularMomentum": [
+                        0
+                    ],
+                    "shellExponents": [
+                        "2.578480"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.00"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "valence",
+                    "shellAngularMomentum": [
+                        0
+                    ],
+                    "shellExponents": [
+                        "0.964080"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.00"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "valence",
+                    "shellAngularMomentum": [
+                        0
+                    ],
+                    "shellExponents": [
+                        "0.113303"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.00"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "valence",
+                    "shellAngularMomentum": [
+                        0
+                    ],
+                    "shellExponents": [
+                        "0.040791"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.00"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "valence",
+                    "shellAngularMomentum": [
+                        1
+                    ],
+                    "shellExponents": [
+                        "2245.290",
+                        "532.1060",
+                        "172.1950"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "0.0022600",
+                            "0.0184100",
+                            "0.0864600"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "valence",
+                    "shellAngularMomentum": [
+                        1
+                    ],
+                    "shellExponents": [
+                        "65.32390",
+                        "27.05510",
+                        "11.74350"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "0.254500",
+                            "0.434190",
+                            "0.3339000"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "valence",
+                    "shellAngularMomentum": [
+                        1
+                    ],
+                    "shellExponents": [
+                        "4.693820"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.00"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "valence",
+                    "shellAngularMomentum": [
+                        1
+                    ],
+                    "shellExponents": [
+                        "1.906670",
+                        "0.7114450"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "0.56936",
+                            "0.24702"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "valence",
+                    "shellAngularMomentum": [
+                        1
+                    ],
+                    "shellExponents": [
+                        "0.232598"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.00"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "valence",
+                    "shellAngularMomentum": [
+                        1
+                    ],
+                    "shellExponents": [
+                        "0.0692990"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.00"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "valence",
+                    "shellAngularMomentum": [
+                        2
+                    ],
+                    "shellExponents": [
+                        "48.543900",
+                        "13.549000",
+                        "4.516280"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "0.03097",
+                            "0.16196",
+                            "0.37812"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "valence",
+                    "shellAngularMomentum": [
+                        2
+                    ],
+                    "shellExponents": [
+                        "1.4732900"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.00"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "valence",
+                    "shellAngularMomentum": [
+                        2
+                    ],
+                    "shellExponents": [
+                        "0.414875"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.00"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "valence",
+                    "shellAngularMomentum": [
+                        2
+                    ],
+                    "shellExponents": [
+                        "0.14910"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "1.00"
+                        ]
+                    ]
+                },
+                {
+                    "shellFunctionType": "gto",
+                    "shellHarmonicType": "spherical",
+                    "shellRegion": "valence",
+                    "shellAngularMomentum": [
+                        3
+                    ],
+                    "shellExponents": [
+                        "8.0267373",
+                        "2.8785728",
+                        "1.2326390"
+                    ],
+                    "shellCoefficients": [
+                        [
+                            "0.1737857",
+                            "0.5973381",
+                            "0.3929396"
+                        ]
+                    ]
+                }
+            ]
+        }
+    }
+}

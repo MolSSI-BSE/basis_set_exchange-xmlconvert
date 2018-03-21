@@ -7,7 +7,6 @@ import glob
 import copy
 
 import bse
-import numpy as np
 
 
 src = sys.argv[1]
@@ -21,9 +20,9 @@ js = bse.read_json_basis(src)
 allrefs = []
 
 for k,v in js['basisSetElements'].items():
-    eref = v['elementReferences']
+    eref = sorted(v['elementReferences'])
     if len(eref) > 1:
-        raise RuntimeError("Found {} references for {}".format(len(eref), k))
+        print("{}: Found {} references for {}".format(src, len(eref), k))
     if not eref in allrefs:
         allrefs.append(eref)
 
